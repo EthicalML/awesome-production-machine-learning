@@ -13,7 +13,11 @@
 
 * Model Versioning
     * [Data Version Control (DVC) - A git fork that allows for version management of models](https://dvc.org/)
+    * [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
     * Jupyter Notebooks - Web interface python sandbox environments for reproducible development 
+    * [H2O Flow - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"](https://www.h2o.ai/download/)
+    * [ModelDB - ]
+
 * Data Storage / Standardisation
 * Model deployment
 * Machine learning resource management
@@ -22,15 +26,21 @@
 * Feature extraction
 * Distributing computing load
 * Machine Learning Pipelines
-* Feature Engineering
-    * [Featuretools - An open source framework for automated feature engineering](https://www.featuretools.com/)
-    * [Colombus - A scalable framework to perform exploratory feature selection implemented in R](http://i.stanford.edu/hazy/victor/columbus/)
+### Feature Engineering
 
-### End-to-end Frameworks
-* 
+* [auto-sklearn - Framework to automate algorithm and hyperparameter tuning for sklearn](https://automl.github.io/auto-sklearn/stable/)
+* [TPOT - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc)](https://epistasislab.github.io/tpot/)
+* [Featuretools - An open source framework for automated feature engineering](https://www.featuretools.com/)
+* [Colombus - A scalable framework to perform exploratory feature selection implemented in R](http://i.stanford.edu/hazy/victor/columbus/)
+* [automl - Automated feature engineering, feature/model selection, hyperparam. optimisation](https://github.com/ClimbsRocks/automl)
 
-### End-to-end Platforms
-* [Skytree 16.0 - End to end machine learning platform](https://www.youtube.com/watch?v=XuCwpnU-F1k)
+### Model Deployment Frameworks
+* Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines
+* Seldon
+
+### Commercial Data-science Platforms
+* [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
+* [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 
 # 
 
