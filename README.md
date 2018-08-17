@@ -16,9 +16,13 @@
     * [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
     * Jupyter Notebooks - Web interface python sandbox environments for reproducible development 
     * [H2O Flow - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"](https://www.h2o.ai/download/)
-    * [ModelDB - ]
+    * [ModelDB - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI](https://mitdbg.github.io/modeldb/)
+    * [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html)
 
 * Data Storage / Standardisation
+    * EdgeDB
+    * BayesDB
+
 * Model deployment
 * Machine learning resource management
 * Monitoring
