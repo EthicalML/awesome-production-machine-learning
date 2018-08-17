@@ -11,26 +11,28 @@
 ## Contents
 
 
-* Model Versioning
-    * [Data Version Control (DVC) - A git fork that allows for version management of models](https://dvc.org/)
-    * [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
-    * Jupyter Notebooks - Web interface python sandbox environments for reproducible development 
-    * [H2O Flow - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"](https://www.h2o.ai/download/)
-    * [ModelDB - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI](https://mitdbg.github.io/modeldb/)
-    * [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html)
+### Model Versioning
+* [Data Version Control (DVC) - A git fork that allows for version management of models](https://dvc.org/)
+* [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
+* Jupyter Notebooks - Web interface python sandbox environments for reproducible development 
+* [H2O Flow - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"](https://www.h2o.ai/download/)
+* [ModelDB - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI](https://mitdbg.github.io/modeldb/)
+* [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))
 
-* Data Storage / Standardisation
-    * EdgeDB
-    * BayesDB
+[//]: #_
 
-* Model deployment
+### Data Storage / Standardisation
+* [EdgeDB - NoSQL interface for Postgres that allows for object interaction to data stored](https://edgedb.com/)
+* [BayesDB - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface](http://probcomp.csail.mit.edu/bayesdb/) - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
+
 * Machine learning resource management
 * Monitoring
 * Configuration
 * Feature extraction
 * Distributing computing load
 * Machine Learning Pipelines
-### Feature Engineering
+
+### Feature Engineering Automation
 
 * [auto-sklearn - Framework to automate algorithm and hyperparameter tuning for sklearn](https://automl.github.io/auto-sklearn/stable/)
 * [TPOT - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc)](https://epistasislab.github.io/tpot/)
@@ -39,14 +41,12 @@
 * [automl - Automated feature engineering, feature/model selection, hyperparam. optimisation](https://github.com/ClimbsRocks/automl)
 
 ### Model Deployment Frameworks
-* Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines
-* Seldon
+* [Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines](https://github.com/pachyderm/pachyderm) - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
+* [Seldon - Open source platform for deploying and monitoring machine learning models in kubernetes](https://github.com/SeldonIO/seldon-core) - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 
 ### Commercial Data-science Platforms
 * [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
-
-# 
-
+* [y-hat - Deployment, updating and monitoring of predictive models in multiple languages](https://www.yhat.com/)[(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
 
 
