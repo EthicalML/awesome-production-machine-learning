@@ -25,13 +25,6 @@
 * [EdgeDB - NoSQL interface for Postgres that allows for object interaction to data stored](https://edgedb.com/)
 * [BayesDB - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface](http://probcomp.csail.mit.edu/bayesdb/) - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
 
-* Machine learning resource management
-* Monitoring
-* Configuration
-* Feature extraction
-* Distributing computing load
-* Machine Learning Pipelines
-
 ### Feature Engineering Automation
 
 * [auto-sklearn - Framework to automate algorithm and hyperparameter tuning for sklearn](https://automl.github.io/auto-sklearn/stable/)
@@ -48,5 +41,15 @@
 * [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 * [y-hat - Deployment, updating and monitoring of predictive models in multiple languages](https://www.yhat.com/)[(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
+
+
+### Machine learning resource management
+### Monitoring
+### Configuration
+### Feature extraction
+### Distributing computing load
+### Machine Learning Pipelines
+
+
 
 
