@@ -36,6 +36,7 @@
 ### Model Deployment Frameworks
 * [Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines](https://github.com/pachyderm/pachyderm) - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
 * [Seldon - Open source platform for deploying and monitoring machine learning models in kubernetes](https://github.com/SeldonIO/seldon-core) - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
+* [Redis-ML - Module available from unstable branch that supports a subset of ML models as Redis data types](https://github.com/RedisLabsModules/redis-ml)
 
 ### Commercial Data-science Platforms
 * [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
@@ -44,6 +45,10 @@
 
 ### ETL Frameworks
 * Airflow
+* Luigi
+
+### Commercial ETL Platforms
+* Talend Studio
 
 ### Machine learning resource management
 ### Monitoring
