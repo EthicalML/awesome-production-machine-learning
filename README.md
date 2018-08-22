@@ -24,9 +24,10 @@
 ### Data Storage / Standardisation
 * [EdgeDB - NoSQL interface for Postgres that allows for object interaction to data stored](https://edgedb.com/)
 * [BayesDB - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface](http://probcomp.csail.mit.edu/bayesdb/) - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
+* [Apache Arrow - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc](https://arrow.apache.org/)
+* [Apache Parquet - On-disk columnar representation of data compatible with Pandas, Hadoop-based systems, etc](https://parquet.apache.org/)
 
 ### Feature Engineering Automation
-
 * [auto-sklearn - Framework to automate algorithm and hyperparameter tuning for sklearn](https://automl.github.io/auto-sklearn/stable/)
 * [TPOT - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc)](https://epistasislab.github.io/tpot/)
 * [Featuretools - An open source framework for automated feature engineering](https://www.featuretools.com/)
@@ -43,19 +44,24 @@
 * [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 * [y-hat - Deployment, updating and monitoring of predictive models in multiple languages](https://www.yhat.com/)[(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
 
+### Distributing Computation Load
+* [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
+
 ### ETL Frameworks
 * Airflow
 * Luigi
+* Pinball
 
 ### Commercial ETL Platforms
 * Talend Studio
+
+### Optimization of Computaiton
+* [Numba - A compiler for Python array and numerical functions](https://github.com/numba/numba)
 
 ### Machine learning resource management
 ### Monitoring
 ### Configuration
 ### Feature extraction
-### Distributing computing load
-### Machine Learning Pipelines
 
 
 
