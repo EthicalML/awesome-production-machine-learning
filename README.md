@@ -47,10 +47,12 @@
 ### Distributing Computation Load
 * [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
-### ETL Frameworks
+### Data Pipeline Frameworks
 * Airflow
 * Luigi
 * Pinball
+* [Genie - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems](https://github.com/Netflix/genie)
+* [Oozie - Workflow scheduler for Hadoop jobs](http://oozie.apache.org/)
 
 ### Commercial ETL Platforms
 * Talend Studio
