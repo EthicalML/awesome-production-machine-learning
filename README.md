@@ -54,6 +54,9 @@
 * [Genie - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems](https://github.com/Netflix/genie)
 * [Oozie - Workflow scheduler for Hadoop jobs](http://oozie.apache.org/)
 
+### Data Streaming Frameworks
+* [Apache Kafka - Distributed streaming platform framework](https://kafka.apache.org/)
+
 ### Commercial ETL Platforms
 * Talend Studio
 
