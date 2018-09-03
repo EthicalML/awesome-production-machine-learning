@@ -2,11 +2,10 @@
 
 ## Overview
 
+Machine Learning Operations involves the infrastructure required to scale your ML capabilities - I cover the motivations and concepts in my talk at the 2018 EuroSciPy Conference on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/). 
+
 * This repository contains a curated list of awesome resources that will help you kick-start or enhance your machine learning operations
 * Machine Learning Operations involve everything that is required to serve your ML, including deploying, monitoring, scaling, versioning, etc
-
-**This field is quite new, and hence so are many of the tools listed here. One of the main motivations for this list is to find what's out there, so please add projects that may be relevant**
-
 
 ## Contents
 
