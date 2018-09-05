@@ -63,9 +63,6 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 ### Data Streaming Frameworks
 * [Apache Kafka - Distributed streaming platform framework](https://kafka.apache.org/)
 
-### Commercial ETL Platforms
-* Talend Studio
-
 ### Function as a Service Frameworks
 * [OpenFaaS - Serverless functions framework with RESTful API on Kubernetes](https://github.com/openfaas/faas)
 * [Fission - (Early Alpha) Serverless functions as a service framework on Kubernetes](https://github.com/fission/fission)
@@ -82,5 +79,7 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 * [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 * [y-hat - Deployment, updating and monitoring of predictive models in multiple languages](https://www.yhat.com/)[(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
 
+### Commercial ETL Platforms
+* Talend Studio
 
 
