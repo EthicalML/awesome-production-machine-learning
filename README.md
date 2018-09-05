@@ -22,11 +22,11 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 
 
 ### Model Versioning
-* [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8)) [//]: #_
+* [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
 * [Data Version Control (DVC) - A git fork that allows for version management of models](https://dvc.org/)
 * [ModelDB - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI](https://mitdbg.github.io/modeldb/)
 * [Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines](https://github.com/pachyderm/pachyderm) - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
-* Jupyter Notebooks - Web interface python sandbox environments for reproducible development 
+* [Jupyter Notebooks - Web interface python sandbox environments for reproducible development](http://jupyter.org/)
 * [H2O Flow - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"](https://www.h2o.ai/download/)
 
 
