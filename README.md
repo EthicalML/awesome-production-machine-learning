@@ -40,6 +40,7 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 ### Feature Engineering Automation
 * [auto-sklearn - Framework to automate algorithm and hyperparameter tuning for sklearn](https://automl.github.io/auto-sklearn/stable/)
 * [TPOT - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc)](https://epistasislab.github.io/tpot/)
+* [tsfresh - Automatic extraction of relevant features from time series](https://github.com/blue-yonder/tsfresh)
 * [Featuretools - An open source framework for automated feature engineering](https://www.featuretools.com/)
 * [Colombus - A scalable framework to perform exploratory feature selection implemented in R](http://i.stanford.edu/hazy/victor/columbus/)
 * [automl - Automated feature engineering, feature/model selection, hyperparam. optimisation](https://github.com/ClimbsRocks/automl)
