@@ -1,8 +1,19 @@
 # Machine Learning Operations (ML + DevOps = MLOps)
 
-## Overview
+## What is Machine Learning Operations (MLOps)?
 
-Machine Learning Operations involves the infrastructure required to scale your ML capabilities - I cover the motivations and concepts in my talk at the 2018 EuroSciPy Conference on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/). 
+Machine Learning Operations involves the infrastructure required to scale your ML capabilities.
+
+I focus on two main principles when discussing machine learning operations:
+* **Reproducibility**: Model & Data Versioning
+* **Orchestration**: Model Deployment Orchestration
+
+I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/). Machine learning operations can be seen in a very high level form in the diagram below:
+
+![](images/mlops1.png)
+
+
+## Overview of this repo
 
 * This repository contains a curated list of awesome resources that will help you kick-start or enhance your machine learning operations
 * Machine Learning Operations involve everything that is required to serve your ML, including deploying, monitoring, scaling, versioning, etc
