@@ -55,9 +55,8 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 * [PyWren - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 
 ### Data Pipeline Frameworks
-* Airflow
-* Luigi
-* Pinball
+* [Apache Airflow - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation](https://airflow.apache.org/)
+* [Luigi - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc](https://github.com/spotify/luigi)
 * [Genie - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems](https://github.com/Netflix/genie)
 * [Oozie - Workflow scheduler for Hadoop jobs](http://oozie.apache.org/)
 
@@ -66,6 +65,10 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 
 ### Commercial ETL Platforms
 * Talend Studio
+
+### Function as a Service Frameworks
+* [OpenFaaS - Serverless functions framework with RESTful API on Kubernetes](https://github.com/openfaas/faas)
+* [Fission - (Early Alpha) Serverless functions as a service framework on Kubernetes](https://github.com/fission/fission)
 
 ### Optimization of Computaiton
 * [Numba - A compiler for Python array and numerical functions](https://github.com/numba/numba)
