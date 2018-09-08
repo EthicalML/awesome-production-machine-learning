@@ -8,6 +8,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
   <tr>
     <td width="30%">
         This repository covers two of the core principles of MLOps:
+        <br>
         <ul>
             <li><b>Reproducibility</b>: Model & Data Versioning</li>
             <li><b>Orchestration</b>: Model Deployment Orchestration</li>
