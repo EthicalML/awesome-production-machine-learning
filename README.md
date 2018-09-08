@@ -87,10 +87,6 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 ### Optimization of Computaiton
 * [Numba - A compiler for Python array and numerical functions](https://github.com/numba/numba)
 
-### Machine learning resource management
-### Monitoring
-### Configuration
-
 ### Commercial Data-science Platforms
 * [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
