@@ -33,7 +33,6 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * Feature engineering automation
 * Model deployment frameworks
 * Computation load distribution frameworks
-* Data streaming frameworks
 * Function as a service / Lambda frameworks
 * Computational optimisation libraries
 * Commercial data science platforms
@@ -43,28 +42,28 @@ Machine Learning Operations involves the infrastructure required to scale your M
 ## Main Contents
 
 ### Model Standard Formats
-* [ONNX - Open Neural Network Exchange Format](https://github.com/onnx/onnx)
-* [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
-* [Java PMML API - Java libraries for consuming and producing PMML files containing models from different frameworks](https://github.com/jpmml), including:
+* [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange Format
+* [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) - The Predictive Model Markup Language standard in XML - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
+* [Java PMML API](https://github.com/jpmml) - Java libraries for consuming and producing PMML files containing models from different frameworks, including:
     * [sklearn2pmml](https://github.com/jpmml/jpmml-sklearn)
     * [pyspark2pmml](https://github.com/jpmml/pyspark2pmml)
     * [r2pmml](https://github.com/jpmml/r2pmml)
     * [sparklyr2pmml](https://github.com/jpmml/sparklyr2pmml)
 
 ### Model Versioning
-* [Data Version Control (DVC) - A git fork that allows for version management of models](https://dvc.org/)
-* [ModelDB - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI](https://mitdbg.github.io/modeldb/)
-* [Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines](https://github.com/pachyderm/pachyderm) - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
-* [Jupyter Notebooks - Web interface python sandbox environments for reproducible development](http://jupyter.org/)
-* [H2O Flow - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"](https://www.h2o.ai/download/)
+* [Data Version Control (DVC)](https://dvc.org/) - A git fork that allows for version management of models
+* [ModelDB](https://mitdbg.github.io/modeldb/) - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI
+* [Pachyderm](https://github.com/pachyderm/pachyderm) - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
+* [Jupyter Notebooks](http://jupyter.org/) - Web interface python sandbox environments for reproducible development
+* [H2O Flow](https://www.h2o.ai/download/) - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"
 
 
 ### Data Storage / Standardisation
-* [EdgeDB - NoSQL interface for Postgres that allows for object interaction to data stored](https://edgedb.com/)
-* [BayesDB - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface](http://probcomp.csail.mit.edu/bayesdb/) - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
-* [Apache Arrow - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc](https://arrow.apache.org/)
-* [Apache Parquet - On-disk columnar representation of data compatible with Pandas, Hadoop-based systems, etc](https://parquet.apache.org/)
-* [Kafka]()
+* [EdgeDB](https://edgedb.com/) - NoSQL interface for Postgres that allows for object interaction to data stored
+* [BayesDB](http://probcomp.csail.mit.edu/bayesdb/) - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
+* [Apache Arrow](https://arrow.apache.org/) - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc
+* [Apache Parquet](https://parquet.apache.org/) - On-disk columnar representation of data compatible with Pandas, Hadoop-based systems, etc
+* [Apache Kafka](https://kafka.apache.org/) - Distributed streaming platform framework
 
 ### Feature Engineering Automation
 * [auto-sklearn - Framework to automate algorithm and hyperparameter tuning for sklearn](https://automl.github.io/auto-sklearn/stable/)
@@ -96,9 +95,6 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Luigi - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc](https://github.com/spotify/luigi)
 * [Genie - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems](https://github.com/Netflix/genie)
 * [Oozie - Workflow scheduler for Hadoop jobs](http://oozie.apache.org/)
-
-### Data Streaming Frameworks
-* [Apache Kafka - Distributed streaming platform framework](https://kafka.apache.org/)
 
 ### Function as a Service / Lambda Frameworks
 * [OpenFaaS - Serverless functions framework with RESTful API on Kubernetes](https://github.com/openfaas/faas)
