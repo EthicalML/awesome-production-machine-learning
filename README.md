@@ -85,8 +85,9 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [TensorRT - Model server created by NVIDIA that runs models in ONNX format, including frameworks such as TensorFlow and MATLAB](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)
 * [OpenScoring - REST web service for scoring PMML models built and maintained by OpenScoring.io](https://github.com/openscoring/openscoring)
 
-### Distributing Computation Load
+### Computation load distribution frameworks
 * [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
+* [Hadoop Open Platform-as-a-service (HOPS) - A multi-tenency open source framework with RESTful API for data science on Hadoop which enables for Spark, Tensorflow/Keras, it is Python-first, and provides a lot of features](https://www.hops.io/)
 
 ### Data Pipeline Frameworks
 * [Apache Airflow - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation](https://airflow.apache.org/)
