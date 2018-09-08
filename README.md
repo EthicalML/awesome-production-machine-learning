@@ -49,14 +49,16 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 ### Model Deployment Frameworks
 * [Seldon - Open source platform for deploying and monitoring machine learning models in kubernetes](https://github.com/SeldonIO/seldon-core) - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 * [Redis-ML - Module available from unstable branch that supports a subset of ML models as Redis data types](https://github.com/RedisLabsModules/redis-ml)
-* [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
-* [Model Server for Apache MXNet (MMS) - A model server for Apache MXNet from Amazon Web Services that is able to run MXNet models as well as Gluon models](https://github.com/awslabs/mxnet-model-server)
+* [Model Server for Apache MXNet (MMS) - A model server for Apache MXNet from Amazon Web Services that is able to run MXNet models as well as Gluon models (Amazon's SageMaker runs a custom version of MMS under the hood)](https://github.com/awslabs/mxnet-model-server)
 * [Tensorflow Serving - High-performant framework to serve Tensofrlow models via grpc protocol able to handle 100k requests per second per core](https://www.tensorflow.org/serving/)
 * [Clipper - Model server project from Berkeley's Rise Rise Lab which includes a standard RESTful API and supports TensorFlow, Scikit-learn and Caffe models](http://clipper.ai/)
+* [DeepDetect - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain](https://github.com/beniz/deepdetect)
+* [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
+* [TensorRT - Model server created by NVIDIA that runs models in ONNX format, including frameworks such as TensorFlow and MATLAB](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)
 
 ### Distributing Computation Load
 * [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
-* [PyWren - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
+* [PyWren - Answer the question of the "cloud button" for python function execution. It']s a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 
 ### Data Pipeline Frameworks
 * [Apache Airflow - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation](https://airflow.apache.org/)
@@ -84,6 +86,7 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 * [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Algorithmia - Cloud platform to build, deploy and serve machine learning models](https://algorithmia.com/) [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 * [y-hat - Deployment, updating and monitoring of predictive models in multiple languages](https://www.yhat.com/)[(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
+* [Amazon SageMaker - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API]
 
 ### Commercial ETL Platforms
 * Talend Studio
