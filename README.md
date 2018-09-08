@@ -21,9 +21,16 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 ## Contents
 
 
-### Model Versioning
+### Model Standard Formats
 * [ONNX - Open Neural Network Exchange Format](https://github.com/onnx/onnx)
 * [PMLL - The Predictive Model Markup Language standard in XML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
+* [Java PMML API - Java libraries for consuming and producing PMML files containing models from different frameworks](https://github.com/jpmml), including:
+    * [sklearn2pmml](https://github.com/jpmml/jpmml-sklearn)
+    * [pyspark2pmml](https://github.com/jpmml/pyspark2pmml)
+    * [r2pmml](https://github.com/jpmml/r2pmml)
+    * [sparklyr2pmml](https://github.com/jpmml/sparklyr2pmml)
+
+### Model Versioning
 * [Data Version Control (DVC) - A git fork that allows for version management of models](https://dvc.org/)
 * [ModelDB - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI](https://mitdbg.github.io/modeldb/)
 * [Pachyderm - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines](https://github.com/pachyderm/pachyderm) - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
@@ -46,6 +53,7 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 * [Colombus - A scalable framework to perform exploratory feature selection implemented in R](http://i.stanford.edu/hazy/victor/columbus/)
 * [automl - Automated feature engineering, feature/model selection, hyperparam. optimisation](https://github.com/ClimbsRocks/automl)
 
+
 ### Model Deployment Frameworks
 * [Seldon - Open source platform for deploying and monitoring machine learning models in kubernetes](https://github.com/SeldonIO/seldon-core) - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 * [Redis-ML - Module available from unstable branch that supports a subset of ML models as Redis data types](https://github.com/RedisLabsModules/redis-ml)
@@ -55,6 +63,7 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 * [DeepDetect - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain](https://github.com/beniz/deepdetect)
 * [MLeap - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn](https://github.com/combust/mleap)
 * [TensorRT - Model server created by NVIDIA that runs models in ONNX format, including frameworks such as TensorFlow and MATLAB](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)
+* [OpenScoring - REST web service for scoring PMML models built and maintained by OpenScoring.io]
 
 ### Distributing Computation Load
 * [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
