@@ -67,7 +67,6 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 
 ### Distributing Computation Load
 * [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
-* [PyWren - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 
 ### Data Pipeline Frameworks
 * [Apache Airflow - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation](https://airflow.apache.org/)
@@ -78,11 +77,13 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 ### Data Streaming Frameworks
 * [Apache Kafka - Distributed streaming platform framework](https://kafka.apache.org/)
 
-### Function as a Service Frameworks
+### Function as a Service / Lambda Frameworks
+* [PyWren - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 * [OpenFaaS - Serverless functions framework with RESTful API on Kubernetes](https://github.com/openfaas/faas)
 * [Fission - (Early Alpha) Serverless functions as a service framework on Kubernetes](https://github.com/fission/fission)
 * [Hydrosphere ML Lambda - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture](https://github.com/Hydrospheredata/hydro-serving)
 * [Hydrosphere Mist - Serverless proxy for Apache Spark clusters](https://github.com/Hydrospheredata/mist)
+* [NumPyWren - Scientific computing framework build on top of pywren to enable numpy-like distributed computations](https://github.com/Vaishaal/numpywren)
 
 ### Optimization of Computaiton
 * [Numba - A compiler for Python array and numerical functions](https://github.com/numba/numba)
