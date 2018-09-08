@@ -4,9 +4,23 @@
 
 Machine Learning Operations involves the infrastructure required to scale your ML capabilities. You can find an overview of MLOps in my talk at the 2018 EuroSciPy on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/).
 
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
 This repository covers two of the core principles of MLOps:
-* **Reproducibility**: Model & Data Versioning
-* **Orchestration**: Model Deployment Orchestration
+<ul>
+    <li><b>Reproducibility</b>: Model & Data Versioning</li>
+    <li><b>Orchestration</b>: Model Deployment Orchestration</li>
+</ul>    </td>
+    <td>
+<img src="images/mlops1.png">
+    </td>
+  </tr>
+</table>
 
 ## Overview of this repo
 
