@@ -98,6 +98,6 @@ I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable
 * [Amazon SageMaker - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API](https://aws.amazon.com/sagemaker/)
 
 ### Commercial ETL Platforms
-* Talend Studio
+* [Talend Studio](https://www.talend.com/)
 
 
