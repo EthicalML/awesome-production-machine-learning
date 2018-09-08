@@ -86,8 +86,9 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [OpenScoring - REST web service for scoring PMML models built and maintained by OpenScoring.io](https://github.com/openscoring/openscoring)
 
 ### Computation load distribution frameworks
-* [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 * [Hadoop Open Platform-as-a-service (HOPS) - A multi-tenency open source framework with RESTful API for data science on Hadoop which enables for Spark, Tensorflow/Keras, it is Python-first, and provides a lot of features](https://www.hops.io/)
+* [PyWren - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
+* [NumPyWren - Scientific computing framework build on top of pywren to enable numpy-like distributed computations](https://github.com/Vaishaal/numpywren)
 
 ### Data Pipeline Frameworks
 * [Apache Airflow - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation](https://airflow.apache.org/)
@@ -99,15 +100,14 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Apache Kafka - Distributed streaming platform framework](https://kafka.apache.org/)
 
 ### Function as a Service / Lambda Frameworks
-* [PyWren - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function](http://pywren.io) - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 * [OpenFaaS - Serverless functions framework with RESTful API on Kubernetes](https://github.com/openfaas/faas)
 * [Fission - (Early Alpha) Serverless functions as a service framework on Kubernetes](https://github.com/fission/fission)
 * [Hydrosphere ML Lambda - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture](https://github.com/Hydrospheredata/hydro-serving)
 * [Hydrosphere Mist - Serverless proxy for Apache Spark clusters](https://github.com/Hydrospheredata/mist)
-* [NumPyWren - Scientific computing framework build on top of pywren to enable numpy-like distributed computations](https://github.com/Vaishaal/numpywren)
 
 ### Optimization of Computaiton
 * [Numba - A compiler for Python array and numerical functions](https://github.com/numba/numba)
+* [Dask - Distributed parallel processing framework for Pandas and NumPy computations](http://dask.pydata.org/en/latest/) - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
 ### Commercial Data-science Platforms
 * [Skytree 16.0 - End to end machine learning platform](http://skytree.net) [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
