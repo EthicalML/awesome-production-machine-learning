@@ -2,24 +2,33 @@
 
 ## What is Machine Learning Operations (MLOps)?
 
-Machine Learning Operations involves the infrastructure required to scale your ML capabilities.
+Machine Learning Operations involves the infrastructure required to scale your ML capabilities. You can find an overview of MLOps in my talk at the 2018 EuroSciPy on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/).
 
-I focus on two main principles when discussing machine learning operations:
+This repository covers two of the core principles of MLOps:
 * **Reproducibility**: Model & Data Versioning
 * **Orchestration**: Model Deployment Orchestration
-
-I cover the motivations & concepts in my talk at the 2018 EuroSciPy on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/). Machine learning operations can be seen in a very high level form in the diagram below:
-
-![](images/mlops1.png)
-
 
 ## Overview of this repo
 
 * This repository contains a curated list of awesome resources that will help you kick-start or enhance your machine learning operations
 * Machine Learning Operations involve everything that is required to serve your ML, including deploying, monitoring, scaling, versioning, etc
 
-## Contents
+## Index
 
+* Model standard formats
+* Model versioning
+* Data storage / standardisation
+* Feature engineering automation
+* Model deployment frameworks
+* Computation load distribution frameworks
+* Data streaming frameworks
+* Function as a service / Lambda frameworks
+* Computational optimisation libraries
+* Commercial data science platforms
+* Commercial ETL platforms
+
+
+## Main Contents
 
 ### Model Standard Formats
 * [ONNX - Open Neural Network Exchange Format](https://github.com/onnx/onnx)
