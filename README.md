@@ -90,6 +90,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [PyWren](http://pywren.io) - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 * [NumPyWren](https://github.com/Vaishaal/numpywren) - Scientific computing framework build on top of pywren to enable numpy-like distributed computations
 * [BigDL - Deep learning framework on top of Spark/Hadoop to distribute data and computations across a HDFS system](https://bigdl-project.github.io/)
+* [Horovod - Uber's distributed training framework for TensorFlow, Keras, and PyTorch](https://github.com/uber/horovod)
 
 ### Data Pipeline Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
