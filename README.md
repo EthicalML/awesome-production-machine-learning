@@ -41,8 +41,9 @@ Machine Learning Operations involves the infrastructure required to scale your M
 
 ## Main Contents
 
-### Model Standard Formats
+### Model Standard Formats for interoperability
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange Format
+* [PFA](http://dmg.org/pfa/index.html) - Created by the same organisation as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
 * [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) - The Predictive Model Markup Language standard in XML - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
 * [Java PMML API](https://github.com/jpmml) - Java libraries for consuming and producing PMML files containing models from different frameworks, including:
     * [sklearn2pmml](https://github.com/jpmml/jpmml-sklearn)
@@ -90,7 +91,9 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [PyWren](http://pywren.io) - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 * [NumPyWren](https://github.com/Vaishaal/numpywren) - Scientific computing framework build on top of pywren to enable numpy-like distributed computations
 * [BigDL - Deep learning framework on top of Spark/Hadoop to distribute data and computations across a HDFS system](https://bigdl-project.github.io/)
-* [Horovod - Uber's distributed training framework for TensorFlow, Keras, and PyTorch](https://github.com/uber/horovod)
+* [Horovod](https://github.com/uber/horovod) - Uber's distributed training framework for TensorFlow, Keras, and PyTorch
+* [Apache Spark MLib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library in Java, Scala, Python and R
+* [Dask](http://dask.pydata.org/en/latest/) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
 ### Data Pipeline Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
@@ -104,9 +107,11 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Hydrosphere ML Lambda](https://github.com/Hydrospheredata/hydro-serving) - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - Serverless proxy for Apache Spark clusters
 
-### Optimization of Computaiton
+### Infrastructure Orchestration Frameworks
+* [Kubeflow](https://github.com/kubeflow/kubeflow) - A cloud native platform for machine learning based on Google’s internal machine learning pipelines.
+
+### Optimization of Computation
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
-* [Dask](http://dask.pydata.org/en/latest/) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
 ### Commercial Data-science Platforms
 * [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
