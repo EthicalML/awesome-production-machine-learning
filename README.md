@@ -101,6 +101,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc
 * [Genie](https://github.com/Netflix/genie) - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
+* [steppy](https://github.com/neptune-ml/steppy) - Lightweight, Python3 library for fast and reproducible machine learning experimentation. Introduces simple interface that enables clean machine learning pipeline design.
 
 ### Function as a Service / Lambda Frameworks
 * [OpenFaaS](https://github.com/openfaas/faas) - Serverless functions framework with RESTful API on Kubernetes
@@ -119,8 +120,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Algorithmia](https://algorithmia.com/) - Cloud platform to build, deploy and serve machine learning models [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 * [y-hat](https://www.yhat.com/) - Deployment, updating and monitoring of predictive models in multiple languages [(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API
+* [neptune.ml](https://neptune.ml) - community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.
 
 ### Commercial ETL Platforms
 * [Talend Studio](https://www.talend.com/)
-
-
