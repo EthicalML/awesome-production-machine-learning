@@ -107,7 +107,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Dask](http://dask.pydata.org/en/latest/) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
 ### Commercial Data-science Platforms
-* [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for opens ource and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
+* [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
 
 * [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Algorithmia](https://algorithmia.com/) - Cloud platform to build, deploy and serve machine learning models [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
