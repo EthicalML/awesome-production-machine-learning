@@ -52,7 +52,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
     * [r2pmml](https://github.com/jpmml/r2pmml)
     * [sparklyr2pmml](https://github.com/jpmml/sparklyr2pmml)
 
-### Model Versioning
+### Model & Pipeline Versioning
 * [Data Version Control (DVC)](https://dvc.org/) - A git fork that allows for version management of models
 * [ModelDB](https://mitdbg.github.io/modeldb/) - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI
 * [Pachyderm](https://github.com/pachyderm/pachyderm) - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
