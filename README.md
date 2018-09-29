@@ -115,7 +115,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 
 ### Infrastructure Orchestration Frameworks
 * [Kubeflow](https://github.com/kubeflow/kubeflow) - A cloud native platform for machine learning based on Google’s internal machine learning pipelines.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning on kubernetes.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning on kubernetes. - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys)
 
 ### Optimization of Computation
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
