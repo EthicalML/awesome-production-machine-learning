@@ -62,6 +62,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Pachyderm](https://github.com/pachyderm/pachyderm) - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM&t=1167s)
 * [steppy](https://github.com/neptune-ml/steppy) - Lightweight, Python3 library for fast and reproducible machine learning experimentation. Introduces simple interface that enables clean machine learning pipeline design.
 * [Jupyter Notebooks](http://jupyter.org/) - Web interface python sandbox environments for reproducible development
+* [Quilt Data](https://quiltdata.com/) - Versioning, reproducibility and deployment of data and models.
 * [H2O Flow](https://www.h2o.ai/download/) - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"
 
 
