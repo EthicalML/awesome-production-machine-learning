@@ -64,6 +64,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Jupyter Notebooks](http://jupyter.org/) - Web interface python sandbox environments for reproducible development
 * [Quilt Data](https://quiltdata.com/) - Versioning, reproducibility and deployment of data and models.
 * [H2O Flow](https://www.h2o.ai/download/) - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"
+* [ModelChimp](https://www.modelchimp.com/) - Framework to track and compare all the results and parameters from machine learning models [(Video)](https://vimeo.com/271246650)
 
 
 ### Data Storage / Standardisation / Privacy
