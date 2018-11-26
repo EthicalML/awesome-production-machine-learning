@@ -65,6 +65,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Quilt Data](https://quiltdata.com/) - Versioning, reproducibility and deployment of data and models.
 * [H2O Flow](https://www.h2o.ai/download/) - Jupyter notebook-like inteface for H2O to create, save and re-use "flows"
 * [ModelChimp](https://www.modelchimp.com/) - Framework to track and compare all the results and parameters from machine learning models [(Video)](https://vimeo.com/271246650)
+* [PredictionIO](https://predictionio.apache.org/) - An open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task
 
 
 ### Data Storage / Standardisation / Privacy
