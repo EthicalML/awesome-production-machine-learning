@@ -128,6 +128,11 @@ Machine Learning Operations involves the infrastructure required to scale your M
 ### Optimization of Computation
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
 
+### Explaining Predictions
+* [SHAP](https://github.com/slundberg/shap) - SHapley Additive exPlanations is a unified approach to explain the output of any machine learning model.
+* [LIME](https://github.com/marcotcr/lime) - Local Interpretable Model-agnostic Explanations for machine learning models. 
+* [ELI5](https://github.com/TeamHG-Memex/eli5) - "Explain Like I'm 5" is a Python package which helps to debug machine learning classifiers and explain their predictions.
+
 ### Commercial Data-science Platforms
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
 * [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
