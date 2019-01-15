@@ -129,6 +129,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
 
 ### Explaining Predictions
+* [XAI - eXplainableAI](https://github.com/EthicalML/xai) - An eXplainability toolbox for machine learning.
 * [SHAP](https://github.com/slundberg/shap) - SHapley Additive exPlanations is a unified approach to explain the output of any machine learning model.
 * [LIME](https://github.com/marcotcr/lime) - Local Interpretable Model-agnostic Explanations for machine learning models. 
 * [ELI5](https://github.com/TeamHG-Memex/eli5) - "Explain Like I'm 5" is a Python package which helps to debug machine learning classifiers and explain their predictions.
