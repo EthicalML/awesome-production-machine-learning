@@ -77,8 +77,15 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Apache Arrow](https://arrow.apache.org/) - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc
 * [Apache Parquet](https://parquet.apache.org/) - On-disk columnar representation of data compatible with Pandas, Hadoop-based systems, etc
 * [Apache Kafka](https://kafka.apache.org/) - Distributed streaming platform framework
-* [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
 * [ClickHouse](https://clickhouse.yandex/) - ClickHouse is an open source column oriented database management system supported by Yandex - [(Video)](https://www.youtube.com/watch?v=zbjub8BQPyE)
+
+### Privacy Preserving Machine Learning
+* [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
+* [Tensorflow Privacy](https://github.com/tensorflow/privacy) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
+* [TF-Encrypted](https://github.com/mortendahl/tf-encrypted) - A Python library built on top of TensorFlow for researchers and practitioners to experiment with privacy-preserving machine learning.
+* [PySyft](https://github.com/OpenMined/PySyft) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party Computation (MPC) within PyTorch.
+* [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
+
 
 ### Feature Engineering Automation
 * [auto-sklearn](https://automl.github.io/auto-sklearn/stable/) - Framework to automate algorithm and hyperparameter tuning for sklearn
