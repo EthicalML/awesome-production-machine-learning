@@ -81,10 +81,10 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Alluxio](https://www.alluxio.org/docs/1.8/en/Overview.html) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
 
 ### Privacy Preserving Machine Learning
-* [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF-Encrypted](https://github.com/mortendahl/tf-encrypted) - A Python library built on top of TensorFlow for researchers and practitioners to experiment with privacy-preserving machine learning.
 * [PySyft](https://github.com/OpenMined/PySyft) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party Computation (MPC) within PyTorch.
+* [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
 * [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
 
 
