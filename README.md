@@ -100,7 +100,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 ### Neural Architecture Search
 * [Neural Network Intelligence](https://github.com/Microsoft/nni) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
 * [Autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML library for Keras based on ["Auto-Keras: Efficient Neural Architecture Search with Network Morphism"](https://arxiv.org/abs/1806.10282).
-* [ENAS-PyTorch] - Efficient Neural Architecture Search (ENAS) in PyTorch based [on this paper](https://arxiv.org/abs/1802.03268).
+* [ENAS-PyTorch](https://github.com/carpedm20/ENAS-pytorch) - Efficient Neural Architecture Search (ENAS) in PyTorch based [on this paper](https://arxiv.org/abs/1802.03268).
 * [Neural Architecture Search with Controller RNN](https://github.com/titu1994/neural-architecture-search) - Basic implementation of Controller RNN from [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) and [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012).
 * [ENAS via Parameter Sharing] - Efficient Neural Architecture Search via Parameter Sharing by [authors of paper](https://arxiv.org/abs/1802.03268).
 * [ENAS-Tensorflow](https://github.com/MINGUKKANG/ENAS-Tensorflow) - Efficient Neural Architecture search via parameter sharing(ENAS) micro search Tensorflow code for windows user.
