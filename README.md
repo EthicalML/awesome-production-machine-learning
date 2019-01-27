@@ -49,7 +49,8 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange Format
 * [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef) - A standard format to store models across Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet
 * [PFA](http://dmg.org/pfa/index.html) - Created by the same organisation as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
-* [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - The Predictive Model Markup Language standard in XML - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))
+* [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) - The Predictive Model Markup Language standard in XML - ([Video](https://www.youtube.com/watch?v=_5pZm2PZ8Q8))_
+* [MMdnn](https://github.com/Microsoft/MMdnn) - Cross-framework solution to convert, visualize and diagnose deep neural network models. 
 * [Java PMML API](https://github.com/jpmml) - Java libraries for consuming and producing PMML files containing models from different frameworks, including:
     * [sklearn2pmml](https://github.com/jpmml/jpmml-sklearn)
     * [pyspark2pmml](https://github.com/jpmml/pyspark2pmml)
@@ -96,6 +97,13 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [Colombus](http://i.stanford.edu/hazy/victor/columbus/) - A scalable framework to perform exploratory feature selection implemented in R
 * [automl](https://github.com/ClimbsRocks/automl) - Automated feature engineering, feature/model selection, hyperparam. optimisation
 
+### Neural Architecture Search
+* [Neural Network Intelligence](https://github.com/Microsoft/nni) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
+* [ENAS-PyTorch] - Efficient Neural Architecture Search (ENAS) in PyTorch based [on this paper](https://arxiv.org/abs/1802.03268).
+* [Neural Architecture Search with Controller RNN](https://github.com/titu1994/neural-architecture-search) - Basic implementation of Controller RNN from [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) and [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012).
+* [ENAS via Parameter Sharing] - Efficient Neural Architecture Search via Parameter Sharing by [authors of paper](https://arxiv.org/abs/1802.03268).
+* [ENAS-Tensorflow](https://github.com/MINGUKKANG/ENAS-Tensorflow) - Efficient Neural Architecture search via parameter sharing(ENAS) micro search Tensorflow code for windows user.
+
 ### Model Deployment Frameworks
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 * [Redis-ML](https://github.com/RedisLabsModules/redis-ml) - Module available from unstable branch that supports a subset of ML models as Redis data types
@@ -105,6 +113,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [DeepDetect](https://github.com/beniz/deepdetect) - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain
 * [MLeap](https://github.com/combust/mleap) - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn
 * [OpenScoring](https://github.com/openscoring/openscoring) - REST web service for scoring PMML models built and maintained by OpenScoring.io
+* [Open Platform for AI](https://github.com/Microsoft/pai) - Platform that provides complete AI model training and resource management capabilities.
 * [NVIDIA TensorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html) - Model server created by NVIDIA that runs models in ONNX format, including frameworks such as TensorFlow and MATLAB
 
 ### Computation load distribution frameworks
