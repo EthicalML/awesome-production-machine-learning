@@ -82,6 +82,11 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [ClickHouse](https://clickhouse.yandex/) - ClickHouse is an open source column oriented database management system supported by Yandex - [(Video)](https://www.youtube.com/watch?v=zbjub8BQPyE)
 * [Alluxio](https://www.alluxio.org/docs/1.8/en/Overview.html) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
 
+### Text / NLP
+* [SpaCy](https://github.com/explosion/spaCy) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
+* [Flair](https://github.com/zalandoresearch/flair) - Simple framework for state-of-the-art NLP developed by Zalando which builds directly on PyTorch.
+* [Wav2Letter++](https://code.fb.com/ai-research/wav2letter/) - A speech to text system developed by Facebook's FAIR teams.
+
 ### Privacy Preserving Machine Learning
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF-Encrypted](https://github.com/mortendahl/tf-encrypted) - A Python library built on top of TensorFlow for researchers and practitioners to experiment with privacy-preserving machine learning.
