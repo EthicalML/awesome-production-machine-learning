@@ -69,6 +69,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 * [PredictionIO](https://predictionio.apache.org/) - An open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task
 * [MLflow](https://github.com/mlflow/mlflow) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment.
 * [Sacred](https://github.com/IDSIA/sacred) - Tool to help you configure, organize, log and reproduce machine learning experiments.
+* [Catalyst](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. 
 * [FGLab](https://github.com/Kaixhin/FGLab) - Machine learning dashboard, designed to make prototyping experiments easier.
 * [Studio.ML](https://www.studio.ml/) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
 
