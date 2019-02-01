@@ -1,3 +1,8 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
+![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
+![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 # Machine Learning Operations (ML + DevOps = MLOps)
 
 ## What is Machine Learning Operations (MLOps)?
