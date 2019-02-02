@@ -5,11 +5,7 @@
 
 # Awesome machine learning operations
 
-* This repository contains a curated list of awesome resources that will help you deploy, monitor, version and scale your machine learning
-
-# Main Contributors
-
-* **Alejandro Saucedo** - Github: [AxSauze](https://github.com/axsauze/) - Twitter: [@AxSaucedo](https://twitter.com/AxSaucedo) - Linkedin: [/in/AxSaucedo](https://uk.linkedin.com/in/axsaucedo)
+* This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version and scale your machine learning
 
 ## Index
 
@@ -50,6 +46,11 @@ Machine Learning Operations involves the infrastructure required to scale your M
     </td>
   </tr>
 </table>
+
+# Main Contributors
+
+* **Alejandro Saucedo** - Github: [AxSauze](https://github.com/axsauze/) - Twitter: [@AxSaucedo](https://twitter.com/AxSaucedo) - Linkedin: [/in/AxSaucedo](https://uk.linkedin.com/in/axsaucedo)
+
 
 ## Main Contents
 
