@@ -3,9 +3,9 @@
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-# Operationalisation and productisation of machine learning
+# Awesome machine learning operations
 
-* This repository contains a curated list of awesome resources that will help you operationalise and productionise your machine learning
+* This repository contains a curated list of awesome resources that will help you deploy, monitor, version and scale your machine learning
 
 # Main Contributors
 
@@ -13,23 +13,23 @@
 
 ## Index
 
-* [#1. Explaining black box models and datasets](#1-explaining-black-box-models-and-datasets)
-* [#2. Privacy preserving machine learning](#2-privacy-preserving-machine-learning)
-* [#3. Model and data versioning](#3-model-and-data-versioning)
-* [#4. Model deployment and orchestration frameworks](#4-model-deployment-and-orchestration-frameworks)
-* [#5. Feature engineering automation](#5-feature-engineering-automation)
-* [#6. Neural architecture search](#6-neural-architecture-search)
-* [#7. Data science notebook frameworks](#7-data-science-notebook-frameworks)
-* [#8. Industrial strength visualisation libraries](#8-industrial-strength-visualisation-libraries)
-* [#9. Industrial strength nlp](#9-industrial-strength-nlp)
-* [#10. Data pipeline etl frameworks](#10-data-pipeline-etl-frameworks)
-* [#11. Data storage optimisation](#11-data-storage-optimisation)
-* [#12. Function as a service frameworks](#12-function-as-a-service-frameworks)
-* [#13. Computation load distribution frameworks](#13-computation-load-distribution-frameworks)
-* [#14. Model serialisation formats](#14-model-serialisation-formats)
-* [#15. Compiler optimisation frameworks](#15-compiler-optimisation-frameworks)
-* [#16. Commercial data science platforms](#16-commercial-data-science-platforms)
-* [#17. Commercial etl platforms](#17-commercial-etl-platforms)
+* [1. Explaining black box models and datasets](#1-explaining-black-box-models-and-datasets)
+* [2. Privacy preserving machine learning](#2-privacy-preserving-machine-learning)
+* [3. Model and data versioning](#3-model-and-data-versioning)
+* [4. Model deployment and orchestration frameworks](#4-model-deployment-and-orchestration-frameworks)
+* [5. Feature engineering automation](#5-feature-engineering-automation)
+* [6. Neural architecture search](#6-neural-architecture-search)
+* [7. Data science notebook frameworks](#7-data-science-notebook-frameworks)
+* [8. Industrial strength visualisation libraries](#8-industrial-strength-visualisation-libraries)
+* [9. Industrial strength nlp](#9-industrial-strength-nlp)
+* [10. Data pipeline etl frameworks](#10-data-pipeline-etl-frameworks)
+* [11. Data storage optimisation](#11-data-storage-optimisation)
+* [12. Function as a service frameworks](#12-function-as-a-service-frameworks)
+* [13. Computation load distribution frameworks](#13-computation-load-distribution-frameworks)
+* [14. Model serialisation formats](#14-model-serialisation-formats)
+* [15. Compiler optimisation frameworks](#15-compiler-optimisation-frameworks)
+* [16. Commercial data science platforms](#16-commercial-data-science-platforms)
+* [17. Commercial etl platforms](#17-commercial-etl-platforms)
 
 ## What is the operationalisation and productisation of machine learning?
 
