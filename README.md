@@ -3,9 +3,35 @@
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-# Machine Learning Operations (ML + DevOps = MLOps)
+# Operationalisation and productisation of machine learning
 
-## What is Machine Learning Operations (MLOps)?
+* This repository contains a curated list of awesome resources that will help you operationalise and productionise your machine learning
+
+# Main Contributors
+
+* **Alejandro Saucedo** - Github: [AxSauze](https://github.com/axsauze/) - Twitter: [@AxSaucedo](https://twitter.com/AxSaucedo) - Linkedin: [/in/AxSaucedo](https://uk.linkedin.com/in/axsaucedo)
+
+## Index
+
+* [#1-explaining-black-box-models-and-datasets](#1-explaining-black-box-models-and-datasets)
+* [#2-privacy-preserving-machine-learning](#2-privacy-preserving-machine-learning)
+* [#3-model-and-data-versioning](#3-model-and-data-versioning)
+* [#4-model-deployment-and-orchestration-frameworks](#4-model-deployment-and-orchestration-frameworks)
+* [#5-feature-engineering-automation](#5-feature-engineering-automation)
+* [#6-neural-architecture-search](#6-neural-architecture-search)
+* [#7-data-science-notebook-frameworks](#7-data-science-notebook-frameworks)
+* [#8-industrial-strength-visualisation-libraries](#8-industrial-strength-visualisation-libraries)
+* [#9-industrial-strength-nlp](#9-industrial-strength-nlp)
+* [#10-data-pipeline-etl-frameworks](#10-data-pipeline-etl-frameworks)
+* [#11-data-storage-optimisation](#11-data-storage-optimisation)
+* [#12-function-as-a-service-frameworks](#12-function-as-a-service-frameworks)
+* [#13-computation-load-distribution-frameworks](#13-computation-load-distribution-frameworks)
+* [#14-model-serialisation-formats](#14-model-serialisation-formats)
+* [#15-compiler-optimisation-frameworks](#15-compiler-optimisation-frameworks)
+* [#16-commercial-data-science-platforms](#16-commercial-data-science-platforms)
+* [#17-commercial-etl-platforms](#17-commercial-etl-platforms)
+
+## What is the operationalisation and productisation of machine learning?
 
 Machine Learning Operations involves the infrastructure required to scale your ML capabilities. You can find an overview of MLOps in [Alejandro Saucedo's](https://twitter.com/AxSaucedo) talk at the 2018 EuroSciPy on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/).
 
@@ -26,17 +52,6 @@ Machine Learning Operations involves the infrastructure required to scale your M
 </table>
 
 ## Overview of this repo
-
-* This repository contains a curated list of awesome resources that will help you kick-start or enhance your machine learning operations
-* Machine Learning Operations involve everything that is required to serve your ML, including deploying, monitoring, scaling, versioning, etc
-
-# Main Contributors
-
-* **Alejandro Saucedo** - Github: [AxSauze](https://github.com/axsauze/) - Twitter: [@AxSaucedo](https://twitter.com/AxSaucedo) - Linkedin: [/in/AxSaucedo](https://uk.linkedin.com/in/axsaucedo)
-
-## Index
-
-
 
 ## Main Contents
 
@@ -178,7 +193,6 @@ Machine Learning Operations involves the infrastructure required to scale your M
 
 ### 15. Compiler optimisation frameworks
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
-
 
 
 ### 16. Commercial Data-science Platforms
