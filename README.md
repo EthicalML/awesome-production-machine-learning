@@ -7,7 +7,7 @@
 
 * This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version and scale your machine learning.
 
-## Quick Links
+## Quick links to sections in this page
 
 ||||
 |-|-|-|
