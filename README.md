@@ -9,6 +9,8 @@
 
 ## Quick links to sections in this page
 
+Click in one of the links below to navigate this page:
+
 ||||
 |-|-|-|
 |[🔍 Explaining predictions & models](#1-explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#2-privacy-preserving-machine-learning) | [📜 Model & data versioning](#3-model-and-data-versioning)|
@@ -25,12 +27,7 @@ Machine Learning Operations involves the infrastructure required to scale your M
 <table>
   <tr>
     <td width="30%">
-        This repository covers two of the core principles of MLOps:
-        <br>
-        <ul>
-            <li><b>Reproducibility</b>: Model & Data Versioning</li>
-            <li><b>Orchestration</b>: Model Deployment Orchestration</li>
-        </ul>    
+        This repository covers multiple different areas around machine learning operations. This can be visualised on the diagram on the right.
     </td>
     <td width="70%">
         <img src="images/mlops1.png">
