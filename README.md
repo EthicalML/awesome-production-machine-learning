@@ -20,9 +20,9 @@ Click in one of the links below to navigate this page:
 | [🗺️ Computation distribution](#13-computation-load-distribution-frameworks) | [📥 Model serialisation](#14-model-serialisation-formats) | [🎁 Compiler optimisation](#15-compiler-optimisation-frameworks)  |
 | [💸 Commercial ML](#16-commercial-data-science-platforms) | [💰 Commercial ETL](#17-commercial-etl-platforms)| |
 
-## What is the operationalisation and productisation of machine learning?
+## What are the libraries you will find in this repo?
 
-Machine Learning Operations involves the infrastructure required to scale your ML capabilities. You can find an overview of MLOps in [Alejandro Saucedo's](https://twitter.com/AxSaucedo) talk at the 2018 EuroSciPy on [Scalable Data Science: The State of MLOps in 2018](https://axsauze.github.io/scalable-data-science/#/).
+This repo contains libraries to scale your machine learning capabilities. You can find an overview of this topic in [Alejandro Saucedo's](https://twitter.com/AxSaucedo) talk at the 2019 FOSDEM conference on [Tools to scale your production machine learning](https://www.youtube.com/watch?v=Ynb6X0KZKxY).
 
 <table>
   <tr>
