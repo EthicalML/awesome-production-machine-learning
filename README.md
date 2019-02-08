@@ -12,8 +12,6 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Quick links to sections in this page
 
-Click in one of the links below to navigate this page:
-
 | | | |
 |-|-|-|
 |[🔍 Explaining predictions & models](#1-explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#2-privacy-preserving-machine-learning) | [📜 Model & data versioning](#3-model-and-data-versioning)|
@@ -36,7 +34,20 @@ Click in one of the links below to navigate this page:
   </tr>
 </table>
 
-# Main Contributors
+## Want to receive updates?
+
+<table>
+  <tr>
+    <td width="30%">
+        Join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter! You will receive updates on open source frameworks, tutorials and articles curated by machine learning professionals.
+    </td>
+    <td width="70%">
+        <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a>
+    </td>
+  </tr>
+</table>
+
+## Main Contributors
 
 * **Alejandro Saucedo** - Github: [AxSauze](https://github.com/axsauze/) - Twitter: [@AxSaucedo](https://twitter.com/AxSaucedo) - Linkedin: [/in/AxSaucedo](https://uk.linkedin.com/in/axsaucedo)
 
