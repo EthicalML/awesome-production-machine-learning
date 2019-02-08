@@ -39,7 +39,7 @@ This repository contains a curated list of awesome open source libraries that wi
 <table>
   <tr>
     <td width="30%">
-         The Institute for Ethical AI & Machine Learning curates the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. You will receive updates on open source frameworks, tutorials and articles curated by machine learning professionals.
+         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. You will receive updates on open source frameworks, tutorials and articles curated by machine learning professionals.
     </td>
     <td width="70%">
         <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a>
