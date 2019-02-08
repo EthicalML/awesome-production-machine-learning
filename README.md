@@ -1,7 +1,10 @@
+[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+[![GitHub](https://img.shields.io/twitter/follow/axsaucedo.svg?label=Follow)](https://twitter.com/AxSaucedo/){:target="_blank"}
+	
 
 # Awesome machine learning operations
 
@@ -20,9 +23,7 @@ Click in one of the links below to navigate this page:
 | [🗺️ Computation distribution](#13-computation-load-distribution-frameworks) | [📥 Model serialisation](#14-model-serialisation-formats) | [🎁 Compiler optimisation](#15-compiler-optimisation-frameworks)  |
 | [💸 Commercial ML](#16-commercial-data-science-platforms) | [💰 Commercial ETL](#17-commercial-etl-platforms)| |
 
-# Overview
-
-This repo contains libraries to scale your production machine learning.
+## 10 Min Video Overview
 
 <table>
   <tr>
@@ -31,17 +32,6 @@ This repo contains libraries to scale your production machine learning.
     </td>
     <td width="70%">
         <a href="https://www.youtube.com/watch?v=e21fQtI5YlY"><img src="images/video.png"></a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="30%">
-        The concept of machine learning operations can be thought to be the extra layer required in the experimentation and serving workflows in a traditional data science process.
-    </td>
-    <td width="70%">
-        <img src="images/mlops1.png">
     </td>
   </tr>
 </table>
