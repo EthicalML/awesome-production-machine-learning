@@ -5,13 +5,12 @@
 
 # Awesome machine learning operations
 
-* This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version and scale your machine learning.
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version and scale your machine learning.
 
 ## Quick links to sections in this page
 
 Click in one of the links below to navigate this page:
 
-||||
 |-|-|-|
 |[🔍 Explaining predictions & models](#1-explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#2-privacy-preserving-machine-learning) | [📜 Model & data versioning](#3-model-and-data-versioning)|
 |[🏁 Model Orchestration](#4-model-deployment-and-orchestration-frameworks)|[🌀 Feature engineering](#5-feature-engineering-automation)|[🤖 Neural Architecture Search](#6-neural-architecture-search)|
@@ -20,14 +19,25 @@ Click in one of the links below to navigate this page:
 | [🗺️ Computation distribution](#13-computation-load-distribution-frameworks) | [📥 Model serialisation](#14-model-serialisation-formats) | [🎁 Compiler optimisation](#15-compiler-optimisation-frameworks)  |
 | [💸 Commercial ML](#16-commercial-data-science-platforms) | [💰 Commercial ETL](#17-commercial-etl-platforms)| |
 
-## What are the libraries you will find in this repo?
+# Overview
 
-This repo contains libraries to scale your machine learning capabilities. You can find an overview of this topic in [Alejandro Saucedo's](https://twitter.com/AxSaucedo) talk at the 2019 FOSDEM conference on [Tools to scale your production machine learning](https://www.youtube.com/watch?v=Ynb6X0KZKxY).
+This repo contains libraries to scale your production machine learning.
 
 <table>
   <tr>
     <td width="30%">
-        This repository covers multiple different areas around machine learning operations. This can be visualised on the diagram on the right.
+        This <a href="https://www.youtube.com/watch?v=e21fQtI5YlY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo.
+    </td>
+    <td width="70%">
+        <a href="https://www.youtube.com/watch?v=e21fQtI5YlY"><img src="images/video.png"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%">
+        The concept of machine learning operations can be thought to be the extra layer required in the experimentation and serving workflows in a traditional data science process.
     </td>
     <td width="70%">
         <img src="images/mlops1.png">
