@@ -47,12 +47,8 @@ This repository contains a curated list of awesome open source libraries that wi
   </tr>
 </table>
 
-## Main Contributors
 
-* **Alejandro Saucedo** - Github: [AxSauze](https://github.com/axsauze/) - Twitter: [@AxSaucedo](https://twitter.com/AxSaucedo) - Linkedin: [/in/AxSaucedo](https://uk.linkedin.com/in/axsaucedo)
-
-
-## Main Contents
+# Main Content
 
 ### 1. Explaining Black Box Models and Datasets
 * [XAI - eXplainableAI](https://github.com/EthicalML/xai) - An eXplainability toolbox for machine learning.
