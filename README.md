@@ -11,8 +11,6 @@ This repository contains a curated list of awesome open source libraries that wi
 
 Click in one of the links below to navigate this page:
 
-| | | |
-|-|-|-|
 |[🔍 Explaining predictions & models](#1-explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#2-privacy-preserving-machine-learning) | [📜 Model & data versioning](#3-model-and-data-versioning)|
 |[🏁 Model Orchestration](#4-model-deployment-and-orchestration-frameworks)|[🌀 Feature engineering](#5-feature-engineering-automation)|[🤖 Neural Architecture Search](#6-neural-architecture-search)|
 | [📓 Reproducible Notebooks](#7-data-science-notebook-frameworks) | [📊 Visualisation frameworks](#8-industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#9-industrial-strength-nlp) |
