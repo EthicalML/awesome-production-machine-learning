@@ -79,6 +79,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Catalyst](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. 
 * [FGLab](https://github.com/Kaixhin/FGLab) - Machine learning dashboard, designed to make prototyping experiments easier.
 * [Studio.ML](https://www.studio.ml/) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
+* [Flor](https://github.com/ucbrise/flor/blob/master/rtd/index.rst) - Easy to use logger and automatic version controller made for data scientists who write ML code
 
 ### 4. Model Deployment and Orchestration Frameworks
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
