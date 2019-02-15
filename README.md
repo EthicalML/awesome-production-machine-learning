@@ -57,6 +57,38 @@ This repository contains a curated list of awesome open source libraries that wi
 * [ELI5](https://github.com/TeamHG-Memex/eli5) - "Explain Like I'm 5" is a Python package which helps to debug machine learning classifiers and explain their predictions.
 * [Tensorboard's WhatIf](https://pair-code.github.io/what-if-tool/) - Tensorboard screen to analyse the interactions between inference results and data inputs.
 
+* [Aequitas](https://github.com/dssg/aequitas) ![Github](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) - An open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
+* [AI Fairness 360](https://github.com/IBM/AIF360) ![Github](https://img.shields.io/github/stars/IBM/AIF360.svg?style=social) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models. 
+* [anchor](https://github.com/marcotcr/anchor) ![Github](https://img.shields.io/stars/marcotcr/anchor.svg?style=social) - Code for the paper ["High precision model agnostic explanations"](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), a model-agnostic system that explains the behaviour of complex models with high-precision rules called anchors.
+* [casme](https://github.com/kondiz/casme) ![Github](https://img.shields.io/stars/kondiz/casme.svg?style=social) - Example of using classifier-agnostic saliency map extraction on ImageNet presented on the paper ["Classifier-agnostic saliency map extraction"](https://arxiv.org/abs/1805.08249).
+* [Tensorflow's cleverhans](https://github.com/tensorflow/cleverhans) ![Github](https://img.shields.io/stars/tensorflow/cleverhans.svg?style=social) - An adversarial example library for constructing attacks, building defenses, and benchmarking both. A python library to benchmark system's vulnerability to [adversarial examples](http://karpathy.github.io/2015/03/30/breaking-convnets/)
+* [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation) ![Github](https://img.shields.io/stars/MarcelRobeer/ContrastiveExplanation.svg?style=social) - Accompanying code for the paper ]"Contrastive Explanations with Local Foil Trees"](https://github.com/MarcelRobeer/ContrastiveExplanation)
+* [DeepLIFT](https://github.com/kundajelab/deeplift) ![Github](https://img.shields.io/stars/kundajelab/deeplift.svg?style=social) - Codebase that contains the methods in the paper ["Learning important features through propagating activation differences"](https://arxiv.org/abs/1704.02685). Here is the [slides](https://docs.google.com/file/d/0B15F_QN41VQXSXRFMzgtS01UOU0/edit?filetype=mspresentation) and the [video](https://vimeo.com/238275076) of the 15 minute talk given at ICML.
+* [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) ![Github](https://img.shields.io/stars/yosinski/deep-visualization-toolbox.svg?style=social) - This is the code required to run the Deep Visualization Toolbox, as well as to generate the neuron-by-neuron visualizations using regularized optimization. The toolbox and methods are described casually [here](http://yosinski.com/deepvis) and more formally in this [paper](https://arxiv.org/abs/1506.06579).
+* [ELI5](https://github.com/TeamHG-Memex/eli5) ![Github](https://img.shields.io/stars/TeamHG-Memex/eli5.svg?style=social) - "Explain Like I'm 5" is a Python package which helps to debug machine learning classifiers and explain their predictions.
+* [FairML](https://github.com/adebayoj/fairml) ![Github](https://img.shields.io/stars/adebayoj/fairml.svg?style=social) - FairML is a python toolbox auditing the machine learning models for bias.
+* [fairness](https://github.com/algofairness/fairness-comparison) ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - This repository is meant to facilitate the benchmarking of fairness aware machine learning algorithms based on [this paper](https://arxiv.org/abs/1802.04422).
+* [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients) ![Github](https://img.shields.io/stars/ankurtaly/Integrated-Gradients.svg?style=social) - This repository provideds code for implementing integrated gradients for networks with image inputs. 
+* [LOFO Importance](https://github.com/aerdem4/lofo-importance) ![Github](https://img.shields.io/stars/aerdem4/lofo-importance.svg?style=social) - LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.
+* [L2X](https://github.com/Jianbo-Lab/L2X) ![Github](https://img.shields.io/stars/Jianbo-Lab/L2X.svg?style=social) - Code for replicating the experiments in the paper ["Learning to Explain: An Information-Theoretic Perspective on Model Interpretation"](https://arxiv.org/pdf/1802.07814.pdf) at ICML 2018
+* [LIME](https://github.com/marcotcr/lime) ![Github](https://img.shields.io/stars/marcotcr/lime.svg?style=social) - Local Interpretable Model-agnostic Explanations for machine learning models.
+* [PDPbox]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [pyBreakDown]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [PyCEbox]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [SHAP](https://github.com/slundberg/shap) ![Github](https://img.shields.io/stars/slundberg/shap.svg?style=social) - SHapley Additive exPlanations is a unified approach to explain the output of any machine learning model.
+* [Skater]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [rationale]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [tensorflow's lucid]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [tensorflow's model-analysis]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [Tensorboard's Tensorboard WhatIf](https://pair-code.github.io/what-if-tool/) ![Github](https://img.shields.io/stars/tensorflow/tensorboard.svg?style=social) - Tensorboard screen to analyse the interactions between inference results and data inputs.
+* [Themis]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [themis-ml]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [treeinterpreter]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [woe]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![Github](https://img.shields.io/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
+
+
+
 ### 2. Privacy Preserving Machine Learning
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF-Encrypted](https://github.com/mortendahl/tf-encrypted) - A Python library built on top of TensorFlow for researchers and practitioners to experiment with privacy-preserving machine learning.
