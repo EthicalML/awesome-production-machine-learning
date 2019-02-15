@@ -72,19 +72,17 @@ This repository contains a curated list of awesome open source libraries that wi
 * [LOFO Importance](https://github.com/aerdem4/lofo-importance) ![Github](https://img.shields.io/stars/aerdem4/lofo-importance.svg?style=social) - LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.
 * [L2X](https://github.com/Jianbo-Lab/L2X) ![Github](https://img.shields.io/stars/Jianbo-Lab/L2X.svg?style=social) - Code for replicating the experiments in the paper ["Learning to Explain: An Information-Theoretic Perspective on Model Interpretation"](https://arxiv.org/pdf/1802.07814.pdf) at ICML 2018
 * [LIME](https://github.com/marcotcr/lime) ![Github](https://img.shields.io/stars/marcotcr/lime.svg?style=social) - Local Interpretable Model-agnostic Explanations for machine learning models.
-* [PDPbox]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [pyBreakDown]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [PyCEbox]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) ![Github](https://img.shields.io/stars/MI2DataLab/pyBreakDown.svg?style=social) - A model agnostic tool for decomposition of predictions from black boxes. Break Down Table shows contributions of every variable to a final prediction. 
 * [SHAP](https://github.com/slundberg/shap) ![Github](https://img.shields.io/stars/slundberg/shap.svg?style=social) - SHapley Additive exPlanations is a unified approach to explain the output of any machine learning model.
-* [Skater]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [rationale]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [tensorflow's lucid]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [tensorflow's model-analysis]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [Skater](https://github.com/datascienceinc/Skater) ![Github](https://img.shields.io/stars/datascienceinc/Skater.svg?style=social) - Skater is a unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases
+* [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale) ![Github](https://img.shields.io/stars/taolei87/rcnn.svg?style=social) - Code to implement learning rationales behind predictions with code for paper ["Rationalizing Neural Predictions"](https://github.com/taolei87/rcnn/tree/master/code/rationale)
+* [tensorflow's lucid](https://github.com/tensorflow/lucid) ![Github](https://img.shields.io/stars/tensorflow/lucid.svg?style=social) - Lucid is a collection of infrastructure and tools for research in neural network interpretability.
+* [tensorflow's Model Analysis](https://github.com/tensorflow/model-analysis) ![Github](https://img.shields.io/stars/tensorflow/model-analysis.svg?style=social) - TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models. It allows users to evaluate their models on large amounts of data in a distributed manner, using the same metrics defined in their trainer. 
 * [Tensorboard's Tensorboard WhatIf](https://pair-code.github.io/what-if-tool/) ![Github](https://img.shields.io/stars/tensorflow/tensorboard.svg?style=social) - Tensorboard screen to analyse the interactions between inference results and data inputs.
-* [Themis]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [themis-ml]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [treeinterpreter]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
-* [woe]() ![Github](https://img.shields.io/stars/user/repo.svg?style=social) - 
+* [Themis](https://github.com/LASER-UMASS/Themis) ![Github](https://img.shields.io/stars/LASER-UMASS/Themis.svg?style=social) - Themis is a testing-based approach for measuring discrimination in a software system.
+* [themis-ml](https://github.com/cosmicBboy/themis-ml) ![Github](https://img.shields.io/stars/cosmicBboy/themis-ml.svg?style=social) - themis-ml is a Python library built on top of pandas and sklearnthat implements fairness-aware machine learning algorithms.
+* [TreeInterpreter](https://github.com/andosa/treeinterpreter) ![Github](https://img.shields.io/stars/andosa/treeinterpreter.svg?style=social) - Package for interpreting scikit-learn's decision tree and random forest predictions. Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/. 
+* [woe](https://github.com/boredbird/woe) ![Github](https://img.shields.io/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
 * [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![Github](https://img.shields.io/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
 
 
@@ -152,6 +150,8 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ### 8. Industrial Strength Visualization libraries
 * [Plotly Dash](https://github.com/plotly/dash) - Dash is a Python framework for building analytical web applications without the need to write javascript.
+* [PDPBox](https://github.com/SauceCat/PDPbox) - This repository is inspired by ICEbox. The goal is to visualize the impact of certain features towards model prediction for any supervised learning algorithm. (now support all scikit-learn algorithms)
+* [PyCEbox](https://github.com/AustinRochford/PyCEbox) ![Github](https://img.shields.io/stars/AustinRochford/PyCEbox.svg?style=social) - Python Individual Conditional Expectation Plot Toolbox
 * [Plotly.py](https://github.com/plotly/plotly.py) - An interactive, open source, and browser-based graphing library for Python.
 * [Pixiedust](https://github.com/pixiedust/pixiedust) - PixieDust is a productivity tool for Python or Scala notebooks, which lets a developer encapsulate business logic into something easy for your customers to consume.
 * [ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the grammar of graphics for python. 
