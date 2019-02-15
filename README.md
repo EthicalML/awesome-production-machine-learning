@@ -51,11 +51,6 @@ This repository contains a curated list of awesome open source libraries that wi
 # Main Content
 
 ### 1. Explaining Black Box Models and Datasets
-* [XAI - eXplainableAI](https://github.com/EthicalML/xai) - An eXplainability toolbox for machine learning.
-* [SHAP](https://github.com/slundberg/shap) - SHapley Additive exPlanations is a unified approach to explain the output of any machine learning model.
-* [LIME](https://github.com/marcotcr/lime) - Local Interpretable Model-agnostic Explanations for machine learning models. 
-* [ELI5](https://github.com/TeamHG-Memex/eli5) - "Explain Like I'm 5" is a Python package which helps to debug machine learning classifiers and explain their predictions.
-* [Tensorboard's WhatIf](https://pair-code.github.io/what-if-tool/) - Tensorboard screen to analyse the interactions between inference results and data inputs.
 
 * [Aequitas](https://github.com/dssg/aequitas) ![Github](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) - An open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
 * [AI Fairness 360](https://github.com/IBM/AIF360) ![Github](https://img.shields.io/github/stars/IBM/AIF360.svg?style=social) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models. 
