@@ -217,6 +217,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
 
 ## 16. Commercial Data-science Platforms
+* [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
 * [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Algorithmia](https://algorithmia.com/) - Cloud platform to build, deploy and serve machine learning models [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
