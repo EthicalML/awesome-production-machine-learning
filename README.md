@@ -176,7 +176,6 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## 11. Data Labelling Tools and Frameworks
 * [Labelimg](https://github.com/tzutalin/labelImg) ![](https://img.shields.io/github/stars/tzutalin/labelImg.svg?style=social) - Open source graphical image annotation tool writen in Python using QT for graphical interface focusing primarily on bounding boxes.
-* [Labelbox](https://github.com/Labelbox/Labelbox) ![](https://img.shields.io/github/stars/Labelbox/Labelbox.svg?style=social) - 
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) ![](https://img.shields.io/github/stars/opencv/cvat.svg?style=social) - OpenCV's web-based annotation tool for both VIDEOS and images for computer algorithms. 
 * [Visual Object Tagging Tool (VOTT)](https://github.com/Microsoft/VoTT) ![](https://img.shields.io/github/stars/Microsoft/VoTT.svg?style=social) - Microsoft's Open Source electron app for labelling videos and images for object detection models (with active learning functionality)
 * [Labelbox](https://github.com/Labelbox/Labelbox) ![](https://img.shields.io/github/stars/Labelbox/Labelbox.svg?style=social) - Open source image labelling tool with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
