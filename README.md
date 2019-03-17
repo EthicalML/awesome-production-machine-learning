@@ -17,9 +17,9 @@ This repository contains a curated list of awesome open source libraries that wi
 |[🔍 Explaining predictions & models](#1-explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#2-privacy-preserving-machine-learning) | [📜 Model & data versioning](#3-model-and-data-versioning)|
 |[🏁 Model Orchestration](#4-model-deployment-and-orchestration-frameworks)|[🌀 Feature engineering](#5-feature-engineering-automation)|[🤖 Neural Architecture Search](#6-neural-architecture-search)|
 | [📓 Reproducible Notebooks](#7-data-science-notebook-frameworks) | [📊 Visualisation frameworks](#8-industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#9-industrial-strength-nlp) |
-| [🧵 Data pipelines & ETL](#10-data-pipeline-etl-frameworks) | [🗞️ Data storage](#11-data-storage-optimisation) | [📡 Functions as a service](#12-function-as-a-service-frameworks) |
-| [🗺️ Computation distribution](#13-computation-load-distribution-frameworks) | [📥 Model serialisation](#14-model-serialisation-formats) | [🎁 Compiler optimisation](#15-compiler-optimisation-frameworks)  |
-| [💸 Commercial ML](#16-commercial-data-science-platforms) | [💰 Commercial ETL](#17-commercial-etl-platforms)| |
+| [🧵 Data pipelines & ETL](#10-data-pipeline-etl-frameworks) | [🏷️ 11. Data Labelling](#11-data-labelling-tools-and-frameworks) |[🗞️ Data storage](#12-data-storage-optimisation) |
+| [📡 Functions as a service](#12-function-as-a-service-frameworks)| [🗺️ Computation distribution](#14-computation-load-distribution-frameworks) | [📥 Model serialisation](#15-model-serialisation-formats) |
+| [🎁 Compiler optimisation](#16-compiler-optimisation-frameworks)| [💸 Commercial ML](#17-commercial-data-science-platforms) | [💰 Commercial ETL](#18-commercial-etl-platforms)|
 
 ## 10 Min Video Overview
 
@@ -174,8 +174,20 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
 * [Apache Nifi](https://github.com/apache/nifi) ![](https://img.shields.io/github/stars/apache/nifi.svg?style=social) - Apache NiFi was made for dataflow. It supports highly configurable directed graphs of data routing, transformation, and system mediation logic.
 
+## 11. Data Labelling Tools and Frameworks
+* [Labelimg](https://github.com/tzutalin/labelImg) ![](https://img.shields.io/github/stars/tzutalin/labelImg.svg?style=social) - Open source graphical image annotation tool writen in Python using QT for graphical interface focusing primarily on bounding boxes.
+* [Labelbox](https://github.com/Labelbox/Labelbox) ![](https://img.shields.io/github/stars/Labelbox/Labelbox.svg?style=social) - 
+* [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) ![](https://img.shields.io/github/stars/opencv/cvat.svg?style=social) - OpenCV's web-based annotation tool for both VIDEOS and images for computer algorithms. 
+* [Visual Object Tagging Tool (VOTT)](https://github.com/Microsoft/VoTT) ![](https://img.shields.io/github/stars/Microsoft/VoTT.svg?style=social) - Microsoft's Open Source electron app for labelling videos and images for object detection models (with active learning functionality)
+* [Labelbox](https://github.com/Labelbox/Labelbox) ![](https://img.shields.io/github/stars/Labelbox/Labelbox.svg?style=social) - Open source image labelling tool with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
+* [Doccano](https://github.com/chakki-works/doccano) ![](https://img.shields.io/github/stars/chakki-works/doccano.svg?style=social) - Open source text annotation tools for humans, providing functionality for sentiment analysis, named entity recognition, and machine translation.
+* [ImgLab](https://github.com/NaturalIntelligence/imglab) ![](https://img.shields.io/github/stars/NaturalIntelligence/imglab.svg?style=social) - Image annotation tool for bounding boxes with auto-suggestion and extensibility for plugins.
+* [ImageTagger](https://github.com/bit-bots/imagetagger) ![](https://img.shields.io/github/stars/bit-bots/imagetagger.svg?style=social) - Image labelling tool with support for collaboration, supporting bounding box, polygon, line, point labelling, label export, etc.
+* [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ![](https://img.shields.io/github/stars/abreheret/PixelAnnotationTool.svg?style=social) - Image annotation tool with ability to "colour" on the images to select labels for segmentation. Process is semi-automated with the [watershed marked algorithm of OpenCV](docs.opencv.org/3.1.0/d7/d1b/group__imgproc__misc.html#ga3267243e4d3f95165d55a618c65ac6e1)
+* [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ![](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social) - Open source tool for labelling images with support for labels, edges, as well as image resizing and zooming in.
+* [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
 
-## 11. Data Storage Optimisation
+## 12. Data Storage Optimisation
 * [EdgeDB](https://edgedb.com/) - NoSQL interface for Postgres that allows for object interaction to data stored
 * [BayesDB](http://probcomp.csail.mit.edu/software/bayesdb/) - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
 * [Apache Arrow](https://arrow.apache.org/) - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc
@@ -185,14 +197,14 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Alluxio](https://www.alluxio.org/docs/1.8/en/Overview.html) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
 
 
-## 12. Function as a Service Frameworks
+## 13. Function as a Service Frameworks
 * [OpenFaaS](https://github.com/openfaas/faas) ![](https://img.shields.io/github/stars/openfaas/faas.svg?style=social) - Serverless functions framework with RESTful API on Kubernetes
 * [Fission](https://github.com/fission/fission) ![](https://img.shields.io/github/stars/fission/fission.svg?style=social) - (Early Alpha) Serverless functions as a service framework on Kubernetes
 * [Hydrosphere ML Lambda](https://github.com/Hydrospheredata/hydro-serving) ![](https://img.shields.io/github/stars/Hydrospheredata/hydro-serving.svg?style=social) - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) ![](https://img.shields.io/github/stars/Hydrospheredata/mist.svg?style=social) - Serverless proxy for Apache Spark clusters
 * [Apache OpenWhisk](https://github.com/apache/incubator-openwhisk) ![](https://img.shields.io/github/stars/apache/incubator-openwhisk.svg?style=social) - Open source, distributed serverless platform that executes functions in response to events at any scale. 
 
-## 13. Computation load distribution frameworks
+## 14. Computation load distribution frameworks
 * [Hadoop Open Platform-as-a-service (HOPS)](https://www.hops.io/) - A multi-tenency open source framework with RESTful API for data science on Hadoop which enables for Spark, Tensorflow/Keras, it is Python-first, and provides a lot of features
 * [PyWren](http://pywren.io) - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Pyhton function - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 * [NumPyWren](https://github.com/Vaishaal/numpywren) ![](https://img.shields.io/github/stars/Vaishaal/numpywren.svg?style=social) - Scientific computing framework build on top of pywren to enable numpy-like distributed computations
@@ -202,7 +214,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Dask](http://dask.pydata.org/en/latest/) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
 
-## 14. Model serialisation formats
+## 15. Model serialisation formats
 * [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - Open Neural Network Exchange Format
 * [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef) - A standard format to store models across Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet
 * [PFA](http://dmg.org/pfa/index.html) - Created by the same organisation as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
@@ -215,10 +227,10 @@ This repository contains a curated list of awesome open source libraries that wi
     * [sparklyr2pmml](https://github.com/jpmml/sparklyr2pmml)
 
 
-## 15. Compiler optimisation frameworks
+## 16. Compiler optimisation frameworks
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
 
-## 16. Commercial Data-science Platforms
+## 17. Commercial Data-science Platforms
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
 * [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
@@ -241,5 +253,5 @@ This repository contains a curated list of awesome open source libraries that wi
 * [RiseML](https://riseml.com/) - Machine Learning Platform for Kubernetes: RiseML simplifies running machine learning experiments on bare metal and cloud GPU clusters of any size.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 
-## 17. Commercial ETL Platforms
+## 18. Commercial ETL Platforms
 * [Talend Studio](https://www.talend.com/)
