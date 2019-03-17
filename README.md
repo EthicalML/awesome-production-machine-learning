@@ -17,7 +17,7 @@ This repository contains a curated list of awesome open source libraries that wi
 |[🔍 Explaining predictions & models](#1-explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#2-privacy-preserving-machine-learning) | [📜 Model & data versioning](#3-model-and-data-versioning)|
 |[🏁 Model Orchestration](#4-model-deployment-and-orchestration-frameworks)|[🌀 Feature engineering](#5-feature-engineering-automation)|[🤖 Neural Architecture Search](#6-neural-architecture-search)|
 | [📓 Reproducible Notebooks](#7-data-science-notebook-frameworks) | [📊 Visualisation frameworks](#8-industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#9-industrial-strength-nlp) |
-| [🧵 Data pipelines & ETL](#10-data-pipeline-etl-frameworks) | [🏷️ 11. Data Labelling](#11-data-labelling-tools-and-frameworks) |[🗞️ Data storage](#12-data-storage-optimisation) |
+| [🧵 Data pipelines & ETL](#10-data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#11-data-labelling-tools-and-frameworks) |[🗞️ Data storage](#12-data-storage-optimisation) |
 | [📡 Functions as a service](#12-function-as-a-service-frameworks)| [🗺️ Computation distribution](#14-computation-load-distribution-frameworks) | [📥 Model serialisation](#15-model-serialisation-formats) |
 | [🎁 Compiler optimisation](#16-compiler-optimisation-frameworks)| [💸 Commercial ML](#17-commercial-data-science-platforms) | [💰 Commercial ETL](#18-commercial-etl-platforms)|
 
