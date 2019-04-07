@@ -19,7 +19,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📓 Reproducible Notebooks](#7-data-science-notebook-frameworks) | [📊 Visualisation frameworks](#8-industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#9-industrial-strength-nlp) |
 | [🧵 Data pipelines & ETL](#10-data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#11-data-labelling-tools-and-frameworks) |[🗞️ Data storage](#12-data-storage-optimisation) |
 | [📡 Functions as a service](#12-function-as-a-service-frameworks)| [🗺️ Computation distribution](#14-computation-load-distribution-frameworks) | [📥 Model serialisation](#15-model-serialisation-formats) |
-| [🎁 Compiler optimisation](#16-compiler-optimisation-frameworks)| [💸 Commercial ML](#17-commercial-data-science-platforms) | [💰 Commercial ETL](#18-commercial-etl-platforms)|
+| [🎁 Compiler optimisation](#16-compiler-optimisation-frameworks)| [💸 Data Stream Processing](#17-data-streaming-processing) | [💰 Commercial Platforms](#18-commercial-platforms)|
 
 ## 10 Min Video Overview
 
@@ -230,7 +230,13 @@ This repository contains a curated list of awesome open source libraries that wi
 ## 16. Compiler optimisation frameworks
 * [Numba](https://github.com/numba/numba) - A compiler for Python array and numerical functions
 
-## 17. Commercial Data-science Platforms
+## 17. Data Stream Processing
+* [Apache Flink](https://github.com/apache/flink) ![](https://img.shields.io/github/stars/apache/flink.svg?style=social) - Open source stream processing framework with powerful stream and batch processing capabilities.
+* [Faust](https://github.com/robinhood/faust) ![](https://img.shields.io/github/stars/robinhood/faust.svg?style=social) - Streaming library built on top of Python's Asyncio library using the async kafka client inspired by the kafka streaming library.
+* [Kafka Streams](https://kafka.apache.org/documentation/streams/) ![](https://img.shields.io/github/stars/apache/kafka.svg?style=social) - Kafka client library for buliding applications and microservices where the input and output are stored in kafka clusters
+* [Spark Streaming](https://spark.apache.org/streaming/) ![](https://img.shields.io/github/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics
+
+## 18. Commercial Platforms
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
 * [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
@@ -252,6 +258,4 @@ This repository contains a curated list of awesome open source libraries that wi
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [RiseML](https://riseml.com/) - Machine Learning Platform for Kubernetes: RiseML simplifies running machine learning experiments on bare metal and cloud GPU clusters of any size.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
-
-## 18. Commercial ETL Platforms
 * [Talend Studio](https://www.talend.com/)
