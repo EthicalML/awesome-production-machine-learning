@@ -8,7 +8,7 @@
 
 # Awesome machine learning operations
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, test, monitor, version and scale your machine learning.
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your machine learning.
 
 ## Quick links to sections in this page
 
@@ -19,7 +19,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📓 Reproducible Notebooks](#7-data-science-notebook-frameworks) | [📊 Visualisation frameworks](#8-industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#9-industrial-strength-nlp) |
 | [🧵 Data pipelines & ETL](#10-data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#11-data-labelling-tools-and-frameworks) |[🗞️ Data storage](#12-data-storage-optimisation) |
 | [📡 Functions as a service](#12-function-as-a-service-frameworks)| [🗺️ Computation distribution](#14-computation-load-distribution-frameworks) | [📥 Model serialisation](#15-model-serialisation-formats) |
-| [🎁 Compiler optimisation](#16-compiler-optimisation-frameworks)| [💸 Data Stream Processing](#17-data-streaming-processing) | [💰 Commercial Platforms](#18-commercial-platforms)|
+| [🎁 Compiler optimisation](#16-compiler-optimisation-frameworks)| [💸 Data Stream Processing](#17-data-streaming-processing) | [💰 Commercial Platforms](#18-commercial-platforms)
+| [⚔ Adversarial Robustness](#19-adversarial-robustness-libraries)
 
 ## 10 Min Video Overview
 
@@ -263,14 +264,17 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 * [Talend Studio](https://www.talend.com/)
 
-## 19. Adversarial Robustness Libraries (Attacks, Defenses, Metrics)
+## 19. Adversarial Robustness Libraries
 * [CleverHans](https://github.com/tensorflow/cleverhans) ![](https://img.shields.io/github/stars/tensorflow/cleverhans.svg?style=social) - library for testing adversarial attacks / defenses maintained by some of the most important names in adversarial ML, namely Ian Goodfellow (ex-Google Brain, now Apple) and Nicolas Papernot (Google Brain). Comes with some nice tutorials!
 * [IBM Adversarial Robustness Toolbox (ART)](https://github.com/IBM/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/IBM/adversarial-robustness-toolbox.svg?style=social) - at the time of writing this is the most complete off-the-shelf resource for testing adversarial attacks and defenses. It includes a library of 15 attacks, 10 empirical defenses, and some nice evaluation metrics. Neural networks only.
 * [Foolbox](https://github.com/bethgelab/foolbox) ![](https://img.shields.io/github/stars/bethgelab/foolbox.svg?style=social) - second biggest adversarial library. Has an even longer list of attacks - but no defenses or evaluation metrics. Geared more towards computer vision. Code easier to understand / modify than ART - also better for exploring blackbox attacks on surrogate models.
+* [AdvBox](https://github.com/advboxes/AdvBox) ![](https://img.shields.io/github/stars/advboxes/AdvBox.svg?style=social) - generate adversarial examples from the command line with 0 coding using PaddlePaddle, PyTorch, Caffe2, MxNet, Keras, and TensorFlow. Includes 10 attacks and also 6 defenses. Used to implement [StealthTshirt](https://github.com/advboxes/AdvBox/blob/master/applications/StealthTshirt/README.md) at DEFCON!
 * [EvadeML](https://github.com/mzweilin/EvadeML-Zoo) ![](https://img.shields.io/github/stars/mzweilin/EvadeML-Zoo.svg?style=social) - benchmarking and visualization tool for adversarial ML maintained by Weilin Xu, a PhD at University of Virginia, working with David Evans. Has a tutorial on re-implementation of one of the most important adversarial defense papers - [feature squeezing](https://arxiv.org/abs/1704.01155) (same team).
 * [Adversarial DNN Playground](https://github.com/QData/AdversarialDNN-Playground) ![](https://img.shields.io/github/stars/QData/AdversarialDNN-Playground.svg?style=social) - think [TensorFlow Playground](https://playground.tensorflow.org/), but for Adversarial Examples! A visualization tool designed for learning and teaching - the attack library is limited in size, but it has a nice front-end to it with buttons you can press! 
 * [AdverTorch](https://github.com/BorealisAI/advertorch) ![](https://img.shields.io/github/stars/BorealisAI/advertorch.svg?style=social) - library for adversarial attacks / defenses specifically for PyTorch.
 * [TextFool](https://github.com/bogdan-kulynych/textfool) ![](https://img.shields.io/github/stars/bogdan-kulynych/textfool.svg?style=social) - plausible looking adversarial examples for text generation.
+* [Artificial Adversary](https://github.com/airbnb/artificial-adversary) ![](https://img.shields.io/github/stars/airbnb/artificial-adversary.svg?style=social) AirBnB's library to generate text that reads the same to a human but passes adversarial classifiers.
+* [DEEPSEC](https://github.com/kleincup/DEEPSEC) ![](https://img.shields.io/github/stars/kleincup/DEEPSEC.svg?style=social) - another systematic tool for attacking and defending deep learning models.
 * [MIA](https://github.com/spring-epfl/mia) ![](https://img.shields.io/github/stars/spring-epfl/mia.svg?style=social) - A library for running membership inference attacks (MIA) against machine learning models.
 * [Trickster](https://github.com/spring-epfl/trickster) ![](https://img.shields.io/github/stars/spring-epfl/trickster.svg?style=social) - Library and experiments for attacking machine learning in discrete domains using graph search.
 * [Nicolas Carlini’s Adversarial ML reading list](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html) - not a library, but a curated list of the most important adversarial papers by one of the leading minds in Adversarial ML, Nicholas Carlini. If you want to discover the 10 papers that matter the most - I would start here.
