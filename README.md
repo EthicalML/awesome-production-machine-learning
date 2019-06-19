@@ -8,7 +8,7 @@
 
 # Awesome machine learning operations
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version and scale your machine learning.
+This repository contains a curated list of awesome open source libraries that will help you deploy, test, monitor, version and scale your machine learning.
 
 ## Quick links to sections in this page
 
@@ -262,3 +262,15 @@ This repository contains a curated list of awesome open source libraries that wi
 * [RiseML](https://riseml.com/) - Machine Learning Platform for Kubernetes: RiseML simplifies running machine learning experiments on bare metal and cloud GPU clusters of any size.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 * [Talend Studio](https://www.talend.com/)
+
+## 19. Adversarial Robustness Libraries (Attacks, Defenses, Metrics)
+* [CleverHans](https://github.com/tensorflow/cleverhans) ![](https://img.shields.io/github/stars/tensorflow/cleverhans.svg?style=social) - library for testing adversarial attacks / defenses maintained by some of the most important names in adversarial ML, namely Ian Goodfellow (ex-Google Brain, now Apple) and Nicolas Papernot (Google Brain). Comes with some nice tutorials!
+* [IBM Adversarial Robustness Toolbox (ART)](https://github.com/IBM/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/IBM/adversarial-robustness-toolbox.svg?style=social) - at the time of writing this is the most complete off-the-shelf resource for testing adversarial attacks and defenses. It includes a library of 15 attacks, 10 empirical defenses, and some nice evaluation metrics. Neural networks only.
+* [Foolbox](https://github.com/bethgelab/foolbox) ![](https://img.shields.io/github/stars/bethgelab/foolbox.svg?style=social) - second biggest adversarial library. Has an even longer list of attacks - but no defenses or evaluation metrics. Geared more towards computer vision. Code easier to understand / modify than ART - also better for exploring blackbox attacks on surrogate models.
+* [EvadeML](https://github.com/mzweilin/EvadeML-Zoo) ![](https://img.shields.io/github/stars/mzweilin/EvadeML-Zoo.svg?style=social) - benchmarking and visualization tool for adversarial ML maintained by Weilin Xu, a PhD at University of Virginia, working with David Evans. Has a tutorial on re-implementation of one of the most important adversarial defense papers - [feature squeezing](https://arxiv.org/abs/1704.01155) (same team).
+* [Adversarial DNN Playground](https://github.com/QData/AdversarialDNN-Playground) ![](https://img.shields.io/github/stars/QData/AdversarialDNN-Playground.svg?style=social) - think [TensorFlow Playground](https://playground.tensorflow.org/), but for Adversarial Examples! A visualization tool designed for learning and teaching - the attack library is limited in size, but it has a nice front-end to it with buttons you can press! 
+* [AdverTorch](https://github.com/BorealisAI/advertorch) ![](https://img.shields.io/github/stars/BorealisAI/advertorch.svg?style=social) - library for adversarial attacks / defenses specifically for PyTorch.
+* [TextFool](https://github.com/bogdan-kulynych/textfool) ![](https://img.shields.io/github/stars/bogdan-kulynych/textfool.svg?style=social) - plausible looking adversarial examples for text generation.
+* [MIA](https://github.com/spring-epfl/mia) ![](https://img.shields.io/github/stars/spring-epfl/mia.svg?style=social) - A library for running membership inference attacks (MIA) against machine learning models.
+* [Trickster](https://github.com/spring-epfl/trickster) ![](https://img.shields.io/github/stars/spring-epfl/trickster.svg?style=social) - Library and experiments for attacking machine learning in discrete domains using graph search.
+* [Nicolas Carlini’s Adversarial ML reading list](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html) - not a library, but a curated list of the most important adversarial papers by one of the leading minds in Adversarial ML, Nicholas Carlini. If you want to discover the 10 papers that matter the most - I would start here.
