@@ -96,6 +96,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Model and Data Versioning
+* [DAGsHub](https://dagshub.com) - The home for data science collaboration. A platform, based on DVC, for data science project management and collaboration.
 * [Data Version Control (DVC)](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - A git fork that allows for version management of models
 * [ModelDB](https://mitdbg.github.io/modeldb/) ![](https://img.shields.io/github/stars/mitdbg/modeldb.svg?style=social) - Framework to track all the steps in your ML code to keep track of what version of your model obtained which accuracy, and then visualise it and query it via the UI
 * [Pachyderm](https://github.com/pachyderm/pachyderm) ![](https://img.shields.io/github/stars/pachyderm/pachyderm.svg?style=social) - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM)
