@@ -256,6 +256,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Kafka Streams](https://kafka.apache.org/documentation/streams/) ![](https://img.shields.io/github/stars/apache/kafka.svg?style=social) - Kafka client library for buliding applications and microservices where the input and output are stored in kafka clusters
 * [Spark Streaming](https://spark.apache.org/streaming/) ![](https://img.shields.io/github/stars/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics
 * [Apache Samza](http://samza.apache.org/) ![](https://img.shields.io/github/stars/apache/samza.svg?style=social) - Distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.
+* [Brooklin](https://github.com/linkedin/Brooklin/) ![](https://img.shields.io/github/stars/linkedin/Brooklin.svg?style=social) - Distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.
 
 
 ## Feature Engineering Automation
