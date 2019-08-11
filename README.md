@@ -185,6 +185,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [SpaCy](https://github.com/explosion/spaCy) ![](https://img.shields.io/github/stars/explosion/spaCy.svg?style=social) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
 * [Flair](https://github.com/zalandoresearch/flair) ![](https://img.shields.io/github/stars/zalandoresearch/flair.svg?style=social) - Simple framework for state-of-the-art NLP developed by Zalando which builds directly on PyTorch.
 * [Wav2Letter++](https://code.fb.com/ai-research/wav2letter/) - A speech to text system developed by Facebook's FAIR teams.
+* [GNES](https://github.com/gnes-ai/gnes) ![](https://img.shields.io/github/stars/gnes-ai/gnes.svg?style=social) - Generic Neural Elastic Search is a cloud-native semantic search system based on deep neural networks.
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
