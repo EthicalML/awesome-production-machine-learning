@@ -206,6 +206,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Genie](https://github.com/Netflix/genie) ![](https://img.shields.io/github/stars/Netflix/genie.svg?style=social) - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
 * [Apache Nifi](https://github.com/apache/nifi) ![](https://img.shields.io/github/stars/apache/nifi.svg?style=social) - Apache NiFi was made for dataflow. It supports highly configurable directed graphs of data routing, transformation, and system mediation logic.
+* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ![](https://img.shields.io/github/stars/Neuraxio/Neuraxle.svg?style=social) - A framework for building neat pipelines, providing the right abstractions to chain your data transformation and prediction steps with data streaming, as well as doing hyperparameter searches (AutoML).
 
 ## Data Labelling Tools and Frameworks
 * [Labelimg](https://github.com/tzutalin/labelImg) ![](https://img.shields.io/github/stars/tzutalin/labelImg.svg?style=social) - Open source graphical image annotation tool writen in Python using QT for graphical interface focusing primarily on bounding boxes.
