@@ -87,11 +87,13 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Privacy Preserving Machine Learning
+* [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) ![](https://img.shields.io/github/stars/NervanaSystems/he-transformer.svg?style=social) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
+* [PySyft](https://github.com/OpenMined/PySyft) ![](https://img.shields.io/github/stars/OpenMined/PySyft.svg?style=social) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party Computation (MPC) within PyTorch.
+* [Microsoft SEAL](https://github.com/microsoft/SEAL) ![](https://img.shields.io/github/stars/microsoft/SEAL.svg?style=social) - Microsoft SEAL is an easy-to-use open-source (MIT licensed) homomorphic encryption library developed by the Cryptography Research group at Microsoft.
+* [Google's Differential Privacy](https://github.com/google/differential-privacy) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social) - This is a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF-Encrypted](https://github.com/mortendahl/tf-encrypted) ![](https://img.shields.io/github/stars/mortendahl/tf-encrypted.svg?style=social) - A Python library built on top of TensorFlow for researchers and practitioners to experiment with privacy-preserving machine learning.
-* [PySyft](https://github.com/OpenMined/PySyft) ![](https://img.shields.io/github/stars/OpenMined/PySyft.svg?style=social) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party Computation (MPC) within PyTorch.
 * [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) ![](https://img.shields.io/github/stars/uber/sql-differential-privacy.svg?style=social) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
-* [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) ![](https://img.shields.io/github/stars/NervanaSystems/he-transformer.svg?style=social) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
 
 
 
