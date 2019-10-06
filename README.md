@@ -170,6 +170,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industrial Strength Visualisation libraries
 * [Plotly Dash](https://github.com/plotly/dash) ![](https://img.shields.io/github/stars/plotly/dash.svg?style=social) - Dash is a Python framework for building analytical web applications without the need to write javascript.
+* [Streamlit](https://github.com/streamlit/streamlit) ![](https://img.shields.io/github/stars/streamlit/streamlit.svg?style=social) - Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file
 * [PDPBox](https://github.com/SauceCat/PDPbox) ![](https://img.shields.io/github/stars/SauceCat/PDPbox.svg?style=social) - This repository is inspired by ICEbox. The goal is to visualize the impact of certain features towards model prediction for any supervised learning algorithm. (now support all scikit-learn algorithms)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox) ![](https://img.shields.io/stars/AustinRochford/PyCEbox.svg?style=social) - Python Individual Conditional Expectation Plot Toolbox
 * [Plotly.py](https://github.com/plotly/plotly.py) ![](https://img.shields.io/github/stars/plotly/plotly.svg?style=social) - An interactive, open source, and browser-based graphing library for Python.
