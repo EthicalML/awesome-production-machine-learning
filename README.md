@@ -190,6 +190,7 @@ This repository contains a curated list of awesome open source libraries that wi
 ## Industrial Strength NLP
 * [SpaCy](https://github.com/explosion/spaCy) ![](https://img.shields.io/github/stars/explosion/spaCy.svg?style=social) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
 * [Flair](https://github.com/zalandoresearch/flair) ![](https://img.shields.io/github/stars/zalandoresearch/flair.svg?style=social) - Simple framework for state-of-the-art NLP developed by Zalando which builds directly on PyTorch.
+* [CTRL](https://github.com/salesforce/ctrl) ![](https://img.shields.io/github/stars/salesforce/ctrl.svg?style=social) - A Conditional Transformer Language Model for Controllable Generation released by SalesForce
 * [Wav2Letter++](https://code.fb.com/ai-research/wav2letter/) - A speech to text system developed by Facebook's FAIR teams.
 * [GNES](https://github.com/gnes-ai/gnes) ![](https://img.shields.io/github/stars/gnes-ai/gnes.svg?style=social) - Generic Neural Elastic Search is a cloud-native semantic search system based on deep neural networks.
 * [GluonNLP](https://github.com/dmlc/gluon-nlp) ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg?style=social) - GluonNLP is a toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your Natural Language Processing (NLP) research.
