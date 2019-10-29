@@ -263,7 +263,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [NumPyWren](https://github.com/Vaishaal/numpywren) ![](https://img.shields.io/github/stars/Vaishaal/numpywren.svg?style=social) - Scientific computing framework build on top of pywren to enable numpy-like distributed computations
 * [BigDL](https://bigdl-project.github.io/) - Deep learning framework on top of Spark/Hadoop to distribute data and computations across a HDFS system
 * [Horovod](https://github.com/uber/horovod) ![](https://img.shields.io/github/stars/uber/horovod.svg?style=social) - Uber's distributed training framework for TensorFlow, Keras, and PyTorch
-* [Apache Spark MLib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library in Java, Scala, Python and R
+* [Apache Spark MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library in Java, Scala, Python and R
 * [Dask](http://dask.pydata.org/en/latest/) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
 
 
