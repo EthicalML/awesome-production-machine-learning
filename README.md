@@ -19,8 +19,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
-| [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
-| [💰 Commercial Platforms](#commercial-platforms)
+| [ Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
+| [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms)
 
 ## 10 Min Video Overview
 
