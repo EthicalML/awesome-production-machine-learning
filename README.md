@@ -309,7 +309,14 @@ This repository contains a curated list of awesome open source libraries that wi
 * [AutoML-GS](https://github.com/minimaxir/automl-gs) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic feature and model search with code generation in Python, on top of common data science libraries (tensorflow, sklearn, etc)
 * [automl](https://github.com/ClimbsRocks/auto_ml) ![](https://img.shields.io/github/stars/ClimbsRocks/automl.svg?style=social) - Automated feature engineering, feature/model selection, hyperparam. optimisation
 * [Feature Engine](https://github.com/solegalli/feature_engine) ![](https://img.shields.io/github/stars/solegalli/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models. 
+
+
+## Feature Stores
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
+* [Feature Store for Machine Learning (FEAST)](https://github.com/gojek/feast)  ![](https://img.shields.io/github/stars/gojek/feast.svg?style=social) - Feast (Feature Store) is a tool for managing and serving machine learning features. Feast is the bridge between models and data.
+* [Veri](https://github.com/bgokden/veri) ![](https://img.shields.io/github/stars/bgokden/veri.svg?style=social) - Veri is a Feature Label Store. Feature Label store allows storing features as keys and labels as values. Querying values is only possible with knn using features. Veri also supports creating sub sample spaces of data by default.
+* [Ivory](https://github.com/antony-a1/ivory)  ![](https://img.shields.io/github/stars/antony-a1/ivory.svg?style=social) - ivory defines a specification for how to store feature data and provides a set of tools for querying it. It does not provide any tooling for producing feature data in the first place. All ivory commands run as MapReduce jobs so it assumed that feature data is maintained on HDFS.
+
 
 ## Commercial Platforms
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
