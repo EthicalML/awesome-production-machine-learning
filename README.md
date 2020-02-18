@@ -238,6 +238,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
 * [Apache Nifi](https://github.com/apache/nifi) ![](https://img.shields.io/github/stars/apache/nifi.svg?style=social) - Apache NiFi was made for dataflow. It supports highly configurable directed graphs of data routing, transformation, and system mediation logic.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ![](https://img.shields.io/github/stars/Neuraxio/Neuraxle.svg?style=social) - A framework for building neat pipelines, providing the right abstractions to chain your data transformation and prediction steps with data streaming, as well as doing hyperparameter searches (AutoML).
+* [Metaflow](https://metaflow.org/) ![](https://img.shields.io/github/stars/netflix/metaflow.svg?style=social) - A framework for data scientists to easily build and manage real-life data science projects.
 
 ## Data Labelling Tools and Frameworks
 * [Labelimg](https://github.com/tzutalin/labelImg) ![](https://img.shields.io/github/stars/tzutalin/labelImg.svg?style=social) - Open source graphical image annotation tool writen in Python using QT for graphical interface focusing primarily on bounding boxes.
@@ -251,7 +252,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ![](https://img.shields.io/github/stars/abreheret/PixelAnnotationTool.svg?style=social) - Image annotation tool with ability to "colour" on the images to select labels for segmentation. Process is semi-automated with the [watershed marked algorithm of OpenCV](docs.opencv.org/3.1.0/d7/d1b/group__imgproc__misc.html#ga3267243e4d3f95165d55a618c65ac6e1)
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ![](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social) - Open source tool for labelling images with support for labels, edges, as well as image resizing and zooming in.
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
-* [Superintendent](https://github.com/janfreyberg/superintendent) ![](https://img.shields.io/github/stars/janfreyberg/superintendent.svg?style=social) - superintendent provides an ipywidget-based interactive labelling tool for your data. 
+* [Superintendent](https://github.com/janfreyberg/superintendent) ![](https://img.shields.io/github/stars/janfreyberg/superintendent.svg?style=social) - superintendent provides an ipywidget-based interactive labelling tool for your data.
 
 ## Data Storage Optimisation
 * [EdgeDB](https://edgedb.com/) - NoSQL interface for Postgres that allows for object interaction to data stored
@@ -314,7 +315,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Colombus](http://i.stanford.edu/hazy/victor/columbus/) - A scalable framework to perform exploratory feature selection implemented in R
 * [AutoML-GS](https://github.com/minimaxir/automl-gs) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic feature and model search with code generation in Python, on top of common data science libraries (tensorflow, sklearn, etc)
 * [automl](https://github.com/ClimbsRocks/auto_ml) ![](https://img.shields.io/github/stars/ClimbsRocks/automl.svg?style=social) - Automated feature engineering, feature/model selection, hyperparam. optimisation
-* [Feature Engine](https://github.com/solegalli/feature_engine) ![](https://img.shields.io/github/stars/solegalli/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models. 
+* [Feature Engine](https://github.com/solegalli/feature_engine) ![](https://img.shields.io/github/stars/solegalli/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
 
 
 ## Feature Stores
@@ -349,4 +350,3 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 * [Logical Clocks Hopsworks](https://www.logicalclocks.com/) - Enterprise version of Hopsworks with a Feature Store and scale-out ML pipeline design and operation.
 * [Talend Studio](https://www.talend.com/)
-
