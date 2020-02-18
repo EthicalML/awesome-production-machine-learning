@@ -185,6 +185,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
 * [Hydrogen](https://atom.io/packages/hydrogen) - A plugin for ATOM that enables it to become a jupyter-notebook-like interface that prints the outputs directly in the editor.
 * [H2O Flow](https://www.h2o.ai/download/) - Jupyter notebook-like interface for H2O to create, save and re-use "flows"
+* [Binder](https://mybinder.org/) - Binder hosts notebooks in an executable environment (for free).
 
 * [Papermill](https://github.com/nteract/papermill) ![](https://img.shields.io/github/stars/nteract/papermill.svg?style=social) - Papermill is a library for parameterizing notebooks and executing them like Python scripts.
 * [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
