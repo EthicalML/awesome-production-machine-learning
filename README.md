@@ -104,7 +104,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF-Encrypted](https://github.com/mortendahl/tf-encrypted) ![](https://img.shields.io/github/stars/mortendahl/tf-encrypted.svg?style=social) - A Python library built on top of TensorFlow for researchers and practitioners to experiment with privacy-preserving machine learning.
 * [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) ![](https://img.shields.io/github/stars/uber/sql-differential-privacy.svg?style=social) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
-
+* [Substra](https://github.com/SubstraFoundation/substra)![](https://img.shields.io/github/stars/SubstraFoundation/substra.svg?style=social) - Substra is an open-source framework for privacy-preserving, traceable and collaborative Machine Learning.
 
 
 ## Model and Data Versioning
