@@ -126,7 +126,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Flor](https://github.com/ucbrise/flor/blob/master/rtd/index.rst) ![](https://img.shields.io/github/stars/ucbrise/flor.svg?style=social) - Easy to use logger and automatic version controller made for data scientists who write ML code
 * [D6tflow](https://github.com/d6t/d6tflow) ![](https://img.shields.io/github/stars/d6t/d6tflow.svg?style=social) - A python library that allows for building complex data science workflows on Python.
 * [TRAINS](https://github.com/allegroai/trains) ![](https://img.shields.io/github/stars/allegroai/trains.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI.
-* [Kedro](https://github.com/quantumblacklabs/kedro/) ![](https://img.shields.io/github/stars/quantumblacklabs/kedro.svg?style=social) - Kedro is a workflow development tool that helps you build data pipelines that are robust, scalable, deployable, reproducible and versioned.
+* [Kedro](https://github.com/quantumblacklabs/kedro/) ![](https://img.shields.io/github/stars/quantumblacklabs/kedro.svg?style=social) - Kedro is a workflow development tool that helps you build data pipelines that are robust, scalable, deployable, reproducible and versioned. Visualization of the kedro workflows can be done by [`kedro-viz`](https://github.com/quantumblacklabs/kedro-viz)
 * [MLWatcher](https://github.com/anodot/MLWatcher) ![](https://img.shields.io/github/stars/anodot/MLWatcher.svg?style=social) - MLWatcher is a python agent that records a large variety of time-serie metrics of your running ML classification algorithm. It enables you to monitor in real time.
 
 ## Model Deployment and Orchestration Frameworks
@@ -235,11 +235,14 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Argo Workflows](https://github.com/argoproj/argo) ![](https://img.shields.io/github/stars/argoproj/argo.svg?style=social) - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD (Custom Resource Definition).
 * [Azkaban](https://azkaban.github.io/) ![](https://img.shields.io/github/stars/azkaban/azkaban.svg?style=social) - Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows.
 * [Luigi](https://github.com/spotify/luigi) ![](https://img.shields.io/github/stars/spotify/luigi.svg?style=social) - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc
+* [PipelineX](https://github.com/Minyus/pipelinex) ![](https://img.shields.io/github/stars/Minyus/pipelinex.svg?style=social) - Based on Kedro and MLflow. Full comparison given at https://github.com/Minyus/Python_Packages_for_Pipeline_Workflow
 * [Genie](https://github.com/Netflix/genie) ![](https://img.shields.io/github/stars/Netflix/genie.svg?style=social) - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
 * [Apache Nifi](https://github.com/apache/nifi) ![](https://img.shields.io/github/stars/apache/nifi.svg?style=social) - Apache NiFi was made for dataflow. It supports highly configurable directed graphs of data routing, transformation, and system mediation logic.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ![](https://img.shields.io/github/stars/Neuraxio/Neuraxle.svg?style=social) - A framework for building neat pipelines, providing the right abstractions to chain your data transformation and prediction steps with data streaming, as well as doing hyperparameter searches (AutoML).
 * [Metaflow](https://metaflow.org/) ![](https://img.shields.io/github/stars/netflix/metaflow.svg?style=social) - A framework for data scientists to easily build and manage real-life data science projects.
+* [Gokart](https://github.com/m3dev/gokart) ![](https://img.shields.io/github/stars/m3dev/gokart.svg?style=social) - Wrapper of the data pipeline Luigi
+* [Chronos](https://github.com/mesos/chronos) ![](https://img.shields.io/github/stars/mesos/chronos.svg?style=social) - More of a job scheduler for Mesos than ETL pipeline. [OUTDATED]
 
 ## Data Labelling Tools and Frameworks
 * [Labelimg](https://github.com/tzutalin/labelImg) ![](https://img.shields.io/github/stars/tzutalin/labelImg.svg?style=social) - Open source graphical image annotation tool writen in Python using QT for graphical interface focusing primarily on bounding boxes.
@@ -351,3 +354,4 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 * [Logical Clocks Hopsworks](https://www.logicalclocks.com/) - Enterprise version of Hopsworks with a Feature Store and scale-out ML pipeline design and operation.
 * [Talend Studio](https://www.talend.com/)
+* [Prodigy](https://prodi.gy/) - Active learning-based data annotation. Allows to train a model and pick most 'uncertain' samples for labeling from an unlabeled pool.
