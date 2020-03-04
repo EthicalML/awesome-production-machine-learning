@@ -176,6 +176,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [ENAS via Parameter Sharing](https://github.com/melodyguan/enas) - Efficient Neural Architecture Search via Parameter Sharing by [authors of paper](https://arxiv.org/abs/1802.03268).
 * [ENAS-Tensorflow](https://github.com/MINGUKKANG/ENAS-Tensorflow) ![](https://img.shields.io/github/stars/MINGUKKANG/ENAS-Tensorflow.svg?style=social) - Efficient Neural Architecture search via parameter sharing(ENAS) micro search Tensorflow code for windows user.
 * [Maggy](https://github.com/logicalclocks/maggy) ![](https://img.shields.io/github/stars/logicalclocks/maggy.svg?style=social) - Asynchronous, directed Hyperparameter search and parallel ablation studies on Apache Spark [(Video)](https://www.youtube.com/watch?v=0Hd1iYEL03w).
+* [Katib](https://github.com/kubeflow/katib) ![](https://img.shields.io/github/stars/kubeflow/katib.svg?style=social) - A Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search.
 
 ## Data Science Notebook Frameworks
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) ![](https://img.shields.io/github/stars/ml-tooling/ml-workspace.svg?style=social) - All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
