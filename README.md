@@ -20,7 +20,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
-| [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms)
+| [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms) | [:free: Open Source Platforms](#open-source-platforms)
 
 ## 10 Min Video Overview
 
