@@ -95,7 +95,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [responsibly](https://github.com/ResponsiblyAI/responsibly) ![](https://img.shields.io/github/stars/ResponsiblyAI/responsibly.svg?style=social) - Toolkit for auditing and mitigating bias and fairness of machine learning systems
 * [captum](https://github.com/pytorch/captum) ![](https://img.shields.io/github/stars/pytorch/captum.svg?style=social) - model interpretability and understanding library for PyTorch developed by Facebook. It contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models.
 * [MindsDB](https://github.com/mindsdb/mindsdb) ![](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social) -  An Explainable AutoML framework for developers built on top of Pytorch. With MindsDB developers can build, train and use state of the art ML models in as simple as one line of code.
-
+* [keras-vis](https://github.com/raghakot/keras-vis) ![](https://img.shields.io/github/stars/raghakot/keras-vis.svg?style=social) -  keras-vis is a high-level toolkit for visualizing and debugging your trained keras neural net models. Currently supported visualizations include: Activation maximization, Saliency maps, Class activation maps
 
 ## Privacy Preserving Machine Learning
 * [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) ![](https://img.shields.io/github/stars/NervanaSystems/he-transformer.svg?style=social) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
