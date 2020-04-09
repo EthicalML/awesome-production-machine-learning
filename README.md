@@ -20,7 +20,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
-| [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms) | [:free: Open Source Platforms](#open-source-platforms)
+| [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms)
 
 ## 10 Min Video Overview
 
@@ -133,6 +133,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Model Deployment and Orchestration Frameworks
 * [Cortex](https://github.com/cortexlabs/cortex) ![]() - Cortex is an open source platform for deploying machine learning models—trained with nearly any framework—as production web services.
+* [cnvrg CORE](https://cnvrg.io/platform/core/) - cnvrg CORE offers everything a data scientist needs to manage, build and automate high impact ML models from research to production. ([Video](https://www.youtube.com/watch?v=WrbW3gTxmQM))
 * [Seldon](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 * [KFServing](https://github.com/kubeflow/kfserving) ![](https://img.shields.io/github/stars/kubeflow/kfserving.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU)
 * [Redis-AI](https://github.com/RedisAI/RedisAI) ![](https://img.shields.io/github/stars/RedisAI/RedisAI.svg?style=social) - A Redis module for serving tensors and executing deep learning models. Expect changes in the API and internals.
@@ -377,7 +378,3 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Prodigy](https://prodi.gy/) - Active learning-based data annotation. Allows to train a model and pick most 'uncertain' samples for labeling from an unlabeled pool.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
-
-## Open Source Platforms
-
-* [cnvrg CORE](https://cnvrg.io/platform/core/) - cnvrg CORE offers everything a data scientist needs to manage, build and automate high impact ML models from research to production. ([Video](https://www.youtube.com/watch?v=WrbW3gTxmQM))
