@@ -378,4 +378,3 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Spell](https://spell.run) - Flexible end-to-end MLOps / Machine Learning Platform. [(Video)](https://www.youtube.com/watch?v=J7xo-STHx1k)
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
-* [y-hat](https://www.yhat.com/) - Deployment, updating and monitoring of predictive models in multiple languages [(Video)](https://www.youtube.com/watch?v=YiEjaWwzS_w)
