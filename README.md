@@ -362,7 +362,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 * [Datmo](https://datmo.com/) - Workflow tools for monitoring your deployed models to experiment and optimize models in production.
-* [deepsense AIOps](https://aiops.deepsense.ai/)
+* [deepsense AIOps](https://aiops.deepsense.ai/) - Enhances multi-cloud & data center IT Operations via traffic analysis, risk analysis, anomaly detection, predictive maintenance, root cause analysis, service ticket analysis and event consolidation.
 * [deepsense Safety](https://safety.deepsense.ai/)
 * [deepsense Quality](https://quality.deepsense.ai/)
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
