@@ -98,6 +98,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter) ![](https://img.shields.io/github/stars/andosa/treeinterpreter.svg?style=social) - Package for interpreting scikit-learn's decision tree and random forest predictions. Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/.
 * [woe](https://github.com/boredbird/woe) ![](https://img.shields.io/github/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
 * [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![](https://img.shields.io/github/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
+* [mljar-supervised](https://github.com/mljar/mljar-supervised) ![](https://img.shields.io/github/stars/mljar/mljar-supervised.svg?style=social) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides feature engineering, explanations and markdown reports.
+
 
 ## Privacy Preserving Machine Learning
 * [Google's Differential Privacy](https://github.com/google/differential-privacy) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social) - This is a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
@@ -347,7 +349,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![](https://img.shields.io/github/stars/rsteca/sklearn-deap.svg?style=social) Use evolutionary algorithms instead of gridsearch in scikit-learn.
 * [TPOT](https://epistasislab.github.io/tpot/) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?style=social) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc)
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series
-
+* [mljar-supervised](https://github.com/mljar/mljar-supervised) ![](https://img.shields.io/github/stars/mljar/mljar-supervised.svg?style=social) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides feature engineering, explanations and markdown reports.
 
 
 ## Feature Stores
