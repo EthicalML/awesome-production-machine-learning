@@ -368,6 +368,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [bigml](https://bigml.com/) - E2E machine learning platform.
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
+* [D2iQ KUDO for Kubeflow](https://d2iq.com/solutions/ksphere/kudo-kubeflow) - Enterprise MLOps platform that runs in the cloud, on premises (incl. air-gapped), or on the edge; based on Kubeflow and open-source [KUDO](https://kudo.dev/) operators.
 * [Dataiku](https://www.dataiku.com/) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
