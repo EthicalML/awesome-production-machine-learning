@@ -19,7 +19,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
-| [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
+| [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-stream-processing) | [🌀 Feature engineering](#feature-engineering-automation)
 | [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms)
 
 ## 10 Min Video Overview
@@ -212,8 +212,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Perspective](https://github.com/finos/perspective) ![](https://img.shields.io/github/stars/finos/perspective.svg?style=social) Streaming pivot visualization via WebAssembly https://perspective.finos.org/
 * [Pixiedust](https://github.com/pixiedust/pixiedust) ![](https://img.shields.io/github/stars/pixiedust/pixiedust.svg?style=social) - PixieDust is a productivity tool for Python or Scala notebooks, which lets a developer encapsulate business logic into something easy for your customers to consume.
 * [Plotly Dash](https://github.com/plotly/dash) ![](https://img.shields.io/github/stars/plotly/dash.svg?style=social) - Dash is a Python framework for building analytical web applications without the need to write javascript.
-* [Plotly.py](https://github.com/plotly/plotly.py) ![](https://img.shields.io/github/stars/plotly/plotly.svg?style=social) - An interactive, open source, and browser-based graphing library for Python.
-* [PyCEbox](https://github.com/AustinRochford/PyCEbox) ![](https://img.shields.io/stars/AustinRochford/PyCEbox.svg?style=social) - Python Individual Conditional Expectation Plot Toolbox
+* [Plotly.py](https://github.com/plotly/plotly.py) ![](https://img.shields.io/github/stars/plotly/plotly.py.svg?style=social) - An interactive, open source, and browser-based graphing library for Python.
+* [PyCEbox](https://github.com/AustinRochford/PyCEbox) ![](https://img.shields.io/github/stars/AustinRochford/PyCEbox.svg?style=social) - Python Individual Conditional Expectation Plot Toolbox
 * [pygal](https://github.com/Kozea/pygal) ![](https://img.shields.io/github/stars/Kozea/pygal.svg?style=social) - pygal is a dynamic SVG charting library written in python
 * [Redash](https://github.com/getredash/redash) ![](https://img.shields.io/github/stars/getredash/redash.svg?style=social) - Redash is anopen source visualisation framework that is built to allow easy access to big datasets leveraging multiple backends.
 * [seaborn](https://github.com/mwaskom/seaborn) ![](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=social) - Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
