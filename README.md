@@ -15,13 +15,13 @@ This repository contains a curated list of awesome open source libraries that wi
 | | | |
 |-|-|-|
 |[🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning)|
-|[🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks)|[⚔ Adversarial Robustness](#adversarial-robustness-libraries)|[🤖 Neural Architecture Search](#neural-architecture-search)|
+|[🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks)|[💪 Model Serving and Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
 | [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
-| [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier and Anomaly Detection](#outlier-and-anomaly-detection) 
-| [🌀 Feature engineering](#feature-engineering-automation) | [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms)
-
+| [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-stream-processing) | [🌀 Feature engineering](#feature-engineering-automation)
+| [🎁 Feature Stores](#feature-stores) | [💰 Commercial Platforms](#commercial-platforms) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries)
+ 
 ## 10 Min Video Overview
 
 <table>
@@ -74,7 +74,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Fairlearn](https://fairlearn.github.io) ![](https://img.shields.io/github/stars/fairlearn/fairlearn.svg?style=social) - Fairlearn is a python toolkit to assess and mitigate unfairness in machine learning models.
 * [FairML](https://github.com/adebayoj/fairml) ![](https://img.shields.io/github/stars/adebayoj/fairml.svg?style=social) - FairML is a python toolbox auditing the machine learning models for bias.
 * [fairness](https://github.com/algofairness/fairness-comparison) ![](https://img.shields.io/github/stars/algofairness/fairness-comparison.svg?style=social) - This repository is meant to facilitate the benchmarking of fairness aware machine learning algorithms based on [this paper](https://arxiv.org/abs/1802.04422).
-* [GEBI - Global Explanations for Bias Identification](https://github.com/AgaMiko/GEBI) ![](https://img.shields.io/github/stars/AgaMiko/GEBI.svg?style=social) - An attention-based summarized post-hoc explanations for detection and identification of bias in data. We propose a global explanation and introduce a step-by-step framework on how to detect and test bias. Python package for image data.
 * [IBM AI Explainability 360](https://github.com/IBM/AIX360/) ![](https://img.shields.io/github/stars/IBM/AIX360.svg?style=social) - Interpretability and explainability of data and machine learning models including a comprehensive set of algorithms that cover different dimensions of explanations along with proxy explainability metrics.
 * [IBM AI Fairness 360](https://github.com/IBM/AIF360) ![](https://img.shields.io/github/stars/IBM/AIF360.svg?style=social) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 * [iNNvestigate](https://github.com/albermax/innvestigate) ![](https://img.shields.io/github/stars/albermax/innvestigate.svg?style=social) - An open-source library for analyzing Keras models visually by methods such as [DeepTaylor-Decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), [PatternNet](https://openreview.net/forum?id=Hkn7CBaTW), [Saliency Maps](https://arxiv.org/abs/1312.6034), and [Integrated Gradients](https://arxiv.org/abs/1703.01365).
@@ -86,7 +85,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [LIME](https://github.com/marcotcr/lime) ![](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social) - Local Interpretable Model-agnostic Explanations for machine learning models.
 * [LOFO Importance](https://github.com/aerdem4/lofo-importance) ![](https://img.shields.io/github/stars/aerdem4/lofo-importance.svg?style=social) - LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.
 * [MindsDB](https://github.com/mindsdb/mindsdb) ![](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social) -   MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-* [mljar-supervised](https://github.com/mljar/mljar-supervised) ![](https://img.shields.io/github/stars/mljar/mljar-supervised.svg?style=social) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides feature engineering, explanations and markdown reports.
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) ![](https://img.shields.io/github/stars/MI2DataLab/pyBreakDown.svg?style=social) - A model agnostic tool for decomposition of predictions from black boxes. Break Down Table shows contributions of every variable to a final prediction.
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale) ![](https://img.shields.io/github/stars/taolei87/rcnn.svg?style=social) - Code to implement learning rationales behind predictions with code for paper ["Rationalizing Neural Predictions"](https://github.com/taolei87/rcnn/tree/master/code/rationale)
 * [responsibly](https://github.com/ResponsiblyAI/responsibly) ![](https://img.shields.io/github/stars/ResponsiblyAI/responsibly.svg?style=social) - Toolkit for auditing and mitigating bias and fairness of machine learning systems
@@ -101,6 +99,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter) ![](https://img.shields.io/github/stars/andosa/treeinterpreter.svg?style=social) - Package for interpreting scikit-learn's decision tree and random forest predictions. Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/.
 * [woe](https://github.com/boredbird/woe) ![](https://img.shields.io/github/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
 * [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![](https://img.shields.io/github/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
+* [mljar-supervised](https://github.com/mljar/mljar-supervised) ![](https://img.shields.io/github/stars/mljar/mljar-supervised.svg?style=social) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides feature engineering, explanations and markdown reports.
 
 
 ## Privacy Preserving Machine Learning
@@ -137,28 +136,32 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Studio.ML](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
 * [TRAINS](https://github.com/allegroai/trains) ![](https://img.shields.io/github/stars/allegroai/trains.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI.
 
-
 ## Model Deployment and Orchestration Frameworks
-* [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving
-* [Clipper](https://github.com/ucbrise/clipper) ![](https://img.shields.io/github/stars/ucbrise/clipper.svg?style=social) - Model server project from Berkeley's Rise Rise Lab which includes a standard RESTful API and supports TensorFlow, Scikit-learn and Caffe models
 * [cnvrg CORE](https://cnvrg.io/platform/core/) - cnvrg CORE offers everything a data scientist needs to manage, build and automate high impact ML models from research to production. ([Video](https://www.youtube.com/watch?v=WrbW3gTxmQM))
-* [Cortex](https://github.com/cortexlabs/cortex) ![]() - Cortex is an open source platform for deploying machine learning models—trained with nearly any framework—as production web services.
-* [DeepDetect](https://github.com/beniz/deepdetect) ![](https://img.shields.io/github/stars/beniz/deepdetect.svg?style=social) - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Hopsworks is a data-intensive platform for the design and operation of machine learning pipelines that includes a Feature Store. [(Video)](https://www.youtube.com/watch?v=v1DrnY8caVU).
-* [KFServing](https://github.com/kubeflow/kfserving) ![](https://img.shields.io/github/stars/kubeflow/kfserving.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU)
 * [Kubeflow](https://github.com/kubeflow/kubeflow) ![](https://img.shields.io/github/stars/kubeflow/kubeflow.svg?style=social) - A cloud native platform for machine learning based on Google’s internal machine learning pipelines.
 * [MLeap](https://github.com/combust/mleap) ![](https://img.shields.io/github/stars/combust/mleap.svg?style=social) - Standardisation of pipeline and model serialization for Spark, Tensorflow and sklearn
-* [Model Server for Apache MXNet (MMS)](https://github.com/awslabs/mxnet-model-server) ![](https://img.shields.io/github/stars/awslabs/mxnet-model-server.svg?style=social) - A model server for Apache MXNet from Amazon Web Services that is able to run MXNet models as well as Gluon models (Amazon's SageMaker runs a custom version of MMS under the hood)
-* [NVIDIA TensorRT Inference Server](https://github.com/NVIDIA/tensorrt-inference-server) - TensorRT Inference Server is an inference microservice that lets you serve deep learning models in production while maximizing GPU utilization.
 * [NVIDIA TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 * [Open Platform for AI](https://github.com/Microsoft/pai) ![](https://img.shields.io/github/stars/Microsoft/pai.svg?style=social) - Platform that provides complete AI model training and resource management capabilities.
-* [OpenScoring](https://github.com/openscoring/openscoring) ![](https://img.shields.io/github/stars/openscoring/openscoring.svg?style=social) - REST web service for scoring PMML models built and maintained by OpenScoring.io
 * [PyCaret](https://pycaret.org/) ![](https://img.shields.io/github/stars/pycaret/pycaret.svg?style=social)) - low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)
-* [Redis-AI](https://github.com/RedisAI/RedisAI) ![](https://img.shields.io/github/stars/RedisAI/RedisAI.svg?style=social) - A Redis module for serving tensors and executing deep learning models. Expect changes in the API and internals.
 * [Redis-ML](https://github.com/RedisLabsModules/redis-ml) ![](https://img.shields.io/github/stars/RedisLabsModules/redis-ml.svg?style=social) - Module available from unstable branch that supports a subset of ML models as Redis data types. (Replaced by Redis AI)
-* [Seldon](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 * [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![]() - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
+
+## Model Serving and Monitoring
 * [Tensorflow Serving](https://www.tensorflow.org/serving/) ![](https://img.shields.io/github/stars/tensorflow/serving.svg?style=social) - High-performant framework to serve Tensorflow models via grpc protocol able to handle 100k requests per second per core
+* [Tensorflow Extended](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
+* [Jina](https://github.com/jina-ai/jina)  ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Cloud native search framework that supports to use deep learning/state of the art AI models for search.
+* [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving
+* [KFServing](https://github.com/kubeflow/kfserving) ![](https://img.shields.io/github/stars/kubeflow/kfserving.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU)
+* [Cortex](https://github.com/cortexlabs/cortex) ![]() - Cortex is an open source platform for deploying machine learning models—trained with nearly any framework—as production web services.
+* [ForestFlow](https://github.com/ForestFlow/ForestFlow)![](https://img.shields.io/github/stars/forestflow/forestflow.svg?style=social) - Cloud-native machine learning model server.
+* [Clipper](https://github.com/ucbrise/clipper) ![](https://img.shields.io/github/stars/ucbrise/clipper.svg?style=social) - Model server project from Berkeley's Rise Rise Lab which includes a standard RESTful API and supports TensorFlow, Scikit-learn and Caffe models
+* [Redis-AI](https://github.com/RedisAI/RedisAI) ![](https://img.shields.io/github/stars/RedisAI/RedisAI.svg?style=social) - A Redis module for serving tensors and executing deep learning models. Expect changes in the API and internals.
+* [OpenScoring](https://github.com/openscoring/openscoring) ![](https://img.shields.io/github/stars/openscoring/openscoring.svg?style=social) - REST web service for scoring PMML models built and maintained by OpenScoring.io
+* [NVIDIA TensorRT Inference Server](https://github.com/NVIDIA/tensorrt-inference-server) - TensorRT Inference Server is an inference microservice that lets you serve deep learning models in production while maximizing GPU utilization.
+* [DeepDetect](https://github.com/beniz/deepdetect) ![](https://img.shields.io/github/stars/beniz/deepdetect.svg?style=social) - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain
+* [Model Server for Apache MXNet (MMS)](https://github.com/awslabs/mxnet-model-server) ![](https://img.shields.io/github/stars/awslabs/mxnet-model-server.svg?style=social) - A model server for Apache MXNet from Amazon Web Services that is able to run MXNet models as well as Gluon models (Amazon's SageMaker runs a custom version of MMS under the hood)
 
 
 ## Adversarial Robustness Libraries
@@ -341,16 +344,6 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Faust](https://github.com/robinhood/faust) ![](https://img.shields.io/github/stars/robinhood/faust.svg?style=social) - Streaming library built on top of Python's Asyncio library using the async kafka client inspired by the kafka streaming library.
 * [Kafka Streams](https://kafka.apache.org/documentation/streams/) ![](https://img.shields.io/github/stars/apache/kafka.svg?style=social) - Kafka client library for buliding applications and microservices where the input and output are stored in kafka clusters
 * [Spark Streaming](https://spark.apache.org/streaming/) ![](https://img.shields.io/github/stars/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics
-
-## Outlier and Anomaly Detection
-* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.  
-* [Alibi-Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/seldonio/alibi-detect.svg) - Algorithms for outlier and adversarial instance detection, concept drift and metrics.
-* [dBoost](https://github.com/cpitclaudel/dBoost) ![](https://img.shields.io/github/stars/cpitclaudel/dBoost.svg) - Outlier detection in heterogeneous datasets using automatic tuple expansion. [Paper](https://dspace.mit.edu/bitstream/handle/1721.1/101150/MIT-CSAIL-TR-2016-002.pdf?sequence=1).
-* [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-* [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
-* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection). 
-* [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg) - An Acceleration System for Large-scale Outlier Detection (Anomaly Detection) 
-* [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg) - Library for exploring and validating machine learning data.
 
 
 ## Feature Engineering Automation
