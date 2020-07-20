@@ -262,6 +262,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Oozie](http://oozie.apache.org/) - Workflow scheduler for Hadoop jobs
 * [PipelineX](https://github.com/Minyus/pipelinex) ![](https://img.shields.io/github/stars/Minyus/pipelinex.svg?style=social) - Based on Kedro and MLflow. Full comparison given at https://github.com/Minyus/Python_Packages_for_Pipeline_Workflow
 * [Prefect Core](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
+* [Basin](https://github.com/basin-etl/basin) ![](https://img.shields.io/github/stars/basin-etl/basin.svg?style=social) - Visual programming editor for building Spark and PySpark pipelines
 
 ## Data Labelling Tools and Frameworks
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg) - Web-based image segmentation tool for object detection, localization and keypoints
