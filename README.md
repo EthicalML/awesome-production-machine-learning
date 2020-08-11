@@ -338,6 +338,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [CuDF](https://github.com/rapidsai/cudf) ![](https://img.shields.io/github/stars/rapidsai/cudf.svg?style=social) cuDF - GPU DataFrame Library http://rapids.ai
 * [CuML](https://github.com/rapidsai/cuml) ![](https://img.shields.io/github/stars/rapidsai/cuml.svg?style=social) cuML - RAPIDS Machine Learning Library
 * [CuPy](https://github.com/cupy/cupy) ![](https://img.shields.io/github/stars/cupy/cupy.svg?style=social) NumPy-like API accelerated with CUDA
+* [H2O-3](https://github.com/h2oai/h2o-3) ![](https://img.shields.io/github/stars/h2oai/h2o-3.svg?style=social) - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 * [Modin](https://github.com/modin-project/modin) ![](https://img.shields.io/github/stars/modin-project/modin.svg?style=social) - Speed up your Pandas workflows by changing a single line of code 
 * [Numba](https://github.com/numba/numba) ![](https://img.shields.io/github/stars/numba/numba.svg?style=social)  - A compiler for Python array and numerical functions
 * [NumpyGroupies](https://github.com/ml31415/numpy-groupies) ![](https://img.shields.io/github/stars/ml31415/numpy-groupies.svg?style=social) Optimised tools for group-indexing operations: aggregated sum and more
@@ -400,6 +401,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [deepsense Safety](https://safety.deepsense.ai/) - AI-driven solution to increase worksite safety via safety procedure check, thread detection and hazardous zones monitoring.
 * [deepsense Quality](https://quality.deepsense.ai/) - Automating laborious quality control tasks.
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
+* [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring. [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc)
 * [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning) - Create, train, and deploy self-learning models using an automated, collaborative workflow.
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
