@@ -397,6 +397,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
 * [Cubonacci](https://cubonacci.com) - The Cubonacci platform manages deployment, versioning, infrastructure, monitoring and lineage for you, eliminating risk and minimizing time-to-market.
 * [D2iQ KUDO for Kubeflow](https://d2iq.com/solutions/ksphere/kudo-kubeflow) - [Enterprise machine learning platform](https://d2iq.com/blog/kudo-for-kubeflow-the-enterprise-machine-learning-platform) that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source Kubernetes Universal Declarative Operators ([KUDO](https://kudo.dev/)).
+* [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
 * [Dataiku](https://www.dataiku.com/) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
