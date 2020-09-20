@@ -113,10 +113,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Substra](https://github.com/SubstraFoundation/substra)![](https://img.shields.io/github/stars/SubstraFoundation/substra.svg?style=social) - Substra is an open-source framework for privacy-preserving, traceable and collaborative Machine Learning.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
+* [Trail of Bits's PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) ![](https://img.shields.io/github/stars/trailofbits/PrivacyRaven.svg?style=social) - PrivacyRaven is an easy-to-use privacy testing suite for deep learning written in Python, primarily enabling users to launch privacy attacks.
 * [Uber SQL Differencial Privacy](https://github.com/uber/sql-differential-privacy) ![](https://img.shields.io/github/stars/uber/sql-differential-privacy.svg?style=social) - Uber's open source framework that enforces differential privacy for general-purpose SQL queries.
-* [Trail of Bits's PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) ![](https://img.shields.io/github/stars/trailofbits/PrivacyRaven.svg?style=social) - 
-PrivacyRaven is an easy-to-use privacy testing suite for deep learning written in Python, enabling users to simulate privacy attacks. 
-
 
 ## Model and Data Versioning
 * [Apache Marvin](https://github.com/apache/incubator-marvin) ![](https://img.shields.io/github/stars/apache/incubator-marvin.svg?style=social) is a platform for model deployment and versioning that hides all complexity under the hood: data scientists just need to set up the server and write their code in an extended jupyter notebook.
