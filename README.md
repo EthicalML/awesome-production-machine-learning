@@ -271,6 +271,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg) - Web-based image segmentation tool for object detection, localization and keypoints
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) ![](https://img.shields.io/github/stars/opencv/cvat.svg?style=social) - OpenCV's web-based annotation tool for both VIDEOS and images for computer algorithms.
 * [Doccano](https://github.com/chakki-works/doccano) ![](https://img.shields.io/github/stars/chakki-works/doccano.svg?style=social) - Open source text annotation tools for humans, providing functionality for sentiment analysis, named entity recognition, and machine translation.
+* [Diffgram](https://github.com/diffgram/diffgram) ![](https://img.shields.io/github/stars/diffgram/diffgram.svg?style=social) - Annotation Tooling, Training Data & Deep Learning
 * [ImageTagger](https://github.com/bit-bots/imagetagger) ![](https://img.shields.io/github/stars/bit-bots/imagetagger.svg?style=social) - Image labelling tool with support for collaboration, supporting bounding box, polygon, line, point labelling, label export, etc.
 * [ImgLab](https://github.com/NaturalIntelligence/imglab) ![](https://img.shields.io/github/stars/NaturalIntelligence/imglab.svg?style=social) - Image annotation tool for bounding boxes with auto-suggestion and extensibility for plugins.
 * [Label Studio](https://github.com/heartexlabs/label-studio) ![](https://img.shields.io/github/stars/heartexlabs/label-studio.svg?style=social) - Multi-domain data labeling and annotation tool with standardized output format
@@ -406,6 +407,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Deep Cognition Deep Learning Studio](https://deepcognition.ai/) - E2E platform for deep learning.
 * [deepsense Safety](https://safety.deepsense.ai/) - AI-driven solution to increase worksite safety via safety procedure check, thread detection and hazardous zones monitoring.
 * [deepsense Quality](https://quality.deepsense.ai/) - Automating laborious quality control tasks.
+* [Diffgram](https://diffgram.com/) - 🐉 Database for AI.
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
 * [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring. [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc)
 * [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning) - Create, train, and deploy self-learning models using an automated, collaborative workflow.
