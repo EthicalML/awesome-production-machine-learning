@@ -147,7 +147,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Open Platform for AI](https://github.com/Microsoft/pai) ![](https://img.shields.io/github/stars/Microsoft/pai.svg?style=social) - Platform that provides complete AI model training and resource management capabilities.
 * [PyCaret](https://pycaret.org/) ![](https://img.shields.io/github/stars/pycaret/pycaret.svg?style=social)) - low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)
 * [Redis-ML](https://github.com/RedisLabsModules/redis-ml) ![](https://img.shields.io/github/stars/RedisLabsModules/redis-ml.svg?style=social) - Module available from unstable branch that supports a subset of ML models as Redis data types. (Replaced by Redis AI)
-* [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![]() - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
+* [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![](https://img.shields.io/github/stars/GoogleContainerTools/skaffold.svg?style=social) - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
 * [Tensorflow Extended (TFX)](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
 
 ## Model Serving and Monitoring
