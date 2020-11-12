@@ -17,11 +17,11 @@ This repository contains a curated list of awesome open source libraries that wi
 |[🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning)|
 |[🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving and Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
 | [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
+| [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |  [📅 Medata Management](#metadata-management)  |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🧮 Optimized calculation frameworks](#optimized-calculation-frameworks)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier and Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature engineering](#feature-engineering-automation) | [🎁 Feature Stores](#feature-stores) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries) |
-|[💰 Commercial Platforms](#commercial-platforms)
+|[💰 Commercial Platforms](#commercial-platforms) | [💾 Data Storage Layer](#data-storage-optimisation)
 
 ## 10 Min Video Overview
 
@@ -285,6 +285,15 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Superintendent](https://github.com/janfreyberg/superintendent) ![](https://img.shields.io/github/stars/janfreyberg/superintendent.svg?style=social) - superintendent provides an ipywidget-based interactive labelling tool for your data. 
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) - A simple and standalone manual annotation software for image, audio and video. VIA runs in a web browser and does not require any installation or setup.
 * [Visual Object Tagging Tool (VOTT)](https://github.com/Microsoft/VoTT) ![](https://img.shields.io/github/stars/Microsoft/VoTT.svg?style=social) - Microsoft's Open Source electron app for labelling videos and images for object detection models (with active learning functionality)
+
+## Metadata Management
+
+* [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+* [Apache Atlas](https://github.com/apache/atlas) ![](https://img.shields.io/github/stars/apache/atlas.svg?style=social) - Apache Atlas framework is an extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
+* [DataHub](https://github.com/linkedin/datahub) ![](https://img.shields.io/github/stars/linkedin/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
+* [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
+* [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these three problems: 1) Federate views of metadata systems. 2) Allow arbitrary metadata storage about data sets. 3) Metadata discovery.
+
 
 ## Data Storage Optimisation
 * [Alluxio](https://www.alluxio.org/docs/1.8/en/Overview.html) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
