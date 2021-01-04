@@ -328,6 +328,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [OpenFaaS](https://github.com/openfaas/faas) ![](https://img.shields.io/github/stars/openfaas/faas.svg?style=social) - Serverless functions framework with RESTful API on Kubernetes
 
 ## Computation load distribution frameworks
+* [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo/) ![](https://img.shields.io/github/stars/intel-analytics/analytics-zoo.svg?style=social) - A unified Data Analytics and AI platform for distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 * [Apache Spark MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library in Java, Scala, Python and R
 * [Beam](https://github.com/apache/beam) ![](https://img.shields.io/github/stars/apache/beam.svg?style=social) Apache Beam is a unified programming model for Batch and Streaming https://beam.apache.org/
 * [BigDL](https://bigdl-project.github.io/) - Deep learning framework on top of Spark/Hadoop to distribute data and computations across a HDFS system
