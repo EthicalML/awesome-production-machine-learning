@@ -143,7 +143,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TRAINS](https://github.com/allegroai/trains) ![](https://img.shields.io/github/stars/allegroai/trains.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI.
 
 ## Model Training Orchestration
-* [CML](https://cml.dev/) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. 
+* [CML](https://cml.dev/) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. 
 * [Determined](https://github.com/determined-ai/determined) ![](https://img.shields.io/github/stars/determined-ai/determined.svg?style=social) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
 * [Flyte](https://flyte.org) ![](https://img.shields.io/github/stars/lyft/flyte.svg?style=social) - Lyft’s Cloud Native Machine Learning and Data Processing Platform. [(Demo)](https://youtu.be/KdUJGSP1h9U?t=1451)
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Hopsworks is a data-intensive platform for the design and operation of machine learning pipelines that includes a Feature Store. [(Video)](https://www.youtube.com/watch?v=v1DrnY8caVU).
