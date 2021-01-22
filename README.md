@@ -156,6 +156,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Redis-ML](https://github.com/RedisLabsModules/redis-ml) ![](https://img.shields.io/github/stars/RedisLabsModules/redis-ml.svg?style=social) - Module available from unstable branch that supports a subset of ML models as Redis data types. (Replaced by Redis AI)
 * [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![](https://img.shields.io/github/stars/GoogleContainerTools/skaffold.svg?style=social) - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
 * [Tensorflow Extended (TFX)](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
+* [ZenML](https://github.com/maiot-io/zenml) ![](https://img.shields.io/github/stars/maiot-io/zenml.svg?style=social) - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 
 ## Model Serving and Monitoring
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving
