@@ -363,9 +363,9 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 
 
 ## Optimized computation frameworks
-* [CuDF](https://github.com/rapidsai/cudf) ![](https://img.shields.io/github/stars/rapidsai/cudf.svg?style=social) cuDF - GPU DataFrame Library http://rapids.ai
-* [CuML](https://github.com/rapidsai/cuml) ![](https://img.shields.io/github/stars/rapidsai/cuml.svg?style=social) cuML - RAPIDS Machine Learning Library
-* [CuPy](https://github.com/cupy/cupy) ![](https://img.shields.io/github/stars/cupy/cupy.svg?style=social) NumPy-like API accelerated with CUDA
+* [CuDF](https://github.com/rapidsai/cudf) ![](https://img.shields.io/github/stars/rapidsai/cudf.svg?style=social) - Built based on the Apache Arrow columnar memory format, cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data.
+* [CuML](https://github.com/rapidsai/cuml) ![](https://img.shields.io/github/stars/rapidsai/cuml.svg?style=social) - cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
+* [CuPy](https://github.com/cupy/cupy) ![](https://img.shields.io/github/stars/cupy/cupy.svg?style=social) - An implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it.
 * [H2O-3](https://github.com/h2oai/h2o-3) ![](https://img.shields.io/github/stars/h2oai/h2o-3.svg?style=social) - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 * [Jax](https://github.com/google/jax) ![](https://img.shields.io/github/stars/google/jax.svg?style=social) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more 
 * [Modin](https://github.com/modin-project/modin) ![](https://img.shields.io/github/stars/modin-project/modin.svg?style=social) - Speed up your Pandas workflows by changing a single line of code 
