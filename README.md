@@ -141,7 +141,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Studio.ML](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
 * [TerminusDB](https://terminusdb.com/) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
 * [TRAINS](https://github.com/allegroai/trains) ![](https://img.shields.io/github/stars/allegroai/trains.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI.
-* [Weights & Biases](https://wandb.ai/site) ![](https://img.shields.io/github/stars/wandb/client?style=social)- Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
 
 ## Model Training Orchestration
 * [CML](https://cml.dev/) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. 
@@ -453,3 +452,4 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
+* [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
