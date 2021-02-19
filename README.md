@@ -281,6 +281,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [PipelineX](https://github.com/Minyus/pipelinex) ![](https://img.shields.io/github/stars/Minyus/pipelinex.svg?style=social) - Based on Kedro and MLflow. Full comparison given at https://github.com/Minyus/Python_Packages_for_Pipeline_Workflow
 * [Prefect Core](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 * [SETL](https://github.com/SETL-Developers/setl) ![](https://img.shields.io/github/stars/SETL-Developers/setl.svg?style=social) - A simple Spark-powered ETL framework that helps you structure your ETL projects, modularize your data transformation logic and speed up your development.
+* [Snakemake](https://github.com/snakemake/snakemake) ![](https://img.shields.io/github/stars/snakemake/snakemake.svg?style=social) - Workflow management system for reproducible and scalable data analyses.
 
 ## Data Labelling Tools and Frameworks
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg?style=social) - Web-based image segmentation tool for object detection, localization and keypoints
