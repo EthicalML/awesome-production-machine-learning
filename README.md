@@ -394,6 +394,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection). 
 * [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Outlier Detection (Anomaly Detection) 
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - Library for exploring and validating machine learning data.
+* [Open Distro Anomaly Detection](https://github.com/opendistro-for-elasticsearch/anomaly-detection) ![](https://img.shields.io/github/stars/opendistro-for-elasticsearch/anomaly-detection.svg?style=social) - The Open Distro (Amazon) for the Elasticsearch Anomaly Detection plugin.
 
 
 ## Feature Engineering Automation
