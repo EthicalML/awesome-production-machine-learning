@@ -412,6 +412,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 
 ## Feature Stores
 * [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores which allows you to transform your raw data into beautiful features.
+* [ByteHub](https://github.com/bytehub-ai/bytehub) ![](https://img.shields.io/github/stars/bytehub-ai/bytehub.svg?style=social) - An easy-to-use feature store for machine-learning projects. Optimized for time-series data.
 * [Feature Store for Machine Learning (FEAST)](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is a tool for managing and serving machine learning features. Feast is the bridge between models and data.
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 * [Ivory](https://github.com/antony-a1/ivory)  ![](https://img.shields.io/github/stars/antony-a1/ivory.svg?style=social) - ivory defines a specification for how to store feature data and provides a set of tools for querying it. It does not provide any tooling for producing feature data in the first place. All ivory commands run as MapReduce jobs so it assumed that feature data is maintained on HDFS.
