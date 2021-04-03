@@ -163,6 +163,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [ZenML](https://github.com/maiot-io/zenml) ![](https://img.shields.io/github/stars/maiot-io/zenml.svg?style=social) - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 
 ## Model Serving and Monitoring
+* [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving
 * [Cortex](https://github.com/cortexlabs/cortex) ![](https://img.shields.io/github/stars/cortexlabs/cortex.svg?style=social) - Cortex is an open source platform for deploying machine learning models—trained with any framework—as production web services. No DevOps required.
 * [DeepDetect](https://github.com/beniz/deepdetect) ![](https://img.shields.io/github/stars/beniz/deepdetect.svg?style=social) - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain
@@ -428,6 +429,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Algorithmia](https://algorithmia.com/) - Cloud platform to build, deploy and serve machine learning models [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
 * [allegro ai Enterprise](https://allegro.ai/enterprise) - Automagical open-source ML & DL experiment manager and ML-Ops solution.
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API
+* [Backprop](https://backprop.co) - Serverless hosting of ML models.
 * [bigml](https://bigml.com/) - E2E machine learning platform.
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
