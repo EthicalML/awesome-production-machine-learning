@@ -262,7 +262,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
 * [Wav2Letter++](https://code.fb.com/ai-research/wav2letter/) - A speech to text system developed by Facebook's FAIR teams.
 * [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast Byte Pair Encoding (BPE) [Sennrich et al.].
-* [🤗 Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+* [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://airflow.apache.org/) ![](https://img.shields.io/github/stars/apache/airflow.svg?style=social) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
