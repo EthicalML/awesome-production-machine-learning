@@ -239,6 +239,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Redash](https://github.com/getredash/redash) ![](https://img.shields.io/github/stars/getredash/redash.svg?style=social) - Redash is anopen source visualisation framework that is built to allow easy access to big datasets leveraging multiple backends.
 * [seaborn](https://github.com/mwaskom/seaborn) ![](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=social) - Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 * [Streamlit](https://github.com/streamlit/streamlit) ![](https://img.shields.io/github/stars/streamlit/streamlit.svg?style=social) - Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file
+* [Superset](https://github.com/apache/superset) ![](https://img.shields.io/github/stars/apache/superset.svg?style=social) - A modern, enterprise-ready business intelligence web application.
 * [XKCD-style plots](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/) - An XKCD theme for matblotlib visualisations
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
 
