@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🧮 Optimized computation frameworks](#optimized-computation-frameworks)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier and Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature engineering](#feature-engineering-automation) | [🎁 Feature Stores](#feature-stores) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries) |
-|[💰 Commercial Platforms](#commercial-platforms) | [💾 Data Storage Layer](#data-storage-optimisation)
+|[💰 Commercial Platforms](#commercial-platforms) | [💾 Data Storage Layer](#data-storage-optimisation) | [🧪 Online Experimentation](#online-experimentation) |
 
 ## 10 Min Video Overview
 
@@ -147,7 +147,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TRAINS](https://github.com/allegroai/trains) ![](https://img.shields.io/github/stars/allegroai/trains.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI.
 
 ## Model Training Orchestration
-* [CML](https://cml.dev/) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. 
+* [CML](https://cml.dev/) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects.
 * [Determined](https://github.com/determined-ai/determined) ![](https://img.shields.io/github/stars/determined-ai/determined.svg?style=social) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
 * [Flyte](https://flyte.org) ![](https://img.shields.io/github/stars/lyft/flyte.svg?style=social) - Lyft’s Cloud Native Machine Learning and Data Processing Platform. [(Demo)](https://youtu.be/KdUJGSP1h9U?t=1451)
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Hopsworks is a data-intensive platform for the design and operation of machine learning pipelines that includes a Feature Store. [(Video)](https://www.youtube.com/watch?v=v1DrnY8caVU).
@@ -210,7 +210,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Neural Network Intelligence](https://github.com/Microsoft/nni) ![](https://img.shields.io/github/stars/Microsoft/nni.svg?style=social) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
 
 ## Data Science Notebook Frameworks
-* [Apache Zeppelin](https://zeppelin.apache.org/) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. 
+* [Apache Zeppelin](https://zeppelin.apache.org/) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 * [Binder](https://mybinder.org/) - Binder hosts notebooks in an executable environment (for free).
 * [H2O Flow](https://github.com/h2oai/h2o-flow) - Jupyter notebook-like interface for H2O to create, save and re-use "flows"
 * [Hydrogen](https://atom.io/packages/hydrogen) - A plugin for ATOM that enables it to become a jupyter-notebook-like interface that prints the outputs directly in the editor.
@@ -302,7 +302,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ![](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social) - Open source tool for labelling images with support for labels, edges, as well as image resizing and zooming in.
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ![](https://img.shields.io/github/stars/abreheret/PixelAnnotationTool.svg?style=social) - Image annotation tool with ability to "colour" on the images to select labels for segmentation. Process is semi-automated with the [watershed marked algorithm of OpenCV](docs.opencv.org/3.1.0/d7/d1b/group__imgproc__misc.html#ga3267243e4d3f95165d55a618c65ac6e1)
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
-* [Superintendent](https://github.com/janfreyberg/superintendent) ![](https://img.shields.io/github/stars/janfreyberg/superintendent.svg?style=social) - superintendent provides an ipywidget-based interactive labelling tool for your data. 
+* [Superintendent](https://github.com/janfreyberg/superintendent) ![](https://img.shields.io/github/stars/janfreyberg/superintendent.svg?style=social) - superintendent provides an ipywidget-based interactive labelling tool for your data.
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) - A simple and standalone manual annotation software for image, audio and video. VIA runs in a web browser and does not require any installation or setup.
 * [Visual Object Tagging Tool (VOTT)](https://github.com/Microsoft/VoTT) ![](https://img.shields.io/github/stars/Microsoft/VoTT.svg?style=social) - Microsoft's Open Source electron app for labelling videos and images for object detection models (with active learning functionality)
 
@@ -379,11 +379,11 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [CuML](https://github.com/rapidsai/cuml) ![](https://img.shields.io/github/stars/rapidsai/cuml.svg?style=social) - cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 * [CuPy](https://github.com/cupy/cupy) ![](https://img.shields.io/github/stars/cupy/cupy.svg?style=social) - An implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it.
 * [H2O-3](https://github.com/h2oai/h2o-3) ![](https://img.shields.io/github/stars/h2oai/h2o-3.svg?style=social) - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
-* [Jax](https://github.com/google/jax) ![](https://img.shields.io/github/stars/google/jax.svg?style=social) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more 
-* [Modin](https://github.com/modin-project/modin) ![](https://img.shields.io/github/stars/modin-project/modin.svg?style=social) - Speed up your Pandas workflows by changing a single line of code 
+* [Jax](https://github.com/google/jax) ![](https://img.shields.io/github/stars/google/jax.svg?style=social) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* [Modin](https://github.com/modin-project/modin) ![](https://img.shields.io/github/stars/modin-project/modin.svg?style=social) - Speed up your Pandas workflows by changing a single line of code
 * [Numba](https://github.com/numba/numba) ![](https://img.shields.io/github/stars/numba/numba.svg?style=social)  - A compiler for Python array and numerical functions
 * [NumpyGroupies](https://github.com/ml31415/numpy-groupies) ![](https://img.shields.io/github/stars/ml31415/numpy-groupies.svg?style=social) Optimised tools for group-indexing operations: aggregated sum and more
-* [Vaex](https://github.com/vaexio/vaex) ![](https://img.shields.io/github/stars/vaexio/vaex.svg?style=social) Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted). 
+* [Vaex](https://github.com/vaexio/vaex) ![](https://img.shields.io/github/stars/vaexio/vaex.svg?style=social) Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
 * [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute/) ![](https://img.shields.io/github/stars/axsaucedo/vulkan-kompute.svg?style=social) - Blazing fast, lightweight and mobile phone-enabled Vulkan compute framework optimized for advanced GPU data processing usecases.
 * [Weld](https://github.com/weld-project/weld) ![](https://img.shields.io/github/stars/weld-project/weld.svg?style=social) High-performance runtime for data analytics applications, [Interview with Weld’s main contributor](https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1)
 
@@ -396,14 +396,14 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Spark Streaming](https://spark.apache.org/streaming/) ![](https://img.shields.io/github/stars/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics
 
 ## Outlier and Anomaly Detection
-* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.  
+* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
 * [Alibi-Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/seldonio/alibi-detect.svg?style=social) - Algorithms for outlier and adversarial instance detection, concept drift and metrics.
 * [dBoost](https://github.com/cpitclaudel/dBoost) ![](https://img.shields.io/github/stars/cpitclaudel/dBoost.svg?style=social) - Outlier detection in heterogeneous datasets using automatic tuple expansion. [Paper](https://dspace.mit.edu/bitstream/handle/1721.1/101150/MIT-CSAIL-TR-2016-002.pdf?sequence=1).
 * [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 * [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg?style=social) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
 * [Open Distro Anomaly Detection](https://github.com/opendistro-for-elasticsearch/anomaly-detection) ![](https://img.shields.io/github/stars/opendistro-for-elasticsearch/anomaly-detection.svg?style=social) - The Open Distro (Amazon) for the Elasticsearch Anomaly Detection plugin.
-* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection). 
-* [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Outlier Detection (Anomaly Detection) 
+* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+* [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Outlier Detection (Anomaly Detection)
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - Library for exploring and validating machine learning data.
 
 
@@ -413,10 +413,10 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [AutoML-GS](https://github.com/minimaxir/automl-gs) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic feature and model search with code generation in Python, on top of common data science libraries (tensorflow, sklearn, etc)
 * [automl](https://github.com/ClimbsRocks/auto_ml) ![](https://img.shields.io/github/stars/ClimbsRocks/auto_ml?style=social)  - Automated feature engineering, feature/model selection, hyperparam. optimisation
 * [Colombus](http://i.stanford.edu/hazy/victor/columbus/) - A scalable framework to perform exploratory feature selection implemented in R
-* [Feature Engine](https://github.com/solegalli/feature_engine) ![](https://img.shields.io/github/stars/solegalli/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models. 
+* [Feature Engine](https://github.com/solegalli/feature_engine) ![](https://img.shields.io/github/stars/solegalli/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
 * [Featuretools](https://www.featuretools.com/) - An open source framework for automated feature engineering
 * [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) ![](https://img.shields.io/github/stars/nikolaydubina/go-featureprocessing.svg?style=social) - A feature pre-processing framework in Go that matches functionality of sklearn
-* [keras-tuner](https://keras-team.github.io/keras-tuner/) ![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=social) - Keras Tuner is an easy-to-use, distributable hyperparameter optimization framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage included algorithms to find the best hyperparameter values. 
+* [keras-tuner](https://keras-team.github.io/keras-tuner/) ![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=social) - Keras Tuner is an easy-to-use, distributable hyperparameter optimization framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage included algorithms to find the best hyperparameter values.
 * [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![](https://img.shields.io/github/stars/rsteca/sklearn-deap.svg?style=social) Use evolutionary algorithms instead of gridsearch in scikit-learn.
 * [TPOT](https://epistasislab.github.io/tpot/) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?style=social) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc)
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series
@@ -469,3 +469,8 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
+
+## Online Experimentation
+
+* [Turing](https://github.com/gojek/turing) ![](https://img.shields.io/github/stars/gojek/turing.svg?style=social) - Turing is a fast, scalable and extensible system that can be used to design, deploy and evaluate ML experiments in production.
+* [Planout](https://github.com/facebook/planout) ![](https://img.shields.io/github/stars/facebook/planout.svg?style=social) - PlanOut is a multi-platform framework and programming language for online field experimentation. PlanOut was created to make it easy to run and iterate on sophisticated experiments, while satisfying the constraints of deployed Internet services with many users.
