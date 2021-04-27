@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🧮 Optimized computation frameworks](#optimized-computation-frameworks)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier and Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature engineering](#feature-engineering-automation) | [🎁 Feature Stores](#feature-stores) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries) |
-|[💰 Commercial Platforms](#commercial-platforms) | [💾 Data Storage Layer](#data-storage-optimisation) | [🧪 Online Experimentation](#online-experimentation) |
+|[💰 Commercial Platforms](#commercial-platforms) | [💾 Data Storage Layer](#data-storage-optimisation) |
 
 ## 10 Min Video Overview
 
@@ -162,6 +162,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Extended (TFX)](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
 * [TonY](https://github.com/linkedin/TonY) ![](https://img.shields.io/github/stars/linkedin/TonY.svg?style=social) - TonY is a framework to natively run deep learning jobs on Apache Hadoop. It currently supports TensorFlow, PyTorch, MXNet and Horovod.
 * [ZenML](https://github.com/maiot-io/zenml) ![](https://img.shields.io/github/stars/maiot-io/zenml.svg?style=social) - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
+* [Planout](https://github.com/facebook/planout) ![](https://img.shields.io/github/stars/facebook/planout.svg?style=social) - PlanOut is a multi-platform framework and programming language for online field experimentation. PlanOut was created to make it easy to run and iterate on sophisticated experiments, while satisfying the constraints of deployed Internet services with many users.
 
 ## Model Serving and Monitoring
 * [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
@@ -180,7 +181,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Serving](https://www.tensorflow.org/serving/) ![](https://img.shields.io/github/stars/tensorflow/serving.svg?style=social) - High-performant framework to serve Tensorflow models via grpc protocol able to handle 100k requests per second per core
 * [TorchServe](https://pytorch.org/serve/) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - TorchServe is a flexible and easy to use tool for serving PyTorch models.
 * [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
-* [Merlin](https://github.com/gojek/merlin) ![](https://img.shields.io/github/stars/gojek/merlin.svg?style=social) - Merlin is a platform for deploying and serving machine learning models. The project was born to belief that model deployment should be **easy and self-serve** (human should not become the bottleneck for deploying model into production), **scalable** (the model deployed should be able to handle Gojek scale and beyond), **fast** (the framework should be able to let user iterate quickly), and **Cost efficient** (it should provide all benefit above in a cost efficient manner).
 
 ## Adversarial Robustness Libraries
 * [AdvBox](https://github.com/advboxes/AdvBox) ![](https://img.shields.io/github/stars/advboxes/AdvBox.svg?style=social) - generate adversarial examples from the command line with 0 coding using PaddlePaddle, PyTorch, Caffe2, MxNet, Keras, and TensorFlow. Includes 10 attacks and also 6 defenses. Used to implement [StealthTshirt](https://github.com/advboxes/AdvBox/blob/master/applications/StealthTshirt/README.md) at DEFCON!
@@ -470,8 +470,3 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
-
-## Online Experimentation
-
-* [Turing](https://github.com/gojek/turing) ![](https://img.shields.io/github/stars/gojek/turing.svg?style=social) - Turing is a fast, scalable and extensible system that can be used to design, deploy and evaluate ML experiments in production.
-* [Planout](https://github.com/facebook/planout) ![](https://img.shields.io/github/stars/facebook/planout.svg?style=social) - PlanOut is a multi-platform framework and programming language for online field experimentation. PlanOut was created to make it easy to run and iterate on sophisticated experiments, while satisfying the constraints of deployed Internet services with many users.
