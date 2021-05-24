@@ -361,6 +361,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [PyWren](http://pywren.io) - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Python function - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU)
 * [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ![](https://img.shields.io/github/stars/PyTorchLightning/pytorch-lightning.svg?style=social) - Lightweight PyTorch research framework that allows you to easily scale your models to GPUs and TPUs and use all the latest best practices, without the engineering boilerplate - [(Video)](https://www.youtube.com/watch?v=QHww1JH7IDU&t=678s)
 * [Ray](https://github.com/ray-project/ray) ![](https://img.shields.io/github/stars/ray-project/ray.svg?style=social) - Ray is a flexible, high-performance distributed execution framework for machine learning ([VIDEO](https://www.youtube.com/watch?v=D_oz7E4v-U0))
+* [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ![](https://img.shields.io/github/stars/yahoo/TensorFlowOnSpark.svg?style=social) - TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?style=social) Vespa is an engine for low-latency computation over large data sets. https://vespa.ai
 
 
