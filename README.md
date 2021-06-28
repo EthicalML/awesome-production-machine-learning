@@ -339,6 +339,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [InfluxDB](https://github.com/influxdata/influxdb) ![](https://img.shields.io/github/stars/influxdata/influxdb.svg?style=social) Scalable datastore for metrics, events, and real-time analytics.
 * [TimescaleDB](https://github.com/timescale/timescaledb) ![](https://img.shields.io/github/stars/timescale/timescaledb.svg?style=social) An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension. [Time-series ML in TimescaleDB](https://docs.timescale.com/latest/tutorials/tutorial-forecasting)
 www.youtube.com/watch?v=zbjub8BQPyE)
+* [Weaviate](https://github.com/semi-technologies/weaviate) ![](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=social) - A low-latency vector search engine (GraphQL, RESTful) with out-of-the-box support for different media types. Modules include Semantic Search, Q&A, Classification, Customizable Models (PyTorch/TensorFlow/Keras), and more.
 * [Zarr](https://github.com/zarr-developers/zarr-python) ![](https://img.shields.io/github/stars/zarr-developers/zarr-python.svg?style=social) - Python implementation of chunked, compressed, N-dimensional arrays designed for use in parallel computing.
 
 ## Function as a Service Frameworks
