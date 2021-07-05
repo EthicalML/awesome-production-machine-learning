@@ -325,7 +325,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about)
 
 ## Data Storage Optimisation
-* [Alluxio](https://www.alluxio.org/docs/1.8/en/Overview.html) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
+* [Alluxio](https://github.com/Alluxio/alluxio) ![](https://img.shields.io/github/stars/Alluxio/alluxio.svg?style=social) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
 * [Apache Arrow](https://arrow.apache.org/) - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc
 * [Apache Druid](https://github.com/apache/druid) ![](https://img.shields.io/github/stars/apache/druid.svg?style=social) - A high performance real-time analytics database. https://druid.apache.org/. [An introduction to Druid, your Interactive Analytics at (big) Scale](https://towardsdatascience.com/introduction-to-druid-4bf285b92b5a).
 * [Apache Ignite](https://github.com/apache/ignite) ![](https://img.shields.io/github/stars/apache/ignite.svg?style=social) - A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale. [TensorFlow on Apache Ignite](https://blog.tensorflow.org/2019/02/tensorflow-on-apache-ignite.html), [Distributed ML in Apache Ignite](https://www.youtube.com/watch?v=Xt4PWQ__YPw)
