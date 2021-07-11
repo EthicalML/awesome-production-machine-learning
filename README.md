@@ -479,3 +479,4 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
+* [UBIAI](https://ubiai.tools/) - Powerful pre-annotation functions and easy-to-use interface to label faster, The fastest way to create training data for your NLP model.
