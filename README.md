@@ -355,6 +355,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 ## Computation load distribution frameworks
 * [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo/) ![](https://img.shields.io/github/stars/intel-analytics/analytics-zoo.svg?style=social) - A unified Data Analytics and AI platform for distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 * [Apache Spark MLlib](https://spark.apache.org/mllib/) - Apache Spark's scalable machine learning library in Java, Scala, Python and R
+* [Bagua](https://github.com/BaguaSys/bagua) ![](https://img.shields.io/github/stars/BaguaSys/bagua.svg?style=social) - Bagua is a performant and flexible distributed training framework for PyTorch, providing a faster alternative to PyTorch DDP and Horovod. It supports advanced distributed training algorithms such as quantization and decentralization.
 * [Beam](https://github.com/apache/beam) ![](https://img.shields.io/github/stars/apache/beam.svg?style=social) Apache Beam is a unified programming model for Batch and Streaming https://beam.apache.org/
 * [BigDL](https://bigdl-project.github.io/) ![](https://img.shields.io/github/stars/intel-analytics/BigDL.svg?style=social) - Deep learning framework on top of Spark/Hadoop to distribute data and computations across a HDFS system
 * [Dask](http://dask.pydata.org/en/latest/) ![](https://img.shields.io/github/stars/dask/dask.svg?style=social) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng)
