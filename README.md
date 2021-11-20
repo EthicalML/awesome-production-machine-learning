@@ -338,6 +338,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Apache Pinot](https://github.com/apache/incubator-pinot) ![](https://img.shields.io/github/stars/apache/incubator-pinot.svg?style=social) - A realtime distributed OLAP datastore https://pinot.apache.org. [Comparison of the Open Source OLAP Systems for Big Data: ClickHouse, Druid, and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7).
 * [BayesDB](http://probcomp.csail.mit.edu/software/bayesdb/) - Database that allows for built-in non-parametric Bayesian model discovery and queryingi for data on a database-like interface - [(Video)](https://www.youtube.com/watch?v=2ws84s6iD1o)
 * [ClickHouse](https://clickhouse.yandex/) ![](https://img.shields.io/github/stars/ClickHouse/ClickHouse.svg?style=social) - ClickHouse is an open source column oriented database management system supported by Yandex - [(Video)](https://
+* [Delta Lake](https://github.com/delta-io/delta) ![](https://img.shields.io/github/stars/delta-io/delta.svg?style=social) - Delta Lake is a storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines.
 * [EdgeDB](https://edgedb.com/) - NoSQL interface for Postgres that allows for object interaction to data stored
 * [HopsFS](https://github.com/hopshadoop/hops) ![](https://img.shields.io/github/stars/hopshadoop/hops.svg?style=social) - HDFS-compatible file system with scale-out strongly consistent metadata.
 * [InfluxDB](https://github.com/influxdata/influxdb) ![](https://img.shields.io/github/stars/influxdata/influxdb.svg?style=social) Scalable datastore for metrics, events, and real-time analytics.
@@ -346,6 +347,7 @@ This repository contains a curated list of awesome open source libraries that wi
 www.youtube.com/watch?v=zbjub8BQPyE)
 * [Weaviate](https://github.com/semi-technologies/weaviate) ![](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=social) - A low-latency vector search engine (GraphQL, RESTful) with out-of-the-box support for different media types. Modules include Semantic Search, Q&A, Classification, Customizable Models (PyTorch/TensorFlow/Keras), and more.
 * [Zarr](https://github.com/zarr-developers/zarr-python) ![](https://img.shields.io/github/stars/zarr-developers/zarr-python.svg?style=social) - Python implementation of chunked, compressed, N-dimensional arrays designed for use in parallel computing.
+
 
 ## Function as a Service Frameworks
 * [Apache OpenWhisk](https://github.com/apache/incubator-openwhisk) ![](https://img.shields.io/github/stars/apache/incubator-openwhisk.svg?style=social) - Open source, distributed serverless platform that executes functions in response to events at any scale.
