@@ -308,6 +308,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Prefect Core](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 * [SETL](https://github.com/SETL-Developers/setl) ![](https://img.shields.io/github/stars/SETL-Developers/setl.svg?style=social) - A simple Spark-powered ETL framework that helps you structure your ETL projects, modularize your data transformation logic and speed up your development.
 * [Snakemake](https://github.com/snakemake/snakemake) ![](https://img.shields.io/github/stars/snakemake/snakemake.svg?style=social) - Workflow management system for reproducible and scalable data analyses.
+* [Squirrel](https://github.com/merantix-momentum/squirrel-core) ![](https://img.shields.io/github/stars/merantix-momentum/squirrel-core.svg?style=social) - A Python library for large-scale data loading, transforming and sharing.
 * [Towhee](https://github.com/towhee-io/towhee) ![](https://img.shields.io/github/stars/towhee-io/towhee.svg?style=social) - General-purpose machine learning pipeline for generating embedding vectors using one or many ML models.
 
 ## Data Labelling Tools and Frameworks
