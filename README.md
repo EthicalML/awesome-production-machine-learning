@@ -241,6 +241,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Industrial Strength Visualisation libraries
+* [Altair](https://github.com/altair-viz/altair) - Altair is a declarative statistical visualization library for Python.
 * [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 * [Bokeh](https://github.com/bokeh/bokeh) ![](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social) - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 * [Geoplotlib](https://github.com/andrea-cuttone/geoplotlib) ![](https://img.shields.io/github/stars/andrea-cuttone/geoplotlib.svg?style=social) - geoplotlib is a python toolbox for visualizing geographical data and making maps
