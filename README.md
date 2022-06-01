@@ -108,6 +108,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Privacy Preserving Machine Learning
+* [BlindAI](https://github.com/mithril-security/blindai) ![](https://img.shields.io/github/stars/mithril-security/blindai.svg?style=social) - BlindAI is an ONNX inference server to deploy AI models with privacy and security guarantees. BlindAI uses secure enclaves, like Intel SGX, to protect data at all time, including during analysis in remote setups, like Public Cloud deployment.
 * [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - Flower is a Federated Learning Framework with a unified approach. It enables the federation of any ML workload, with any ML framework, and any programming language.
 * [Google's Differential Privacy](https://github.com/google/differential-privacy) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social) - This is a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 * [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) ![](https://img.shields.io/github/stars/NervanaSystems/he-transformer.svg?style=social) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
