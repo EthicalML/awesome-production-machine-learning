@@ -195,6 +195,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Transformer-deploy](https://github.com/ELS-RD/transformer-deploy/) ![](https://img.shields.io/github/stars/ELS-RD/transformer-deploy.svg?style=social) - Transformer-deploy is an efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - Triton is a high performance open source serving software to deploy AI models from any framework on GPU & CPU while maximizing utilization.
 * [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
+* [MLEM](https://mlem.ai/) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - Version and deploy your ML models following GitOps principles
 
 ## Adversarial Robustness Libraries
 * [AdvBox](https://github.com/advboxes/AdvBox) ![](https://img.shields.io/github/stars/advboxes/AdvBox.svg?style=social) - generate adversarial examples from the command line with 0 coding using PaddlePaddle, PyTorch, Caffe2, MxNet, Keras, and TensorFlow. Includes 10 attacks and also 6 defenses. Used to implement [StealthTshirt](https://github.com/advboxes/AdvBox/blob/master/applications/StealthTshirt/README.md) at DEFCON!
@@ -512,3 +513,6 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
+* [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
+
+
