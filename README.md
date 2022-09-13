@@ -181,6 +181,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Jina](https://github.com/jina-ai/jina)  ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Cloud native search framework that   supports to use deep learning/state of the art AI models for search.
 * [KFServing](https://github.com/kubeflow/kfserving) ![](https://img.shields.io/github/stars/kubeflow/kfserving.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU)
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) ![](https://img.shields.io/github/stars/BayesWitnesses/m2cgen.svg?style=social) - A lightweight library which allows to transpile trained classic machine learning models into a native code of C, Java, Go, R, PHP, Dart, Haskell, Rust and many other programming languages.
+* [MLEM](https://mlem.ai/) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - Version and deploy your ML models following GitOps principles
 * [MLServer](https://github.com/SeldonIO/mlserver) ![](https://img.shields.io/github/stars/SeldonIO/mlserver.svg?style=social) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more
 * [mltrace](https://github.com/loglabs/mltrace) ![](https://img.shields.io/github/stars/loglabs/mltrace.svg?style=social) - a lightweight, open-source Python tool to get "bolt-on" observability in ML pipelines.
 * [Model Server for Apache MXNet (MMS)](https://github.com/awslabs/mxnet-model-server) ![](https://img.shields.io/github/stars/awslabs/mxnet-model-server.svg?style=social) - A model server for Apache MXNet from Amazon Web Services that is able to run MXNet models as well as Gluon models (Amazon's SageMaker runs a custom version of MMS under the hood)
@@ -494,6 +495,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Hypervector](https://hypervector.io) - API-driven test data fixtures for machine learning and data science features, making it easy to build automated continuous integration steps for your data-driven components
 * [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning) - Create, train, and deploy self-learning models using an automated, collaborative workflow.
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
+* [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
 * [Logical Clocks Hopsworks](https://www.logicalclocks.com/) - Enterprise version of Hopsworks with a Feature Store and scale-out ML pipeline design and operation.
@@ -513,3 +515,6 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
+
+
+
