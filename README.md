@@ -500,7 +500,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Robust Intelligence](https://www.robustintelligence.com/) - Robust Intelligence is an end-to-end ML integrity solution that proactively eliminates failure at every stage of the model lifecycle. From pre-deployment vulnerability detection and validation to post-deployment monitoring and protection, Robust Intelligence gives teams the confidence to scale models in production across a variety of use cases and modalities.
 * [Scribble Enrich](https://www.scribbledata.io/product) - Customizable, auditable, privacy-aware feature store. It is designed to help mid-sized data teams gain trust in the data that they use for training and analysis, and support emerging needs such drift computation and bias assessment.
 * [Skymind](https://skymind.global/) - Software distribution designed to help enterprise IT teams manage, deploy, and retrain machine learning models at scale.
-* [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
+* [Skytree](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Spell](https://spell.run) - Flexible end-to-end MLOps / Machine Learning Platform. [(Video)](https://www.youtube.com/watch?v=J7xo-STHx1k)
 * [SuperAnnotate](https://www.superannotate.com/) - A complete set of solutions for image and video annotation and an annotation service with integrated tooling, on-demand narrow expertise in various fields, and a custom neural network, automation, and training models powered by AI.
 * [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
