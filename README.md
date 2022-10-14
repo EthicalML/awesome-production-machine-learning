@@ -507,4 +507,4 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
 * [Talend Studio](https://www.talend.com/) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
-* [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
+* [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
