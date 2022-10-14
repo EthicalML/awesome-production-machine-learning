@@ -468,23 +468,18 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 
 
 ## Commercial Platforms
-* [Algorithmia](https://algorithmia.com/) - Cloud platform to build, deploy and serve machine learning models [(Video)](https://www.youtube.com/watch?v=qcsrPY0koyY)
-* [allegro ai Enterprise](https://allegro.ai/enterprise) - Automagical open-source ML & DL experiment manager and ML-Ops solution.
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API
 * [Apheris](https://www.apheris.com/) - A platform for federated and privacy-preserving data science that lets you securely collaborate on AI with partners without sharing any data.
 * [Arize AI](https://arize.com/) - ML observability and automated model monitoring to help ML practitioners understand how their models perform in production, troubleshoot issues, and improve model performance. ML teams can upload offline (training or validation) baselines into an evaluation/inference store alongside online production data for model validation, drift detection, data quality checks, and model performance management.
-* [Backprop](https://backprop.co) - Serverless hosting of ML models.
 * [bigml](https://bigml.com/) - E2E machine learning platform.
 * [Censius](https://censius.ai/platform) - Censius is an AI Observability Platform that assists enterprises in continuously monitoring, analyzing, and explaining their production models. It combines monitoring, accountability, and explainability into one Observability Platform.
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE)
-* [Cubonacci](https://cubonacci.com) - The Cubonacci platform manages deployment, versioning, infrastructure, monitoring and lineage for you, eliminating risk and minimizing time-to-market.
-* [D2iQ KUDO for Kubeflow](https://d2iq.com/solutions/ksphere/kudo-kubeflow) - [Enterprise machine learning platform](https://d2iq.com/blog/kudo-for-kubeflow-the-enterprise-machine-learning-platform) that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source Kubernetes Universal Declarative Operators ([KUDO](https://kudo.dev/)).
+* [D2iQ KUDO for Kubeflow](https://d2iq.com/products/kaptain) - [Enterprise machine learning platform](https://d2iq.com/blog/kudo-for-kubeflow-the-enterprise-machine-learning-platform) that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source Kubernetes Universal Declarative Operators ([KUDO](https://kudo.dev/)).
 * [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
 * [Dataiku](https://www.dataiku.com/) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
-* [deepsense AIOps](https://aiops.deepsense.ai/) - Enhances multi-cloud & data center IT Operations via traffic analysis, risk analysis, anomaly detection, predictive maintenance, root cause analysis, service ticket analysis and event consolidation.
 * [Deep Cognition Deep Learning Studio](https://deepcognition.ai/) - E2E platform for deep learning.
 * [deepsense Safety](https://safety.deepsense.ai/) - AI-driven solution to increase worksite safety via safety procedure check, thread detection and hazardous zones monitoring.
 * [deepsense Quality](https://quality.deepsense.ai/) - Automating laborious quality control tasks.
@@ -492,14 +487,11 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
 * [Graphsignal](https://graphsignal.com/) - Machine learning profiler that helps make model training and inference faster and more efficient.
 * [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring. [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc)
-* [Hypervector](https://hypervector.io) - API-driven test data fixtures for machine learning and data science features, making it easy to build automated continuous integration steps for your data-driven components
 * [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning) - Create, train, and deploy self-learning models using an automated, collaborative workflow.
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
-* [Logical Clocks Hopsworks](https://www.logicalclocks.com/) - Enterprise version of Hopsworks with a Feature Store and scale-out ML pipeline design and operation.
-* [MCenter](https://www.parallelm.com/product/) - MLOps platform automates the deployment, ongoing optimization, and governance of machine learning applications in production.
 * [Microsoft Azure Machine Learning service](https://azure.microsoft.com/en-us/services/machine-learning-service/) - Build, train, and deploy models from the cloud to the edge.
 * [MLJAR](https://mljar.com/) - Platform for rapid prototyping, developing and deploying machine learning models.
 * [Neptune.ai](https://neptune.ai) - community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.
@@ -507,15 +499,12 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Prodigy](https://prodi.gy/) - Active learning-based data annotation. Allows to train a model and pick most 'uncertain' samples for labeling from an unlabeled pool.
 * [Robust Intelligence](https://www.robustintelligence.com/) - Robust Intelligence is an end-to-end ML integrity solution that proactively eliminates failure at every stage of the model lifecycle. From pre-deployment vulnerability detection and validation to post-deployment monitoring and protection, Robust Intelligence gives teams the confidence to scale models in production across a variety of use cases and modalities.
 * [Scribble Enrich](https://www.scribbledata.io/product) - Customizable, auditable, privacy-aware feature store. It is designed to help mid-sized data teams gain trust in the data that they use for training and analysis, and support emerging needs such drift computation and bias assessment.
-* [SKIL](https://skymind.ai/platform) - Software distribution designed to help enterprise IT teams manage, deploy, and retrain machine learning models at scale.
-* [Skytree 16.0](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
+* [Skymind](https://skymind.global/) - Software distribution designed to help enterprise IT teams manage, deploy, and retrain machine learning models at scale.
+* [Skytree](http://skytree.net) - End to end machine learning platform [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k)
 * [Spell](https://spell.run) - Flexible end-to-end MLOps / Machine Learning Platform. [(Video)](https://www.youtube.com/watch?v=J7xo-STHx1k)
 * [SuperAnnotate](https://www.superannotate.com/) - A complete set of solutions for image and video annotation and an annotation service with integrated tooling, on-demand narrow expertise in various fields, and a custom neural network, automation, and training models powered by AI.
 * [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
 * [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
-* [Talend Studio](https://www.talend.com/)
+* [Talend Studio](https://www.talend.com/) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
-* [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
-
-
-
+* [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
