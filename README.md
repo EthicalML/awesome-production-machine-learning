@@ -61,7 +61,6 @@ This repository contains a curated list of awesome open source libraries that wi
 # Main Content
 
 ## Explaining Black Box Models and Datasets
-
 * [Aequitas](https://github.com/dssg/aequitas) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) - An open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
 * [Alibi](https://github.com/SeldonIO/alibi) ![](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social) - Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The initial focus on the library is on black-box, instance based model explanations.
 * [anchor](https://github.com/marcotcr/anchor) ![](https://img.shields.io/github/stars/marcotcr/anchor.svg?style=social) - Code for the paper ["High precision model agnostic explanations"](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), a model-agnostic system that explains the behaviour of complex models with high-precision rules called anchors.
@@ -128,28 +127,26 @@ This repository contains a curated list of awesome open source libraries that wi
 * [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
 * [D6tflow](https://github.com/d6t/d6tflow) ![](https://img.shields.io/github/stars/d6t/d6tflow.svg?style=social) - A python library that allows for building complex data science workflows on Python.
 * [Data Version Control (DVC)](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - A git fork that allows for version management of models.
+* [Deepkit](https://github.com/deepkit/deepkit-ml) ![](https://img.shields.io/github/stars/deepkit/deepkit-ml.svg?style=social) - An open-source platform and cross-platform desktop application to execute, track, and debug modern machine learning experiments.
 * [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
-* [FGLab](https://github.com/Kaixhin/FGLab) ![](https://img.shields.io/github/stars/Kaixhin/FGLab.svg?style=social) - Machine learning dashboard, designed to make prototyping experiments easier.
-* [Flor](https://github.com/ucbrise/flor/blob/master/rtd/index.rst) ![](https://img.shields.io/github/stars/ucbrise/flor.svg?style=social) - Easy to use logger and automatic version controller made for data scientists who write ML code.
+* [Flor](https://github.com/ucbrise/flor) ![](https://img.shields.io/github/stars/ucbrise/flor.svg?style=social) - Easy to use logger and automatic version controller made for data scientists who write ML code.
 * [GUILD AI](https://github.com/guildai/guildai) ![](https://img.shields.io/github/stars/guildai/guildai.svg?style=social) - Open source toolkit that automates and optimizes machine learning experiments.
-* [Hub](https://github.com/activeloopai/Hub) ![](https://img.shields.io/github/stars/activeloopai/hub.svg?style=social) - Store, access & manage datasets with version-control for PyTorch/TensorFlow locally or on any cloud with scalable data pipelines.
+* [Deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Store, access & manage datasets with version-control for PyTorch/TensorFlow locally or on any cloud with scalable data pipelines.
 * [Hangar](https://github.com/tensorwerk/hangar-py) ![](https://img.shields.io/github/stars/tensorwerk/hangar-py.svg?style=social) - Version control for tensor data, git-like semantics on numerical data with high speed and efficiency.
 * [Keepsake](https://github.com/replicate/keepsake) ![](https://img.shields.io/github/stars/replicate/keepsake.svg?style=social) - Version control for machine learning.
 * [lakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakefs.svg?style=social) - Repeatable, atomic and versioned data lake on top of object storage.
 * [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment.
-* [MLWatcher](https://github.com/anodot/MLWatcher) ![](https://img.shields.io/github/stars/anodot/MLWatcher.svg?style=social) - MLWatcher is a python agent that records a large variety of time-serie metrics of your running ML classification algorithm. It enables you to monitor in real time.
-* [ModelChimp](https://github.com/ModelChimp/modelchimp/) ![](https://img.shields.io/github/stars/ModelChimp/modelchimp.svg?style=social) - Framework to track and compare all the results and parameters from machine learning models [(Video)](https://vimeo.com/271246650)
 * [ModelDB](https://github.com/VertaAI/modeldb/) ![](https://img.shields.io/github/stars/mitdbg/modeldb.svg?style=social) - An open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
 * [ModelStore](https://github.com/operatorai/modelstore) ![](https://img.shields.io/github/stars/operatorai/modelstore.svg?style=social) - An open-source Python library that allows you to version, export, and save a machine learning model to your cloud storage provider.
 * [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts.
 * [Pachyderm](https://github.com/pachyderm/pachyderm) ![](https://img.shields.io/github/stars/pachyderm/pachyderm.svg?style=social) - Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines - [(Video)](https://www.youtube.com/watch?v=LamKVhe2RSM).
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys).
-* [PredictionIO](https://github.com/apache/predictionio) ![](https://img.shields.io/github/stars/apache/predictionio.svg?style=social) - An open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task.
-* [Quilt Data](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - Versioning, reproducibility and deployment of data and models.
+* [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - Versioning, reproducibility and deployment of data and models.
 * [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Tool to help you configure, organize, log and reproduce machine learning experiments.
 * [steppy](https://github.com/neptune-ml/steppy) ![](https://img.shields.io/github/stars/neptune-ml/steppy.svg?style=social) - Lightweight, Python3 library for fast and reproducible machine learning experimentation. Introduces simple interface that enables clean machine learning pipeline design.
-* [Studio.ML](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
+* [Studio](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
 * [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
+
 
 ## Model Training Orchestration
 * [CML](https://github.com/iterative/cml) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects.
@@ -169,6 +166,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TonY](https://github.com/linkedin/TonY) ![](https://img.shields.io/github/stars/linkedin/TonY.svg?style=social) - TonY is a framework to natively run deep learning jobs on Apache Hadoop. It currently supports TensorFlow, PyTorch, MXNet and Horovod.
 * [ZenML](https://github.com/maiot-io/zenml) ![](https://img.shields.io/github/stars/maiot-io/zenml.svg?style=social) - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 
+
 ## Model Serving and Monitoring
 * [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving.
@@ -187,6 +185,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Mosec](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec.svg?style=social) - A rust-powered and multi-stage pipelined model server which offers dynamic batching and more. Super easy to implement and deploy as micro-services.
 * [OpenScoring](https://github.com/openscoring/openscoring) ![](https://img.shields.io/github/stars/openscoring/openscoring.svg?style=social) - REST web service for the true real-time scoring (<1 ms) of Scikit-Learn, R and Apache Spark models.
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Creates HTML profiling reports from pandas DataFrame objects. It extends the pandas DataFrame with df.profile_report() for quick data analysis.
+* [PredictionIO](https://github.com/apache/predictionio) ![](https://img.shields.io/github/stars/apache/predictionio.svg?style=social) - An open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task.
 * [Redis-AI](https://github.com/RedisAI/RedisAI) ![](https://img.shields.io/github/stars/RedisAI/RedisAI.svg?style=social) - A Redis module for serving tensors and executing deep learning models. Expect changes in the API and internals.
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY).
 * [Tempo](https://github.com/SeldonIO/tempo) ![](https://img.shields.io/github/stars/SeldonIO/tempo.svg?style=social) - Open source SDK that provides a unified interface to multiple MLOps projects that enable data scientists to deploy and productionise machine learning systems.
@@ -195,6 +194,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Transformer-deploy](https://github.com/ELS-RD/transformer-deploy/) ![](https://img.shields.io/github/stars/ELS-RD/transformer-deploy.svg?style=social) - Transformer-deploy is an efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - Triton is a high performance open source serving software to deploy AI models from any framework on GPU & CPU while maximizing utilization.
 * [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
+
 
 ## Adversarial Robustness Libraries
 * [AdvBox](https://github.com/advboxes/AdvBox) ![](https://img.shields.io/github/stars/advboxes/AdvBox.svg?style=social) - A toolbox to generate adversarial examples that fool neural networks in PaddlePaddle, PyTorch, Caffe2, MxNet, Keras, TensorFlow, and Advbox can benchmark the robustness of machine learning models.
@@ -224,6 +224,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Maggy](https://github.com/logicalclocks/maggy) ![](https://img.shields.io/github/stars/logicalclocks/maggy.svg?style=social) - Asynchronous, directed Hyperparameter search and parallel ablation studies on Apache Spark - [(Video)](https://www.youtube.com/watch?v=0Hd1iYEL03w).
 * [Neural Architecture Search with Controller RNN](https://github.com/titu1994/neural-architecture-search) ![](https://img.shields.io/github/stars/titu1994/neural-architecture-search.svg?style=social) - Basic implementation of Controller RNN from [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) and [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012).
 * [Neural Network Intelligence](https://github.com/Microsoft/nni) ![](https://img.shields.io/github/stars/Microsoft/nni.svg?style=social) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
+
 
 ## Data Science Notebook Frameworks
 * [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -263,6 +264,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Superset](https://github.com/apache/superset) ![](https://img.shields.io/github/stars/apache/superset.svg?style=social) - A modern, enterprise-ready business intelligence web application.
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
 
+
 ## Industrial Strength NLP
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) ![](https://img.shields.io/github/stars/Novetta/adaptnlp.svg?style=social) - Built atop Zalando Research's Flair and Hugging Face's Transformers library, AdaptNLP provides Machine Learning Researchers and Scientists a modular and adaptive approach to a variety of NLP tasks with an Easy API for training, inference, and deploying NLP-based microservices.
 * [Blackstone](https://github.com/ICLRandD/Blackstone) ![](https://img.shields.io/github/stars/ICLRandD/Blackstone.svg?style=social) - Blackstone is a spaCy model and library for processing long-form, unstructured legal text. Blackstone is an experimental research project from the Incorporated Council of Law Reporting for England and Wales' research lab, ICLR&D.
@@ -283,6 +285,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
 * [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://github.com/apache/airflow) ![](https://img.shields.io/github/stars/apache/airflow.svg?style=social) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
@@ -309,6 +312,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Snakemake](https://github.com/snakemake/snakemake) ![](https://img.shields.io/github/stars/snakemake/snakemake.svg?style=social) - Workflow management system for reproducible and scalable data analyses.
 * [Towhee](https://github.com/towhee-io/towhee) ![](https://img.shields.io/github/stars/towhee-io/towhee.svg?style=social) - General-purpose machine learning pipeline for generating embedding vectors using one or many ML models.
 
+
 ## Data Labelling Tools and Frameworks
 * [brat rapid annotation tool](https://github.com/nlplab/brat) ![](https://img.shields.io/github/stars/nlplab/brat.svg?style=social) - Web-based text annotation tool for Named-Entity-Recogntion task.
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg?style=social) - Web-based image segmentation tool for object detection, localization and keypoints
@@ -328,8 +332,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) - A simple and standalone manual annotation software for image, audio and video. VIA runs in a web browser and does not require any installation or setup.
 * [Visual Object Tagging Tool (VOTT)](https://github.com/Microsoft/VoTT) ![](https://img.shields.io/github/stars/Microsoft/VoTT.svg?style=social) - Microsoft's Open Source electron app for labelling videos and images for object detection models (with active learning functionality).
 
-## Metadata Management
 
+## Metadata Management
 * [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 * [Apache Atlas](https://github.com/apache/atlas) ![](https://img.shields.io/github/stars/apache/atlas.svg?style=social) - Apache Atlas framework is an extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
 * [DataHub](https://github.com/linkedin/datahub) ![](https://img.shields.io/github/stars/linkedin/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
@@ -337,6 +341,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these three problems: 1) Federate views of metadata systems; 2) Allow arbitrary metadata storage about data sets; 3) Metadata discovery.
 * [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
+
 
 ## Data Storage Optimisation
 * [Alluxio](https://github.com/Alluxio/alluxio) ![](https://img.shields.io/github/stars/Alluxio/alluxio.svg?style=social) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
@@ -366,6 +371,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [KNative Serving](https://github.com/knative/serving) ![](https://img.shields.io/github/stars/knative/serving.svg?style=social) - Kubernetes based serverless microservices with "scale-to-zero" functionality.
 * [Nuclio](https://github.com/nuclio/nuclio) ![](https://img.shields.io/github/stars/nuclio/nuclio.svg?style=social) - A high-performance serverless framework focused on data, I/O, and compute intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow. It supports a variety of data and streaming sources. It can execute over CPUs and GPUs.
 * [OpenFaaS](https://github.com/openfaas/faas) ![](https://img.shields.io/github/stars/openfaas/faas.svg?style=social) - Serverless functions framework with RESTful API on Kubernetes
+
 
 ## Computation load distribution frameworks
 * [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo/) ![](https://img.shields.io/github/stars/intel-analytics/analytics-zoo.svg?style=social) - A unified Data Analytics and AI platform for distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray.
@@ -417,6 +423,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute/) ![](https://img.shields.io/github/stars/axsaucedo/vulkan-kompute.svg?style=social) - Blazing fast, lightweight and mobile phone-enabled Vulkan compute framework optimized for advanced GPU data processing usecases.
 * [Weld](https://github.com/weld-project/weld) ![](https://img.shields.io/github/stars/weld-project/weld.svg?style=social) High-performance runtime for data analytics applications, Here is an [interview](https://www.notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm/) with Weld’s main contributor.
 
+
 ## Data Stream Processing
 * [Apache Flink](https://github.com/apache/flink) ![](https://img.shields.io/github/stars/apache/flink.svg?style=social) - Open source stream processing framework with powerful stream and batch processing capabilities.
 * [Apache Samza](https://github.com/apache/samza) ![](https://img.shields.io/github/stars/apache/samza.svg?style=social) - Distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.
@@ -424,6 +431,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Faust](https://github.com/robinhood/faust) ![](https://img.shields.io/github/stars/robinhood/faust.svg?style=social) - Streaming library built on top of Python's Asyncio library using the async kafka client inspired by the kafka streaming library.
 * [Apache Spark](https://spark.apache.org/streaming/) ![](https://img.shields.io/github/stars/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 * [Apache Kafka](https://github.com/apache/kafka) ![](https://img.shields.io/github/stars/apache/kafka.svg?style=social) - Kafka client library for buliding applications and microservices where the input and output are stored in kafka clusters.
+
 
 ## Outlier and Anomaly Detection
 * [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
@@ -453,10 +461,12 @@ This repository contains a curated list of awesome open source libraries that wi
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series.
 * [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
+
 ## Feature Stores
 * [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores which allows you to transform your raw data into beautiful features.
 * [Feature Store for Machine Learning (FEAST)](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is a tool for managing and serving machine learning features. Feast is the bridge between models and data.
-* [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML - [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
+* [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
+* [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 * [Ivory](https://github.com/antony-a1/ivory)  ![](https://img.shields.io/github/stars/antony-a1/ivory.svg?style=social) - ivory defines a specification for how to store feature data and provides a set of tools for querying it. It does not provide any tooling for producing feature data in the first place. All ivory commands run as MapReduce jobs so it assumed that feature data is maintained on HDFS.
 * [Veri](https://github.com/bgokden/veri) ![](https://img.shields.io/github/stars/bgokden/veri.svg?style=social) - Veri is a Feature Label Store. Feature Label store allows storing features as keys and labels as values. Querying values is only possible with knn using features. Veri also supports creating sub sample spaces of data by default.
 
@@ -466,9 +476,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Apheris](https://www.apheris.com/) - A platform for federated and privacy-preserving data science that lets you securely collaborate on AI with partners without sharing any data.
 * [Arize AI](https://arize.com/) - ML observability and automated model monitoring to help ML practitioners understand how their models perform in production, troubleshoot issues, and improve model performance. ML teams can upload offline (training or validation) baselines into an evaluation/inference store alongside online production data for model validation, drift detection, data quality checks, and model performance management.
 * [bigml](https://bigml.com/) - An E2E machine learning platform.
-* [Censius](https://censius.ai/platform) - Censius is an AI Observability Platform that assists enterprises in continuously monitoring, analyzing, and explaining their production models. It combines monitoring, accountability, and explainability into one Observability Platform.
+* [Censius](https://censius.ai) - Censius is an AI Observability Platform that assists enterprises in continuously monitoring, analyzing, and explaining their production models. It combines monitoring, accountability, and explainability into one Observability Platform.
 * [cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
-* [Comet.ml](http://comet.ml) - Machine learning experiment management. Free for open source and students - [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE).
+* [Comet](http://comet.ml) - Machine learning experiment management. Free for open source and students - [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE).
 * [D2iQ KUDO for Kubeflow](https://d2iq.com/products/kaptain) - [Enterprise machine learning platform](https://d2iq.com/blog/kudo-for-kubeflow-the-enterprise-machine-learning-platform) that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source Kubernetes Universal Declarative Operators ([KUDO](https://kudo.dev/)).
 * [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
 * [Dataiku](https://www.dataiku.com/) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
@@ -480,7 +490,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Diffgram](https://diffgram.com/) - Training Data First platform. Database & Training Data Pipelines for Supervised AI. Integrated with GCP, AWS, Azure and top Annotation Supervision UIs (or use built-in Diffgram UI, or build your own). Plus a growing list of integrated service providers! For Computer Vision, NLP, and Supervised Deep Learning / Machine Learning.
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
 * [Graphsignal](https://graphsignal.com/) - Machine learning profiler that helps make model training and inference faster and more efficient.
-* [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc).
+* [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring - [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc).
 * [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning) - Create, train, and deploy self-learning models using an automated, collaborative workflow.
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
