@@ -195,6 +195,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TorchServe](https://pytorch.org/serve/) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - TorchServe is a flexible and easy to use tool for serving PyTorch models.
 * [Transformer-deploy](https://github.com/ELS-RD/transformer-deploy/) ![](https://img.shields.io/github/stars/ELS-RD/transformer-deploy.svg?style=social) - Transformer-deploy is an efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - Triton is a high performance open source serving software to deploy AI models from any framework on GPU & CPU while maximizing utilization.
+* [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 * [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
 
 ## Adversarial Robustness Libraries
@@ -511,4 +512,3 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
 * [Talend Studio](https://www.talend.com/) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
-* [Weights & Biases](https://wandb.ai/site) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
