@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: Awesome Production Machine Learning
-message: 'If you use this list, please cite it as follows.'
+message: 'If you use this list in your works, please cite it as follows.'
 type: dataset
 authors:
   - given-names: Alejandro
