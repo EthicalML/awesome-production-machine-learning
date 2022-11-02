@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Awesome Production Machine Learning
+message: 'If you use this list in your publication, please cite it as follows.'
+type: dataset
+authors:
+  - given-names: Alejandro
+    family-names: Saucedo
+repository-code: >-
+  https://github.com/EthicalML/awesome-production-machine-learning
+abstract: >-
+  This repository contains a curated list of awesome
+  open-source libraries that will help you deploy,
+  monitor, version, scale, and secure your production
+  machine learning.
+license: MIT
