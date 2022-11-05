@@ -237,7 +237,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
 * [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
 * [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
-
+* [Zoose PyTorch](https://databaseline.tech/pytorch-with-zoose-for-gitpod/) for Gitpod - Run PyTorch (incl. audio, text, and video libraries), TensorBoard, and lots of complementary Python packages in VSCode or JupyterLab with zero installation, straight from your browser. Code ML models even when on the go.
 
 ## Industrial Strength Visualisation
 * [Altair](https://github.com/altair-viz/altair) - Altair is a declarative statistical visualization library for Python.
