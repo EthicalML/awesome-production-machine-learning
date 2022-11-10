@@ -332,6 +332,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Metadata Management
 * [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+* [ArangoML Pipeline](https://github.com/arangoml/arangopipe) ![](https://img.shields.io/github/stars/arangoml/arangopipe.svg?style=social) - ArangoML Pipeline is a common and extensible Metadata Layer for Machine Learning Pipelines which allows Data Scientists and DataOps to manage all information related to their ML pipeline in one place.
 * [Apache Atlas](https://github.com/apache/atlas) ![](https://img.shields.io/github/stars/apache/atlas.svg?style=social) - Apache Atlas framework is an extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
 * [DataHub](https://github.com/linkedin/datahub) ![](https://img.shields.io/github/stars/linkedin/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
 * [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
