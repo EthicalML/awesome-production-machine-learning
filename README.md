@@ -17,7 +17,7 @@ This repository contains a curated list of awesome open source libraries that wi
 |[🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
 |[🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
 | [📓 Data Science Notebook](#data-science-notebook) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🧵 Model & Data Pipeline](#model-and-data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
+| [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
@@ -285,10 +285,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
 
-## Model and Data Pipeline
+## Data Pipeline
 * [Apache Airflow](https://github.com/apache/airflow) ![](https://img.shields.io/github/stars/apache/airflow.svg?style=social) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 * [Apache Nifi](https://github.com/apache/nifi) ![](https://img.shields.io/github/stars/apache/nifi.svg?style=social) - Apache NiFi was made for dataflow. It supports highly configurable directed graphs of data routing, transformation, and system mediation logic.
-* [ArangoML Pipeline](https://github.com/arangoml/arangopipe) ![](https://img.shields.io/github/stars/arangoml/arangopipe.svg?style=social) - ArangoML Pipeline is a common and extensible Metadata Layer for Machine Learning Pipelines which allows Data Scientists and DataOps to manage all information related to their ML pipeline in one place.
 * [Argo Workflows](https://github.com/argoproj/argo-workflows) ![](https://img.shields.io/github/stars/argoproj/argo-workflows.svg?style=social) - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD (Custom Resource Definition).
 * [Azkaban](https://github.com/azkaban/azkaban) ![](https://img.shields.io/github/stars/azkaban/azkaban.svg?style=social) - Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows.
 * [Basin](https://github.com/basin-etl/basin) ![](https://img.shields.io/github/stars/basin-etl/basin.svg?style=social) - Visual programming editor for building Spark and PySpark pipelines.
