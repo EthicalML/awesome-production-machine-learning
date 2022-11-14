@@ -146,6 +146,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Model Training Orchestration
+* [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - Accelerate abstracts exactly and only the boilerplate code related to multi-GPU/TPU/mixed-precision and leaves the rest of your code unchanged.
 * [CML](https://github.com/iterative/cml) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects.
 * [Determined](https://github.com/determined-ai/determined) ![](https://img.shields.io/github/stars/determined-ai/determined.svg?style=social) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
 * [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - Machine learning development environment for data science and AI/ML engineering teams.
@@ -296,6 +297,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Chronos](https://github.com/mesos/chronos) ![](https://img.shields.io/github/stars/mesos/chronos.svg?style=social) - More of a job scheduler for Mesos than ETL pipeline.
 * [Couler](https://github.com/couler-proj/couler) ![](https://img.shields.io/github/stars/couler-proj/couler.svg?style=social) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 * [Dagster](https://github.com/dagster-io/dagster) ![](https://img.shields.io/github/stars/dagster-io/dagster.svg?style=social) - A data orchestrator for machine learning, analytics, and ETL.
+* [DBND](https://github.com/databand-ai/dbnd) ![](https://img.shields.io/github/stars/databand-ai/dbnd.svg?style=social) - DBND is an agile pipeline framework that helps data engineering teams track and orchestrate their data processes.
 * [DBT](https://github.com/dbt-labs/dbt-core) ![](https://img.shields.io/github/stars/dbt-labs/dbt-core.svg?style=social) - ETL tool for running transformations inside data warehouses.
 * [Flyte](https://github.com/flyteorg/flyte) ![](https://img.shields.io/github/stars/lyft/flyte.svg?style=social) - Lyft’s Cloud Native Machine Learning and Data Processing Platform - [(Demo)](https://youtu.be/KdUJGSP1h9U?t=1451).
 * [Genie](https://github.com/Netflix/genie) ![](https://img.shields.io/github/stars/Netflix/genie.svg?style=social) - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems.
