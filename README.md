@@ -28,7 +28,7 @@ This repository contains a curated list of awesome open source libraries that wi
 <table>
   <tr>
     <td width="30%">
-        This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo.
+        This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo. This <a href="https://www.youtube.com/watch?v=xymbp8RWaCQ&t=1s">newer video</a> covers the an updated 2022 version of the state of MLOps 
     </td>
     <td width="70%">
         <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY"><img src="images/video.png"></a>
