@@ -14,7 +14,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-|[🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
+|[🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Tracking](#model-and-data-tracking)|
 |[🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
 | [📓 Data Science Notebook](#data-science-notebook) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
@@ -119,10 +119,11 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
 
 
-## Model and Data Versioning
+## Model and Data Tracking
 * [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim?style=social) - A super-easy way to record, search and compare AI experiments.
 * [Catalyst](https://github.com/catalyst-team/catalyst) ![](https://img.shields.io/github/stars/catalyst-team/catalyst.svg?style=social) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing.
 * [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
+* [CodaLab](https://github.com/codalab/codalab-worksheets) ![](https://img.shields.io/github/stars/codalab/codalab-worksheets.svg?style=social) - CodaLab Worksheets is a collaborative platform for reproducible research that allows researchers to run, manage, and share their experiments in the cloud. It helps researchers ensure that their runs are reproducible and consistent.
 * [D6tflow](https://github.com/d6t/d6tflow) ![](https://img.shields.io/github/stars/d6t/d6tflow.svg?style=social) - A python library that allows for building complex data science workflows on Python.
 * [Data Version Control (DVC)](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - A git fork that allows for version management of models.
 * [Deepkit](https://github.com/deepkit/deepkit-ml) ![](https://img.shields.io/github/stars/deepkit/deepkit-ml.svg?style=social) - An open-source platform and cross-platform desktop application to execute, track, and debug modern machine learning experiments.
