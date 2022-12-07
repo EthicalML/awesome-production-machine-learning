@@ -107,6 +107,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Privacy Preserving ML
+* [BastionLab](https://github.com/mithril-security/bastionlab) ![](https://img.shields.io/github/stars/mithril-security/bastionlab.svg?style=social) - BastionLab is a framework for confidential data science collaboration. It uses Confidential Computing, Access control data science, and Differential Privacy to enable data scientists to remotely perform data exploration, statistics, and training on confidential data while ensuring maximal privacy for data owners.
 * [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - Flower is a Federated Learning Framework with a unified approach. It enables the federation of any ML workload, with any ML framework, and any programming language.
 * [Google's Differential Privacy](https://github.com/google/differential-privacy) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social) - This is a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 * [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) ![](https://img.shields.io/github/stars/NervanaSystems/he-transformer.svg?style=social) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
