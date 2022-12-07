@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-|[💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
+|[💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) | [📏 Benchmarks & Best Practices](#benchmarks-and-best-practices) |
 
 ## 10 Min Video Overview
 
@@ -516,3 +516,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Vertex AI](https://cloud.google.com/vertex-ai) - Vertex AI Workbench is the single environment for data scientists to complete all of their ML work, from experimentation, to deployment, to managing and monitoring models. It is a Jupyter-based fully managed, scalable, enterprise-ready compute infrastructure with security controls and user management capabilities.
 * [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
+
+## Benchmarks & Best Practices
+* [ML Commons](https://mlcommons.org) - MLCommons aims to answer the needs of the nascent machine learning industry through open, collaborative engineering in three areas: benchmarking, datasets, and best practices.
