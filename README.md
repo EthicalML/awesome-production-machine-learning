@@ -14,14 +14,14 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-|[🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
-|[🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
+| [🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) | [🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning) |
+| [🏁 Model Training Orchestration](#model-training-orchestration) | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🤖 Neural Architecture Search](#neural-architecture-search) |
 | [📓 Data Science Notebook](#data-science-notebook) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
-| [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
-| [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
+| [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) | [📅 Metadata Management](#metadata-management) |
+| [📡 Functions as a Service](#function-as-a-service) | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
+| [🧮 Optimized Computation](#optimized-computation) | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-|[💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
+| [💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
