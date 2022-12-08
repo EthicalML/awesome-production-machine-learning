@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-|[💾 Data Storage Optimization](#data-storage-optimisation) | [👁️ Data Discovery](#data-discovery) | [💰 Commercial Platform](#commercial-platform) |
+|[💾 Data Storage Optimization](#data-storage-optimisation) | [👁️ Data Manipulation](#data-manipulation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -279,7 +279,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Kashgari](https://github.com/BrikerMan/Kashgari) ![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg?style=social) - Kashgari is a simple and powerful NLP Transfer learning framework, build a state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS), and text classification tasks.
 * [OpenAI GPT-2](https://github.com/openai/gpt-2) ![](https://img.shields.io/github/stars/openai/gpt-2.svg?style=social) - OpenAI's code from their paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 * [sense2vec](https://github.com/explosion/sense2vec) ![](https://img.shields.io/github/stars/explosion/sense2vec.svg?style=social) - A Pytorch library that allows for training and using sense2vec models, which are models that leverage the same approach than word2vec, but also leverage part-of-speech attributes for each token, which allows it to be "meaning-aware".
-* [Snorkel](https://github.com/snorkel-team/snorkel) ![](https://img.shields.io/github/stars/snorkel-team/snorkel.svg?style=social) - Snorkel is a system for quickly generating training data with weak supervision.
 * [SpaCy](https://github.com/explosion/spaCy) ![](https://img.shields.io/github/stars/explosion/spaCy.svg?style=social) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
 * [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) ![](https://img.shields.io/github/stars/DLR-RM/stable-baselines3.svg?style=social) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 * [Tensorflow Lingvo](https://github.com/tensorflow/lingvo) ![](https://img.shields.io/github/stars/tensorflow/lingvo.svg?style=social) - A [framework](https://blog.tensorflow.org/2019/02/lingvo-tensorflow-framework-for-sequence-modeling.html) for building neural networks in Tensorflow, particularly sequence models.
@@ -472,8 +471,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Veri](https://github.com/bgokden/veri) ![](https://img.shields.io/github/stars/bgokden/veri.svg?style=social) - Veri is a Feature Label Store. Feature Label store allows storing features as keys and labels as values. Querying values is only possible with knn using features. Veri also supports creating sub sample spaces of data by default.
 
 
-## Data Discovery
+## Data Manipulation
 * [Kangas](https://github.com/comet-ml/kangas) ![](https://img.shields.io/github/stars/comet-ml/kangas.svg?style=social) - Kangas is a tool for exploring, analyzing, and visualizing large-scale multimedia data. It provides a straightforward Python API for logging large tables of data, along with an intuitive visual interface for performing complex queries against your dataset.
+* [Snorkel](https://github.com/snorkel-team/snorkel) ![](https://img.shields.io/github/stars/snorkel-team/snorkel.svg?style=social) - Snorkel is a system for quickly generating training data with weak supervision.
 
 
 ## Commercial Platform
