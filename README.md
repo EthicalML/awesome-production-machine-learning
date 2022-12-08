@@ -16,12 +16,12 @@ This repository contains a curated list of awesome open source libraries that wi
 |-|-|-|
 | [🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) | [🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning) |
 | [🏁 Model Training Orchestration](#model-training-orchestration) | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🤖 Neural Architecture Search](#neural-architecture-search) |
-| [📓 Data Science Notebook](#data-science-notebook) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) | [📅 Metadata Management](#metadata-management) |
-| [📡 Functions as a Service](#function-as-a-service) | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
+| [📓 Data Science Notebook](#data-science-notebook) | [📊 Industrial-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industrial-strength NLP](#industrial-strength-nlp) |
+| [👁️ Industrial-strength CV](#industrial-strength-cv) | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |
+| [📅 Metadata Management](#metadata-management) | [📡 Functions as a Service](#function-as-a-service) | [🗺️ Computation Distribution](#computation-load-distribution) |
 | [🧮 Optimized Computation](#optimized-computation) | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
-| [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-| [💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
+| [📥 Model Serialisation](#model-serialisation) | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -286,6 +286,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
+
+##Industrial-strength CV
+* [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 
 ## Data Pipeline
 * [Apache Airflow](https://github.com/apache/airflow) ![](https://img.shields.io/github/stars/apache/airflow.svg?style=social) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
