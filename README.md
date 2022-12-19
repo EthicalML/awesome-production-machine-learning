@@ -123,7 +123,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim?style=social) - A super-easy way to record, search and compare AI experiments.
 * [Catalyst](https://github.com/catalyst-team/catalyst) ![](https://img.shields.io/github/stars/catalyst-team/catalyst.svg?style=social) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing.
 * [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
-* [D6tflow](https://github.com/d6t/d6tflow) ![](https://img.shields.io/github/stars/d6t/d6tflow.svg?style=social) - A python library that allows for building complex data science workflows on Python.
 * [Data Version Control (DVC)](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - A git fork that allows for version management of models.
 * [Deepkit](https://github.com/deepkit/deepkit-ml) ![](https://img.shields.io/github/stars/deepkit/deepkit-ml.svg?style=social) - An open-source platform and cross-platform desktop application to execute, track, and debug modern machine learning experiments.
 * [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
@@ -299,6 +298,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Dagster](https://github.com/dagster-io/dagster) ![](https://img.shields.io/github/stars/dagster-io/dagster.svg?style=social) - A data orchestrator for machine learning, analytics, and ETL.
 * [DBND](https://github.com/databand-ai/dbnd) ![](https://img.shields.io/github/stars/databand-ai/dbnd.svg?style=social) - DBND is an agile pipeline framework that helps data engineering teams track and orchestrate their data processes.
 * [DBT](https://github.com/dbt-labs/dbt-core) ![](https://img.shields.io/github/stars/dbt-labs/dbt-core.svg?style=social) - ETL tool for running transformations inside data warehouses.
+* [D6tflow](https://github.com/d6t/d6tflow) ![](https://img.shields.io/github/stars/d6t/d6tflow.svg?style=social) - A python library that allows for building complex data science workflows on Python.
 * [Flyte](https://github.com/flyteorg/flyte) ![](https://img.shields.io/github/stars/lyft/flyte.svg?style=social) - Lyft’s Cloud Native Machine Learning and Data Processing Platform - [(Demo)](https://youtu.be/KdUJGSP1h9U?t=1451).
 * [Genie](https://github.com/Netflix/genie) ![](https://img.shields.io/github/stars/Netflix/genie.svg?style=social) - Job orchestration engine to interface and trigger the execution of jobs from Hadoop-based systems.
 * [Gokart](https://github.com/m3dev/gokart) ![](https://img.shields.io/github/stars/m3dev/gokart.svg?style=social) - Wrapper of the data pipeline Luigi.
