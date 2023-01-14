@@ -14,14 +14,14 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-|[🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
-|[🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
-| [📓 Data Science Notebook](#data-science-notebook) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
+| [🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
+| [🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
+| [🍕 Industry-strength RL](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-|[💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
+| [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -228,21 +228,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Neural Network Intelligence](https://github.com/Microsoft/nni) ![](https://img.shields.io/github/stars/Microsoft/nni.svg?style=social) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
 
 
-## Data Science Notebook
-* [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-* [Binder](https://github.com/jupyterhub/binder) ![](ttps://img.shields.io/github/stars/jupyterhub/binder.svg?style=social) - Binder hosts notebooks in an executable environment (for free).
-* [H2O Flow](https://github.com/h2oai/h2o-flow) - Jupyter notebook-like interface for H2O to create, save and re-use "flows".
-* [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - Web interface python sandbox environments for reproducible development
-* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ![](https://img.shields.io/github/stars/ml-tooling/ml-workspace.svg?style=social) - All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
-* [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?style=social) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-* [Papermill](https://github.com/nteract/papermill) ![](https://img.shields.io/github/stars/nteract/papermill.svg?style=social) - Papermill is a library for parameterizing notebooks and executing them like Python scripts.
-* [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - Ploomber allows you to develop workflows in Jupyter and execute them in a distributed environment without code changes. It supports Kubernetes, AWS Batch, and Airflow.
-* [Polynote](https://github.com/polynote/polynote) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega.
-* [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
-* [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
-* [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
-
-
 ## Industrial Strength Visualisation
 * [Altair](https://github.com/altair-viz/altair) - Altair is a declarative statistical visualization library for Python.
 * [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
@@ -287,6 +272,10 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
 * [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+
+
+## Industry Strength RL
+* [CleanRL](https://github.com/vwxyzjn/cleanrl) ![](https://img.shields.io/github/stars/vwxyzjn/cleanrl.svg?style=social) - CleanRL is a Deep Reinforcement Learning library that provides high-quality single-file implementation with research-friendly features. The implementation is clean and simple, yet we can scale it to run thousands of experiments using AWS Batch.
 
 
 ## Data Pipeline
@@ -471,6 +460,21 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 * [Ivory](https://github.com/antony-a1/ivory)  ![](https://img.shields.io/github/stars/antony-a1/ivory.svg?style=social) - ivory defines a specification for how to store feature data and provides a set of tools for querying it. It does not provide any tooling for producing feature data in the first place. All ivory commands run as MapReduce jobs so it assumed that feature data is maintained on HDFS.
 * [Veri](https://github.com/bgokden/veri) ![](https://img.shields.io/github/stars/bgokden/veri.svg?style=social) - Veri is a Feature Label Store. Feature Label store allows storing features as keys and labels as values. Querying values is only possible with knn using features. Veri also supports creating sub sample spaces of data by default.
+
+
+## Data Science Notebook
+* [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+* [Binder](https://github.com/jupyterhub/binder) ![](ttps://img.shields.io/github/stars/jupyterhub/binder.svg?style=social) - Binder hosts notebooks in an executable environment (for free).
+* [H2O Flow](https://github.com/h2oai/h2o-flow) - Jupyter notebook-like interface for H2O to create, save and re-use "flows".
+* [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - Web interface python sandbox environments for reproducible development
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ![](https://img.shields.io/github/stars/ml-tooling/ml-workspace.svg?style=social) - All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
+* [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?style=social) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+* [Papermill](https://github.com/nteract/papermill) ![](https://img.shields.io/github/stars/nteract/papermill.svg?style=social) - Papermill is a library for parameterizing notebooks and executing them like Python scripts.
+* [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - Ploomber allows you to develop workflows in Jupyter and execute them in a distributed environment without code changes. It supports Kubernetes, AWS Batch, and Airflow.
+* [Polynote](https://github.com/polynote/polynote) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega.
+* [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
+* [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
+* [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
 
 
 ## Commercial Platform
