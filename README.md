@@ -512,7 +512,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [SigOpt](https://sigopt.com/) - SigOpt is a model development platform that makes it easy to track runs, visualize training, and scale hyperparameter optimization for any type of model built with any library on any infrastructure.
 * [Skymind](https://skymind.global/) - Software distribution designed to help enterprise IT teams manage, deploy, and retrain machine learning models at scale.
 * [Skytree](http://skytree.net) - End to end machine learning platform - [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k).
-* [Spell](https://spell.run) - Flexible end-to-end MLOps / Machine Learning Platform - [(Video)](https://www.youtube.com/watch?v=J7xo-STHx1k).
 * [SuperAnnotate](https://www.superannotate.com/) - A complete set of solutions for image and video annotation and an annotation service with integrated tooling, on-demand narrow expertise in various fields, and a custom neural network, automation, and training models powered by AI.
 * [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
 * [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
