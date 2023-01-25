@@ -274,7 +274,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
 
-## Industry Strength Reinforcement Learning
+## Industry Strength RL
 * [Acme](https://github.com/deepmind/acme) ![](https://img.shields.io/github/stars/deepmind/acme.svg?style=social) - Acme is a library of reinforcement learning (RL) building blocks that strives to expose simple, efficient, and readable agents.
 * [AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) ![](https://img.shields.io/github/stars/TJU-DRL-LAB/AI-Optimizer.svg?style=social) - AI-Optimizer is a next-generation deep reinforcement learning suit, providing rich algorithm libraries ranging from model-free to model-based RL algorithms, from single-agent to multi-agent algorithms. Moreover, AI-Optimizer contains a flexible and easy-to-use distributed training framework for efficient policy training.
 * [CleanRL](https://github.com/vwxyzjn/cleanrl) ![](https://img.shields.io/github/stars/vwxyzjn/cleanrl.svg?style=social) - CleanRL is a Deep Reinforcement Learning library that provides high-quality single-file implementation with research-friendly features. The implementation is clean and simple, yet we can scale it to run thousands of experiments using AWS Batch.
