@@ -288,6 +288,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ##Industrial-strength CV
+* [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 
 
