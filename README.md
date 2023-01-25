@@ -412,6 +412,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Optimized Computation
+* [BindsNET](https://github.com/BindsNET/bindsnet) ![](https://img.shields.io/github/stars/BindsNET/bindsnet.svg?style=social) - BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [CuDF](https://github.com/rapidsai/cudf) ![](https://img.shields.io/github/stars/rapidsai/cudf.svg?style=social) - Built based on the Apache Arrow columnar memory format, cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data.
 * [CuML](https://github.com/rapidsai/cuml) ![](https://img.shields.io/github/stars/rapidsai/cuml.svg?style=social) - cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 * [CuPy](https://github.com/cupy/cupy) ![](https://img.shields.io/github/stars/cupy/cupy.svg?style=social) - An implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it.
@@ -425,6 +426,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Numba](https://github.com/numba/numba) ![](https://img.shields.io/github/stars/numba/numba.svg?style=social)  - A compiler for Python array and numerical functions.
 * [NumpyGroupies](https://github.com/ml31415/numpy-groupies) ![](https://img.shields.io/github/stars/ml31415/numpy-groupies.svg?style=social) Optimised tools for group-indexing operations: aggregated sum and more
 * [OpenVINO™ integration with TensorFlow](https://github.com/openvinotoolkit/openvino_tensorflow) ![](https://img.shields.io/github/stars/openvinotoolkit/openvino_tensorflow.svg?style=social) - Highly optimized Neural Network inference with Tensorflow on Intel platforms by adding a single line of code.
+* [snnTorch](https://github.com/jeshraghian/snntorch) ![](https://img.shields.io/github/stars/jeshraghian/snntorch.svg?style=social) - snnTorch is a deep and online learning library with spiking neural networks in Python
 * [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) ![](https://img.shields.io/github/stars/tensorflow/tensor2tensor.svg?style=social) - Tensor2Tensor is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 * [Vaex](https://github.com/vaexio/vaex) ![](https://img.shields.io/github/stars/vaexio/vaex.svg?style=social) Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
 * [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute/) ![](https://img.shields.io/github/stars/axsaucedo/vulkan-kompute.svg?style=social) - Blazing fast, lightweight and mobile phone-enabled Vulkan compute framework optimized for advanced GPU data processing usecases.
