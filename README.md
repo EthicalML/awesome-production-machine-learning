@@ -20,8 +20,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-| [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) | [👁️ Industrial-strength CV](#industrial-strength-cv) |
-| [🔠 Industry-strength NLP](#industrial-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) |
+| [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) | [👁️ Industry-strength CV](#industrial-strength-cv) |
+| [🔠 Industry-strength NLP](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
@@ -440,12 +440,12 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
 
 
-##Industrial-strength CV
+##Industry Strength CV
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 
 
-## Industrial Strength NLP
+## Industry Strength NLP
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) ![](https://img.shields.io/github/stars/Novetta/adaptnlp.svg?style=social) - Built atop Zalando Research's Flair and Hugging Face's Transformers library, AdaptNLP provides Machine Learning Researchers and Scientists a modular and adaptive approach to a variety of NLP tasks with an Easy API for training, inference, and deploying NLP-based microservices.
 * [Blackstone](https://github.com/ICLRandD/Blackstone) ![](https://img.shields.io/github/stars/ICLRandD/Blackstone.svg?style=social) - Blackstone is a spaCy model and library for processing long-form, unstructured legal text. Blackstone is an experimental research project from the Incorporated Council of Law Reporting for England and Wales' research lab, ICLR&D.
 * [Coqui STT](https://github.com/coqui-ai/STT) ![](https://img.shields.io/github/stars/coqui-ai/STT.svg?style=social) - Coqui STT is a fast, open-source, multi-platform, deep-learning toolkit for training and deploying speech-to-text models.
@@ -501,7 +501,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TF-Agents](https://github.com/tensorflow/agents) ![](https://img.shields.io/github/stars/tensorflow/agents.svg?style=social) - A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
 
 
-## Industrial Strength Visualisation
+## Industry Strength Visualisation
 * [Altair](https://github.com/altair-viz/altair) - Altair is a declarative statistical visualization library for Python.
 * [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 * [Bokeh](https://github.com/bokeh/bokeh) ![](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social) - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
