@@ -15,7 +15,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | | | |
 |-|-|-|
 | [🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
-| [🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Hyperparameter Optimisation](#hyperparameter-optimisation)|
+| [🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 AutoML](#automl)|
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
@@ -217,7 +217,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Trickster](https://github.com/spring-epfl/trickster) ![](https://img.shields.io/github/stars/spring-epfl/trickster.svg?style=social) - Library and experiments for attacking machine learning in discrete domains using graph search.
 
 
-## Hyperparameter Optimisation
+## AutoML
 * [Autokeras](https://github.com/jhfjhfj1/autokeras) ![](https://img.shields.io/github/stars/jhfjhfj1/autokeras.svg?style=social) - AutoML library for Keras based on ["Auto-Keras: Efficient Neural Architecture Search with Network Morphism"](https://arxiv.org/abs/1806.10282).
 * [ENAS via Parameter Sharing](https://github.com/melodyguan/enas) - Efficient Neural Architecture Search via Parameter Sharing by [authors of paper](https://arxiv.org/abs/1802.03268).
 * [ENAS-PyTorch](https://github.com/carpedm20/ENAS-pytorch) ![](https://img.shields.io/github/stars/carpedm20/ENAS-pytorch.svg?style=social) - Efficient Neural Architecture Search (ENAS) in PyTorch based [on this paper](https://arxiv.org/abs/1802.03268).
