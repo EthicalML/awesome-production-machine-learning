@@ -14,14 +14,14 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-|[🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
-|[🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
-| [📓 Data Science Notebook](#data-science-notebook) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
+| [🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
+| [🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 Neural Architecture Search](#neural-architecture-search)|
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industrial-strength-visualisation) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-|[💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) |
+| [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -227,21 +227,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Neural Network Intelligence](https://github.com/Microsoft/nni) ![](https://img.shields.io/github/stars/Microsoft/nni.svg?style=social) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
 
 
-## Data Science Notebook
-* [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-* [Binder](https://github.com/jupyterhub/binder) ![](ttps://img.shields.io/github/stars/jupyterhub/binder.svg?style=social) - Binder hosts notebooks in an executable environment (for free).
-* [H2O Flow](https://github.com/h2oai/h2o-flow) - Jupyter notebook-like interface for H2O to create, save and re-use "flows".
-* [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - Web interface python sandbox environments for reproducible development
-* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ![](https://img.shields.io/github/stars/ml-tooling/ml-workspace.svg?style=social) - All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
-* [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?style=social) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-* [Papermill](https://github.com/nteract/papermill) ![](https://img.shields.io/github/stars/nteract/papermill.svg?style=social) - Papermill is a library for parameterizing notebooks and executing them like Python scripts.
-* [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - Ploomber allows you to develop workflows in Jupyter and execute them in a distributed environment without code changes. It supports Kubernetes, AWS Batch, and Airflow.
-* [Polynote](https://github.com/polynote/polynote) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega.
-* [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
-* [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
-* [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
-
-
 ## Industrial Strength Visualisation
 * [Altair](https://github.com/altair-viz/altair) - Altair is a declarative statistical visualization library for Python.
 * [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
@@ -288,6 +273,40 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
 * [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+
+
+## Industry Strength RL
+* [Acme](https://github.com/deepmind/acme) ![](https://img.shields.io/github/stars/deepmind/acme.svg?style=social) - Acme is a library of reinforcement learning (RL) building blocks that strives to expose simple, efficient, and readable agents.
+* [AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) ![](https://img.shields.io/github/stars/TJU-DRL-LAB/AI-Optimizer.svg?style=social) - AI-Optimizer is a next-generation deep reinforcement learning suit, providing rich algorithm libraries ranging from model-free to model-based RL algorithms, from single-agent to multi-agent algorithms. Moreover, AI-Optimizer contains a flexible and easy-to-use distributed training framework for efficient policy training.
+* [ALF](https://github.com/HorizonRobotics/alf) ![](https://img.shields.io/github/stars/HorizonRobotics/alf.svg?style=social) - ALF is a reinforcement learning framework emphasizing on the flexibility and easiness of implementing complex algorithms involving many different components.
+* [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) ![](https://img.shields.io/github/stars/intelligent-environments-lab/CityLearn.svg?style=social) - CityLearn is an open source OpenAI Gym environment for the implementation of Multi-Agent Reinforcement Learning (RL) for building energy coordination and demand response in cities.
+* [CleanRL](https://github.com/vwxyzjn/cleanrl) ![](https://img.shields.io/github/stars/vwxyzjn/cleanrl.svg?style=social) - CleanRL is a Deep Reinforcement Learning library that provides high-quality single-file implementation with research-friendly features. The implementation is clean and simple, yet we can scale it to run thousands of experiments using AWS Batch.
+* [CompilerGym](https://github.com/facebookresearch/CompilerGym) ![](https://img.shields.io/github/stars/facebookresearch/CompilerGym.svg?style=social) - CompilerGym is a library of easy to use and performant reinforcement learning environments for compiler tasks.
+* [d3rlpy](https://github.com/takuseno/d3rlpy) ![](https://img.shields.io/github/stars/takuseno/d3rlpy.svg?style=social) - d3rlpy is an offline deep reinforcement learning library for practitioners and researchers.
+* [DIAMBRA](https://github.com/diambra/arena) ![](https://img.shields.io/github/stars/diambra/arena.svg?style=social) - DIAMBRA Arena is a software package featuring a collection of high-quality environments for Reinforcement Learning research and experimentation.
+* [Dopamine](https://github.com/google/dopamine) ![](https://img.shields.io/github/stars/google/dopamine.svg?style=social) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. It aims to fill the need for a small, easily grokked codebase in which users can freely experiment with wild ideas (speculative research).
+* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ![](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL.svg?style=social) - FinRL is the first open-source framework to demonstrate the great potential of financial reinforcement learning.
+* [garage](https://github.com/rlworkgroup/garage) ![](https://img.shields.io/github/stars/rlworkgroup/garage.svg?style=social) - garage is a toolkit for developing and evaluating reinforcement learning algorithms, and an accompanying library of state-of-the-art implementations built using that toolkit.
+* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ![](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium.svg?style=social) - Gymnasium is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.
+* [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ![](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium-Robotics.svg?style=social) - Gymnasium-Robotics contains a collection of Reinforcement Learning robotic environments that use the Gymansium API. The environments run with the MuJoCo physics engine and the maintained mujoco python bindings.
+* [Jumanji](https://github.com/instadeepai/jumanji) ![](https://img.shields.io/github/stars/instadeepai/jumanji.svg?style=social) - Jumanji is a suite of Reinforcement Learning (RL) environments written in JAX providing clean, hardware-accelerated environments for industry-driven research.
+* [MALib](https://github.com/sjtu-marl/malib) ![](https://img.shields.io/github/stars/sjtu-marl/malib.svg?style=social) - MALib is a parallel framework of population-based learning nested with reinforcement learning methods. MALib provides higher-level abstractions of MARL training paradigms, which enables efficient code reuse and flexible deployments on different distributed computing paradigms.
+* [MARLlib](https://github.com/Replicable-MARL/MARLlib) ![](https://img.shields.io/github/stars/Replicable-MARL/MARLlib.svg?style=social) - MARLlib is a comprehensive Multi-Agent Reinforcement Learning algorithm library based on RLlib. It provides MARL research community with a unified platform for building, training, and evaluating MARL algorithms.
+* [Mava](https://github.com/instadeepai/Mava) ![](https://img.shields.io/github/stars/instadeepai/Mava.svg?style=social) - Mava is a framework for distributed multi-agent reinforcement learning in JAX.
+* [Melting Pot](https://github.com/deepmind/meltingpot) ![](https://img.shields.io/github/stars/deepmind/meltingpot.svg?style=social) - Melting Pot is a suite of test scenarios for multi-agent reinforcement learning.
+* [MetaDrive](https://github.com/metadriverse/metadrive) ![](https://img.shields.io/github/stars/metadriverse/metadrive.svg?style=social) - MetaDrive is a driving simulator that composes diverse driving scenarios for generalizable RL.
+* [Minigrid](https://github.com/Farama-Foundation/Minigrid) ![](https://img.shields.io/github/stars/Farama-Foundation/Minigrid.svg?style=social) - The Minigrid library contains a collection of discrete grid-world environments to conduct research on Reinforcement Learning. The environments follow the Gymnasium standard API and they are designed to be lightweight, fast, and easily customizable.
+* [MiniHack](https://github.com/facebookresearch/minihack) ![](https://img.shields.io/github/stars/facebookresearch/minihack.svg?style=social) - MiniHack is a sandbox framework for easily designing rich and diverse environments for Reinforcement Learning
+* [MiniWorld](https://github.com/Farama-Foundation/Miniworld) ![](https://img.shields.io/github/stars/Farama-Foundation/Miniworld.svg?style=social) - MiniWorld is a minimalistic 3D interior environment simulator for reinforcement learning & robotics research.
+* [ML-Agents](https://github.com/Unity-Technologies/ml-agents) ![](https://img.shields.io/github/stars/Unity-Technologies/ml-agents.svg?style=social) - ML-Agents is an open-source project that enables games and simulations to serve as environments for training intelligent agents.
+* [MushroomRL](https://github.com/MushroomRL/mushroom-rl) ![](https://img.shields.io/github/stars/MushroomRL/mushroom-rl.svg?style=social) - MushroomRL is a Python Reinforcement Learning (RL) library whose modularity allows to easily use well-known Python libraries for tensor computation (e.g. PyTorch, Tensorflow) and RL benchmarks (e.g. OpenAI Gym, PyBullet, Deepmind Control Suite).
+* [PARL](https://github.com/PaddlePaddle/PARL) ![](https://img.shields.io/github/stars/PaddlePaddle/PARL.svg?style=social) - PARL is a flexible and high-efficient reinforcement learning framework.
+* [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) ![](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo.svg?style=social) - PettingZoo is a Python library for conducting research in multi-agent reinforcement learning, akin to a multi-agent version of Gymnasium.
+* [RLlib](https://github.com/ray-project/ray/tree/master/rllib) ![](https://img.shields.io/github/stars/ray-project/ray.svg?style=social) - RLlib is an open-source library for reinforcement learning (RL), offering support for production-level, highly distributed RL workloads, while maintaining unified and simple APIs for a large variety of industry applications.
+* [RLMeta](https://github.com/facebookresearch/rlmeta) ![](https://img.shields.io/github/stars/facebookresearch/rlmeta.svg?style=social) - RLMeta is a flexible lightweight research framework for Distributed Reinforcement Learning based on PyTorch and moolib
+* [skrl](https://github.com/Toni-SM/skrl) ![](https://img.shields.io/github/stars/Toni-SM/skrl.svg?style=social) - skrl is an open-source modular library for Reinforcement Learning written in Python (using PyTorch) and designed with a focus on readability, simplicity, and transparency of algorithm implementation.
+* [SuperSuit](https://github.com/Farama-Foundation/SuperSuit) ![](https://img.shields.io/github/stars/Farama-Foundation/SuperSuit.svg?style=social) - SuperSuit introduces a collection of small functions which can wrap reinforcement learning environments to do preprocessing ('microwrappers').
+* [TF-Agents](https://github.com/tensorflow/agents) ![](https://img.shields.io/github/stars/tensorflow/agents.svg?style=social) - A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
 
 
 ## Data Pipeline
@@ -484,6 +503,21 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 * [Ivory](https://github.com/antony-a1/ivory)  ![](https://img.shields.io/github/stars/antony-a1/ivory.svg?style=social) - ivory defines a specification for how to store feature data and provides a set of tools for querying it. It does not provide any tooling for producing feature data in the first place. All ivory commands run as MapReduce jobs so it assumed that feature data is maintained on HDFS.
 * [Veri](https://github.com/bgokden/veri) ![](https://img.shields.io/github/stars/bgokden/veri.svg?style=social) - Veri is a Feature Label Store. Feature Label store allows storing features as keys and labels as values. Querying values is only possible with knn using features. Veri also supports creating sub sample spaces of data by default.
+
+
+## Data Science Notebook
+* [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+* [Binder](https://github.com/jupyterhub/binder) ![](ttps://img.shields.io/github/stars/jupyterhub/binder.svg?style=social) - Binder hosts notebooks in an executable environment (for free).
+* [H2O Flow](https://github.com/h2oai/h2o-flow) - Jupyter notebook-like interface for H2O to create, save and re-use "flows".
+* [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - Web interface python sandbox environments for reproducible development
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ![](https://img.shields.io/github/stars/ml-tooling/ml-workspace.svg?style=social) - All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
+* [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?style=social) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+* [Papermill](https://github.com/nteract/papermill) ![](https://img.shields.io/github/stars/nteract/papermill.svg?style=social) - Papermill is a library for parameterizing notebooks and executing them like Python scripts.
+* [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - Ploomber allows you to develop workflows in Jupyter and execute them in a distributed environment without code changes. It supports Kubernetes, AWS Batch, and Airflow.
+* [Polynote](https://github.com/polynote/polynote) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega.
+* [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
+* [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
+* [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
 
 
 ## Commercial Platform
