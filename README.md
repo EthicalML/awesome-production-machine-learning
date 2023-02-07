@@ -17,12 +17,11 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🔍 Explaining Predictions & Models](#explaining-black-box-models-and-datasets) |[🔏 Privacy Preserving ML](#privacy-preserving-ml) | [📜 Model & Data Versioning](#model-and-data-versioning)|
 | [🏁 Model Training Orchestration](#model-training-orchestration)|[💪 Model Serving & Monitoring](#model-serving-and-monitoring)|[🤖 AutoML](#automl)|
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) | [📅 Metadata Management](#metadata-management) |
-| [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
-| [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
-| [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-| [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [💰 Commercial Platform](#commercial-platform) |
+| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation) |
+| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🌀 Feature Engineering](#feature-engineering) |
+| [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) |
+| [📓 Data Science Notebook](#data-science-notebook) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -175,6 +174,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Evidently](https://github.com/evidentlyai/evidently) ![](https://img.shields.io/github/stars/evidentlyai/evidently.svg?style=social) - Evidently helps analyze machine learning models during development, validation, or production monitoring. The tool generates interactive reports from pandas DataFrame.
 * [ForestFlow](https://github.com/ForestFlow/ForestFlow)![](https://img.shields.io/github/stars/forestflow/forestflow.svg?style=social) - Cloud-native machine learning model server.
 * [Giskard](https://github.com/Giskard-AI/giskard)![](https://img.shields.io/github/stars/Giskard-AI/giskard.svg?style=social) - Quality Assurance for AI models. Open-source platform to help organizations increase the efficiency of their AI development workflow, eliminate risks of AI biases and ensure robust, reliable & ethical AI models.
+* [Hydrosphere ML Lambda](https://github.com/Hydrospheredata/hydro-serving) ![](https://img.shields.io/github/stars/Hydrospheredata/hydro-serving.svg?style=social) - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture.
 * [Jina](https://github.com/jina-ai/jina)  ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Cloud native search framework that   supports to use deep learning/state of the art AI models for search.
 * [KFServing](https://github.com/kubeflow/kfserving) ![](https://img.shields.io/github/stars/kubeflow/kfserving.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU).
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) ![](https://img.shields.io/github/stars/BayesWitnesses/m2cgen.svg?style=social) - A lightweight library which allows to transpile trained classic machine learning models into a native code of C, Java, Go, R, PHP, Dart, Haskell, Rust and many other programming languages.
@@ -185,6 +185,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Model Server for Apache MXNet (MMS)](https://github.com/awslabs/mxnet-model-server) ![](https://img.shields.io/github/stars/awslabs/mxnet-model-server.svg?style=social) - A model server for Apache MXNet from Amazon Web Services that is able to run MXNet models as well as Gluon models (Amazon's SageMaker runs a custom version of MMS under the hood).
 * [NannyML](https://github.com/NannyML/nannyml) ![](https://img.shields.io/github/stars/nannyml/nannyml.svg?style=social) - An open source library to estimate post-deployment model performance (without access to targets). Capable of fully capturing the impact of data drift on performance.
 * [Mosec](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec.svg?style=social) - A rust-powered and multi-stage pipelined model server which offers dynamic batching and more. Super easy to implement and deploy as micro-services.
+* [Nuclio](https://github.com/nuclio/nuclio) ![](https://img.shields.io/github/stars/nuclio/nuclio.svg?style=social) - A high-performance "serverless" framework focused on data, I/O, and compute intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
 * [OpenScoring](https://github.com/openscoring/openscoring) ![](https://img.shields.io/github/stars/openscoring/openscoring.svg?style=social) - REST web service for the true real-time scoring (< 1 ms) of Scikit-Learn, R and Apache Spark models.
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Creates HTML profiling reports from pandas DataFrame objects. It extends the pandas DataFrame with df.profile_report() for quick data analysis.
 * [PredictionIO](https://github.com/apache/predictionio) ![](https://img.shields.io/github/stars/apache/predictionio.svg?style=social) - An open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task.
@@ -309,16 +310,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TimescaleDB](https://github.com/timescale/timescaledb) ![](https://img.shields.io/github/stars/timescale/timescaledb.svg?style=social) An open-source time-series SQL database optimized for fast ingest and complex queries packaged as a PostgreSQL extension - [(Video)](www.youtube.com/watch?v=zbjub8BQPyE).
 * [Weaviate](https://github.com/semi-technologies/weaviate) ![](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=social) - A low-latency vector search engine (GraphQL, RESTful) with out-of-the-box support for different media types. Modules include Semantic Search, Q&A, Classification, Customizable Models (PyTorch/TensorFlow/Keras), and more.
 * [Zarr](https://github.com/zarr-developers/zarr-python) ![](https://img.shields.io/github/stars/zarr-developers/zarr-python.svg?style=social) - Python implementation of chunked, compressed, N-dimensional arrays designed for use in parallel computing.
-
-
-## Function as a Service
-* [Apache OpenWhisk](https://github.com/apache/incubator-openwhisk) ![](https://img.shields.io/github/stars/apache/incubator-openwhisk.svg?style=social) - Open source, distributed serverless platform that executes functions in response to events at any scale.
-* [Fission](https://github.com/fission/fission) ![](https://img.shields.io/github/stars/fission/fission.svg?style=social) - (Early Alpha) Serverless functions as a service framework on Kubernetes.
-* [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) ![](https://img.shields.io/github/stars/Hydrospheredata/mist.svg?style=social) - Serverless proxy for Apache Spark clusters.
-* [Hydrosphere ML Lambda](https://github.com/Hydrospheredata/hydro-serving) ![](https://img.shields.io/github/stars/Hydrospheredata/hydro-serving.svg?style=social) - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture.
-* [KNative Serving](https://github.com/knative/serving) ![](https://img.shields.io/github/stars/knative/serving.svg?style=social) - Kubernetes based serverless microservices with "scale-to-zero" functionality.
-* [Nuclio](https://github.com/nuclio/nuclio) ![](https://img.shields.io/github/stars/nuclio/nuclio.svg?style=social) - A high-performance "serverless" framework focused on data, I/O, and compute intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
-* [OpenFaaS](https://github.com/openfaas/faas) ![](https://img.shields.io/github/stars/openfaas/faas.svg?style=social) - Serverless functions framework with RESTful API on Kubernetes
 
 
 ## Computation Load Distribution
