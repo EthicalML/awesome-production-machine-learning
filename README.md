@@ -529,7 +529,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Commercial Platform
-* [Amazon Web Services](https://aws.amazon.com/) Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use, including:
+* [Amazon Web Services](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services to productionalize machine learning, including:
     * [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/) - Amazon Augmented AI (A2I) allows you to conduct a human review of machine learning (ML) systems to guarantee precision.
     * [Amazon Rekognition](https://aws.amazon.com/rekognition/) - Amazon Rekognition offers pre-trained and customizable computer vision (CV) capabilities to extract information and insights from your images and videos.
     * [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API.
