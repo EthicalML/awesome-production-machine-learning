@@ -19,10 +19,9 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) |  [📅 Metadata Management](#metadata-management)  |
 | [📡 Functions as a Service](#function-as-a-service)| [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) |
 | [🧮 Optimized Computation](#optimized-computation)| [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) |
-| [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) |
-| [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [💰 Commercial Platform](#commercial-platform) |
+| [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) |
+| [📓 Data Science Notebook](#data-science-notebook) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -219,15 +218,28 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## AutoML
+* [AutoGluon](https://github.com/awslabs/autogluon) ![](https://img.shields.io/github/stars/awslabs/autogluon.svg?style=social) - Automated feature, model, and hyperparameter selection for tabular, image, and text data on top of popular machine learning libraries (Scikit-Learn, LightGBM, CatBoost, PyTorch, MXNet).
 * [Autokeras](https://github.com/jhfjhfj1/autokeras) ![](https://img.shields.io/github/stars/jhfjhfj1/autokeras.svg?style=social) - AutoML library for Keras based on ["Auto-Keras: Efficient Neural Architecture Search with Network Morphism"](https://arxiv.org/abs/1806.10282).
+* [AutoML-GS](https://github.com/minimaxir/automl-gs) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic feature and model search with code generation in Python, on top of common data science libraries (tensorflow, sklearn, etc.).
+* [auto-sklearn](https://github.com/automl/auto-sklearn) ![](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social) - Framework to automate algorithm and hyperparameter tuning for sklearn.
+* [Colombus](http://i.stanford.edu/hazy/victor/columbus/) - A scalable framework to perform exploratory feature selection implemented in R.
 * [ENAS via Parameter Sharing](https://github.com/melodyguan/enas) - Efficient Neural Architecture Search via Parameter Sharing by [authors of paper](https://arxiv.org/abs/1802.03268).
 * [ENAS-PyTorch](https://github.com/carpedm20/ENAS-pytorch) ![](https://img.shields.io/github/stars/carpedm20/ENAS-pytorch.svg?style=social) - Efficient Neural Architecture Search (ENAS) in PyTorch based [on this paper](https://arxiv.org/abs/1802.03268).
 * [ENAS-Tensorflow](https://github.com/MINGUKKANG/ENAS-Tensorflow) ![](https://img.shields.io/github/stars/MINGUKKANG/ENAS-Tensorflow.svg?style=social) - Efficient Neural Architecture search via parameter sharing(ENAS) micro search Tensorflow code for windows user.
+* [Feature Engine](https://github.com/feature-engine/feature_engine) ![](https://img.shields.io/github/stars/feature-engine/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
+* [Featuretools](https://github.com/alteryx/featuretools) ![](https://img.shields.io/github/stars/alteryx/featuretools.svg?style=social) - An open source framework for automated feature engineering.
+* [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) ![](https://img.shields.io/github/stars/nikolaydubina/go-featureprocessing.svg?style=social) - A feature pre-processing framework in Go that matches functionality of sklearn.
 * [Katib](https://github.com/kubeflow/katib) ![](https://img.shields.io/github/stars/kubeflow/katib.svg?style=social) - A Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search.
+* [keras-tuner](https://github.com/keras-team/keras-tuner) ![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=social) - Keras Tuner is an easy-to-use, distributable hyperparameter optimization framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage included algorithms to find the best hyperparameter values.
 * [Maggy](https://github.com/logicalclocks/maggy) ![](https://img.shields.io/github/stars/logicalclocks/maggy.svg?style=social) - Asynchronous, directed Hyperparameter search and parallel ablation studies on Apache Spark - [(Video)](https://www.youtube.com/watch?v=0Hd1iYEL03w).
+* [mljar-supervised](https://github.com/mljar/mljar-supervised) ![](https://img.shields.io/github/stars/mljar/mljar-supervised.svg?style=social) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides feature engineering, explanations and markdown reports.
 * [Neural Architecture Search with Controller RNN](https://github.com/titu1994/neural-architecture-search) ![](https://img.shields.io/github/stars/titu1994/neural-architecture-search.svg?style=social) - Basic implementation of Controller RNN from [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) and [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012).
 * [Neural Network Intelligence](https://github.com/Microsoft/nni) ![](https://img.shields.io/github/stars/Microsoft/nni.svg?style=social) - NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments.
 * [OSS Vizier](https://github.com/google/vizier) ![](https://img.shields.io/github/stars/google/vizier.svg?style=social) - OSS Vizier is a Python-based service for black-box optimization and research, one of the first hyperparameter tuning services designed to work at scale.
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![](https://img.shields.io/github/stars/rsteca/sklearn-deap.svg?style=social) Use evolutionary algorithms instead of gridsearch in scikit-learn.
+* [TPOT](https://github.com/epistasislab/tpot) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?style=social) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc.).
+* [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series.
+* [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
 
 ## Data Pipeline
@@ -398,23 +410,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Anomaly/Outlier Detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - Library for exploring and validating machine learning data.
-
-
-## Feature Engineering
-* [auto-sklearn](https://github.com/automl/auto-sklearn) ![](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social) - Framework to automate algorithm and hyperparameter tuning for sklearn.
-* [AutoGluon](https://github.com/awslabs/autogluon) ![](https://img.shields.io/github/stars/awslabs/autogluon.svg?style=social) - Automated feature, model, and hyperparameter selection for tabular, image, and text data on top of popular machine learning libraries (Scikit-Learn, LightGBM, CatBoost, PyTorch, MXNet).
-* [AutoML-GS](https://github.com/minimaxir/automl-gs) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic feature and model search with code generation in Python, on top of common data science libraries (tensorflow, sklearn, etc.).
-* [automl](https://github.com/ClimbsRocks/auto_ml) ![](https://img.shields.io/github/stars/ClimbsRocks/auto_ml?style=social)  - Automated feature engineering, feature/model selection, hyperparam. optimisation.
-* [Colombus](http://i.stanford.edu/hazy/victor/columbus/) - A scalable framework to perform exploratory feature selection implemented in R.
-* [Feature Engine](https://github.com/feature-engine/feature_engine) ![](https://img.shields.io/github/stars/feature-engine/feature_engine.svg?style=social) - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
-* [Featuretools](https://github.com/alteryx/featuretools) ![](https://img.shields.io/github/stars/alteryx/featuretools.svg?style=social) - An open source framework for automated feature engineering.
-* [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) ![](https://img.shields.io/github/stars/nikolaydubina/go-featureprocessing.svg?style=social) - A feature pre-processing framework in Go that matches functionality of sklearn.
-* [keras-tuner](https://github.com/keras-team/keras-tuner) ![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=social) - Keras Tuner is an easy-to-use, distributable hyperparameter optimization framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage included algorithms to find the best hyperparameter values.
-* [mljar-supervised](https://github.com/mljar/mljar-supervised) ![](https://img.shields.io/github/stars/mljar/mljar-supervised.svg?style=social) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides feature engineering, explanations and markdown reports.
-* [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![](https://img.shields.io/github/stars/rsteca/sklearn-deap.svg?style=social) Use evolutionary algorithms instead of gridsearch in scikit-learn.
-* [TPOT](https://github.com/epistasislab/tpot) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?style=social) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc.).
-* [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series.
-* [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
 
 ## Feature Store
