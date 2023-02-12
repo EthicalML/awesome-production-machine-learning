@@ -130,7 +130,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [Flor](https://github.com/ucbrise/flor) ![](https://img.shields.io/github/stars/ucbrise/flor.svg?style=social) - Easy to use logger and automatic version controller made for data scientists who write ML code.
 * [Guild AI](https://github.com/guildai/guildai) ![](https://img.shields.io/github/stars/guildai/guildai.svg?style=social) - Open source toolkit that automates and optimizes machine learning experiments.
-* [Deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Store, access & manage datasets with version-control for PyTorch/TensorFlow locally or on any cloud with scalable data pipelines.
 * [Hangar](https://github.com/tensorwerk/hangar-py) ![](https://img.shields.io/github/stars/tensorwerk/hangar-py.svg?style=social) - Version control for tensor data, git-like semantics on numerical data with high speed and efficiency.
 * [Keepsake](https://github.com/replicate/keepsake) ![](https://img.shields.io/github/stars/replicate/keepsake.svg?style=social) - Version control for machine learning.
 * [lakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakefs.svg?style=social) - Repeatable, atomic and versioned data lake on top of object storage.
@@ -437,6 +436,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Industry Strength CV
+* [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
