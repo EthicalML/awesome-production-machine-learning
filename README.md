@@ -560,8 +560,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
-* [Microsoft Azure Machine Learning service](https://azure.microsoft.com/en-us/services/machine-learning-service/) - Build, train, and deploy models from the cloud to the edge.
-Our breakthrough technology combines the skills and expertise of the human user, cutting edge neuro-technology and state of the art machine learning and signal processing algorithms. 
+* [Microsoft Azure Machine Learning service](https://azure.microsoft.com/en-us/services/machine-learning-service/) - Azure Machine Learning empowers data scientists and developers to build, deploy, and manage high-quality models faster and with confidence.
 * [ModelOp](https://www.modelop.com/) - An enterprise MLOps platform that automates the governance, management and monitoring of deployed AI, ML models across platforms and teams, resulting in reliable, compliant and scalable AI initiatives.
 * [MLJAR](https://mljar.com/) - Platform for rapid prototyping, developing and deploying machine learning models.
 * [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.  
