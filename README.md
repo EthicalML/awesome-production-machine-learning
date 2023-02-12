@@ -529,10 +529,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Commercial Platform
-* [Amazon Web Services](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services to productionalize machine learning, including:
-    * [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/) - Amazon Augmented AI (A2I) allows you to conduct a human review of machine learning (ML) systems to guarantee precision.
-    * [Amazon Rekognition](https://aws.amazon.com/rekognition/) - Amazon Rekognition offers pre-trained and customizable computer vision (CV) capabilities to extract information and insights from your images and videos.
-    * [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - End-to-end machine learning development and deployment interface where you are able to build notebooks that use EC2 instances as backend, and then can host models exposed on an API.
+* [Amazon Web Services](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services to productionalize machine learning, including: [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/), [Amazon Rekognition](https://aws.amazon.com/rekognition/), [Amazon SageMaker](https://aws.amazon.com/sagemaker/).
 * [Apheris](https://www.apheris.com/) - A platform for federated and privacy-preserving data science that lets you securely collaborate on AI with partners without sharing any data.
 * [Arize AI](https://arize.com/) - ML observability and automated model monitoring to help ML practitioners understand how their models perform in production, troubleshoot issues, and improve model performance. ML teams can upload offline (training or validation) baselines into an evaluation/inference store alongside online production data for model validation, drift detection, data quality checks, and model performance management.
 * [BigML](https://bigml.com/) - A consumable, programmable, and scalable Machine Learning platform that makes it easy to solve and automate classification, regression, time series, etc..
