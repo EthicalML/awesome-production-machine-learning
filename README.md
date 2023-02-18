@@ -586,3 +586,4 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Ultralytics](https://ultralytics.com/) Ultralytics simplifies data sourcing, labeling, model training, and deployment services that offer artificial intelligence.
 * [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 * [WhyLabs](https://whylabs.ai/) - Enable observability to detect data and ML issues faster, deliver continuous improvements, and avoid costly incidents.
+* [Zilliz](https://zilliz.com/) - Zilliz builds vector database to accelerate development of next generation data fabric.
