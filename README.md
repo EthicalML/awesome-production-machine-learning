@@ -530,6 +530,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Commercial Platform
 * [Amazon Web Services](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services to productionalize machine learning, including: [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/), [Amazon Rekognition](https://aws.amazon.com/rekognition/), [Amazon SageMaker](https://aws.amazon.com/sagemaker/).
+* [Anyscale](https://www.anyscale.com/) - Anyscale is a unified compute platform that makes it easy to develop, deploy, and manage scalable AI and Python applications using Ray.
 * [Apheris](https://www.apheris.com/) - A platform for federated and privacy-preserving data science that lets you securely collaborate on AI with partners without sharing any data.
 * [Arize AI](https://arize.com/) - ML observability and automated model monitoring to help ML practitioners understand how their models perform in production, troubleshoot issues, and improve model performance. ML teams can upload offline (training or validation) baselines into an evaluation/inference store alongside online production data for model validation, drift detection, data quality checks, and model performance management.
 * [BigML](https://bigml.com/) - A consumable, programmable, and scalable Machine Learning platform that makes it easy to solve and automate classification, regression, time series, etc..
