@@ -574,6 +574,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
 * [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
 * [Talend Studio](https://www.talend.com/) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
+* [Tecton](https://www.tecton.ai/) - Tecton is an all-in-one system to build, automate, and centralize feature workflows for production ML.
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Vertex AI](https://cloud.google.com/vertex-ai) - Vertex AI Workbench is the single environment for data scientists to complete all of their ML work, from experimentation, to deployment, to managing and monitoring models. It is a Jupyter-based fully managed, scalable, enterprise-ready compute infrastructure with security controls and user management capabilities.
 * [Ultralytics](https://ultralytics.com/) Ultralytics simplifies data sourcing, labeling, model training, and deployment services that offer artificial intelligence.
