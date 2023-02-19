@@ -435,6 +435,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Neural Search
 * [Annoy](https://github.com/spotify/annoy) ![](https://img.shields.io/github/stars/spotify/annoy.svg?style=social) - Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) ![](https://img.shields.io/github/stars/jina-ai/clip-as-service.svg?style=social) - CLIP-as-service is a low-latency high-scalability service for embedding images and text. It can be easily integrated as a microservice into neural search solutions.
 * [Faiss](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Faiss is a library for efficient similarity search and clustering of dense vectors.
 * [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 * [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
