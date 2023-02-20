@@ -10,6 +10,6 @@ The key things to bare in mind when contributing a new list are the following:
 * All contributions must be done in alphabetical order relative to the section
 * The library should not be repeated across more than one section
 * In order to propose a new section, please add an issue first for discussion
-* In order to add a new section at least 3-5 new tools have to be identified and clear separation of a sub-area has to be made as a case
+* In order to add a new section at least 5-10 (the more the more likely) new tools have to be identified and clear separation of a sub-area has to be made as a case
 
 Thank you again, if you have any questions please feel free to open an issue.
