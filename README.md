@@ -533,6 +533,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Apheris](https://www.apheris.com/) - A platform for federated and privacy-preserving data science that lets you securely collaborate on AI with partners without sharing any data.
 * [Arize](https://arize.com/) - ML observability and automated model monitoring to help ML practitioners understand how their models perform in production, troubleshoot issues, and improve model performance. ML teams can upload offline (training or validation) baselines into an evaluation/inference store alongside online production data for model validation, drift detection, data quality checks, and model performance management.
 * [Arthur](https://arize.com/) - Authur is a platform that measures, monitors, and improves machine learning models to deliver better results.
+* [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/) - Azure Machine Learning empowers data scientists and developers to build, deploy, and manage high-quality models faster and with confidence.
 * [BigML](https://bigml.com/) - A consumable, programmable, and scalable Machine Learning platform that makes it easy to solve and automate classification, regression, time series, etc..
 * [Censius](https://censius.ai) - Censius is an AI Observability Platform that assists enterprises in continuously monitoring, analyzing, and explaining their production models. It combines monitoring, accountability, and explainability into one Observability Platform.
 * [Cerebras](https://www.cerebras.net) - Cerebras builds computer systems for complex artificial intelligence deep learning applications.
@@ -561,7 +562,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
-* [Microsoft Azure Machine Learning service](https://azure.microsoft.com/en-us/services/machine-learning-service/) - Azure Machine Learning empowers data scientists and developers to build, deploy, and manage high-quality models faster and with confidence.
 * [ModelOp](https://www.modelop.com/) - An enterprise MLOps platform that automates the governance, management and monitoring of deployed AI, ML models across platforms and teams, resulting in reliable, compliant and scalable AI initiatives.
 * [MLJAR](https://mljar.com/) - Platform for rapid prototyping, developing and deploying machine learning models.
 * [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.  
