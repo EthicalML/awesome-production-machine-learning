@@ -473,8 +473,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) ![](https://img.shields.io/github/stars/DLR-RM/stable-baselines3.svg?style=social) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 * [Tensorflow Lingvo](https://github.com/tensorflow/lingvo) ![](https://img.shields.io/github/stars/tensorflow/lingvo.svg?style=social) - A [framework](https://blog.tensorflow.org/2019/02/lingvo-tensorflow-framework-for-sequence-modeling.html) for building neural networks in Tensorflow, particularly sequence models.
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
-* [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+* [trlX](https://github.com/CarperAI/trlx) ![](https://img.shields.io/github/stars/CarperAI/trlx.svg?style=social) - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
+* [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 
 
 ## Industry Strength RL
