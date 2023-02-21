@@ -20,8 +20,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
-| [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
-| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
+| [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -109,6 +109,8 @@ This repository contains a curated list of awesome open source libraries that wi
 ## Privacy Preserving ML
 * [BastionLab](https://github.com/mithril-security/bastionlab) ![](https://img.shields.io/github/stars/mithril-security/bastionlab.svg?style=social) - BastionLab is a framework for confidential data science collaboration. It uses Confidential Computing, Access control data science, and Differential Privacy to enable data scientists to remotely perform data exploration, statistics, and training on confidential data while ensuring maximal privacy for data owners.
 * [Concrete-ML](https://github.com/zama-ai/concrete-ml) ![](https://img.shields.io/github/stars/zama-ai/concrete-ml.svg?style=social) - Concrete-ML is a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of The Concrete Framework by [Zama](https://github.com/zama-ai). It aims to simplify the use of fully homomorphic encryption (FHE) for data scientists to help them automatically turn machine learning models into their homomorphic equivalent.
+* [Concrete-ML](https://github.com/bytedance/fedlearner) ![](https://img.shields.io/github/stars/bytedance/fedlearner.svg?style=social) - Fedlearner is collaborative machine learning framework that enables joint modeling of data distributed between institutions.
+* [FATE](https://github.com/FederatedAI/FATE) ![](https://img.shields.io/github/stars/FederatedAI/FATE.svg?style=social) - FATE (Federated AI Technology Enabler) is the world's first industrial grade federated learning open source framework to enable enterprises and institutions to collaborate on data while protecting data security and privacy.
 * [FedML](https://github.com/FedML-AI/FedML) ![](https://img.shields.io/github/stars/FedML-AI/FedML.svg?style=social) - FedML provides a research and production integrated edge-cloud platform for Federated/Distributed Machine Learning at anywhere at any scale.
 * [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - Flower is a Federated Learning Framework with a unified approach. It enables the federation of any ML workload, with any ML framework, and any programming language.
 * [Google's Differential Privacy](https://github.com/google/differential-privacy) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social) - This is a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
@@ -158,6 +160,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [NVIDIA TensorRT](https://github.com/NVIDIA/TensorRT) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT.svg?style=social) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 * [Onepanel](https://github.com/onepanelio/core) ![](https://img.shields.io/github/stars/onepanelio/core?style=social) - Production scale vision AI platform, with fully integrated components for model building, automated labeling, data processing and model training pipelines.
 * [Open Platform for AI](https://github.com/Microsoft/pai) ![](https://img.shields.io/github/stars/Microsoft/pai.svg?style=social) - Platform that provides complete AI model training and resource management capabilities.
+* [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - Ploomber is the fastest way to build data pipelines ⚡️. Use your favorite editor (Jupyter, VSCode, PyCharm) to develop interactively and deploy ☁️ without code changes.
 * [PyCaret](https://pycaret.org/) ![](https://img.shields.io/github/stars/pycaret/pycaret.svg?style=social)) - low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)
 * [Sematic](https://github.com/sematic-ai/sematic) ![](https://img.shields.io/github/stars/sematic-ai/sematic.svg?style=social) - Platform to build resource-intensive pipelines with simple Python.
 * [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![](https://img.shields.io/github/stars/GoogleContainerTools/skaffold.svg?style=social) - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
@@ -435,6 +438,14 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
 
 
+## Neural Search
+* [Annoy](https://github.com/spotify/annoy) ![](https://img.shields.io/github/stars/spotify/annoy.svg?style=social) - Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) ![](https://img.shields.io/github/stars/jina-ai/clip-as-service.svg?style=social) - CLIP-as-service is a low-latency high-scalability service for embedding images and text. It can be easily integrated as a microservice into neural search solutions.
+* [Faiss](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Faiss is a library for efficient similarity search and clustering of dense vectors.
+* [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+* [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
+
+
 ## Industry Strength CV
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
@@ -462,8 +473,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) ![](https://img.shields.io/github/stars/DLR-RM/stable-baselines3.svg?style=social) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 * [Tensorflow Lingvo](https://github.com/tensorflow/lingvo) ![](https://img.shields.io/github/stars/tensorflow/lingvo.svg?style=social) - A [framework](https://blog.tensorflow.org/2019/02/lingvo-tensorflow-framework-for-sequence-modeling.html) for building neural networks in Tensorflow, particularly sequence models.
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
-* [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+* [trlX](https://github.com/CarperAI/trlx) ![](https://img.shields.io/github/stars/CarperAI/trlx.svg?style=social) - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
+* [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 
 
 ## Industry Strength RL
