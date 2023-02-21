@@ -20,8 +20,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
-| [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
-| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
+| [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -433,6 +433,14 @@ This repository contains a curated list of awesome open source libraries that wi
 * [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?style=social) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
 * [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?style=social) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
 * [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?style=social) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
+
+
+## Neural Search
+* [Annoy](https://github.com/spotify/annoy) ![](https://img.shields.io/github/stars/spotify/annoy.svg?style=social) - Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) ![](https://img.shields.io/github/stars/jina-ai/clip-as-service.svg?style=social) - CLIP-as-service is a low-latency high-scalability service for embedding images and text. It can be easily integrated as a microservice into neural search solutions.
+* [Faiss](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Faiss is a library for efficient similarity search and clustering of dense vectors.
+* [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+* [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
 
 
 ## Industry Strength CV
