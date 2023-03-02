@@ -21,7 +21,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
-| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) |
+| [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -539,6 +540,11 @@ This repository contains a curated list of awesome open source libraries that wi
 * [tensorboardX](https://github.com/lanpa/tensorboardX) ![](https://img.shields.io/github/stars/lanpa/tensorboardX.svg?style=social) - Write TensorBoard events with simple function call.
 * [TensorBoard](https://github.com/tensorflow/tensorboard) ![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social) - A visualization toolkit for machine learning experimentation that makes it easy to host, track, and share ML experiments.
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
+
+
+
+## Industry Strength Evaluation
+* [EvalAI](https://github.com/Cloud-CV/EvalAI) ![](https://img.shields.io/github/stars/Cloud-CV/EvalAI.svg?style=social) - EvalAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) algorithms at scale.
 
 
 ## Commercial Platform
