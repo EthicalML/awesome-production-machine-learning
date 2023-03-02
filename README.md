@@ -20,8 +20,9 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
-| [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
-| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
+| [🔥 Neural Search](#neural-search) | [🤝 Collaborative Platform](#collaborative-platform) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) 
+| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
+| [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -444,6 +445,10 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Faiss](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Faiss is a library for efficient similarity search and clustering of dense vectors.
 * [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 * [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
+
+
+## Collaborative Platform
+* [Fabrik](https://github.com/Cloud-CV/Fabrik) ![](https://img.shields.io/github/stars/Cloud-CV/Fabrik.svg?style=social) - Fabrik is an online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface. It allows researchers to collectively develop and debug models using a web GUI that supports importing, editing and exporting networks to popular frameworks like Caffe, Keras, and TensorFlow.
 
 
 ## Industry Strength CV
