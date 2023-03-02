@@ -444,8 +444,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [DocArray](https://github.com/docarray/docarray) ![](https://img.shields.io/github/stars/docarray/docarray.svg?style=social) - DocArray is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.
 * [Faiss](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Faiss is a library for efficient similarity search and clustering of dense vectors.
 * [Finetuner](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Jina AI's Finetuner makes fine-tuning easier and faster by streamlining the workflow and handling all the complexity and infrastructure in the cloud.
-* [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 * [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
+* [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+* [NOW](https://github.com/jina-ai/now) ![](https://img.shields.io/github/stars/jina-ai/now.svg?style=social) - NOW is a no-code tool for creating a neural search solution in minutes.
 
 
 ## Industry Strength CV
