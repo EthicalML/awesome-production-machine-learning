@@ -545,6 +545,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industry Strength Evaluation
 * [EvalAI](https://github.com/Cloud-CV/EvalAI) ![](https://img.shields.io/github/stars/Cloud-CV/EvalAI.svg?style=social) - EvalAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) algorithms at scale.
+* [Evaluate](https://github.com/huggingface/evaluate) ![](https://img.shields.io/github/stars/huggingface/evaluate.svg?style=social) - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.
 
 
 ## Commercial Platform
