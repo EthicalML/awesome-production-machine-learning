@@ -453,6 +453,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Lightly](https://github.com/lightly-ai/lightly) ![](https://img.shields.io/github/stars/lightly-ai/lightly.svg?style=social) - Lightly is a computer vision framework for self-supervised learning.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
+* [Xtreme1](https://github.com/xtreme1-io/xtreme1) ![](https://img.shields.io/github/stars/xtreme1-io/xtreme1.svg?style=social) - Xtreme1 provides deep insight into data annotation, data curation, and ontology management to solve 2D image and 3D point cloud dataset ML challenges.
 
 
 ## Industry Strength NLP
