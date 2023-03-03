@@ -450,6 +450,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
 * [Diffusers](https://github.com/huggingface/diffusers) ![](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social) - Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models.
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
+* [Lightly](https://github.com/lightly-ai/lightly) ![](https://img.shields.io/github/stars/lightly-ai/lightly.svg?style=social) - Lightly is a computer vision framework for self-supervised learning.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 
