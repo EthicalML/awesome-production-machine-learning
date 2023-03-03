@@ -427,7 +427,7 @@ This repository contains a curated list of awesome open source libraries that wi
 ## Asset Hub
 * [Datasets](https://github.com/huggingface/datasets) ![](https://img.shields.io/github/stars/huggingface/datasets.svg?style=social) - Datasets is a lightweight library providing one-line dataloaders for many public datasets and efficient data pre-processing.
 * [TensorFlow Hub](https://github.com/tensorflow/hub) ![](https://img.shields.io/github/stars/tensorflow/hub.svg?style=social) - TensorFlow Hub provides pre-trained SavedModels that can be reused to solve new tasks with less training time and less training data.
-
+* [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
 
 ## Data Science Notebook
 * [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -575,7 +575,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
 * [Graphsignal](https://graphsignal.com/) - Machine learning profiler that helps make model training and inference faster and more efficient.
 * [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring - [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc).
-* [Hugging Face](https://huggingface.co/) - Hugging Face is a platform that allows users to share machine learning models and datasets.
 * [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - Build and scale trusted AI on any cloud. Automate the AI lifecycle for ModelOps.
 * [InnerEye](https://innereye.ai/) - InnerEye combines human intelligence with artificial intelligence. By capitalizing on the merging of human neural processing and deep artificial neural networks, InnerEye allows fast and accurate visual inspection, real-time AI training and validation, and establishes a unique human-machine interface for connected user applications.
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
