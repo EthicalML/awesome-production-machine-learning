@@ -19,7 +19,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) | [📅 Metadata Management](#metadata-management) |
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
-| [📦 Model Hub](#model-hub) | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) |
+| [📦 Asset Hub](#asset-hub) | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) |
 | [📓 Data Science Notebook](#data-science-notebook) | [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [💰 Commercial Platform](#commercial-platform) |
@@ -424,7 +424,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Veri](https://github.com/bgokden/veri) ![](https://img.shields.io/github/stars/bgokden/veri.svg?style=social) - Veri is a Feature Label Store. Feature Label store allows storing features as keys and labels as values. Querying values is only possible with knn using features. Veri also supports creating sub sample spaces of data by default.
 
 
-## Model Hub
+## Asset Hub
+* [Datasets](https://github.com/huggingface/datasets) ![](https://img.shields.io/github/stars/huggingface/datasets.svg?style=social) - Datasets is a lightweight library providing one-line dataloaders for many public datasets and efficient data pre-processing.
 * [TensorFlow Hub](https://github.com/tensorflow/hub) ![](https://img.shields.io/github/stars/tensorflow/hub.svg?style=social) - TensorFlow Hub provides pre-trained SavedModels that can be reused to solve new tasks with less training time and less training data.
 
 
