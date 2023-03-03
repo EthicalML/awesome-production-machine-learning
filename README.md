@@ -455,6 +455,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industry Strength NLP
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) ![](https://img.shields.io/github/stars/Novetta/adaptnlp.svg?style=social) - Built atop Zalando Research's Flair and Hugging Face's Transformers library, AdaptNLP provides Machine Learning Researchers and Scientists a modular and adaptive approach to a variety of NLP tasks with an Easy API for training, inference, and deploying NLP-based microservices.
+* [Argilla](https://github.com/argilla-io/argilla) ![](https://img.shields.io/github/stars/argilla-io/argilla.svg?style=social) - Argilla helps domain experts and data teams to build better NLP datasets in less time.
 * [Blackstone](https://github.com/ICLRandD/Blackstone) ![](https://img.shields.io/github/stars/ICLRandD/Blackstone.svg?style=social) - Blackstone is a spaCy model and library for processing long-form, unstructured legal text. Blackstone is an experimental research project from the Incorporated Council of Law Reporting for England and Wales' research lab, ICLR&D.
 * [Coqui STT](https://github.com/coqui-ai/STT) ![](https://img.shields.io/github/stars/coqui-ai/STT.svg?style=social) - Coqui STT is a fast, open-source, multi-platform, deep-learning toolkit for training and deploying speech-to-text models.
 * [CTRL](https://github.com/salesforce/ctrl) ![](https://img.shields.io/github/stars/salesforce/ctrl.svg?style=social) - A Conditional Transformer Language Model for Controllable Generation released by SalesForce.
