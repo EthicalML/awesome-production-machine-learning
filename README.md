@@ -454,6 +454,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
 * [Lightly](https://github.com/lightly-ai/lightly) ![](https://img.shields.io/github/stars/lightly-ai/lightly.svg?style=social) - Lightly is a computer vision framework for self-supervised learning.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
+* [OpenCV](https://github.com/opencv/opencv) ![](https://img.shields.io/github/stars/opencv/opencv.svg?style=social) - OpenCV is a library of programming functions mainly for real-time computer vision.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 * [Xtreme1](https://github.com/xtreme1-io/xtreme1) ![](https://img.shields.io/github/stars/xtreme1-io/xtreme1.svg?style=social) - Xtreme1 provides deep insight into data annotation, data curation, and ontology management to solve 2D image and 3D point cloud dataset ML challenges.
 
