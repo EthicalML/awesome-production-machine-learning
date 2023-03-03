@@ -282,6 +282,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Data Labelling
+* [Baal](https://github.com/baal-org/baal) ![](https://img.shields.io/github/stars/baal-org/baal.svg?style=social) - Baal is an active learning library that supports both industrial applications and research usecases.
 * [brat rapid annotation tool](https://github.com/nlplab/brat) ![](https://img.shields.io/github/stars/nlplab/brat.svg?style=social) - Web-based text annotation tool for Named-Entity-Recogntion task.
 * [cleanlab](https://github.com/cleanlab/cleanlab) ![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social) - Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg?style=social) - Web-based image segmentation tool for object detection, localization and keypoints
