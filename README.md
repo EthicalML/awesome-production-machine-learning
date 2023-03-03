@@ -447,6 +447,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Industry Strength CV
+* [Albumentations](https://github.com/albumentations-team/albumentations) ![](https://img.shields.io/github/stars/albumentations-team/albumentations.svg?style=social) - Albumentations is a Python library for image augmentation.
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
 * [Diffusers](https://github.com/huggingface/diffusers) ![](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social) - Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models.
 * [FiftyOne](https://github.com/voxel51/fiftyone) ![](https://img.shields.io/github/stars/voxel51/fiftyone.svg?style=social) - FiftyOne is an open-source tool for building high-quality datasets and computer vision models
