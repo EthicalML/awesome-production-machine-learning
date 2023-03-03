@@ -575,6 +575,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
+* [Kern AI](https://www.kern.ai/) - Kern AI builds the self-service development environment for NLP training data, used by data scientists to quickly build high-quality, large-scale labeled datasets.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
 * [ModelOp](https://www.modelop.com/) - An enterprise MLOps platform that automates the governance, management and monitoring of deployed AI, ML models across platforms and teams, resulting in reliable, compliant and scalable AI initiatives.
 * [Modelplace](https://modelplace.ai) - Modelplace provides a directory of tested and benchmarked AI models from around the world curated by OpenCV.
