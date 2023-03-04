@@ -559,8 +559,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
 * [Deep Cognition Deep Learning Studio](https://deepcognition.ai/) - E2E platform for deep learning.
-* [deepsense Safety](https://safety.deepsense.ai/) - AI-driven solution to increase worksite safety via safety procedure check, thread detection and hazardous zones monitoring.
-* [deepsense Quality](https://quality.deepsense.ai/) - Automating laborious quality control tasks.
+* [DeepMind](https://www.deepmind.com/) - DeepMind aims to solve intelligence, developing more general and capable problem-solving systems, known as artificial general intelligence (AGI).
+* [deepsense.ai](https://deepsense.ai/) - deepsense.ai helps companies gain competitive advantage by providing customized AI-powered end-to-end solutions, with the main focus on AI software, team augmentation and AI advisory.
 * [Diffgram](https://diffgram.com/) - Training Data First platform. Database & Training Data Pipelines for Supervised AI. Integrated with GCP, AWS, Azure and top Annotation Supervision UIs (or use built-in Diffgram UI, or build your own). Plus a growing list of integrated service providers! For Computer Vision, NLP, and Supervised Deep Learning / Machine Learning.
 * [Domino](https://www.dominodatalab.com/) - An enterprise MLOps platform that supports data scientist collaboration with their preferred tools, languages, and infrastructure, with IT central resource management, governance, and security, without vendor lock-in.
 * [Fennel](https://fennel.ai/) - Realtime feature engineering platform for fast moving machine learning teams. Python / Pandas native, built in Rust. Easy to install/use/run, builds upon best practices for reducing data/feature quality issues, and keeps cloud spend low. Fully managed, zero ops.
