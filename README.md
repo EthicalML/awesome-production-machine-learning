@@ -413,6 +413,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Anomaly/Outlier Detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - Library for exploring and validating machine learning data.
+* [TODS](https://github.com/datamllab/tods) ![](https://img.shields.io/github/stars/datamllab/tods.svg?style=social) - TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
 
 ## Feature Store
