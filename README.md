@@ -282,6 +282,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Data Labelling
+* [Baal](https://github.com/baal-org/baal) ![](https://img.shields.io/github/stars/baal-org/baal.svg?style=social) - Baal is an active learning library that supports both industrial applications and research usecases.
 * [brat rapid annotation tool](https://github.com/nlplab/brat) ![](https://img.shields.io/github/stars/nlplab/brat.svg?style=social) - Web-based text annotation tool for Named-Entity-Recogntion task.
 * [cleanlab](https://github.com/cleanlab/cleanlab) ![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social) - Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg?style=social) - Web-based image segmentation tool for object detection, localization and keypoints
@@ -293,6 +294,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Labelimg](https://github.com/tzutalin/labelImg) ![](https://img.shields.io/github/stars/tzutalin/labelImg.svg?style=social) - Open source graphical image annotation tool writen in Python using QT for graphical interface focusing primarily on bounding boxes.
 * [makesense.ai](https://github.com/SkalskiP/make-sense) ![](https://img.shields.io/github/stars/SkalskiP/make-sense.svg?style=social) - Free to use online tool for labelling photos. Prepared labels can be downloaded in one of multiple supported formats.
 * [MedTagger](https://github.com/medtagger/MedTagger) ![](https://img.shields.io/github/stars/medtagger/MedTagger.svg?style=social) - A collaborative framework for annotating medical datasets using crowdsourcing.
+* [modAL](https://github.com/modAL-python/modAL) ![](https://img.shields.io/github/stars/modAL-python/modAL.svg?style=social) - modAL is an active learning framework designed with modularity, flexibility and extensibility in mind.
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ![](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social) - Open source tool for labelling images with support for labels, edges, as well as image resizing and zooming in.
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ![](https://img.shields.io/github/stars/abreheret/PixelAnnotationTool.svg?style=social) - Image annotation tool with ability to "colour" on the images to select labels for segmentation. Process is semi-automated with the [watershed marked algorithm of OpenCV](docs.opencv.org/3.1.0/d7/d1b/group__imgproc__misc.html#ga3267243e4d3f95165d55a618c65ac6e1)
 * [Rubrix](https://github.com/recognai/rubrix) ![](https://img.shields.io/github/stars/recognai/rubrix.svg?style=social) - Open-source tool for tracking, exploring, and labeling data for AI projects.
