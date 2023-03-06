@@ -547,7 +547,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [LightFM](https://github.com/lyst/lightfm) ![](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social) - LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback
 * [NVTabular](https://github.com/NVIDIA-Merlin/NVTabular) ![](https://img.shields.io/github/stars/NVIDIA-Merlin/NVTabular.svg?style=social) -  NVTabular is a feature engineering and preprocessing library for tabular data that is designed to easily manipulate terabyte scale datasets and train deep learning (DL) based recommender systems.
 * [Merlin](https://github.com/NVIDIA-Merlin/Merlin) ![](https://img.shields.io/github/stars/NVIDIA-Merlin/Merlin.svg?style=social) - NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
-* [Recommenders](https://github.com/Microsoft/Recommenders) ![](https://img.shields.io/github/stars/Microsoft/Recommenders.svg?style=social) - Recommenders contains examples and best practices for building recommendation systems, provided as Jupyter notebooks. 
 * [Surprise](https://github.com/nicolashug/surprise) ![](https://img.shields.io/github/stars/nicolashug/surprise.svg?style=social) - Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.
 
 
