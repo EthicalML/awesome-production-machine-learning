@@ -14,6 +14,8 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
+      - id: today
+        run: echo "name=date::$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
@@ -31,6 +33,6 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           automatic_release_tag: "latest"
-          title: awesome-production-machine-learning
-          prerelease: false
+          title: monthly-release-${{ env.name }}
           files: pdfs/README.pdf
+          prerelease: false
