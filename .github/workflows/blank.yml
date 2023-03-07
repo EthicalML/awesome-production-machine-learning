@@ -4,7 +4,7 @@ name: Docs to PDF
 # This workflow is triggered on pushes to the repository.
 on:
 # uncomment the next line to test manually.
-# workflow_dispatch: {}
+  workflow_dispatch: {}
   schedule:
     # release on the first day of each month
     - cron: "0 0 1 * *"
