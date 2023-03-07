@@ -21,7 +21,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
-| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [💰 Commercial Platform](#commercial-platform) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
+| [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -541,6 +542,16 @@ This repository contains a curated list of awesome open source libraries that wi
 * [tensorboardX](https://github.com/lanpa/tensorboardX) ![](https://img.shields.io/github/stars/lanpa/tensorboardX.svg?style=social) - Write TensorBoard events with simple function call.
 * [TensorBoard](https://github.com/tensorflow/tensorboard) ![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social) - A visualization toolkit for machine learning experimentation that makes it easy to host, track, and share ML experiments.
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
+
+
+## Industry Strength RecSys
+* [EasyRec](https://github.com/alibaba/EasyRec) ![](https://img.shields.io/github/stars/alibaba/EasyRec.svg?style=social) - EasyRec is a framework for large scale recommendation algorithms.
+* [Gorse](https://github.com/gorse-io/gorse) ![](https://img.shields.io/github/stars/gorse-io/gorse.svg?style=social) - Gorse aims to be a universal open-source recommender system that can be quickly introduced into a wide variety of online services.
+* [Implicit](https://github.com/benfred/implicit) ![](https://img.shields.io/github/stars/benfred/implicit.svg?style=social) - Implicit provides fast Python implementations of several different popular recommendation algorithms for implicit feedback datasets
+* [LightFM](https://github.com/lyst/lightfm) ![](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social) - LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback
+* [NVTabular](https://github.com/NVIDIA-Merlin/NVTabular) ![](https://img.shields.io/github/stars/NVIDIA-Merlin/NVTabular.svg?style=social) -  NVTabular is a feature engineering and preprocessing library for tabular data that is designed to easily manipulate terabyte scale datasets and train deep learning (DL) based recommender systems.
+* [Merlin](https://github.com/NVIDIA-Merlin/Merlin) ![](https://img.shields.io/github/stars/NVIDIA-Merlin/Merlin.svg?style=social) - NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
+* [Surprise](https://github.com/nicolashug/surprise) ![](https://img.shields.io/github/stars/nicolashug/surprise.svg?style=social) - Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.
 
 
 ## Commercial Platform
