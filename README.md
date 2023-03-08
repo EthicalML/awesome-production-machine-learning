@@ -448,7 +448,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Finetuner](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss.svg?style=social) - Finetuner provides an effective way to improve performance on neural search tasks.
 * [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
 * [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
-* [NOW](https://github.com/jina-ai/now) ![](https://img.shields.io/github/stars/jina-ai/now.svg?style=social) - NOW is a no-code tool for creating a neural search solution in minutes.
 * [Qdrant](https://github.com/qdrant/qdrant) ![](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social) - An open source vector similarity search engine with extended filtering support.
 
 
