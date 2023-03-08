@@ -19,7 +19,7 @@ The key things to bare in mind when contributing a new list are the following:
 
 This principle of "disagree and commit" from a maintainer's perspective is used as the decision making framework to add contributions.
 
-This is necessary due to the active contributions which require an efficient decision process to avoid a [3 line PRs resulting in 100 line discussion](https://github.com/EthicalML/awesome-production-machine-learning/pull/379).
+This is necessary due to the active contributions which require an efficient decision process to avoid a [3 line PRs resulting in a discussion 10x longer](https://github.com/EthicalML/awesome-production-machine-learning/pull/379).
 
 We use the following decision process to review PRs/issues:
 
