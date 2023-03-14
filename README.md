@@ -368,6 +368,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - Open Neural Network Exchange Format.
 * [PFA](https://dmg.org/pfa/) - Created by the same organisation as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
 * [PMML](https://dmg.org/pmml/) - The Predictive Model Markup Language standard in XML - [(Video)](https://www.youtube.com/watch?v=_5pZm2PZ8Q8).
+* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
 
 
 ## Optimized Computation
