@@ -282,6 +282,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Data Labelling
+* [Argilla](https://github.com/argilla-io/argilla) ![](https://img.shields.io/github/stars/argilla-io/argilla.svg?style=social) - Argilla helps domain experts and data teams to build better NLP datasets in less time.
 * [Baal](https://github.com/baal-org/baal) ![](https://img.shields.io/github/stars/baal-org/baal.svg?style=social) - Baal is an active learning library that supports both industrial applications and research usecases.
 * [brat rapid annotation tool](https://github.com/nlplab/brat) ![](https://img.shields.io/github/stars/nlplab/brat.svg?style=social) - Web-based text annotation tool for Named-Entity-Recogntion task.
 * [cleanlab](https://github.com/cleanlab/cleanlab) ![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social) - Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
@@ -297,6 +298,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [modAL](https://github.com/modAL-python/modAL) ![](https://img.shields.io/github/stars/modAL-python/modAL.svg?style=social) - modAL is an active learning framework designed with modularity, flexibility and extensibility in mind.
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ![](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social) - Open source tool for labelling images with support for labels, edges, as well as image resizing and zooming in.
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ![](https://img.shields.io/github/stars/abreheret/PixelAnnotationTool.svg?style=social) - Image annotation tool with ability to "colour" on the images to select labels for segmentation. Process is semi-automated with the [watershed marked algorithm of OpenCV](docs.opencv.org/3.1.0/d7/d1b/group__imgproc__misc.html#ga3267243e4d3f95165d55a618c65ac6e1)
+* [refinery](https://github.com/code-kern-ai/refinery) ![](https://img.shields.io/github/stars/code-kern-ai/refinery.svg?style=social) - The data scientist's open-source choice to scale, assess and maintain natural language data.
 * [Rubrix](https://github.com/recognai/rubrix) ![](https://img.shields.io/github/stars/recognai/rubrix.svg?style=social) - Open-source tool for tracking, exploring, and labeling data for AI projects.
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
 * [Snorkel](https://github.com/snorkel-team/snorkel) ![](https://img.shields.io/github/stars/snorkel-team/snorkel.svg?style=social) - Snorkel is a system for quickly generating training data with weak supervision.
