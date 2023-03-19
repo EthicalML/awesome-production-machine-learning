@@ -22,7 +22,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
-| [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [💰 Commercial Platform](#commercial-platform) |
+| [📈 Industry-strength Benchmarking & Evaluation](#industry-strength-benchmarking-and-evaluation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -552,7 +552,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Surprise](https://github.com/nicolashug/surprise) ![](https://img.shields.io/github/stars/nicolashug/surprise.svg?style=social) - Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.
 
 
-## Industry Strength Evaluation
+## Industry Strength Benchmarking and Evaluation
 * [D4RL](https://github.com/Farama-Foundation/D4RL) ![](https://img.shields.io/github/stars/Farama-Foundation/D4RL.svg?style=social) - D4RL is an open-source benchmark for offline reinforcement learning.
 * [EvadeML](https://github.com/mzweilin/EvadeML-Zoo) ![](https://img.shields.io/github/stars/mzweilin/EvadeML-Zoo.svg?style=social) - A benchmarking and visualization tool for adversarial ML.
 * [EvalAI](https://github.com/Cloud-CV/EvalAI) ![](https://img.shields.io/github/stars/Cloud-CV/EvalAI.svg?style=social) - EvalAI is an open source platform for evaluating and comparing AI algorithms at scale.
