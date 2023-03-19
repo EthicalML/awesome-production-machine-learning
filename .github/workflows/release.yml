@@ -11,11 +11,11 @@ on:
 
 jobs:
   converttopdf:
-    name: Build PDF
+    name: build-release-pdf
     runs-on: ubuntu-latest
     steps:
       - id: today
-        run: echo "name=date::$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       - uses: actions/checkout@v3
       - uses: EthicalML/markdown-to-pdf@v1
         with:
@@ -32,7 +32,7 @@ jobs:
       - uses: "EthicalML/action-automatic-releases@latest"
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          automatic_release_tag: "latest"
-          title: monthly-release-${{ env.name }}
+          automatic_release_tag: release-${{ env.name }}
+          title: release-${{ env.name }}
           files: pdfs/README.pdf
           prerelease: false
