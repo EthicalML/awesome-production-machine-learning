@@ -201,8 +201,8 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TorchServe](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - TorchServe is a flexible and easy to use tool for serving PyTorch models.
 * [Transformer-deploy](https://github.com/ELS-RD/transformer-deploy/) ![](https://img.shields.io/github/stars/ELS-RD/transformer-deploy.svg?style=social) - Transformer-deploy is an efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - Triton is a high performance open source serving software to deploy AI models from any framework on GPU & CPU while maximizing utilization.
-* [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
 * [UnionML](https://github.com/unionai-oss/unionml) ![](https://img.shields.io/github/stars/unionai-oss/unionml.svg?style=social) - UnionML is an open source MLOps framework that aims to reduce the boilerplate and friction that comes with building models and deploying them to production.
+* [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
 
 ## Adversarial Robustness
 * [AdvBox](https://github.com/advboxes/AdvBox) ![](https://img.shields.io/github/stars/advboxes/AdvBox.svg?style=social) - A toolbox to generate adversarial examples that fool neural networks in PaddlePaddle, PyTorch, Caffe2, MxNet, Keras, TensorFlow, and Advbox can benchmark the robustness of machine learning models.
