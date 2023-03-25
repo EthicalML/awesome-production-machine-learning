@@ -1,0 +1,38 @@
+# .github/workflows/convert-to-pdf.yml
+
+name: Docs to PDF
+# This workflow is triggered on pushes to the repository.
+on:
+# uncomment the next line to test manually.
+  workflow_dispatch: {}
+  schedule:
+    # release on the first day of each month
+    - cron: "0 0 1 * *"
+
+jobs:
+  converttopdf:
+    name: build-release-pdf
+    runs-on: ubuntu-latest
+    steps:
+      - id: today
+        run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - uses: actions/checkout@v3
+      - uses: EthicalML/markdown-to-pdf@v1
+        with:
+          input_path: README.md
+          output_dir: pdfs
+          images_dir: images
+          image_import: images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v3
+        with:
+          name: release
+          path: pdfs
+      - uses: "EthicalML/action-automatic-releases@latest"
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          automatic_release_tag: release-${{ env.name }}
+          title: release-${{ env.name }}
+          files: pdfs/README.pdf
+          prerelease: false
