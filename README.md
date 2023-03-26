@@ -453,6 +453,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Prompt Engineering
 * [Promptify](https://github.com/promptslab/Promptify) ![](https://img.shields.io/github/stars/promptslab/Promptify.svg?style=social) - Promptify help you to use GPT or other prompt based models to get structured output.
+* [PromptSource](https://github.com/bigscience-workshop/promptsource) ![](https://img.shields.io/github/stars/bigscience-workshop/promptsource.svg?style=social) - PromptSource is a toolkit for creating, sharing and using natural language prompts.
 
 
 ## Industry Strength CV
