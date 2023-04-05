@@ -316,6 +316,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Data Storage Optimisation
+* [AIStore](https://github.com/NVIDIA/aistore) ![](https://img.shields.io/github/stars/NVIDIA/aistore.svg?style=social) - AIStore is a lightweight object storage system with the capability to linearly scale out with each added storage node and a special focus on petascale deep learning.
 * [Alluxio](https://github.com/Alluxio/alluxio) ![](https://img.shields.io/github/stars/Alluxio/alluxio.svg?style=social) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
 * [Apache Arrow](https://github.com/apache/arrow/) ![](https://img.shields.io/github/stars/apache/arrow.svg?style=social) - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc..
 * [Apache Druid](https://github.com/apache/druid) ![](https://img.shields.io/github/stars/apache/druid.svg?style=social) - A high performance real-time analytics database. Check this [article](https://towardsdatascience.com/introduction-to-druid-4bf285b92b5a) for introduction.
