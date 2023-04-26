@@ -455,8 +455,13 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Prompt Engineering
 * [ClickPrompt](https://github.com/prompt-engineering/click-prompt) ![](https://img.shields.io/github/stars/prompt-engineering/click-prompt.svg?style=social) - ClickPrompt is a tool designed for Prompt writers, which supports a variety of Prompt-based AI applications, such as Stable Diffusion, ChatGPT, and GitHub Copilot, etc.
+* [Loom](https://github.com/socketteer/loom) ![](https://img.shields.io/github/stars/socketteer/loom.svg?style=social) - Loom is a multiversal tree writing interface for human-AI collaboration.
+* [OpenICL](https://github.com/Shark-NLP/OpenICL) ![](https://img.shields.io/github/stars/Shark-NLP/OpenICL.svg?style=social) - OpenICL is an open-source framework to facilitate research, development, and prototyping of in-context learning.
+* [OpenPrompt](https://github.com/thunlp/OpenPrompt) ![](https://img.shields.io/github/stars/thunlp/OpenPrompt.svg?style=social) - OpenPrompt is an open-source framework for prompt-Learning.
+* [Prompt Engine](https://github.com/microsoft/prompt-engine) ![](https://img.shields.io/github/stars/microsoft/prompt-engine.svg?style=social) - Prompt Engine is an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).
 * [Promptify](https://github.com/promptslab/Promptify) ![](https://img.shields.io/github/stars/promptslab/Promptify.svg?style=social) - Promptify help you to use GPT or other prompt based models to get structured output.
 * [PromptSource](https://github.com/bigscience-workshop/promptsource) ![](https://img.shields.io/github/stars/bigscience-workshop/promptsource.svg?style=social) - PromptSource is a toolkit for creating, sharing and using natural language prompts.
+* [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) ![](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource.svg?style=social) - ThoughtSource is a central, open resource and community centered on data and tools for chain-of-thought reasoning in large language models.
 
 
 ## Industry Strength CV
