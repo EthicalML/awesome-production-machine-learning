@@ -397,6 +397,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Vaex](https://github.com/vaexio/vaex) ![](https://img.shields.io/github/stars/vaexio/vaex.svg?style=social) Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
 * [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute/) ![](https://img.shields.io/github/stars/axsaucedo/vulkan-kompute.svg?style=social) - Blazing fast, lightweight and mobile phone-enabled Vulkan compute framework optimized for advanced GPU data processing usecases.
 * [Weld](https://github.com/weld-project/weld) ![](https://img.shields.io/github/stars/weld-project/weld.svg?style=social) - High-performance runtime for data analytics applications, Here is an [interview](https://www.notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm/) with Weld’s main contributor.
+* [XGBoost](https://github.com/dmlc/xgboost) ![](https://img.shields.io/github/stars/dmlc/xgboost.svg?style=social) - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
 
 
 ## Data Stream Processing
