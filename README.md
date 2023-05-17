@@ -169,6 +169,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Model Serving and Monitoring
+* [Arize-Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/arize-ai/phoenix?style=social) - Arize-Phoenix is an open source ML observability in a notebook to validate, monitor and fine tune your generative LLM, CV and tabular models.
 * [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving.
 * [Cortex](https://github.com/cortexlabs/cortex) ![](https://img.shields.io/github/stars/cortexlabs/cortex.svg?style=social) - Cortex is an open source platform for deploying machine learning models—trained with any framework—as production web services. No DevOps required.
