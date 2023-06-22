@@ -466,6 +466,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [OpenPrompt](https://github.com/thunlp/OpenPrompt) ![](https://img.shields.io/github/stars/thunlp/OpenPrompt.svg?style=social) - OpenPrompt is an open-source framework for prompt-Learning.
 * [Prompt Engine](https://github.com/microsoft/prompt-engine) ![](https://img.shields.io/github/stars/microsoft/prompt-engine.svg?style=social) - Prompt Engine is an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).
 * [Promptify](https://github.com/promptslab/Promptify) ![](https://img.shields.io/github/stars/promptslab/Promptify.svg?style=social) - Promptify help you to use GPT or other prompt based models to get structured output.
+* [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) ![](https://img.shields.io/github/stars/MagnivOrg/prompt-layer-library.svg?style=social) - PromptLayer is a platform that allows you to track, manage, and share your GPT prompt engineering.
 * [PromptSource](https://github.com/bigscience-workshop/promptsource) ![](https://img.shields.io/github/stars/bigscience-workshop/promptsource.svg?style=social) - PromptSource is a toolkit for creating, sharing and using natural language prompts.
 * [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) ![](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource.svg?style=social) - ThoughtSource is a central, open resource and community centered on data and tools for chain-of-thought reasoning in large language models.
 
