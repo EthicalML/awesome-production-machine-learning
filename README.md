@@ -461,6 +461,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Prompt Engineering
 * [ClickPrompt](https://github.com/prompt-engineering/click-prompt) ![](https://img.shields.io/github/stars/prompt-engineering/click-prompt.svg?style=social) - ClickPrompt is a tool designed for Prompt writers, which supports a variety of Prompt-based AI applications, such as Stable Diffusion, ChatGPT, and GitHub Copilot, etc.
+* [Guidance](https://github.com/microsoft/guidance) ![](https://img.shields.io/github/stars/microsoft/guidance.svg?style=social) - Guidance is a language for controlling large language models.
 * [Loom](https://github.com/socketteer/loom) ![](https://img.shields.io/github/stars/socketteer/loom.svg?style=social) - Loom is a multiversal tree writing interface for human-AI collaboration.
 * [OpenICL](https://github.com/Shark-NLP/OpenICL) ![](https://img.shields.io/github/stars/Shark-NLP/OpenICL.svg?style=social) - OpenICL is an open-source framework to facilitate research, development, and prototyping of in-context learning.
 * [OpenPrompt](https://github.com/thunlp/OpenPrompt) ![](https://img.shields.io/github/stars/thunlp/OpenPrompt.svg?style=social) - OpenPrompt is an open-source framework for prompt-Learning.
