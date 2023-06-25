@@ -169,7 +169,6 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Model Serving and Monitoring
-* [Arize-Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/arize-ai/phoenix?style=social) - Arize-Phoenix is an open source ML observability in a notebook to validate, monitor and fine tune your generative LLM, CV and tabular models.
 * [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving.
 * [Cortex](https://github.com/cortexlabs/cortex) ![](https://img.shields.io/github/stars/cortexlabs/cortex.svg?style=social) - Cortex is an open source platform for deploying machine learning models—trained with any framework—as production web services. No DevOps required.
@@ -192,6 +191,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Nuclio](https://github.com/nuclio/nuclio) ![](https://img.shields.io/github/stars/nuclio/nuclio.svg?style=social) - A high-performance "serverless" framework focused on data, I/O, and compute intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
 * [OpenScoring](https://github.com/openscoring/openscoring) ![](https://img.shields.io/github/stars/openscoring/openscoring.svg?style=social) - REST web service for the true real-time scoring (< 1 ms) of Scikit-Learn, R and Apache Spark models.
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Creates HTML profiling reports from pandas DataFrame objects. It extends the pandas DataFrame with df.profile_report() for quick data analysis.
+* [Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/arize-ai/phoenix?style=social) - Phoenix is an open source ML observability in a notebook to validate, monitor and fine tune your generative LLM, CV and tabular models.
 * [PredictionIO](https://github.com/apache/predictionio) ![](https://img.shields.io/github/stars/apache/predictionio.svg?style=social) - An open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task.
 * [Redis-AI](https://github.com/RedisAI/RedisAI) ![](https://img.shields.io/github/stars/RedisAI/RedisAI.svg?style=social) - A Redis module for serving tensors and executing deep learning models. Expect changes in the API and internals.
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY).
