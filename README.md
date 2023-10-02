@@ -589,6 +589,7 @@ This repository contains a curated list of awesome open source libraries that wi
 ## Industry Strength Benchmarking and Evaluation
 * [BIG-bench](https://github.com/google/BIG-bench) ![](https://img.shields.io/github/stars/google/BIG-bench.svg?style=social) - The Beyond the Imitation Game Benchmark (BIG-bench) is a collaborative benchmark intended to probe large language models and extrapolate their future capabilities.
 * [D4RL](https://github.com/Farama-Foundation/D4RL) ![](https://img.shields.io/github/stars/Farama-Foundation/D4RL.svg?style=social) - D4RL is an open-source benchmark for offline reinforcement learning.
+* [DeepEval](https://github.com/confident-ai/deepeval) ![](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social) - DeepEval provides metrics on different aspects when evaluating an LLM response to ensure that answers are relevant, consistent, unbiased, non-toxic.
 * [EvadeML](https://github.com/mzweilin/EvadeML-Zoo) ![](https://img.shields.io/github/stars/mzweilin/EvadeML-Zoo.svg?style=social) - A benchmarking and visualization tool for adversarial ML.
 * [EvalAI](https://github.com/Cloud-CV/EvalAI) ![](https://img.shields.io/github/stars/Cloud-CV/EvalAI.svg?style=social) - EvalAI is an open source platform for evaluating and comparing AI algorithms at scale.
 * [Evals](https://github.com/openai/evals) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
