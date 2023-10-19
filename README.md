@@ -19,7 +19,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🧵 Data Pipeline](#data-pipeline) | [🏷️ Data Labelling](#data-labelling) | [📅 Metadata Management](#metadata-management) |
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimization) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [📈 Industry-strength Benchmarking & Evaluation](#industry-strength-benchmarking-and-evaluation) | [💰 Commercial Platform](#commercial-platform) |
@@ -321,7 +321,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
 
 
-## Data Storage Optimisation
+## Data Storage Optimization
 * [AIStore](https://github.com/NVIDIA/aistore) ![](https://img.shields.io/github/stars/NVIDIA/aistore.svg?style=social) - AIStore is a lightweight object storage system with the capability to linearly scale out with each added storage node and a special focus on petascale deep learning.
 * [Alluxio](https://github.com/Alluxio/alluxio) ![](https://img.shields.io/github/stars/Alluxio/alluxio.svg?style=social) - A virtual distributed storage system that bridges the gab between computation frameworks and storage systems.
 * [Apache Arrow](https://github.com/apache/arrow/) ![](https://img.shields.io/github/stars/apache/arrow.svg?style=social) - In-memory columnar representation of data compatible with Pandas, Hadoop-based systems, etc..
