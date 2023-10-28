@@ -604,8 +604,9 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai) ![](https://img.shields.io/github/stars/HumanCompatibleAI/overcooked_ai.svg?style=social) - Overcooked-AI is a benchmark environment for fully cooperative human-AI task performance, based on the wildly popular video game Overcooked.
 * [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework that helps evaluate Retrieval Augmented Generation (RAG) pipelines.
 * [Recommenders](https://github.com/Microsoft/Recommenders) ![](https://img.shields.io/github/stars/Microsoft/Recommenders.svg?style=social) - Recommenders contains benchmark and best practices for building recommendation systems, provided as Jupyter notebooks.
-* [RLeXplore](https://github.com/yuanmingqi/rl-exploration-baselines) ![](https://img.shields.io/github/stars/yuanmingqi/rl-exploration-baselines.svg?style=social) - RLeXplore provides stable baselines of exploration methods in reinforcement learning
+* [RLeXplore](https://github.com/yuanmingqi/rl-exploration-baselines) ![](https://img.shields.io/github/stars/yuanmingqi/rl-exploration-baselines.svg?style=social) - RLeXplore provides stable baselines of exploration methods in reinforcement learning.
 * [SafePO-Baselines](https://github.com/PKU-MARL/Safe-Policy-Optimization) ![](https://img.shields.io/github/stars/PKU-MARL/Safe-Policy-Optimization.svg?style=social) - SafePO-Baselines is a benchmark repository for safe reinforcement learning algorithms.
+* [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
 
 
 ## Commercial Platform
