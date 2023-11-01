@@ -468,7 +468,10 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Model Compression
+* [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
 * [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) ![](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
+* [GPTQ](https://github.com/IST-DASLab/gptq) ![](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social) - Accurate Post-training Quantization of Generative Pretrained Transformers.
 * [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
 
 
