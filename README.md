@@ -468,6 +468,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Model Compression
+* [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) ![](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
 
 
