@@ -588,6 +588,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Industry Strength Benchmarking and Evaluation
+* [AgentBench](https://github.com/THUDM/AgentBench) ![](https://img.shields.io/github/stars/THUDM/AgentBench.svg?style=social) - A Comprehensive Benchmark to Evaluate LLMs as Agents.
 * [BIG-bench](https://github.com/google/BIG-bench) ![](https://img.shields.io/github/stars/google/BIG-bench.svg?style=social) - The Beyond the Imitation Game Benchmark (BIG-bench) is a collaborative benchmark intended to probe large language models and extrapolate their future capabilities.
 * [D4RL](https://github.com/Farama-Foundation/D4RL) ![](https://img.shields.io/github/stars/Farama-Foundation/D4RL.svg?style=social) - D4RL is an open-source benchmark for offline reinforcement learning.
 * [EvadeML](https://github.com/mzweilin/EvadeML-Zoo) ![](https://img.shields.io/github/stars/mzweilin/EvadeML-Zoo.svg?style=social) - A benchmarking and visualization tool for adversarial ML.
