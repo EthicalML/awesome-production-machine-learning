@@ -667,6 +667,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Talend Studio](https://www.talend.com/) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
 * [Tecton](https://www.tecton.ai/) - Tecton is an all-in-one system to build, automate, and centralize feature workflows for production ML.
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
+* [Vectara](https://vectara.com/) - Vectara is a platform focused on conversational experiences. It provides powerful retrieval, summarization and generation functions, as well as an easy-to-use developer interface.
 * [Vertex AI](https://cloud.google.com/vertex-ai) - Vertex AI Workbench is the single environment for data scientists to complete all of their ML work, from experimentation, to deployment, to managing and monitoring models. It is a Jupyter-based fully managed, scalable, enterprise-ready compute infrastructure with security controls and user management capabilities.
 * [Ultralytics](https://ultralytics.com/) Ultralytics simplifies data sourcing, labeling, model training, and deployment services that offer artificial intelligence.
 * [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
