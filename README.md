@@ -473,8 +473,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
 * [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 * [Qdrant](https://github.com/qdrant/qdrant) ![](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social) - An open source vector similarity search engine with extended filtering support.
-* [Infinity](https://github.com/michaelfeil/infinity) ![](https://img.shields.io/github/stars/michaelfeil/infinity.svg?style=social) - Rest API server for serving text-embeddings
-* [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) ![](https://img.shields.io/github/stars/huggingface/text-embeddings-inference.svg?style=social) - Inference for text-embedding models
 
 ## Industry Strength CV
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
@@ -518,7 +516,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Tensorflow Lingvo](https://github.com/tensorflow/lingvo) ![](https://img.shields.io/github/stars/tensorflow/lingvo.svg?style=social) - A [framework](https://blog.tensorflow.org/2019/02/lingvo-tensorflow-framework-for-sequence-modeling.html) for building neural networks in Tensorflow, particularly sequence models.
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
-* [text-generation-inference](https://github.com/huggingface/text-generation-inference) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) - Large Language Model Text Generation Inference
+* [text-generation-inference](https://github.com/huggingface/text-generation-inference) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) - Large Language Model Text Generation Inference under TFOIL license.
 * [trlX](https://github.com/CarperAI/trlx) ![](https://img.shields.io/github/stars/CarperAI/trlx.svg?style=social) - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
 * [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 
@@ -642,6 +640,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Fennel](https://fennel.ai/) - Realtime feature engineering platform for fast moving machine learning teams. Python / Pandas native, built in Rust. Easy to install/use/run, builds upon best practices for reducing data/feature quality issues, and keeps cloud spend low. Fully managed, zero ops.
 * [Fiddler](https://www.fiddler.ai/) - Fiddler is a model performance management platform that offers model monitoring, observability, explainability & fairness.
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
+* [Gradient](https://gradient.ai/) - Gradient offers fine-tuning as training and inference of LLM's as cloud infrastructure
 * [Graphsignal](https://graphsignal.com/) - Machine learning profiler that helps make model training and inference faster and more efficient.
 * [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai/) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring - [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc).
 * [Hugging Face](https://huggingface.co/) - Hugging Face is a platform that allows users to share machine learning models and datasets.
