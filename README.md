@@ -476,6 +476,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industry Strength CV
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
+* [Detectron2](https://github.com/facebookresearch/detectron2) ![](https://img.shields.io/github/stars/facebookresearch/detectron2.svg?style=social) - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
 * [LAVIS](https://github.com/salesforce/LAVIS) ![](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social) - LAVIS is a deep learning library for LAnguage-and-VISion intelligence research and applications.
