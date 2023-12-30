@@ -481,6 +481,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [LAVIS](https://github.com/salesforce/LAVIS) ![](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social) - LAVIS is a deep learning library for LAnguage-and-VISion intelligence research and applications.
 * [MMDetection](https://github.com/open-mmlab/mmdetection) ![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social) - MMDetection is an open source object detection toolbox based on PyTorch.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
+* [VISSL](https://github.com/facebookresearch/vissl) ![](https://img.shields.io/github/stars/facebookresearch/vissl.svg?style=social) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 
 
 ## Industry Strength NLP
