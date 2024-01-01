@@ -491,9 +491,13 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industry Strength CV
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
+* [Detectron2](https://github.com/facebookresearch/detectron2) ![](https://img.shields.io/github/stars/facebookresearch/detectron2.svg?style=social) - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
 * [iGibson](https://github.com/StanfordVL/iGibson) ![](https://img.shields.io/github/stars/StanfordVL/iGibson.svg?style=social) - iGibson is a simulation environment providing fast visual rendering and physics simulation based on Bullet.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
+* [LAVIS](https://github.com/salesforce/LAVIS) ![](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social) - LAVIS is a deep learning library for LAnguage-and-VISion intelligence research and applications.
+* [MMDetection](https://github.com/open-mmlab/mmdetection) ![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social) - MMDetection is an open source object detection toolbox based on PyTorch.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
+* [VISSL](https://github.com/facebookresearch/vissl) ![](https://img.shields.io/github/stars/facebookresearch/vissl.svg?style=social) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 * [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
 
 ## Industry Strength NLP
