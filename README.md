@@ -20,7 +20,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
-| [🔥 Neural Search](#neural-search) | [🔩 Model Compression](#model-compression) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [🔥 Neural Search](#neural-search) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Benchmarking & Evaluation](#industry-strength-benchmarking-and-evaluation) | [💰 Commercial Platform](#commercial-platform) |
 
@@ -493,7 +493,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Qdrant](https://github.com/qdrant/qdrant) ![](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social) - An open source vector similarity search engine with extended filtering support.
 
 
-## Model Compression
+## Model Optimization, Compilation and Compression
 * [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
 * [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) ![](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
