@@ -186,7 +186,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Inference](https://github.com/roboflow/inference) - A fast, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models. With Inference, you can deploy models such as YOLOv5, YOLOv8, CLIP, SAM, and CogVLM on your own hardware using Docker.
 * [Jina](https://github.com/jina-ai/jina)  ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Cloud native search framework that   supports to use deep learning/state of the art AI models for search.
 * [KServe](https://github.com/kserve/kserve) ![](https://img.shields.io/github/stars/kserve/kserve.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU).
-* [Langfuse](https://github.com/langfuse/langfuse) ![](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=social) - Langfuse is an open source observability & analytics solution for LLM-based applications.
 * [LangKit](https://github.com/whylabs/langkit) ![](https://img.shields.io/github/stars/whylabs/langkit.svg?style=social) - LangKit is an open-source text metrics toolkit for monitoring language models.
 * [LightLLM](https://github.com/ModelTC/lightllm) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 * [LLMonitor](https://github.com/LLMonitor/llmonitor) ![](https://img.shields.io/github/stars/LLMonitor/llmonitor.svg?style=social) - Observability & analytics for AI apps and agents.
@@ -219,7 +218,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [TruLens](https://github.com/truera/trulens) ![](https://img.shields.io/github/stars/truera/trulens.svg?style=social) - TruLens provides a set of tools for developing and monitoring neural nets, including large language models.
 * [UnionML](https://github.com/unionai-oss/unionml) ![](https://img.shields.io/github/stars/unionai-oss/unionml.svg?style=social) - UnionML is an open source MLOps framework that aims to reduce the boilerplate and friction that comes with building models and deploying them to production.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs
-* [WhyLogs](https://github.com/whylabs/whylogs-python) ![](https://img.shields.io/github/stars/whylabs/whylogs-python.svg?style=social) - Lightweight solution for profiling and monitoring your ML data pipeline end-to-end
 
 
 ## Adversarial Robustness
