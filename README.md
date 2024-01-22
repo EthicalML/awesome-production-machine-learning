@@ -704,6 +704,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
 * [ModelOp](https://www.modelop.com/) - An enterprise MLOps platform that automates the governance, management and monitoring of deployed AI, ML models across platforms and teams, resulting in reliable, compliant and scalable AI initiatives.
 * [Modelplace](https://modelplace.ai) - Modelplace provides a directory of tested and benchmarked AI models from around the world curated by OpenCV.
+* [ModelScope](https://www.modelscope.cn) - ModelScope is built upon the notion of "Model-as-a-Service" (MaaS). It seeks to bring together the most advanced machine learning models from the AI community and streamlines the process of leveraging AI models in real-world applications.
 * [MLJAR](https://mljar.com/) - Platform for rapid prototyping, developing and deploying machine learning models.
 * [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.  
 * [Nimblebox](https://nimblebox.ai) - A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.
