@@ -680,6 +680,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Dataiku](https://www.dataiku.com/) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
+* [Deci](https://dagshub.com) - Deci is a deep learning development platform that provides advanced tools to build, optimize, and deploy accurate and highly efficient models for computer vision, Generative AI, and NLP applications. 
 * [Deep Cognition Deep Learning Studio](https://deepcognition.ai/) - E2E platform for deep learning.
 * [deepsense.ai](https://deepsense.ai/) - deepsense.ai helps companies gain competitive advantage by providing customized AI-powered end-to-end solutions, with the main focus on AI software, team augmentation and AI advisory.
 * [Diffgram](https://diffgram.com/) - Training Data First platform. Database & Training Data Pipelines for Supervised AI. Integrated with GCP, AWS, Azure and top Annotation Supervision UIs (or use built-in Diffgram UI, or build your own). Plus a growing list of integrated service providers! For Computer Vision, NLP, and Supervised Deep Learning / Machine Learning.
