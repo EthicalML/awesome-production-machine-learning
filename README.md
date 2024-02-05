@@ -514,6 +514,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [CTRL](https://github.com/salesforce/ctrl) ![](https://img.shields.io/github/stars/salesforce/ctrl.svg?style=social) - A Conditional Transformer Language Model for Controllable Generation released by SalesForce.
 * [dspy](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/github/stars/stanfordnlp/dspy.svg?style=social) - A framework for programming with foundation models.
 * [Dust](https://github.com/dust-tt/dust) ![](https://img.shields.io/github/stars/dust-tt/dust.svg?style=social) - Dust assists in the design and deployment of large language model apps.
+* [Embedchain](https://github.com/embedchain/embedchain) ![](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Embedchain is an Open Source RAG Framework that makes it easy to create and deploy AI apps.
 * [ESPnet](https://github.com/espnet/espnet) ![](https://img.shields.io/github/stars/espnet/espnet.svg?style=social) - ESPnet is an end-to-end speech processing toolkit.
 * [Facebook's XLM](https://github.com/facebookresearch/XLM) ![](https://img.shields.io/github/stars/facebookresearch/XLM.svg?style=social) - PyTorch original implementation of Cross-lingual Language Model Pretraining which includes BERT, XLM, NMT, XNLI, PKM, etc..
 * [FastChat](https://github.com/lm-sys/FastChat) ![](https://img.shields.io/github/stars/lm-sys/FastChat.svg?style=social) - FastChat is an open platform for training, serving, and evaluating large language model based chatbots.
