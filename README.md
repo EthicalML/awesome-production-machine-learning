@@ -675,6 +675,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Cerebras](https://www.cerebras.net) - Cerebras builds computer systems for complex artificial intelligence deep learning applications.
 * [Cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet](http://comet.ml) - Machine learning experiment management. Free for open source and students - [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE).
+* [data.world](https://data.world) - data.world is a cloud-native SaaS platform that combines an intuitive user experience with a powerful knowledge graph to deliver enhanced data discovery, agile data governance, and actionable insights.
 * [D2iQ Kaptain](https://d2iq.com/products/kaptain) - An end-to-end machine learning platform built for security, scale, and speed, that allows enterprises to develop and deploy machine learning models that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source [Kubernetes Universal Declarative Operators](https://kudo.dev/) (KUDO).
 * [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
 * [Databricks](https://www.databricks.com/) - An integrated end-to-end machine learning environment incorporating managed services for experiment tracking, model training, feature development and management, and feature and model serving.
