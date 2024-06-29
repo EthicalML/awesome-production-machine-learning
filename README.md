@@ -715,6 +715,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [OpenAI](https://openai.com/) - OpenAI aims to promote and develop friendly AI in a way that benefits humanity as a whole. 
 * [Pinecone](https://www.pinecone.io/) - Pinecone vector database makes it easy to build high-performance vector search applications
 * [Prodigy](https://prodi.gy/) - Prodigy is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
+* [Predibase](https://predibase.com) - Predibase is a company to provide a developer platform for open-source AI models in the cloud.
 * [RapidMiner](https://rapidminer.com/) - RapidMiner is the enterprise-ready data science platform that amplifies the collective impact of your people, expertise and data for breakthrough competitive advantage.
 * [Replicate](https://replicate.com) - Replicate lets you run machine learning models with a cloud API, without having to understand the intricacies of machine learning or manage your own infrastructure.
 * [Robust Intelligence](https://www.robustintelligence.com/) - Robust Intelligence is an end-to-end ML integrity solution that proactively eliminates failure at every stage of the model lifecycle. From pre-deployment vulnerability detection and validation to post-deployment monitoring and protection, Robust Intelligence gives teams the confidence to scale models in production across a variety of use cases and modalities.
