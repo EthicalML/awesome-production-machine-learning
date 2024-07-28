@@ -348,6 +348,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
 * [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
+* [Hamilton UI](https://github.com/dagworks-inc/hamilton) ![](https://img.shields.io/github/stars/dagworks-inc/hamilton.svg?style=social) - The Hamilton UI is an open source lineage + provenance, catalog, & observability solution that integrates with the Hamilton framework. All that it takes to integrate, is a one line code addition.
 
 
 ## Data Storage Optimisation
