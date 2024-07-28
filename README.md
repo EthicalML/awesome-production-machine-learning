@@ -512,6 +512,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
 * [GPTQ](https://github.com/IST-DASLab/gptq) ![](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social) - Accurate Post-training Quantization of Generative Pretrained Transformers.
 * [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
+* [Quanto](https://github.com/huggingface/quanto) ![](https://img.shields.io/github/stars/huggingface/quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
 
 
 ## Industry Strength CV
