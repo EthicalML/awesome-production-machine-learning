@@ -700,6 +700,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Lambda Labs](https://lambdalabs.com) - Lambda Labs is a company that provides hardware and software solutions for deep learning applications.
+* [lunary](https://lunary.ai) - Lunary is a platform for AI developers that offers observability, chat replays, feedback tracking, evaluation tools, and prompt templates with versioning.
 * [Kaggle](https://www.kaggle.com) - Kaggle offers machine learning and data science competitions as well as offering a public data and cloud-based business platform for data science and AI education.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Kern AI](https://www.kern.ai/) - Kern AI builds the self-service development environment for NLP training data, used by data scientists to quickly build high-quality, large-scale labeled datasets.
