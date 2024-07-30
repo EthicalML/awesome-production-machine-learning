@@ -473,7 +473,6 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Guidance](https://github.com/microsoft/guidance) ![](https://img.shields.io/github/stars/microsoft/guidance.svg?style=social) - Guidance is a language for controlling large language models.
 * [LMQL](https://github.com/eth-sri/lmql) ![](https://img.shields.io/github/stars/eth-sri/lmql.svg?style=social) - LMQL is a programming language for large language models based on a superset of Python.
 * [Loom](https://github.com/socketteer/loom) ![](https://img.shields.io/github/stars/socketteer/loom.svg?style=social) - Loom is a multiversal tree writing interface for human-AI collaboration.
-* [lunary](https://github.com/lunary-ai/lunary) ![](https://img.shields.io/github/stars/lunary-ai/lunary.svg?style=social) - Open-source observability & prompt platform for LLMs.
 * [OpenICL](https://github.com/Shark-NLP/OpenICL) ![](https://img.shields.io/github/stars/Shark-NLP/OpenICL.svg?style=social) - OpenICL is an open-source framework to facilitate research, development, and prototyping of in-context learning.
 * [OpenPrompt](https://github.com/thunlp/OpenPrompt) ![](https://img.shields.io/github/stars/thunlp/OpenPrompt.svg?style=social) - OpenPrompt is an open-source framework for prompt-Learning.
 * [Prompt Engine](https://github.com/microsoft/prompt-engine) ![](https://img.shields.io/github/stars/microsoft/prompt-engine.svg?style=social) - Prompt Engine is an NPM utility library for creating and maintaining prompts for large language models.
