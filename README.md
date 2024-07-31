@@ -712,6 +712,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.
 * [NetMind AI](https://netmind.ai) - NetMind AI is an artificial intelligence company offering an advanced distributed computing platform for AI modeling and application.
 * [Nimblebox](https://nimblebox.ai) - A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.
+* [Nvidia](https://www.nvidia.com) - Nvidia leverages its powerful GPUs and AI software to accelerate and revolutionize artificial intelligence across various industries.
 * [OctoML](https://octoml.ai/) - OctoML makes AI more sustainable through efficient model execution and automation to scale services and reduce engineering burden.
 * [OpenAI](https://openai.com/) - OpenAI aims to promote and develop friendly AI in a way that benefits humanity as a whole. 
 * [Pinecone](https://www.pinecone.io/) - Pinecone vector database makes it easy to build high-performance vector search applications
