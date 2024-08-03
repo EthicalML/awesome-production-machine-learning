@@ -20,9 +20,10 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🗺️ Computation Distribution](#computation-load-distribution) | [📥 Model Serialisation](#model-serialisation) | [🧮 Optimized Computation](#optimized-computation)|
 | [💸 Data Stream Processing](#data-stream-processing) | [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🎁 Feature Store](#feature-store) |
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
-| [🔥 Neural Search](#neural-search) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Benchmarking & Evaluation](#industry-strength-benchmarking-and-evaluation) | [💰 Commercial Platform](#commercial-platform) |
+| [🔥 Neural Search](#neural-search) | [🥖 Prompt Engineering](#prompt-engineering) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) |
+| [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
+| [📈 Industry-strength Benchmarking & Evaluation](#industry-strength-benchmarking-and-evaluation) | [💰 Commercial Platform](#commercial-platform) |
 
 ## 10 Min Video Overview
 
@@ -512,6 +513,22 @@ This repository contains a curated list of awesome open source libraries that wi
 * [NGT](https://github.com/yahoojapan/NGT) ![](https://img.shields.io/github/stars/yahoojapan/NGT.svg?style=social) - NGT provides commands and a library for performing high-speed approximate nearest neighbor searches against a large volume of data in high dimensional vector data space.
 * [NMSLIB](https://github.com/nmslib/nmslib) ![](https://img.shields.io/github/stars/nmslib/nmslib.svg?style=social) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 * [Qdrant](https://github.com/qdrant/qdrant) ![](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social) - An open source vector similarity search engine with extended filtering support.
+
+
+## Prompt Engineering
+* [ClickPrompt](https://github.com/prompt-engineering/click-prompt) ![](https://img.shields.io/github/stars/prompt-engineering/click-prompt.svg?style=social) - ClickPrompt is a tool designed for Prompt writers, which supports a variety of Prompt-based AI applications, such as Stable Diffusion, ChatGPT, and GitHub Copilot, etc.
+* [Guardrails](https://github.com/ShreyaR/guardrails) ![](https://img.shields.io/github/stars/ShreyaR/guardrails.svg?style=social) - Guardrails is an open-source Python package for specifying structure and type, validating and correcting the outputs of large language models.
+* [Guidance](https://github.com/microsoft/guidance) ![](https://img.shields.io/github/stars/microsoft/guidance.svg?style=social) - Guidance is a language for controlling large language models.
+* [LMQL](https://github.com/eth-sri/lmql) ![](https://img.shields.io/github/stars/eth-sri/lmql.svg?style=social) - LMQL is a programming language for large language models based on a superset of Python.
+* [Loom](https://github.com/socketteer/loom) ![](https://img.shields.io/github/stars/socketteer/loom.svg?style=social) - Loom is a multiversal tree writing interface for human-AI collaboration.
+* [OpenICL](https://github.com/Shark-NLP/OpenICL) ![](https://img.shields.io/github/stars/Shark-NLP/OpenICL.svg?style=social) - OpenICL is an open-source framework to facilitate research, development, and prototyping of in-context learning.
+* [OpenPrompt](https://github.com/thunlp/OpenPrompt) ![](https://img.shields.io/github/stars/thunlp/OpenPrompt.svg?style=social) - OpenPrompt is an open-source framework for prompt-Learning.
+* [Prompt Engine](https://github.com/microsoft/prompt-engine) ![](https://img.shields.io/github/stars/microsoft/prompt-engine.svg?style=social) - Prompt Engine is an NPM utility library for creating and maintaining prompts for large language models.
+* [Promptify](https://github.com/promptslab/Promptify) ![](https://img.shields.io/github/stars/promptslab/Promptify.svg?style=social) - Promptify help you to use GPT or other prompt based models to get structured output.
+* [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) ![](https://img.shields.io/github/stars/MagnivOrg/prompt-layer-library.svg?style=social) - PromptLayer is a platform that allows you to track, manage, and share your GPT prompt engineering.
+* [PromptSource](https://github.com/bigscience-workshop/promptsource) ![](https://img.shields.io/github/stars/bigscience-workshop/promptsource.svg?style=social) - PromptSource is a toolkit for creating, sharing and using natural language prompts.
+* [Rebuff](https://github.com/woop/rebuff) ![](https://img.shields.io/github/stars/woop/rebuff.svg?style=social) - Rebuff protects AI applications from prompt injection (PI) attacks through a multi-layered defense.
+* [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) ![](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource.svg?style=social) - ThoughtSource is a central, open resource and community centered on data and tools for chain-of-thought reasoning in large language models.
 
 
 ## Model Optimization, Compilation and Compression
