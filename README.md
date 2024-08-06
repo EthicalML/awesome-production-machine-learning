@@ -22,7 +22,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [💰 Commercial Platform](#commercial-platform) |
+| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) |
+
 
 ## 10 Min Video Overview
 
