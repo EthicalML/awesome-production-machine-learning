@@ -624,7 +624,8 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Industry Strength Evaluation
-* [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - An automatic evaluator for instruction-following language models.
+* [AlgoPerf](https://github.com/mlcommons/algorithmic-efficiency) ![](https://img.shields.io/github/stars/mlcommons/algorithmic-efficiency.svg?style=social) - AlgoPerf is a suite of benchmarks and competitions to measure neural network training speedups due to algorithmic improvements in both training algorithms and models.
+* [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - AlpacaEval is an automatic evaluator for instruction-following language models.
 * [BigCode](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - A framework for the evaluation of autoregressive code generation language models.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
 * [DeepEval](https://github.com/confident-ai/deepeval) ![](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social) - DeepEval is a simple-to-use, open-source evaluation framework for LLM applications.
@@ -643,6 +644,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai) ![](https://img.shields.io/github/stars/HumanCompatibleAI/overcooked_ai.svg?style=social) - Overcooked-AI is a benchmark environment for fully cooperative human-AI task performance, based on the wildly popular video game Overcooked.
 * [PhaseLLM](https://github.com/wgryc/phasellm) ![](https://img.shields.io/github/stars/wgryc/phasellm.svg?style=social) - Large language model evaluation and workflow framework from [Phase AI](phasellm.com).
 * [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework that helps evaluate Retrieval Augmented Generation (RAG) pipelines.
+* [RobotPerf](https://github.com/robotperf/benchmarks) ![](https://img.shields.io/github/stars/robotperf/benchmarks.svg?style=social) - RobotPerf is an open reference benchmarking suite that is used to evaluate robotics computing performance fairly with ROS 2 as its common baseline so that robotic architects can make informed decisions about the hardware and software components of their robotic systems.
 * [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
 
 
