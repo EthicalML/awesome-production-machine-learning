@@ -656,7 +656,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industry Strength Evaluation
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - An automatic evaluator for instruction-following language models.
-* [BigCode](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - A framework for the evaluation of autoregressive code generation language models.
+* [BigCodeBench](https://github.com/bigcode-project/bigcodebench) ![](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social) - BigCodeBench is an easy-to-use benchmark for code generation with practical and challenging programming tasks.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
 * [CRAB](https://github.com/camel-ai/crab) ![](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social) - CRAB is a framework for building LLM agent benchmark environments in a Python-centric way.
 * [DeepEval](https://github.com/confident-ai/deepeval) ![](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social) - DeepEval is a simple-to-use, open-source evaluation framework for LLM applications.
