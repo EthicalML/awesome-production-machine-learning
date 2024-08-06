@@ -646,7 +646,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
 
 
-## Commercial Platform
+## TO BE RE-DISTRIBUTED
 * [Amazon Web Services](https://aws.amazon.com/) - AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS) and packaged-software-as-a-service (SaaS) offerings, including: [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/), [Amazon Rekognition](https://aws.amazon.com/rekognition/), [Amazon SageMaker](https://aws.amazon.com/sagemaker/).
 * [Anthropic](https://www.anthropic.com/) - Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 * [Anyscale](https://www.anyscale.com/) - Anyscale is a unified compute platform that makes it easy to develop, deploy, and manage scalable AI and Python applications using Ray.
