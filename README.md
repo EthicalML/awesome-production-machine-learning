@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-[![GitHub](https://img.shields.io/twitter/follow/axsaucedo.svg?label=Follow)](https://twitter.com/AxSaucedo/)
+[![GitHub](https://img.shields.io/twitter/follow/EthicalML.svg?label=Follow)](https://twitter.com/EthicalML)
 
 
 # Awesome Production Machine Learning
