@@ -678,6 +678,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Commercial Platform
+* [Aha Vector Search](https://www.ahavs.com) - Aha Vector Search is a high-performance, low-cost, end-to-end vector search service.
 * [Amazon Web Services](https://aws.amazon.com/) - AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS) and packaged-software-as-a-service (SaaS) offerings, including: [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/), [Amazon Rekognition](https://aws.amazon.com/rekognition/), [Amazon SageMaker](https://aws.amazon.com/sagemaker/).
 * [Anthropic](https://www.anthropic.com/) - Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 * [Anyscale](https://www.anyscale.com/) - Anyscale is a unified compute platform that makes it easy to develop, deploy, and manage scalable AI and Python applications using Ray.
@@ -691,12 +692,14 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Cerebras](https://www.cerebras.net) - Cerebras builds computer systems for complex artificial intelligence deep learning applications.
 * [Cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
 * [Comet](http://comet.ml) - Machine learning experiment management. Free for open source and students - [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE).
+* [data.world](https://data.world) - data.world is a cloud-native SaaS platform that combines an intuitive user experience with a powerful knowledge graph to deliver enhanced data discovery, agile data governance, and actionable insights.
 * [D2iQ Kaptain](https://d2iq.com/products/kaptain) - An end-to-end machine learning platform built for security, scale, and speed, that allows enterprises to develop and deploy machine learning models that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source [Kubernetes Universal Declarative Operators](https://kudo.dev/) (KUDO).
 * [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
 * [Databricks](https://www.databricks.com/) - An integrated end-to-end machine learning environment incorporating managed services for experiment tracking, model training, feature development and management, and feature and model serving.
 * [Dataiku](https://www.dataiku.com/) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
 * [DataRobot](https://www.datarobot.com/) - Automated machine learning platform which enables users to build and deploy machine learning models.
 * [Datatron](https://datatron.com/) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
+* [Deci](https://dagshub.com) - Deci is a deep learning development platform that provides advanced tools to build, optimize, and deploy accurate and highly efficient models for computer vision, Generative AI, and NLP applications. 
 * [Deep Cognition Deep Learning Studio](https://deepcognition.ai/) - E2E platform for deep learning.
 * [deepsense.ai](https://deepsense.ai/) - deepsense.ai helps companies gain competitive advantage by providing customized AI-powered end-to-end solutions, with the main focus on AI software, team augmentation and AI advisory.
 * [Diffgram](https://diffgram.com/) - Training Data First platform. Database & Training Data Pipelines for Supervised AI. Integrated with GCP, AWS, Azure and top Annotation Supervision UIs (or use built-in Diffgram UI, or build your own). Plus a growing list of integrated service providers! For Computer Vision, NLP, and Supervised Deep Learning / Machine Learning.
@@ -714,19 +717,24 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Iguazio Data Science Platform](https://www.iguazio.com/) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
 * [Iterative Studio](https://studio.iterative.ai/) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
 * [Lambda Labs](https://lambdalabs.com) - Lambda Labs is a company that provides hardware and software solutions for deep learning applications.
+* [lunary](https://lunary.ai) - Lunary is a platform for AI developers that offers observability, chat replays, feedback tracking, evaluation tools, and prompt templates with versioning.
 * [Kaggle](https://www.kaggle.com) - Kaggle offers machine learning and data science competitions as well as offering a public data and cloud-based business platform for data science and AI education.
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Kern AI](https://www.kern.ai/) - Kern AI builds the self-service development environment for NLP training data, used by data scientists to quickly build high-quality, large-scale labeled datasets.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
 * [ModelOp](https://www.modelop.com/) - An enterprise MLOps platform that automates the governance, management and monitoring of deployed AI, ML models across platforms and teams, resulting in reliable, compliant and scalable AI initiatives.
 * [Modelplace](https://modelplace.ai) - Modelplace provides a directory of tested and benchmarked AI models from around the world curated by OpenCV.
+* [ModelScope](https://www.modelscope.cn) - ModelScope is built upon the notion of "Model-as-a-Service" (MaaS). It seeks to bring together the most advanced machine learning models from the AI community and streamlines the process of leveraging AI models in real-world applications.
 * [MLJAR](https://mljar.com/) - Platform for rapid prototyping, developing and deploying machine learning models.
-* [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.  
+* [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.
+* [NetMind AI](https://netmind.ai) - NetMind AI is an artificial intelligence company offering an advanced distributed computing platform for AI modeling and application.
 * [Nimblebox](https://nimblebox.ai) - A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.
+* [Nvidia](https://www.nvidia.com) - Nvidia leverages its powerful GPUs and AI software to accelerate and revolutionize artificial intelligence across various industries.
 * [OctoML](https://octoml.ai/) - OctoML makes AI more sustainable through efficient model execution and automation to scale services and reduce engineering burden.
 * [OpenAI](https://openai.com/) - OpenAI aims to promote and develop friendly AI in a way that benefits humanity as a whole. 
 * [Pinecone](https://www.pinecone.io/) - Pinecone vector database makes it easy to build high-performance vector search applications
 * [Prodigy](https://prodi.gy/) - Prodigy is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
+* [Predibase](https://predibase.com) - Predibase is a company to provide a developer platform for open-source AI models in the cloud.
 * [RapidMiner](https://rapidminer.com/) - RapidMiner is the enterprise-ready data science platform that amplifies the collective impact of your people, expertise and data for breakthrough competitive advantage.
 * [Replicate](https://replicate.com) - Replicate lets you run machine learning models with a cloud API, without having to understand the intricacies of machine learning or manage your own infrastructure.
 * [Robust Intelligence](https://www.robustintelligence.com/) - Robust Intelligence is an end-to-end ML integrity solution that proactively eliminates failure at every stage of the model lifecycle. From pre-deployment vulnerability detection and validation to post-deployment monitoring and protection, Robust Intelligence gives teams the confidence to scale models in production across a variety of use cases and modalities.
@@ -738,9 +746,11 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Skytree](http://skytree.net) - End to end machine learning platform - [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k).
 * [SuperAnnotate](https://www.superannotate.com/) - A complete set of solutions for image and video annotation and an annotation service with integrated tooling, on-demand narrow expertise in various fields, and a custom neural network, automation, and training models powered by AI.
 * [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
+* [Surge AI](https://www.surgehq.ai) - Surge AI is a powerful data labeling platform that plays a crucial role in training LLMs systems.
 * [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
 * [Talend Studio](https://www.talend.com/) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
 * [Tecton](https://www.tecton.ai/) - Tecton is an all-in-one system to build, automate, and centralize feature workflows for production ML.
+* [Tenstorrent](https://tenstorrent.com) - Tenstorrent is a next-generation computing company with the mission of addressing the rapidly growing computing demands for software 2.0.
 * [Valohai](https://valohai.com/) - Machine orchestration, version control and pipeline management for deep learning.
 * [Vectara](https://vectara.com/) - Vectara is a platform focused on conversational experiences. It provides powerful retrieval, summarization and generation functions, as well as an easy-to-use developer interface.
 * [Vertex AI](https://cloud.google.com/vertex-ai) - Vertex AI Workbench is the single environment for data scientists to complete all of their ML work, from experimentation, to deployment, to managing and monitoring models. It is a Jupyter-based fully managed, scalable, enterprise-ready compute infrastructure with security controls and user management capabilities.
