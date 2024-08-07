@@ -22,7 +22,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [💰 Commercial Platform](#commercial-platform) |
+| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) |
+
 
 ## 10 Min Video Overview
 
@@ -649,7 +650,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
 
 
-## Commercial Platform
+## TO BE RE-DISTRIBUTED
 * [Amazon Web Services](https://aws.amazon.com/) - AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS) and packaged-software-as-a-service (SaaS) offerings, including: [Amazon Augmented AI](https://aws.amazon.com/augmented-ai/), [Amazon Rekognition](https://aws.amazon.com/rekognition/), [Amazon SageMaker](https://aws.amazon.com/sagemaker/).
 * [Anthropic](https://www.anthropic.com/) - Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 * [Anyscale](https://www.anyscale.com/) - Anyscale is a unified compute platform that makes it easy to develop, deploy, and manage scalable AI and Python applications using Ray.
