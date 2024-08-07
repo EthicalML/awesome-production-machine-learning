@@ -633,6 +633,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Evals](https://github.com/openai/evals) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 * [Evaluate](https://github.com/huggingface/evaluate) ![](https://img.shields.io/github/stars/huggingface/evaluate.svg?style=social) - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.
 * [Evalverse](https://github.com/UpstageAI/evalverse) ![](https://img.shields.io/github/stars/UpstageAI/evalverse.svg?style=social) - Evalverse is a framework to support your LLM evaluation needs.
+* [FlagEval](https://github.com/FlagOpen/FlagEval) ![](https://img.shields.io/github/stars/FlagOpen/FlagEval.svg?style=social) - FlagEval is an open-source evaluation toolkit as well as an open platform for evaluation of large models.
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) ![](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai.svg?style=social) - Inspect is a framework for large language model evaluations.
 * [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness.svg?style=social) - Language Model Evaluation Harness is a framework to test generative language models on a large number of different evaluation tasks.
 * [LightEval](https://github.com/huggingface/lighteval) ![](https://img.shields.io/github/stars/huggingface/lighteval.svg?style=social) - Holistic Evaluation of Language Models (HELM) is a benchmark framework to increase the transparency of language models.
@@ -645,6 +646,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework that helps evaluate Retrieval Augmented Generation (RAG) pipelines.
 * [RobotPerf](https://github.com/robotperf/benchmarks) ![](https://img.shields.io/github/stars/robotperf/benchmarks.svg?style=social) - RobotPerf is an open reference benchmarking suite that is used to evaluate robotics computing performance fairly with ROS 2 as its common baseline so that robotic architects can make informed decisions about the hardware and software components of their robotic systems.
 * [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
+* [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
 
 
 ## Commercial Platform
