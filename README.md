@@ -622,8 +622,6 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Industry Strength Evaluation
-* [AgentStudio](https://github.com/SkyworkAI/agent-studio) ![](https://img.shields.io/github/stars/SkyworkAI/agent-studio.svg?style=social) - AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits.
-* [AlgoPerf](https://github.com/mlcommons/algorithmic-efficiency) ![](https://img.shields.io/github/stars/mlcommons/algorithmic-efficiency.svg?style=social) - AlgoPerf is a suite of benchmarks and competitions to measure neural network training speedups due to algorithmic improvements in both training algorithms and models.
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - AlpacaEval is an automatic evaluator for instruction-following language models.
 * [BigCodeBench](https://github.com/bigcode-project/bigcodebench) ![](https://img.shields.io/github/stars/bigcode-project/bigcodebench.svg?style=social) - BigCodeBench is an easy-to-use benchmark for code generation with practical and challenging programming tasks.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
