@@ -33,9 +33,9 @@ Thank you for taking the time to contribute to the awesome production machine le
 The key things to bear in mind when contributing a new list are the following:
 
 * This is not an exhaustive listing.
-* Tools should ideally have 100+ stars.
-* Tools should ideally be at least 6 months old.
-* Tools should ideally be at least actively maintained in the last 6 months.
+* Tools should have 100+ stars.
+* Tools should not be archived.
+* Tools should be at least actively maintained in the last 6 months.
 * All contributions must be done in alphabetical order relative to the section.
 * The tools should not be repeated across more than one section.
 * In order to propose a new section, please add an issue first for discussion.
