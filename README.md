@@ -167,6 +167,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Streaming](https://github.com/mosaicml/streaming) ![](https://img.shields.io/github/stars/mosaicml/streaming.svg?style=social) - A Data Streaming Library for Efficient Neural Network Training.
 * [Tensorflow Extended (TFX)](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
 * [TonY](https://github.com/linkedin/TonY) ![](https://img.shields.io/github/stars/linkedin/TonY.svg?style=social) - TonY is a framework to natively run deep learning jobs on Apache Hadoop. It currently supports TensorFlow, PyTorch, MXNet and Horovod.
+* [veScale](https://github.com/volcengine/veScale) ![](https://img.shields.io/github/stars/volcengine/veScale.svg?style=social) - veScale is a PyTorch native LLM training framework.
 
 
 ## Model Serving and Monitoring
