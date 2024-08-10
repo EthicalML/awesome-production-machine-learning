@@ -623,6 +623,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Industry Strength Evaluation
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - AlpacaEval is an automatic evaluator for instruction-following language models.
+* [Banana-lyzer](https://github.com/reworkd/bananalyzer) ![](https://img.shields.io/github/stars/reworkd/bananalyzer.svg?style=social) - Banana-lyzer is an open source AI Agent evaluation framework and dataset for web tasks with Playwright.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
 * [crfm-helm](https://github.com/stanford-crfm/helm) ![](https://img.shields.io/github/stars/stanford-crfm/helm.svg?style=social) - crfm-helm provides tools for the holistic evaluation of language models, including standardized datasets, a unified API for various models, diverse metrics, robustness, and fairness perturbations, a prompt construction framework, and a proxy server for unified model access.
 * [DeepEval](https://github.com/confident-ai/deepeval) ![](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social) - DeepEval is a simple-to-use, open-source evaluation framework for LLM applications.
