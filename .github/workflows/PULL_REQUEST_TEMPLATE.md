@@ -6,11 +6,10 @@ Please provide a brief description of your contribution:
 
 Please make sure your PR meets the following requirements:
 
-- [ ] The tool has 100+ stars.
-- [ ] The tool is not archived.
-- [ ] The tool is at least actively maintained in the last 6 months.
-- [ ] The tool is not repeated across more than one section.
-- [ ] The contribution is added in alphabetical order relative to the section.
+- [ ] The tool should have a minimum of 100 stars on GitHub.
+- [ ] The tool should not be listed in more than one section.
+- [ ] The tool should not be archived and must have been actively maintained within the last 6 months.
+- [ ] Ensure that all contributions are listed in alphabetical order within their respective sections.
 
 ---
 
