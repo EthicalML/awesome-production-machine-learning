@@ -21,7 +21,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [💾 Data Storage Optimization](#data-storage-optimisation) | [📓 Data Science Notebook](#data-science-notebook) |
 | [🔥 Neural Search](#neural-search) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [💰 Commercial Platform](#commercial-platform) |
+| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [📚 Retrieval Augmented Generation](#retrieval-augmented-generation) |
+| [💰 Commercial Platform](#commercial-platform) |
 
 ## Contributing to the list
 
@@ -652,6 +653,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
 * [VBench](https://github.com/Vchitect/VBench) ![](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social) - VBench is a comprehensive benchmark suite for video generative models.
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
+
+
+## Retrieval Augmented Generation
 
 
 ## Commercial Platform
