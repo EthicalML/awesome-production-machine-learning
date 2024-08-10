@@ -23,6 +23,10 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [💰 Commercial Platform](#commercial-platform) |
 
+## Contributing to the list
+
+Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date.
+
 ## 10 Min Video Overview
 
 <table>
