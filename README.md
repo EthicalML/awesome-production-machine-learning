@@ -13,15 +13,15 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) |
-| [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#ds-notebook) |
-| [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) | [🔍 Explainability & Interpretability](#explainability-and-interpretability) |
-| [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [📈 Industry-strength Evaluation](#industry-strength-evaluation) |
-| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
-| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model & Data Versioning](#model-and-data-versioning) |
-| [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [📥 Model Serialisation](#model-serialisation) | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) |
-| [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) |
-| [:red_circle: Outlier & Anomaly Detection](#outlier-and-anomaly-detection) | [🔏 Privacy Preserving](#privacy-preserving) | [💰 Commercial Platform](#commercial-platform) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [:red_circle: Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
+| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
+| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
+| [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
+| [📜 Model & Data Versioning](#model-and-data-versioning) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [📥 Model Serialisation](#model-serialisation) |
+| [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
+| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy Preserving](#privacy-preserving) | [💰 Commercial Platform](#commercial-platform) |
 
 ## Contributing to the list
 
@@ -64,6 +64,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 # Main Content
 
+
 ## Adversarial Robustness
 * [AdvBox](https://github.com/advboxes/AdvBox) ![](https://img.shields.io/github/stars/advboxes/AdvBox.svg?style=social) - A toolbox to generate adversarial examples that fool neural networks in PaddlePaddle, PyTorch, Caffe2, MxNet, Keras, TensorFlow, and Advbox can benchmark the robustness of machine learning models.
 * [Adversarial DNN Playground](https://github.com/QData/AdversarialDNN-Playground) ![](https://img.shields.io/github/stars/QData/AdversarialDNN-Playground.svg?style=social) - think [TensorFlow Playground](https://playground.tensorflow.org), but for Adversarial Examples! A visualization tool designed for learning and teaching - the attack library is limited in size, but it has a nice front-end to it with buttons you can press!
@@ -76,7 +77,18 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MIA](https://github.com/spring-epfl/mia) ![](https://img.shields.io/github/stars/spring-epfl/mia.svg?style=social) - A library for running membership inference attacks (MIA) against machine learning models.
 * [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 * [OpenAttack](https://github.com/thunlp/OpenAttack) ![](https://img.shields.io/github/stars/thunlp/OpenAttack.svg?style=social) - OpenAttack is a Python-based textual adversarial attack toolkit, which handles the whole process of textual adversarial attacking, including preprocessing text, accessing the victim model, generating adversarial examples and evaluation.
-* [RobustBench](https://github.com/RobustBench/robustbench) ![](https://img.shields.io/github/stars/RobustBench/robustbench.svg?style=social) - another robustness resource maintained by some of the leading names in adversarial ML. They specifically focus on defenses, and onesa standardized adversarial robustness benchmark.
+
+
+## Anomaly Detection
+* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
+* [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+* [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg?style=social) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
+* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+* [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Anomaly/Outlier Detection.
+* [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - Library for exploring and validating machine learning data.
+* [TextAttack](https://github.com/QData/TextAttack) ![](https://img.shields.io/github/stars/QData/TextAttack.svg?style=social) - TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP.
+* [TODS](https://github.com/datamllab/tods) ![](https://img.shields.io/github/stars/datamllab/tods.svg?style=social) - TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
 
 ## AutoML
@@ -230,6 +242,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [FastStream](https://github.com/airtai/faststream) ![](https://img.shields.io/github/stars/airtai/faststream.svg?style=social) - A modern broker-agnostic streaming Python framework supporting Apache Kafka, RabbitMQ and NATS protocols, inspired by FastAPI and easily integratable with other web frameworks.
 * [Faust](https://github.com/robinhood/faust) ![](https://img.shields.io/github/stars/robinhood/faust.svg?style=social) - Streaming library built on top of Python's Asyncio library using the async kafka client inspired by the kafka streaming library.
 * [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - Library for reading and writing large multi-dimensional arrays.
+* [RobustBench](https://github.com/RobustBench/robustbench) ![](https://img.shields.io/github/stars/RobustBench/robustbench.svg?style=social) - another robustness resource maintained by some of the leading names in adversarial ML. They specifically focus on defenses, and onesa standardized adversarial robustness benchmark.
 
 
 ## Explainability and Interpretability
@@ -266,7 +279,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter) ![](https://img.shields.io/github/stars/andosa/treeinterpreter.svg?style=social) - Package for interpreting scikit-learn's decision tree and random forest predictions. Allows decomposing each prediction into bias and feature contribution components as described [here](http://blog.datadive.net/interpreting-random-forests).
 * [WhatIf](https://github.com/pair-code/what-if-tool) ![](https://img.shields.io/github/stars/pair-code/what-if-tool.svg?style=social) - An easy-to-use interface for expanding understanding of a black-box classification or regression ML model.
 * [woe](https://github.com/boredbird/woe) ![](https://img.shields.io/github/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
-* [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![](https://img.shields.io/github/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
 
 
 ## Feature Store
@@ -274,7 +286,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
-* [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
 
 
 ## Industry Strength CV
@@ -288,7 +299,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SCEPTER](https://github.com/modelscope/scepter) ![](https://img.shields.io/github/stars/modelscope/scepter.svg?style=social) - SCEPTER is an open-source code repository dedicated to generative training, fine-tuning, and inference, encompassing a suite of downstream tasks such as image generation, transfer, editing.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 * [VISSL](https://github.com/facebookresearch/vissl) ![](https://img.shields.io/github/stars/facebookresearch/vissl.svg?style=social) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
-* [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
 
 
 ## Industry Strength Evaluation
@@ -297,7 +307,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [AutoML Benchmark](https://github.com/openml/automlbenchmark) ![](https://img.shields.io/github/stars/openml/automlbenchmark.svg?style=social) - AutoML Benchmark is a framework for evaluating and comparing open-source AutoML systems.
 * [Banana-lyzer](https://github.com/reworkd/bananalyzer) ![](https://img.shields.io/github/stars/reworkd/bananalyzer.svg?style=social) - Banana-lyzer is an open source AI Agent evaluation framework and dataset for web tasks with Playwright.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
-* [crfm-helm](https://github.com/stanford-crfm/helm) ![](https://img.shields.io/github/stars/stanford-crfm/helm.svg?style=social) - crfm-helm provides tools for the holistic evaluation of language models, including standardized datasets, a unified API for various models, diverse metrics, robustness, and fairness perturbations, a prompt construction framework, and a proxy server for unified model access.
 * [DeepEval](https://github.com/confident-ai/deepeval) ![](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social) - DeepEval is a simple-to-use, open-source evaluation framework for LLM applications.
 * [EvalAI](https://github.com/Cloud-CV/EvalAI) ![](https://img.shields.io/github/stars/Cloud-CV/EvalAI.svg?style=social) - EvalAI is an open-source platform for evaluating and comparing AI algorithms at scale.
 * [Evals](https://github.com/openai/evals) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
@@ -309,6 +318,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [FlagEval](https://github.com/FlagOpen/FlagEval) ![](https://img.shields.io/github/stars/FlagOpen/FlagEval.svg?style=social) - FlagEval is an open-source evaluation toolkit as well as an open platform for evaluation of large models.
 * [FMBench](https://github.com/aws-samples/foundation-model-benchmarking-tool) ![](https://img.shields.io/github/stars/aws-samples/foundation-model-benchmarking-tool.svg?style=social) - FMBench is a tool for running performance benchmarks for any Foundation Model (FM) deployed on any AWS Generative AI service, be it Amazon SageMaker, Amazon Bedrock, Amazon EKS, or Amazon EC2.
 * [HarmBench](https://github.com/centerforaisafety/HarmBench) ![](https://img.shields.io/github/stars/centerforaisafety/HarmBench.svg?style=social) - HarmBench is a fast and scalable framework for evaluating automated red teaming methods and LLM attacks/defenses.
+* [Holistic Evaluation of Language Models](https://github.com/stanford-crfm/helm) ![](https://img.shields.io/github/stars/stanford-crfm/helm.svg?style=social) - crfm-helm provides tools for the holistic evaluation of language models, including standardized datasets, a unified API for various models, diverse metrics, robustness, and fairness perturbations, a prompt construction framework, and a proxy server for unified model access.
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) ![](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai.svg?style=social) - Inspect is a framework for large language model evaluations.
 * [InterCode](https://github.com/princeton-nlp/intercode) ![](https://img.shields.io/github/stars/princeton-nlp/intercode.svg?style=social) - InterCode is a lightweight, flexible, and easy-to-use framework for designing interactive code environments to evaluate language agents that can code.
 * [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness.svg?style=social) - Language Model Evaluation Harness is a framework to test generative language models on a large number of different evaluation tasks.
@@ -318,7 +328,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MTEB](https://github.com/embeddings-benchmark/mteb) ![](https://img.shields.io/github/stars/embeddings-benchmark/mteb.svg?style=social) - Massive Text Embedding Benchmark (MTEB) is a comprehensive benchmark of text embeddings.
 * [OLMo-Eval](https://github.com/allenai/OLMo-Eval) ![](https://img.shields.io/github/stars/allenai/OLMo-Eval.svg?style=social) - OLMo-Eval is a framework for evaluating open language models.
 * [OpenCompass](https://github.com/open-compass/OpenCompass) ![](https://img.shields.io/github/stars/open-compass/OpenCompass.svg?style=social) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
-* [Optimum Benchmark](https://github.com/huggingface/optimum-benchmark) ![](https://img.shields.io/github/stars/huggingface/optimum-benchmark.svg?style=social) - A unified multi-backend utility for benchmarking Transformers and Diffusers with support for Optimum's arsenal of hardware optimizations/quantization schemes.
+* [Optimum-Benchmark](https://github.com/huggingface/optimum-benchmark) ![](https://img.shields.io/github/stars/huggingface/optimum-benchmark.svg?style=social) - A unified multi-backend utility for benchmarking Transformers and Diffusers with support for Optimum's arsenal of hardware optimizations/quantization schemes.
 * [Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai) ![](https://img.shields.io/github/stars/HumanCompatibleAI/overcooked_ai.svg?style=social) - Overcooked-AI is a benchmark environment for fully cooperative human-AI task performance, based on the wildly popular video game Overcooked.
 * [PhaseLLM](https://github.com/wgryc/phasellm) ![](https://img.shields.io/github/stars/wgryc/phasellm.svg?style=social) - PhaseLLM is a large language model evaluation and workflow framework.
 * [PromptBench](https://github.com/microsoft/promptbench) ![](https://img.shields.io/github/stars/microsoft/promptbench.svg?style=social) - PromptBench is a unified evaluation framework for large language models
@@ -332,6 +342,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
 * [VBench](https://github.com/Vchitect/VBench) ![](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social) - VBench is a comprehensive benchmark suite for video generative models.
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
+* [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![](https://img.shields.io/github/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
+* [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
 
 
 ## Industry Strength NLP
@@ -370,7 +382,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 * [text-generation-inference](https://github.com/huggingface/text-generation-inference) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) - Large Language Model Text Generation Inference under TFOIL license.
 * [trlX](https://github.com/CarperAI/trlx) ![](https://img.shields.io/github/stars/CarperAI/trlx.svg?style=social) - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
-* [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 
 
 ## Industry Strength RecSys
@@ -383,6 +394,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [OmniSafe](https://github.com/PKU-Alignment/omnisafe) ![](https://img.shields.io/github/stars/PKU-Alignment/omnisafe.svg?style=social) - OmniSafe is a comprehensive and reliable benchmark for safe reinforcement learning, covering a multitude of SafeRL domains and delivering a new suite of testing environments.
 * [Recommenders](https://github.com/recommenders-team/recommenders) ![](https://img.shields.io/github/stars/recommenders-team/recommenders.svg?style=social) - Recommenders contains benchmark and best practices for building recommendation systems, provided as Jupyter notebooks.
 * [Surprise](https://github.com/nicolashug/surprise) ![](https://img.shields.io/github/stars/nicolashug/surprise.svg?style=social) - Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.
+* [YouTokenToMe](https://github.com/vkcom/youtokentome) ![](https://img.shields.io/github/stars/vkcom/youtokentome.svg?style=social) - YouTokenToMe is an unsupervised text tokenizer focused on computational efficiency. It currently implements fast [Byte Pair Encoding](https://arxiv.org/abs/1508.07909) (BPE).
 
 
 ## Industry Strength RL
@@ -424,6 +436,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TF-Agents](https://github.com/tensorflow/agents) ![](https://img.shields.io/github/stars/tensorflow/agents.svg?style=social) - A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
 * [TRL](https://github.com/huggingface/trl) ![](https://img.shields.io/github/stars/huggingface/trl.svg?style=social) - Train transformer language models with reinforcement learning. 
 
+
 ## Industry Strength Visualisation
 * [Apache ECharts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts.svg?style=social) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 * [Bokeh](https://github.com/bokeh/bokeh) ![](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social) - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
@@ -447,7 +460,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [tensorboardX](https://github.com/lanpa/tensorboardX) ![](https://img.shields.io/github/stars/lanpa/tensorboardX.svg?style=social) - Write TensorBoard events with simple function call.
 * [TensorBoard](https://github.com/tensorflow/tensorboard) ![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social) - A visualization toolkit for machine learning experimentation that makes it easy to host, track, and share ML experiments.
 * [Vega-Altair](https://github.com/vega/altair) ![](https://img.shields.io/github/stars/vega/altair.svg?style=social) - Vega-Altair is a declarative statistical visualization library for Python.
-* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
 
 
 ## Metadata Management
@@ -457,7 +469,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
 * [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
 * [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
-* [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
+* [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - Model Card Toolkit is a toolkit that streamlines and automates the generation of model cards.
+* [TensorFlow Metadata](https://github.com/tensorflow/metadata) ![](https://img.shields.io/github/stars/tensorflow/metadata.svg?style=social) - TensorFlow Metadata provides standard representations for metadata that are useful when training machine learning models with TensorFlow.
 
 
 ## Model and Data Versioning
@@ -516,6 +529,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Hydrosphere ML Lambda](https://github.com/Hydrospheredata/hydro-serving) ![](https://img.shields.io/github/stars/Hydrospheredata/hydro-serving.svg?style=social) - Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture.
 * [Intel® Extension for Transformers](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) - An Innovative Transformer-based Toolkit to Accelerate GenAI/LLM Everywhere.
 * [Inference](https://github.com/roboflow/inference) ![](https://img.shields.io/github/stars/roboflow/inference.svg?style=social) - A fast, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models. With Inference, you can deploy models such as YOLOv5, YOLOv8, CLIP, SAM, and CogVLM on your own hardware using Docker.
+* [IPEX-LLM](https://github.com/intel-analytics/ipex-llm) ![](https://img.shields.io/github/stars/intel-analytics/ipex-llm.svg?style=social) - IPEX-LLM is a PyTorch library for running LLM on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max) with very low latency.
 * [Jina](https://github.com/jina-ai/jina)  ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Cloud native search framework that   supports to use deep learning/state of the art AI models for search.
 * [KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) ![](https://img.shields.io/github/stars/pcg-mlp/KsanaLLM.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU).
 * [KServe](https://github.com/kserve/kserve) ![](https://img.shields.io/github/stars/kserve/kserve.svg?style=social) - KsanaLLM is a high performance and easy-to-use engine for LLM inference and serving.
@@ -554,7 +568,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ydata-profiling](https://github.com/ydataai/ydata-profiling) ![](https://img.shields.io/github/stars/ydataai/ydata-profiling.svg?style=social) - ydata-profiling creates HTML profiling reports from pandas DataFrame objects. It extends the pandas DataFrame with df.profile_report() for quick data analysis.
 
 
-# Model Training Orchestration
+## Model Training Orchestration
 * [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - Accelerate abstracts exactly and only the boilerplate code related to multi-GPU/TPU/mixed-precision and leaves the rest of your code unchanged.
 * [CML](https://github.com/iterative/cml) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects.
 * [CoreNet](https://github.com/apple/corenet) ![](https://img.shields.io/github/stars/apple/corenet.svg?style=social) - CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.
@@ -611,6 +625,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [OpenFlamingo](https://github.com/mlfoundations/open_flamingo) ![](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social) - OpenFlamingo is an open-source framework for training large multimodal models.
 * [OpenVINO](https://github.com/openvinotoolkit/openvino) ![](https://img.shields.io/github/stars/openvinotoolkit/openvino_tensorflow.svg?style=social) - OpenVINO is an open-source toolkit for optimizing and deploying AI inference.
 * [Optimum](https://github.com/huggingface/optimum) ![](https://img.shields.io/github/stars/huggingface/optimum.svg?style=social) - Optimum is an extension of Transformers and Diffusers, providing a set of optimization tools enabling maximum efficiency to train and run models on targeted hardware while keeping things easy to use.
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ![](https://img.shields.io/github/stars/PaddlePaddle/Paddle.svg?style=social) - PaddlePaddle is a framework to perform large-scale deep network training, using data sources distributed across hundreds of nodes. 
 * [PEFT](https://github.com/huggingface/peft) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) - Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
 * [PyTorch](https://github.com/pytorch/pytorch) ![](https://img.shields.io/github/stars/pytorch/pytorch.svg?style=social) - PyTorch is a library to develop and train neural network based deep learning models.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg?style=social) - Scikit-learn is a powerful machine learning library that provides a wide variety of modules for data access, data preparation and statistical model building. 
@@ -625,17 +640,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) ![](https://img.shields.io/github/stars/VowpalWabbit/vowpal_wabbit.svg?style=social) Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 * [Weld](https://github.com/weld-project/weld) ![](https://img.shields.io/github/stars/weld-project/weld.svg?style=social) - High-performance runtime for data analytics applications, Here is an [interview](https://www.notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm) with Weld’s main contributor.
 * [XGBoost](https://github.com/dmlc/xgboost) ![](https://img.shields.io/github/stars/dmlc/xgboost.svg?style=social) - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
-
-
-## Outlier and Anomaly Detection
-* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
-* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
-* [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-* [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg?style=social) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
-* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
-* [SUOD (Scalable Unsupervised Outlier Detection)](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - An Acceleration System for Large-scale Anomaly/Outlier Detection.
-* [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - Library for exploring and validating machine learning data.
-* [TextAttack](https://github.com/QData/TextAttack) ![](https://img.shields.io/github/stars/QData/TextAttack.svg?style=social) - TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP.
+* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
 
 
 ## Privacy Preserving
@@ -653,7 +658,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)![](https://img.shields.io/github/stars/LatticeX-Foundation/Rosetta.svg?style=social) - A privacy-preserving framework based on TensorFlow with customized backend Operations using Multi-Party Computation (MPC). Rosetta reuses the APIs of TensorFlow and allows to transfer original TensorFlow codes into a privacy-preserving manner with minimal changes.
 * [Substra](https://github.com/Substra/substra)![](https://img.shields.io/github/stars/Substra/substra.svg?style=social) - Substra is an open-source framework for privacy-preserving, traceable and collaborative Machine Learning.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
-* [TODS](https://github.com/datamllab/tods) ![](https://img.shields.io/github/stars/datamllab/tods.svg?style=social) - TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
+* [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
 
 
 ## Commercial Platform
