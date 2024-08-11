@@ -19,7 +19,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model & Data Versioning](#model-and-data-versioning) | [🔩 Model Optimization, Compilation & Compression](#model-optimization-compilation-and-compression) | [📥 Model Serialisation](#model-serialisation) |
+| [📜 Model & Data Versioning](#model-and-data-versioning) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
 | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
 | [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy Preserving](#privacy-preserving) | [💰 Commercial Platform](#commercial-platform) |
 
@@ -498,7 +498,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
 
 
-## Model Optimization, Compilation and Compression
+## Model Compilation, Compression and Optimization
 * [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
 * [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) ![](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
