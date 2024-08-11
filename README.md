@@ -25,7 +25,26 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Contributing to the list
 
-Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date.
+Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date - thank you to the community for supporting its steady growth 🚀
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date"
+  />
+</picture>
 
 ## 10 Min Video Overview
 
