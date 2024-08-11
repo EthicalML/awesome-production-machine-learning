@@ -7,7 +7,26 @@
 
 # Awesome Production Machine Learning
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning 🚀
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning - thank you to the community for supporting its growth 🚀
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date"
+  />
+</picture>
 
 ## Quick links to sections in this page
 
