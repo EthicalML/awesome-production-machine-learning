@@ -13,7 +13,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [:red_circle: Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [🔴 Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
 | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
