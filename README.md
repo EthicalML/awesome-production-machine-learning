@@ -478,7 +478,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Streamlit](https://github.com/streamlit/streamlit) ![](https://img.shields.io/github/stars/streamlit/streamlit.svg?style=social) - Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
 * [Superset](https://github.com/apache/superset) ![](https://img.shields.io/github/stars/apache/superset.svg?style=social) - A modern, enterprise-ready business intelligence web application.
 * [tensorboardX](https://github.com/lanpa/tensorboardX) ![](https://img.shields.io/github/stars/lanpa/tensorboardX.svg?style=social) - Write TensorBoard events with simple function call.
-* [TensorBoard](https://github.com/tensorflow/tensorboard) ![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social) - A visualization toolkit for machine learning experimentation that makes it easy to host, track, and share ML experiments.
+* [TensorBoard](https://github.com/tensorflow/tensorboard) ![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social) - TensorBoard is a visualization toolkit for machine learning experimentation that makes it easy to host, track, and share ML experiments.
+* [Transformer Explainer](https://github.com/poloclub/transformer-explainer) ![](https://img.shields.io/github/stars/poloclub/transformer-explainer.svg?style=social) - Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work.
 * [Vega-Altair](https://github.com/vega/altair) ![](https://img.shields.io/github/stars/vega/altair.svg?style=social) - Vega-Altair is a declarative statistical visualization library for Python.
 
 
