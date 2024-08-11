@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model & Data Versioning](#model-and-data-versioning) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
 | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
-| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy Preserving](#privacy-preserving) | [💰 Commercial Platform](#commercial-platform) |
+| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
 
 ## Contributing to the list
 
@@ -643,7 +643,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
 
 
-## Privacy Preserving
+## Privacy and Security
 * [BastionLab](https://github.com/mithril-security/bastionlab) ![](https://img.shields.io/github/stars/mithril-security/bastionlab.svg?style=social) - BastionLab is a framework for confidential data science collaboration. It uses Confidential Computing, Access control data science, and Differential Privacy to enable data scientists to remotely perform data exploration, statistics, and training on confidential data while ensuring maximal privacy for data owners.
 * [Concrete-ML](https://github.com/zama-ai/concrete-ml) ![](https://img.shields.io/github/stars/zama-ai/concrete-ml.svg?style=social) - Concrete-ML is a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of The Concrete Framework by [Zama](https://github.com/zama-ai). It aims to simplify the use of fully homomorphic encryption (FHE) for data scientists to help them automatically turn machine learning models into their homomorphic equivalent.
 * [Fedlearner](https://github.com/bytedance/fedlearner) ![](https://img.shields.io/github/stars/bytedance/fedlearner.svg?style=social) - Fedlearner is collaborative machine learning framework that enables joint modeling of data distributed between institutions.
