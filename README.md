@@ -325,7 +325,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
 * [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
 * [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
-* [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
+* [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - Model Card Toolkit is a toolkit that streamlines and automates the generation of model cards.
+* [TensorFlow Metadata](https://github.com/tensorflow/metadata) ![](https://img.shields.io/github/stars/tensorflow/metadata.svg?style=social) - TensorFlow Metadata provides standard representations for metadata that are useful when training machine learning models with TensorFlow.
 
 
 ## Data Storage Optimisation
