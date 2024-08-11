@@ -7,7 +7,25 @@
 
 # Awesome Production Machine Learning
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning - thank you to the community for supporting its growth 🚀
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning 🚀
+
+## Quick links to sections in this page
+
+| | | |
+|-|-|-|
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [🔴 Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
+| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
+| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
+| [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
+| [📜 Model & Data Versioning](#model-and-data-versioning) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
+| [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
+| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
+
+## Contributing to the list
+
+Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date - thank you to the community for supporting its steady growth 🚀
 
 <picture>
   <source
@@ -27,24 +45,6 @@ This repository contains a curated list of awesome open source libraries that wi
     src="https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date"
   />
 </picture>
-
-## Quick links to sections in this page
-
-| | | |
-|-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🔴 Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
-| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
-| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
-| [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
-| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model & Data Versioning](#model-and-data-versioning) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
-| [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
-| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
-
-## Contributing to the list
-
-Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-machine-learning/blob/master/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date.
 
 ## 10 Min Video Overview
 
