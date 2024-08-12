@@ -531,10 +531,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 ## Model Serialisation
 * [ggml](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - A tensor library for machine learning that you can efficiently run GPT-2 and GPT-J inference on the CPU.
 * [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - Cross-framework solution to convert, visualize and diagnose deep neural network models.
-* [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef) - A standard format to store models across Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet.
-* [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - Open Neural Network Exchange Format.
-* [PFA](https://dmg.org/pfa) - Created by the same organisation as PMML, the Predicted Format for Analytics is an emerging standard for statistical models and data transformation engines.
-* [PMML](https://dmg.org/pmml) - The Predictive Model Markup Language standard in XML - [(Video)](https://www.youtube.com/watch?v=_5pZm2PZ8Q8).
+* [NNEF](https://www.khronos.org/nnef) - Neural Network Exchange Format (NNEF) is an open standard for representing neural network models to enable interoperability and portability across different machine learning frameworks and platforms.
+* [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - ONNX (Open Neural Network Exchange) is an open-source format designed to facilitate interoperability and portability of machine learning models across different frameworks and platforms.
+* [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
+* [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
 * [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
 
 
