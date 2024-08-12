@@ -529,8 +529,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## Model Serialisation
-* [ggml](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - A tensor library for machine learning that you can efficiently run GPT-2 and GPT-J inference on the CPU.
-* [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - Cross-framework solution to convert, visualize and diagnose deep neural network models.
+* [GGML](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - GGML is a high-performance, tensor library for machine learning that enables efficient inference on CPUs, particularly optimized for large language models.
+* [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - MMdnn is a comprehensive cross-framework tool from Microsoft that facilitates model conversion, visualization, and deployment across various deep learning frameworks.
 * [NNEF](https://www.khronos.org/nnef) - Neural Network Exchange Format (NNEF) is an open standard for representing neural network models to enable interoperability and portability across different machine learning frameworks and platforms.
 * [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - ONNX (Open Neural Network Exchange) is an open-source format designed to facilitate interoperability and portability of machine learning models across different frameworks and platforms.
 * [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
