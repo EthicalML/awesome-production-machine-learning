@@ -318,7 +318,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MMDetection](https://github.com/open-mmlab/mmdetection) ![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social) - MMDetection is an open source object detection toolbox based on PyTorch.
 * [SCEPTER](https://github.com/modelscope/scepter) ![](https://img.shields.io/github/stars/modelscope/scepter.svg?style=social) - SCEPTER is an open-source code repository dedicated to generative training, fine-tuning, and inference, encompassing a suite of downstream tasks such as image generation, transfer, editing.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
-* [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
+* [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - Supervision is a Python library designed for efficient computer vision pipeline management, providing tools for annotation, visualization, and monitoring of models.
 * [VISSL](https://github.com/facebookresearch/vissl) ![](https://img.shields.io/github/stars/facebookresearch/vissl.svg?style=social) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 
 
