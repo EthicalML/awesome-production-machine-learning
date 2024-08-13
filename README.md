@@ -318,6 +318,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MMDetection](https://github.com/open-mmlab/mmdetection) ![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social) - MMDetection is an open source object detection toolbox based on PyTorch.
 * [SCEPTER](https://github.com/modelscope/scepter) ![](https://img.shields.io/github/stars/modelscope/scepter.svg?style=social) - SCEPTER is an open-source code repository dedicated to generative training, fine-tuning, and inference, encompassing a suite of downstream tasks such as image generation, transfer, editing.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
+* [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
 * [VISSL](https://github.com/facebookresearch/vissl) ![](https://img.shields.io/github/stars/facebookresearch/vissl.svg?style=social) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 
 
@@ -362,8 +363,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [UpTrain](https://github.com/uptrain-ai/uptrain) ![](https://img.shields.io/github/stars/uptrain-ai/uptrain.svg?style=social) - UpTrain is an open-source tool to evaluate LLM applications.
 * [VBench](https://github.com/Vchitect/VBench) ![](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social) - VBench is a comprehensive benchmark suite for video generative models.
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
-* [XAI - eXplainableAI](https://github.com/EthicalML/xai) ![](https://img.shields.io/github/stars/EthicalML/XAI.svg?style=social) - An eXplainability toolbox for machine learning.
-* [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
 
 
 ## Industry Strength NLP
@@ -481,6 +480,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TensorBoard](https://github.com/tensorflow/tensorboard) ![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social) - TensorBoard is a visualization toolkit for machine learning experimentation that makes it easy to host, track, and share ML experiments.
 * [Transformer Explainer](https://github.com/poloclub/transformer-explainer) ![](https://img.shields.io/github/stars/poloclub/transformer-explainer.svg?style=social) - Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work.
 * [Vega-Altair](https://github.com/vega/altair) ![](https://img.shields.io/github/stars/vega/altair.svg?style=social) - Vega-Altair is a declarative statistical visualization library for Python.
+* [ydata-profiling](https://github.com/ydataai/ydata-profiling) ![](https://img.shields.io/github/stars/ydataai/ydata-profiling.svg?style=social) - ydata-profiling provides a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution.
 
 
 ## Metadata Management
@@ -586,7 +586,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TruLens](https://github.com/truera/trulens) ![](https://img.shields.io/github/stars/truera/trulens.svg?style=social) - TruLens provides a set of tools for developing and monitoring neural nets, including large language models.
 * [UnionML](https://github.com/unionai-oss/unionml) ![](https://img.shields.io/github/stars/unionai-oss/unionml.svg?style=social) - UnionML is an open source MLOps framework that aims to reduce the boilerplate and friction that comes with building models and deploying them to production.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
-* [ydata-profiling](https://github.com/ydataai/ydata-profiling) ![](https://img.shields.io/github/stars/ydataai/ydata-profiling.svg?style=social) - ydata-profiling creates HTML profiling reports from pandas DataFrame objects. It extends the pandas DataFrame with df.profile_report() for quick data analysis.
 
 
 ## Model Training Orchestration
