@@ -16,7 +16,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [🔴 Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
 | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
-| [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) |
+| [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) |
 | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
@@ -265,7 +265,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [RobustBench](https://github.com/RobustBench/robustbench) ![](https://img.shields.io/github/stars/RobustBench/robustbench.svg?style=social) - another robustness resource maintained by some of the leading names in adversarial ML. They specifically focus on defenses, and onesa standardized adversarial robustness benchmark.
 
 
-## Evaluation and Monitoring
+## Evaluation and Observability
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - AlpacaEval is an automatic evaluator for instruction-following language models.
 * [ARES](https://github.com/openml/automlbenchmark) ![](https://img.shields.io/github/stars/openml/automlbenchmark.svg?style=social) - ARES is a framework for automatically evaluating Retrieval-Augmented Generation (RAG) models.
 * [AutoML Benchmark](https://github.com/openml/automlbenchmark) ![](https://img.shields.io/github/stars/openml/automlbenchmark.svg?style=social) - AutoML Benchmark is a framework for evaluating and comparing open-source AutoML systems.
