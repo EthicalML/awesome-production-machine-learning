@@ -7,9 +7,9 @@
 
 # Awesome Production Machine Learning
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning 🚀
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning 🚀
 
-## Quick links to sections in this page
+## Quick links to sections on this page
 
 | | | |
 |-|-|-|
@@ -373,7 +373,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Industry Strength Evaluation
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - AlpacaEval is an automatic evaluator for instruction-following language models.
-* [ARES](https://github.com/openml/automlbenchmark) ![](https://img.shields.io/github/stars/openml/automlbenchmark.svg?style=social) - ARES is a framework for automatically evaluating Retrieval-Augmented Generation (RAG) models.
+* [ARES](https://github.com/stanford-futuredata/ARES) ![](https://img.shields.io/github/stars/openml/automlbenchmark.svg?style=social) - ARES is a framework for automatically evaluating Retrieval-Augmented Generation (RAG) models.
 * [AutoML Benchmark](https://github.com/openml/automlbenchmark) ![](https://img.shields.io/github/stars/openml/automlbenchmark.svg?style=social) - AutoML Benchmark is a framework for evaluating and comparing open-source AutoML systems.
 * [Banana-lyzer](https://github.com/reworkd/bananalyzer) ![](https://img.shields.io/github/stars/reworkd/bananalyzer.svg?style=social) - Banana-lyzer is an open source AI Agent evaluation framework and dataset for web tasks with Playwright.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
