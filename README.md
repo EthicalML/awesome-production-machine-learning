@@ -212,6 +212,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - The fastest way to build data pipelines. Develop iteratively, deploy anywhere.
 * [Prefect Core](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 * [Snakemake](https://github.com/snakemake/snakemake) ![](https://img.shields.io/github/stars/snakemake/snakemake.svg?style=social) - Workflow management system for reproducible and scalable data analyses.
+* [Sycamore](https://github.com/aryn-ai/sycamore) ![](https://img.shields.io/github/stars/aryn-ai/sycamore.svg?style=social) - Sycamore is an open source, AI-powered document processing engine for ETL, RAG, LLM-based applications, and analytics on unstructured data.
 * [Towhee](https://github.com/towhee-io/towhee) ![](https://img.shields.io/github/stars/towhee-io/towhee.svg?style=social) - General-purpose machine learning pipeline for generating embedding vectors using one or many ML models.
 * [unstructured](https://github.com/Unstructured-IO/unstructured) ![](https://img.shields.io/github/stars/Unstructured-IO/unstructured.svg?style=social) - unstructured streamlines and optimizes the data processing workflow for LLMs, ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more. 
 * [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
@@ -308,6 +309,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 ## Feature Store
 * [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores which allows you to transform your raw data into beautiful features.
 * [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
+* [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 
@@ -519,25 +521,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
 
 
-## Model Compilation, Compression and Optimization
-* [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
-* [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) ![](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
-* [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
-* [GPTQ](https://github.com/IST-DASLab/gptq) ![](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social) - Accurate Post-training Quantization of Generative Pretrained Transformers.
-* [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
-* [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
-
-
-## Model Serialisation
-* [GGML](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - GGML is a high-performance, tensor library for machine learning that enables efficient inference on CPUs, particularly optimized for large language models.
-* [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - MMdnn is a comprehensive cross-framework tool from Microsoft that facilitates model conversion, visualization, and deployment across various deep learning frameworks.
-* [NNEF](https://www.khronos.org/nnef) - Neural Network Exchange Format (NNEF) is an open standard for representing neural network models to enable interoperability and portability across different machine learning frameworks and platforms.
-* [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - ONNX (Open Neural Network Exchange) is an open-source format designed to facilitate interoperability and portability of machine learning models across different frameworks and platforms.
-* [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
-* [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
-* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
-
-
 ## Model Serving and Monitoring
 * [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving.
@@ -567,6 +550,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Mosec](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec.svg?style=social) - A rust-powered and multi-stage pipelined model server which offers dynamic batching and more. Super easy to implement and deploy as micro-services.
 * [Nuclio](https://github.com/nuclio/nuclio) ![](https://img.shields.io/github/stars/nuclio/nuclio.svg?style=social) - A high-performance "serverless" framework focused on data, I/O, and compute-intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
 * [OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) ![](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/OpenDiT.svg?style=social) - OpenDiT is an open-source project that provides a high-performance implementation of Diffusion Transformer(DiT), specifically designed to enhance the efficiency of training and inference for DiT applications, including text-to-video generation and text-to-image generation.
+* [OpenLLM](https://github.com/bentoml/OpenLLM) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social) - OpenLLM allows developers to run any open-source LLMs (Llama 3.1, Qwen2, Phi3 and more) or custom models as OpenAI-compatible APIs with a single command.
 * [OpenScoring](https://github.com/openscoring/openscoring) ![](https://img.shields.io/github/stars/openscoring/openscoring.svg?style=social) - REST web service for the true real-time scoring (< 1 ms) of Scikit-Learn, R and Apache Spark models.
 * [OpenVINO](https://github.com/openvinotoolkit/openvino) ![](https://img.shields.io/github/stars/openvinotoolkit/openvino_tensorflow.svg?style=social) - OpenVINO is an open-source toolkit for optimizing and deploying AI inference.
 * [Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/arize-ai/phoenix?style=social) - Phoenix is an open source ML observability in a notebook to validate, monitor, and fine-tune your generative LLM, CV, and tabular models.
@@ -584,7 +568,24 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TorchServe](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - TorchServe is a flexible and easy to use tool for serving PyTorch models.
 * [Triton Inference Server](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - Triton is a high performance open source serving software to deploy AI models from any framework on GPU & CPU while maximizing utilization.
 * [UnionML](https://github.com/unionai-oss/unionml) ![](https://img.shields.io/github/stars/unionai-oss/unionml.svg?style=social) - UnionML is an open source MLOps framework that aims to reduce the boilerplate and friction that comes with building models and deploying them to production.
+* [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg?style=social) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
+
+
+## Model Storage Optimisation
+* [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
+* [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) ![](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
+* [GGML](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - GGML is a high-performance, tensor library for machine learning that enables efficient inference on CPUs, particularly optimized for large language models.
+* [GPTQ](https://github.com/IST-DASLab/gptq) ![](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social) - Accurate Post-training Quantization of Generative Pretrained Transformers.
+* [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - MMdnn is a comprehensive cross-framework tool from Microsoft that facilitates model conversion, visualization, and deployment across various deep learning frameworks.
+* [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
+* [NNEF](https://www.khronos.org/nnef) - Neural Network Exchange Format (NNEF) is an open standard for representing neural network models to enable interoperability and portability across different machine learning frameworks and platforms.
+* [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - ONNX (Open Neural Network Exchange) is an open-source format designed to facilitate interoperability and portability of machine learning models across different frameworks and platforms.
+* [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
+* [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
+* [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
+* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
 
 
 ## Model Training Orchestration
@@ -768,4 +769,5 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Wallaroo.AI](https://wallaroo.ai) - Production AI platform for deploying, managing and observing any model at scale across any enviornment from cloud to edge. Go from python notebook to inferencing in minutes. [Community edition available](https://portal.wallaroo.community).  
 * [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 * [WhyLabs](https://whylabs.ai) - Enable observability to detect data and ML issues faster, deliver continuous improvements, and avoid costly incidents.
+* [Zeno](https://zenoml.com) - Zeno is a platform for evaluating AI systems.
 * [Zilliz](https://zilliz.com) - Zilliz builds vector database to accelerate development of next generation data fabric.
