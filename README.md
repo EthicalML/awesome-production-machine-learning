@@ -210,6 +210,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Prefect Core](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 * [Snakemake](https://github.com/snakemake/snakemake) ![](https://img.shields.io/github/stars/snakemake/snakemake.svg?style=social) - Workflow management system for reproducible and scalable data analyses.
 * [Towhee](https://github.com/towhee-io/towhee) ![](https://img.shields.io/github/stars/towhee-io/towhee.svg?style=social) - General-purpose machine learning pipeline for generating embedding vectors using one or many ML models.
+* [unstructured](https://github.com/Unstructured-IO/unstructured) ![](https://img.shields.io/github/stars/Unstructured-IO/unstructured.svg?style=social) - unstructured streamlines and optimizes the data processing workflow for LLMs, ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more. 
 * [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 
 
