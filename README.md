@@ -21,7 +21,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
 | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
-| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
+| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Retrieval Argumented Generation](#rag) |
+| [💰 Commercial Platform](#commercial-platform) |
 
 ## Contributing to the list
 
@@ -352,8 +353,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PhaseLLM](https://github.com/wgryc/phasellm) ![](https://img.shields.io/github/stars/wgryc/phasellm.svg?style=social) - PhaseLLM is a large language model evaluation and workflow framework.
 * [PromptBench](https://github.com/microsoft/promptbench) ![](https://img.shields.io/github/stars/microsoft/promptbench.svg?style=social) - PromptBench is a unified evaluation framework for large language models
 * [Prometheus-Eval](https://github.com/prometheus-eval/prometheus-eval) ![](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval.svg?style=social) - Prometheus-Eval is a collection of tools for training, evaluating, and using language models specialized in evaluating other language models.
-* [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework to evaluate RAG pipelines.
-* [Rageval](https://github.com/gomate-community/rageval) ![](https://img.shields.io/github/stars/gomate-community/rageval.svg?style=social) - Rageval is a tool to evaluate RAG system.
 * [RewardBench](https://github.com/allenai/reward-bench) ![](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social) - RewardBench is a benchmark designed to evaluate the capabilities and safety of reward models.
 * [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) ![](https://img.shields.io/github/stars/tensorflow/model-analysis.svg?style=social) - TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models on large amounts of data in a distributed manner, using the same metrics defined in their trainer.
 * [TrustLLM](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM.svg?style=social) - TrustLLM is a comprehensive framework to evaluate the trustworthiness of large language models, which includes principles, surveys, and benchmarks.
@@ -677,6 +676,13 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Substra](https://github.com/Substra/substra)![](https://img.shields.io/github/stars/Substra/substra.svg?style=social) - Substra is an open-source framework for privacy-preserving, traceable and collaborative Machine Learning.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
+
+
+## RAG
+* [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?style=social) - Cognita is a RAG framework for building modular and production-ready applications.
+* [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) - RAGFlow is an open-source RAG engine based on deep document understanding.
+* [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework to evaluate RAG pipelines.
+* [Rageval](https://github.com/gomate-community/rageval) ![](https://img.shields.io/github/stars/gomate-community/rageval.svg?style=social) - Rageval is a tool to evaluate RAG system.
 
 
 ## Commercial Platform
