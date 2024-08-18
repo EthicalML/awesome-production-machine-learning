@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
 | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
-| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
+| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) |
 
 ## Contributing to the list
 
