@@ -679,10 +679,18 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## RAG
+* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
 * [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?style=social) - Cognita is a RAG framework for building modular and production-ready applications.
-* [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) - RAGFlow is an open-source RAG engine based on deep document understanding.
+* [llmware](https://github.com/llmware-ai/llmware) ![](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social) - llmware provides a unified framework for building LLM-based applications (e.g, RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
+* [Mem0](https://github.com/mem0ai/mem0) ![](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social) - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
+* [MindSQL](https://github.com/Mindinventory/MindSQL) ![](https://img.shields.io/github/stars/Mindinventory/MindSQL.svg?style=social) - MindSQL is a Python RAG library to streamline the interaction between users and their databases using just a few lines of code.
+* [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) - RAGFlow is a RAG engine based on deep document understanding.
+* [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) ![](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?style=social) - RAGxplorer is a tool to build Retrieval Augmented Generation (RAG) visualisations.
 * [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework to evaluate RAG pipelines.
 * [Rageval](https://github.com/gomate-community/rageval) ![](https://img.shields.io/github/stars/gomate-community/rageval.svg?style=social) - Rageval is a tool to evaluate RAG system.
+* [Rule-based Retrieval](https://github.com/whyhow-ai/rule-based-retrieval) ![](https://img.shields.io/github/stars/whyhow-ai/rule-based-retrieval.svg?style=social) - Rule-based Retrieval enables users to create and manage RAG applications with advanced filtering capabilities.
+* [Tonic Validate](https://github.com/TonicAI/tonic_validate) ![](https://img.shields.io/github/stars/TonicAI/tonic_validate.svg?style=social) - Tonic Validate is a high-performance evaluation framework for LLM/RAG outputs.
+* [Vanna](https://github.com/vanna-ai/vanna) ![](https://img.shields.io/github/stars/vanna-ai/vanna.svg?style=social) - Vanna is a RAG framework for SQL generation and related functionality.
 
 
 ## Commercial Platform
