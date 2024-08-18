@@ -522,25 +522,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
 
 
-## Model Compilation, Compression and Optimization
-* [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
-* [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) ![](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
-* [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
-* [GPTQ](https://github.com/IST-DASLab/gptq) ![](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social) - Accurate Post-training Quantization of Generative Pretrained Transformers.
-* [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
-* [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
-
-
-## Model Serialisation
-* [GGML](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - GGML is a high-performance, tensor library for machine learning that enables efficient inference on CPUs, particularly optimized for large language models.
-* [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - MMdnn is a comprehensive cross-framework tool from Microsoft that facilitates model conversion, visualization, and deployment across various deep learning frameworks.
-* [NNEF](https://www.khronos.org/nnef) - Neural Network Exchange Format (NNEF) is an open standard for representing neural network models to enable interoperability and portability across different machine learning frameworks and platforms.
-* [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - ONNX (Open Neural Network Exchange) is an open-source format designed to facilitate interoperability and portability of machine learning models across different frameworks and platforms.
-* [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
-* [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
-* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
-
-
 ## Model Serving and Monitoring
 * [Backprop](https://github.com/backprop-ai/backprop) ![](https://img.shields.io/github/stars/backprop-ai/backprop.svg?style=social) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/bentoml.svg?style=social) - BentoML is an open source framework for high performance ML model serving.
@@ -590,6 +571,22 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [UnionML](https://github.com/unionai-oss/unionml) ![](https://img.shields.io/github/stars/unionai-oss/unionml.svg?style=social) - UnionML is an open source MLOps framework that aims to reduce the boilerplate and friction that comes with building models and deploying them to production.
 * [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg?style=social) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
+
+
+## Model Storage Optimisation
+* [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
+* [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) ![](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
+* [GGML](https://github.com/ggerganov/ggml) ![](https://img.shields.io/github/stars/ggerganov/ggml.svg?style=social) - GGML is a high-performance, tensor library for machine learning that enables efficient inference on CPUs, particularly optimized for large language models.
+* [GPTQ](https://github.com/IST-DASLab/gptq) ![](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social) - Accurate Post-training Quantization of Generative Pretrained Transformers.
+* [MMdnn](https://github.com/Microsoft/MMdnn) ![](https://img.shields.io/github/stars/Microsoft/MMdnn.svg?style=social) - MMdnn is a comprehensive cross-framework tool from Microsoft that facilitates model conversion, visualization, and deployment across various deep learning frameworks.
+* [neural-compressor](https://github.com/intel/neural-compressor) ![](https://img.shields.io/github/stars/intel/neural-compressor.svg?style=social) - Intel® Neural Compressor aims to provide popular model compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search on mainstream frameworks.
+* [NNEF](https://www.khronos.org/nnef) - Neural Network Exchange Format (NNEF) is an open standard for representing neural network models to enable interoperability and portability across different machine learning frameworks and platforms.
+* [ONNX](https://github.com/onnx/onnx) ![](https://img.shields.io/github/stars/onnx/onnx.svg?style=social) - ONNX (Open Neural Network Exchange) is an open-source format designed to facilitate interoperability and portability of machine learning models across different frameworks and platforms.
+* [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
+* [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
+* [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
+* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
 
 
 ## Model Training Orchestration
