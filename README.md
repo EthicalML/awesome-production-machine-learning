@@ -755,4 +755,5 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Wallaroo.AI](https://wallaroo.ai) - Production AI platform for deploying, managing and observing any model at scale across any enviornment from cloud to edge. Go from python notebook to inferencing in minutes. [Community edition available](https://portal.wallaroo.community).  
 * [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 * [WhyLabs](https://whylabs.ai) - Enable observability to detect data and ML issues faster, deliver continuous improvements, and avoid costly incidents.
+* [Zeno](https://zenoml.com) - Zeno is a platform for evaluating AI systems.
 * [Zilliz](https://zilliz.com) - Zilliz builds vector database to accelerate development of next generation data fabric.
