@@ -307,6 +307,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 ## Feature Store
 * [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores which allows you to transform your raw data into beautiful features.
 * [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
+* [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 
