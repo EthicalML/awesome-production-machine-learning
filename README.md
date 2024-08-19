@@ -404,7 +404,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Tensorflow Lingvo](https://github.com/tensorflow/lingvo) ![](https://img.shields.io/github/stars/tensorflow/lingvo.svg?style=social) - A [framework](https://blog.tensorflow.org/2019/02/lingvo-tensorflow-framework-for-sequence-modeling.html) for building neural networks in Tensorflow, particularly sequence models.
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
-* [text-generation-inference](https://github.com/huggingface/text-generation-inference) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) - Large Language Model Text Generation Inference under TFOIL license.
 * [trlX](https://github.com/CarperAI/trlx) ![](https://img.shields.io/github/stars/CarperAI/trlx.svg?style=social) - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
 
 
@@ -588,7 +587,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PFA](https://dmg.org/pfa) - PFA (Portable Format for Analytics) format is a standard for representing and exchanging predictive models and analytics workflows in a portable, JSON-based format.
 * [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
 * [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
-* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - TensorStore is an open-source C++ and Python software library designed for storage and manipulation of large multi-dimensional arrays.
 
 
 ## Model Training Orchestration
@@ -611,7 +609,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PyCaret](https://github.com/pycaret/pycaret) ![](https://img.shields.io/github/stars/pycaret/pycaret.svg?style=social)) - low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)
 * [Sematic](https://github.com/sematic-ai/sematic) ![](https://img.shields.io/github/stars/sematic-ai/sematic.svg?style=social) - Platform to build resource-intensive pipelines with simple Python.
 * [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![](https://img.shields.io/github/stars/GoogleContainerTools/skaffold.svg?style=social) - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
-* [SkyPilot](https://github.com/skypilot-org/skypilot) ![](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social) - Run LLMs, AI, and batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution -- all with a simple interface.
 * [Streaming](https://github.com/mosaicml/streaming) ![](https://img.shields.io/github/stars/mosaicml/streaming.svg?style=social) - A Data Streaming Library for Efficient Neural Network Training.
 * [Tensorflow Extended (TFX)](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
 * [veScale](https://github.com/volcengine/veScale) ![](https://img.shields.io/github/stars/volcengine/veScale.svg?style=social) - veScale is a PyTorch native LLM training framework.
