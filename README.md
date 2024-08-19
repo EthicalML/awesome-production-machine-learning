@@ -19,10 +19,9 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [📥 Model Serialisation](#model-serialisation) |
-| [💪 Model Serving & Monitoring](#model-serving-and-monitoring) | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) |
-| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) | [💰 Retrieval Argumented Generation](#rag) |
-| [💰 Commercial Platform](#commercial-platform) |
+| [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) |
+| [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) |
+| [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
 
 ## Contributing to the list
 
@@ -358,6 +357,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PhaseLLM](https://github.com/wgryc/phasellm) ![](https://img.shields.io/github/stars/wgryc/phasellm.svg?style=social) - PhaseLLM is a large language model evaluation and workflow framework.
 * [PromptBench](https://github.com/microsoft/promptbench) ![](https://img.shields.io/github/stars/microsoft/promptbench.svg?style=social) - PromptBench is a unified evaluation framework for large language models
 * [Prometheus-Eval](https://github.com/prometheus-eval/prometheus-eval) ![](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval.svg?style=social) - Prometheus-Eval is a collection of tools for training, evaluating, and using language models specialized in evaluating other language models.
+* [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework to evaluate RAG pipelines.
+* [RAGChecker](https://github.com/amazon-science/RAGChecker) ![](https://img.shields.io/github/stars/eamazon-science/RAGChecker.svg?style=social) - RAGChecker is an advanced automatic evaluation framework designed to assess and diagnose Retrieval-Augmented Generation (RAG) systems.
+* [Rageval](https://github.com/gomate-community/rageval) ![](https://img.shields.io/github/stars/gomate-community/rageval.svg?style=social) - Rageval is a tool to evaluate RAG system.
 * [RewardBench](https://github.com/allenai/reward-bench) ![](https://img.shields.io/github/stars/allenai/reward-bench.svg?style=social) - RewardBench is a benchmark designed to evaluate the capabilities and safety of reward models.
 * [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) ![](https://img.shields.io/github/stars/tensorflow/model-analysis.svg?style=social) - TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models on large amounts of data in a distributed manner, using the same metrics defined in their trainer.
 * [Tonic Validate](https://github.com/TonicAI/tonic_validate) ![](https://img.shields.io/github/stars/TonicAI/tonic_validate.svg?style=social) - Tonic Validate is a high-performance evaluation framework for LLM/RAG outputs.
@@ -370,6 +372,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Industry Strength NLP
 * [Blackstone](https://github.com/ICLRandD/Blackstone) ![](https://img.shields.io/github/stars/ICLRandD/Blackstone.svg?style=social) - Blackstone is a spaCy model and library for processing long-form, unstructured legal text. Blackstone is an experimental research project from the Incorporated Council of Law Reporting for England and Wales' research lab, ICLR&D.
+* [BERTopic](https://github.com/MaartenGr/BERTopic) ![](https://img.shields.io/github/stars/MaartenGr/BERTopic.svg?style=social) - BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
 * [Coqui STT](https://github.com/coqui-ai/STT) ![](https://img.shields.io/github/stars/coqui-ai/STT.svg?style=social) - Coqui STT is a fast, open-source, multi-platform, deep-learning toolkit for training and deploying speech-to-text models.
 * [CTRL](https://github.com/salesforce/ctrl) ![](https://img.shields.io/github/stars/salesforce/ctrl.svg?style=social) - A Conditional Transformer Language Model for Controllable Generation released by SalesForce.
 * [dspy](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/github/stars/stanfordnlp/dspy.svg?style=social) - A framework for programming with foundation models.
@@ -379,6 +382,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [FastChat](https://github.com/lm-sys/FastChat) ![](https://img.shields.io/github/stars/lm-sys/FastChat.svg?style=social) - FastChat is an open platform for training, serving, and evaluating large language model based chatbots.
 * [Flair](https://github.com/flairNLP/flair) ![](https://img.shields.io/github/stars/flairNLP/flair.svg?style=social) - Simple framework for state-of-the-art NLP developed by Zalando which builds directly on PyTorch.
 * [FlexGen](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social) - FlexGen is a high-throughput generation engine for running large language models with limited GPU memory.
+* [Gensim](https://github.com/piskvorky/gensim) ![](https://img.shields.io/github/stars/piskvorky/gensim.svg?style=social) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.
 * [GluonNLP](https://github.com/dmlc/gluon-nlp) ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg?style=social) - GluonNLP is a toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your Natural Language Processing (NLP) research.
 * [Grover](https://github.com/rowanz/grover) ![](https://img.shields.io/github/stars/rowanz/grover.svg?style=social) - Grover is a model for Neural Fake News -- both generation and detection. However, it probably can also be used for other generation tasks.
 * [h2oGPT](https://github.com/h2oai/h2ogpt) ![](https://img.shields.io/github/stars/h2oai/h2ogpt.svg?style=social) - h2oGPT is an open source generative AI, gives organizations like yours the power to own large language models while preserving your data ownership.
@@ -572,7 +576,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
 
 
-## Model Storage Optimisation
+## Model Compilation, Compression and Optimization
 * [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) ![](https://img.shields.io/github/stars/casper-hansen/AutoAWQ.svg?style=social) - AutoAWQ is an easy-to-use package for 4-bit quantized models.
 * [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) ![](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ.svg?style=social) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * [AWQ](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social) - Activation-aware Weight Quantization for LLM Compression and Acceleration.
@@ -690,22 +694,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Substra](https://github.com/Substra/substra)![](https://img.shields.io/github/stars/Substra/substra.svg?style=social) - Substra is an open-source framework for privacy-preserving, traceable and collaborative Machine Learning.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
-
-
-## RAG
-* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
-* [BeyondLLM](https://github.com/aiplanethub/beyondllm) ![](https://img.shields.io/github/stars/aiplanethub/beyondllm.svg?style=social) - Beyond LLM offers an all-in-one toolkit for experimentation, evaluation, and deployment of RAG systems, simplifying the process with automated integration, customizable evaluation metrics, and support for various LLMs tailored to specific needs, ultimately aiming to reduce LLM hallucination risks and enhance reliability.
-* [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?style=social) - Cognita is a RAG framework for building modular and production-ready applications.
-* [llmware](https://github.com/llmware-ai/llmware) ![](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social) - llmware provides a unified framework for building LLM-based applications (e.g, RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
-* [Mem0](https://github.com/mem0ai/mem0) ![](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social) - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
-* [MindSQL](https://github.com/Mindinventory/MindSQL) ![](https://img.shields.io/github/stars/Mindinventory/MindSQL.svg?style=social) - MindSQL is a Python RAG library to streamline the interaction between users and their databases using just a few lines of code.
-* [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) - RAGFlow is a RAG engine based on deep document understanding.
-* [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) ![](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?style=social) - RAGxplorer is a tool to build Retrieval Augmented Generation (RAG) visualisations.
-* [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework to evaluate RAG pipelines.
-* [Rageval](https://github.com/gomate-community/rageval) ![](https://img.shields.io/github/stars/gomate-community/rageval.svg?style=social) - Rageval is a tool to evaluate RAG system.
-* [Rule-based Retrieval](https://github.com/whyhow-ai/rule-based-retrieval) ![](https://img.shields.io/github/stars/whyhow-ai/rule-based-retrieval.svg?style=social) - Rule-based Retrieval enables users to create and manage RAG applications with advanced filtering capabilities.
-* [Tonic Validate](https://github.com/TonicAI/tonic_validate) ![](https://img.shields.io/github/stars/TonicAI/tonic_validate.svg?style=social) - Tonic Validate is a high-performance evaluation framework for LLM/RAG outputs.
-* [Vanna](https://github.com/vanna-ai/vanna) ![](https://img.shields.io/github/stars/vanna-ai/vanna.svg?style=social) - Vanna is a RAG framework for SQL generation and related functionality.
 
 
 ## Commercial Platform
