@@ -637,6 +637,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Optimized Computation
 * [BindsNET](https://github.com/BindsNET/bindsnet) ![](https://img.shields.io/github/stars/BindsNET/bindsnet.svg?style=social) - BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
+* [BitBLAS](https://github.com/microsoft/BitBLAS) ![](https://img.shields.io/github/stars/microsoft/BitBLAS.svg?style=social) - BitBLAS is a library to support mixed-precision BLAS operations on GPUs
 * [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) ![](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes.svg?style=social) - Bitsandbytes library is a lightweight Python wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and 8 & 4-bit quantization functions.
 * [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ![](https://img.shields.io/github/stars/BrainCog-X/Brain-Cog.svg?style=social) - BrainCog (Brain-inspired Cognitive Intelligence Engine) is a brain-inspired spiking neural network based platform for Brain-inspired Artificial Intelligence and simulating brains at multiple scales.
 * [Composer](https://github.com/mosaicml/composer) ![](https://img.shields.io/github/stars/mosaicml/composer.svg?style=social) - Composer is a PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy.
