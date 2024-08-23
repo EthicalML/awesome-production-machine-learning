@@ -719,6 +719,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Fennel](https://fennel.ai) - Realtime feature engineering platform for fast moving machine learning teams. Python / Pandas native, built in Rust. Easy to install/use/run, builds upon best practices for reducing data/feature quality issues, and keeps cloud spend low. Fully managed, zero ops.
 * [Fiddler](https://www.fiddler.ai) - Fiddler is a model performance management platform that offers model monitoring, observability, explainability & fairness.
 * [Gemesys](https://gemesys.tech) - GEMESYS aims to design a chip that emulates the human brain, overcoming computing bottlenecks and shaping a better future for everyone.
+* [Glean](https://www.glean.com) - Glean is a centralized platform for quickly and securely deploying AI in the enterprise.
 * [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
 * [Gradient](https://gradient.ai) - Gradient offers fine-tuning as training and inference of LLM's as cloud infrastructure
 * [Graphsignal](https://graphsignal.com) - Machine learning profiler that helps make model training and inference faster and more efficient.
