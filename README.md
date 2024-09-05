@@ -521,8 +521,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - Versioning, reproducibility and deployment of data and models.
 * [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Tool to help you configure, organize, log and reproduce machine learning experiments.
 * [Studio](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
-* [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
 * [TensorFlow Metadata](https://github.com/tensorflow/metadata) ![](https://img.shields.io/github/stars/tensorflow/metadata.svg?style=social) - TensorFlow Metadata provides standard representations for metadata that are useful when training machine learning models with TensorFlow.
+* [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
 
 
 ## Model Serving and Monitoring
