@@ -16,7 +16,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [🔴 Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
 | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
-| [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Model & Feature Store](#model-and-feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [📈 Industry-strength Evaluation](#industry-strength-evaluation) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) |
@@ -305,12 +305,13 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [woe](https://github.com/boredbird/woe) ![](https://img.shields.io/github/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
 
 
-## Feature Store
+## Model and Feature Store
 * [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores which allows you to transform your raw data into beautiful features.
-* [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
+* [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
 * [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/feathr-ai/feathr.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
+* [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
 
 ## Industry Strength CV
@@ -407,7 +408,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SWIFT](https://github.com/modelscope/ms-swift) ![](https://img.shields.io/github/stars/modelscope/ms-swift.svg?style=social) - SWIFT is a scalable lightweight infrastructure for deep learning model fine-tuning.
 * [Tensorflow Lingvo](https://github.com/tensorflow/lingvo) ![](https://img.shields.io/github/stars/tensorflow/lingvo.svg?style=social) - A [framework](https://blog.tensorflow.org/2019/02/lingvo-tensorflow-framework-for-sequence-modeling.html) for building neural networks in Tensorflow, particularly sequence models.
 * [Tensorflow Text](https://github.com/tensorflow/text) ![](https://img.shields.io/github/stars/tensorflow/text.svg?style=social) - TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0.
-* [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 * [trlX](https://github.com/CarperAI/trlx) ![](https://img.shields.io/github/stars/CarperAI/trlx.svg?style=social) - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
 
 
