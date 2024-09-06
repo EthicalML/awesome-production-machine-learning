@@ -648,6 +648,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## Optimized Computation
+* [Adapters](https://github.com/adapter-hub/adapters) ![](https://img.shields.io/github/stars/adapter-hub/adapters.svg?style=social) - Adapters is a unified library for parameter-efficient and modular transfer learning.
 * [BindsNET](https://github.com/BindsNET/bindsnet) ![](https://img.shields.io/github/stars/BindsNET/bindsnet.svg?style=social) - BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [BitBLAS](https://github.com/microsoft/BitBLAS) ![](https://img.shields.io/github/stars/microsoft/BitBLAS.svg?style=social) - BitBLAS is a library to support mixed-precision BLAS operations on GPUs
 * [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) ![](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes.svg?style=social) - Bitsandbytes library is a lightweight Python wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and 8 & 4-bit quantization functions.
