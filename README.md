@@ -21,7 +21,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) | [💪 Model Serving & Monitoring](#model-serving-and-monitoring) |
 | [🏁 Model Training Orchestration](#model-training-orchestration) | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) |
-| [🔏 Privacy & Security](#privacy-security) | [💰 Commercial Platform](#commercial-platform) |
+| [🔏 Privacy & Security](#privacy-security) |
 
 ## Contributing to the list
 
@@ -527,12 +527,14 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment.
 * [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - An open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
 * [ModelStore](https://github.com/operatorai/modelstore) ![](https://img.shields.io/github/stars/operatorai/modelstore.svg?style=social) - An open-source Python library that allows you to version, export, and save a machine learning model to your cloud storage provider.
+* [Neptune](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a scalable experiment tracker for teams that train foundation models.
 * [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys).
 * [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - Versioning, reproducibility and deployment of data and models.
 * [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Tool to help you configure, organize, log and reproduce machine learning experiments.
 * [Studio](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
 * [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
+* [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Weights & Biase is a machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 
 
 ## Model Serving and Monitoring
@@ -712,79 +714,3 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Substra](https://github.com/Substra/substra)![](https://img.shields.io/github/stars/Substra/substra.svg?style=social) - Substra is an open-source framework for privacy-preserving, traceable and collaborative Machine Learning.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
-
-
-## Commercial Platform
-* [Amazon Web Services](https://aws.amazon.com) - AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS) and packaged-software-as-a-service (SaaS) offerings, including: [Amazon Augmented AI](https://aws.amazon.com/augmented-ai), [Amazon Rekognition](https://aws.amazon.com/rekognition), [Amazon SageMaker](https://aws.amazon.com/sagemaker).
-* [Anthropic](https://www.anthropic.com) - Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-* [Anyscale](https://www.anyscale.com) - Anyscale is a unified compute platform that makes it easy to develop, deploy, and manage scalable AI and Python applications using Ray.
-* [Apheris](https://www.apheris.com) - A platform for federated and privacy-preserving data science that lets you securely collaborate on AI with partners without sharing any data.
-* [Aporia](https://aporia.com) - The ML Observability Platform empowers Data Science and ML teams to maintain exceptional model performance while effectively scaling their production ML systems. Aporia offers versatile tools designed to support any ML use case, enabling users to customize model tracking, dashboard visualization, reporting, and metrics to suit the unique requirements of ML professionals. The Aporia platform allows ML practitioners to monitor their entire dataset without duplicating production data, efficiently identifying issues such as drift, bias, model deterioration, and performance and data integrity issues.
-* [Arize](https://arize.com) - ML observability and automated model monitoring to help ML practitioners understand how their models perform in production, troubleshoot issues, and improve model performance. ML teams can upload offline (training or validation) baselines into an evaluation/inference store alongside online production data for model validation, drift detection, data quality checks, and model performance management.
-* [Arthur](https://arthur.ai) - Authur is a platform that measures, monitors, and improves machine learning models to deliver better results.
-* [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning) - Azure Machine Learning empowers data scientists and developers to build, deploy, and manage high-quality models faster and with confidence.
-* [BigML](https://bigml.com) - A consumable, programmable, and scalable Machine Learning platform that makes it easy to solve and automate classification, regression, time series, etc..
-* [Censius](https://censius.ai) - Censius is an AI Observability Platform that assists enterprises in continuously monitoring, analyzing, and explaining their production models. It combines monitoring, accountability, and explainability into one Observability Platform.
-* [Cerebras](https://www.cerebras.net) - Cerebras builds computer systems for complex artificial intelligence deep learning applications.
-* [Cnvrg.io](https://cnvrg.io) - An end-to-end platform to manage, build and automate machine learning
-* [Comet](http://comet.ml) - Machine learning experiment management. Free for open source and students - [(Video)](https://www.youtube.com/watch?v=xaybRkapeNE).
-* [D2iQ Kaptain](https://d2iq.com/products/kaptain) - An end-to-end machine learning platform built for security, scale, and speed, that allows enterprises to develop and deploy machine learning models that runs in the cloud, on premises (incl. air-gapped), in hybrid environments, or on the edge; based on Kubeflow and open-source [Kubernetes Universal Declarative Operators](https://kudo.dev) (KUDO).
-* [DAGsHub](https://dagshub.com) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
-* [Databricks](https://www.databricks.com) - An integrated end-to-end machine learning environment incorporating managed services for experiment tracking, model training, feature development and management, and feature and model serving.
-* [Dataiku](https://www.dataiku.com) - Collaborative data science platform powering both self-service analytics and the operationalization of machine learning models in production.
-* [DataRobot](https://www.datarobot.com) - Automated machine learning platform which enables users to build and deploy machine learning models.
-* [Datatron](https://datatron.com) - Machine Learning Model Governance Platform for all your AI models in production for large Enterprises.
-* [Deep Cognition Deep Learning Studio](https://deepcognition.ai) - E2E platform for deep learning.
-* [deepsense.ai](https://deepsense.ai) - deepsense.ai helps companies gain competitive advantage by providing customized AI-powered end-to-end solutions, with the main focus on AI software, team augmentation and AI advisory.
-* [Diffgram](https://diffgram.com) - Training Data First platform. Database & Training Data Pipelines for Supervised AI. Integrated with GCP, AWS, Azure and top Annotation Supervision UIs (or use built-in Diffgram UI, or build your own). Plus a growing list of integrated service providers! For Computer Vision, NLP, and Supervised Deep Learning / Machine Learning.
-* [Domino](https://www.dominodatalab.com) - An enterprise MLOps platform that supports data scientist collaboration with their preferred tools, languages, and infrastructure, with IT central resource management, governance, and security, without vendor lock-in.
-* [Fennel](https://fennel.ai) - Realtime feature engineering platform for fast moving machine learning teams. Python / Pandas native, built in Rust. Easy to install/use/run, builds upon best practices for reducing data/feature quality issues, and keeps cloud spend low. Fully managed, zero ops.
-* [Fiddler](https://www.fiddler.ai) - Fiddler is a model performance management platform that offers model monitoring, observability, explainability & fairness.
-* [Gemesys](https://gemesys.tech) - GEMESYS aims to design a chip that emulates the human brain, overcoming computing bottlenecks and shaping a better future for everyone.
-* [Glean](https://www.glean.com) - Glean is a centralized platform for quickly and securely deploying AI in the enterprise.
-* [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine) - Managed service that enables developers and data scientists to build and bring machine learning models to production.
-* [Gradient](https://gradient.ai) - Gradient offers fine-tuning as training and inference of LLM's as cloud infrastructure
-* [Graphsignal](https://graphsignal.com) - Machine learning profiler that helps make model training and inference faster and more efficient.
-* [H2O Driverless AI](https://www.h2o.ai/products/h2o-driverless-ai) - Automates key machine learning tasks, delivering automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring - [(Video)](https://www.youtube.com/watch?v=ZqCoFp3-rGc).
-* [Hugging Face](https://huggingface.co) - Hugging Face is a platform that allows users to share machine learning models and datasets.
-* [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - Build and scale trusted AI on any cloud. Automate the AI lifecycle for ModelOps.
-* [InnerEye](https://innereye.ai) - InnerEye combines human intelligence with artificial intelligence. By capitalizing on the merging of human neural processing and deep artificial neural networks, InnerEye allows fast and accurate visual inspection, real-time AI training and validation, and establishes a unique human-machine interface for connected user applications.
-* [Iguazio Data Science Platform](https://www.iguazio.com) - Bring your Data Science to life by automating MLOps with end-to-end machine learning pipelines, transforming AI projects into real-world business outcomes, and supporting real-time performance at enterprise scale.
-* [Iterative Studio](https://studio.iterative.ai) - Seamless data and model management, experiment tracking, visualization and automation, with Git as the single source of truth.
-* [Lambda Labs](https://lambdalabs.com) - Lambda Labs is a company that provides hardware and software solutions for deep learning applications.
-* [Kaggle](https://www.kaggle.com) - Kaggle offers machine learning and data science competitions as well as offering a public data and cloud-based business platform for data science and AI education.
-* [Katonic.ai](https://katonic.ai) - Automate your cycle of Intelligence with Katonic MLOps Platform.
-* [Kern AI](https://www.kern.ai) - Kern AI builds the self-service development environment for NLP training data, used by data scientists to quickly build high-quality, large-scale labeled datasets.
-* [Labelbox](https://labelbox.com) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
-* [ModelOp](https://www.modelop.com) - An enterprise MLOps platform that automates the governance, management and monitoring of deployed AI, ML models across platforms and teams, resulting in reliable, compliant and scalable AI initiatives.
-* [Modelplace](https://modelplace.ai) - Modelplace provides a directory of tested and benchmarked AI models from around the world curated by OpenCV.
-* [MLJAR](https://mljar.com) - Platform for rapid prototyping, developing and deploying machine learning models.
-* [Neptune.ai](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a lightweight solution designed for: 1) experiment tracking; 2) model registry; 3) ML runs live monitoring.  
-* [Nimblebox](https://nimblebox.ai) - A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.
-* [OctoML](https://octoml.ai) - OctoML makes AI more sustainable through efficient model execution and automation to scale services and reduce engineering burden.
-* [OpenAI](https://openai.com) - OpenAI aims to promote and develop friendly AI in a way that benefits humanity as a whole. 
-* [Pinecone](https://www.pinecone.io) - Pinecone vector database makes it easy to build high-performance vector search applications
-* [Prodigy](https://prodi.gy) - Prodigy is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
-* [RapidMiner](https://rapidminer.com) - RapidMiner is the enterprise-ready data science platform that amplifies the collective impact of your people, expertise and data for breakthrough competitive advantage.
-* [Replicate](https://replicate.com) - Replicate lets you run machine learning models with a cloud API, without having to understand the intricacies of machine learning or manage your own infrastructure.
-* [Robust Intelligence](https://www.robustintelligence.com) - Robust Intelligence is an end-to-end ML integrity solution that proactively eliminates failure at every stage of the model lifecycle. From pre-deployment vulnerability detection and validation to post-deployment monitoring and protection, Robust Intelligence gives teams the confidence to scale models in production across a variety of use cases and modalities.
-* [SambaNova](https://sambanova.ai) - SambaNova Systems is a company that specializes in generative AI. They offer a full-stack platform that allows users to build powerful AI models, customized with their data, and owned by them.
-* [Scale](https://scale.com) - Scale AI turns raw data into high-quality training data by combining machine learning powered pre-labeling and active tooling with varying levels and types of human review.
-* [Scribble Enrich](https://www.scribbledata.io/product) - Customizable, auditable, privacy-aware feature store. It is designed to help mid-sized data teams gain trust in the data that they use for training and analysis, and support emerging needs such drift computation and bias assessment.
-* [SigOpt](https://sigopt.com) - SigOpt is a model development platform that makes it easy to track runs, visualize training, and scale hyperparameter optimisation for any type of model built with any library on any infrastructure.
-* [Skymind](https://skymind.global) - Software distribution designed to help enterprise IT teams manage, deploy, and retrain machine learning models at scale.
-* [Skytree](http://skytree.net) - End to end machine learning platform - [(Video)](https://www.youtube.com/watch?v=XuCwpnU-F1k).
-* [SuperAnnotate](https://www.superannotate.com) - A complete set of solutions for image and video annotation and an annotation service with integrated tooling, on-demand narrow expertise in various fields, and a custom neural network, automation, and training models powered by AI.
-* [Superb AI](https://superb-ai.com) - ML DataOps platform providing various tools to build, label, manage and iterate on training data.
-* [Syndicai](https://syndicai.co) - Easy-to-use cloud agnostic platform that deploys, manages, and scales any trained AI model in minutes with no configuration & infrastructure setup.
-* [Talend Studio](https://www.talend.com) - Data integration platform that provides various software and services for data integration, data management, enterprise application integration, data quality, cloud storage and Big Data.
-* [Tecton](https://www.tecton.ai) - Tecton is an all-in-one system to build, automate, and centralize feature workflows for production ML.
-* [Valohai](https://valohai.com) - Machine orchestration, version control and pipeline management for deep learning.
-* [Vectara](https://vectara.com) - Vectara is a platform focused on conversational experiences. It provides powerful retrieval, summarization and generation functions, as well as an easy-to-use developer interface.
-* [Vertex AI](https://cloud.google.com/vertex-ai) - Vertex AI Workbench is the single environment for data scientists to complete all of their ML work, from experimentation, to deployment, to managing and monitoring models. It is a Jupyter-based fully managed, scalable, enterprise-ready compute infrastructure with security controls and user management capabilities.
-* [Ultralytics](https://ultralytics.com) Ultralytics simplifies data sourcing, labeling, model training, and deployment services that offer artificial intelligence.
-* [Wallaroo.AI](https://wallaroo.ai) - Production AI platform for deploying, managing and observing any model at scale across any enviornment from cloud to edge. Go from python notebook to inferencing in minutes. [Community edition available](https://portal.wallaroo.community).  
-* [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
-* [WhyLabs](https://whylabs.ai) - Enable observability to detect data and ML issues faster, deliver continuous improvements, and avoid costly incidents.
-* [Zeno](https://zenoml.com) - Zeno is a platform for evaluating AI systems.
-* [Zilliz](https://zilliz.com) - Zilliz builds vector database to accelerate development of next generation data fabric.
