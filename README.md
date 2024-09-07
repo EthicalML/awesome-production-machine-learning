@@ -101,6 +101,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 ## Anomaly Detection
 * [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
+* [Darts](https://github.com/unit8co/darts) ![](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - Darts is a library for user-friendly forecasting and anomaly detection on time series.
 * [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 * [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg?style=social) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
 * [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
