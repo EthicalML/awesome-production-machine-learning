@@ -13,11 +13,11 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🔴 Anomaly Detection](#anomaly-detection) | [🤖 AutoML](#automl) |
-| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
-| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
-| [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Interpretability](#explainability-and-interpretability) |
-| [🎁 Feature Store](#feature-store) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) |
+| [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#ds-notebook) |
+| [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) |
+| [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) |
+| [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Compilation, Compression & Optimization](#model-compilation-compression-and-optimization) |
 | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) |
@@ -96,19 +96,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MIA](https://github.com/spring-epfl/mia) ![](https://img.shields.io/github/stars/spring-epfl/mia.svg?style=social) - A library for running membership inference attacks (MIA) against machine learning models.
 * [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 * [OpenAttack](https://github.com/thunlp/OpenAttack) ![](https://img.shields.io/github/stars/thunlp/OpenAttack.svg?style=social) - OpenAttack is a Python-based textual adversarial attack toolkit, which handles the whole process of textual adversarial attacking, including preprocessing text, accessing the victim model, generating adversarial examples and evaluation.
-
-
-## Anomaly Detection
-* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
-* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
-* [Darts](https://github.com/unit8co/darts) ![](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - Darts is a library for user-friendly forecasting and anomaly detection on time series.
-* [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-* [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg?style=social) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
-* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
-* [SUOD](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - SUOD (Scalable Unsupervised Outlier Detection) is an acceleration system for large-scale anomaly/outlier detection.
-* [TextAttack](https://github.com/QData/TextAttack) ![](https://img.shields.io/github/stars/QData/TextAttack.svg?style=social) - TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP.
-* [TFDV](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - TFDV (Tensorflow Data Validation) is a library for exploring and validating machine learning data.
-* [TODS](https://github.com/datamllab/tods) ![](https://img.shields.io/github/stars/datamllab/tods.svg?style=social) - TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
 
 ## AutoML
@@ -415,6 +402,19 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/feathr-ai/feathr.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
+
+
+## Industry-strength AD
+* [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
+* [Darts](https://github.com/unit8co/darts) ![](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - Darts is a library for user-friendly forecasting and anomaly detection on time series.
+* [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+* [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) ![](https://img.shields.io/github/stars/hendrycks/outlier-exposure.svg?style=social) - Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. [Paper](https://arxiv.org/pdf/1812.04606.pdf)
+* [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+* [SUOD](https://github.com/yzhao062/SUOD) ![](https://img.shields.io/github/stars/yzhao062/SUOD.svg?style=social) - SUOD (Scalable Unsupervised Outlier Detection) is an acceleration system for large-scale anomaly/outlier detection.
+* [TextAttack](https://github.com/QData/TextAttack) ![](https://img.shields.io/github/stars/QData/TextAttack.svg?style=social) - TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP.
+* [TFDV](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - TFDV (Tensorflow Data Validation) is a library for exploring and validating machine learning data.
+* [TODS](https://github.com/datamllab/tods) ![](https://img.shields.io/github/stars/datamllab/tods.svg?style=social) - TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
 
 ## Industry Strength CV
