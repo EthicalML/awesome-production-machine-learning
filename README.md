@@ -16,7 +16,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) |
 | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#ds-notebook) |
 | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) |
-| [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Interpretability](#explainability-and-interpretability) | [🎁 Feature Store](#feature-store) |
+| [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) |
 | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Storage Optimisation](#model-storage-optimisation) |
@@ -365,7 +365,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?style=social) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
 
 
-## Explainability and Interpretability
+## Explainability and Fairness
 * [Aequitas](https://github.com/dssg/aequitas) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) - An open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
 * [AI Explainability 360](https://github.com/Trusted-AI/AIX360) ![](https://img.shields.io/github/stars/Trusted-AI/AIX360.svg?style=social) - Interpretability and explainability of data and machine learning models including a comprehensive set of algorithms that cover different dimensions of explanations along with proxy explainability metrics.
 * [AI Fairness 360](https://github.com/Trusted-AI/AIF360) ![](https://img.shields.io/github/stars/Trusted-AI/AIF360.svg?style=social) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
