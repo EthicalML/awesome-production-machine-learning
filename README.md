@@ -13,15 +13,14 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) |
-| [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#ds-notebook) |
-| [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) |
-| [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [📜 Asset Management](#asset-management) | [🤖 AutoML](#automl) |
+| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
+| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
+| [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
 | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Storage Optimisation](#model-storage-optimisation) |
-| [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-security) |
-| [🏁 Training Orchestration](#training-orchestration) |
+| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) |
+| [🔏 Privacy & Security](#privacy-security) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -96,6 +95,46 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MIA](https://github.com/spring-epfl/mia) ![](https://img.shields.io/github/stars/spring-epfl/mia.svg?style=social) - A library for running membership inference attacks (MIA) against machine learning models.
 * [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 * [OpenAttack](https://github.com/thunlp/OpenAttack) ![](https://img.shields.io/github/stars/thunlp/OpenAttack.svg?style=social) - OpenAttack is a Python-based textual adversarial attack toolkit, which handles the whole process of textual adversarial attacking, including preprocessing text, accessing the victim model, generating adversarial examples and evaluation.
+
+
+## Asset Management
+* [AI2 Tango](https://github.com/allenai/tango) ![](https://img.shields.io/github/stars/allenai/tango.svg??style=social) - AI2 Tango replaces messy directories and spreadsheets full of file versions by organizing experiments into discrete steps that can be cached and reused throughout the lifetime of a research project.
+* [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?style=social) - A super-easy way to record, search and compare AI experiments.
+* [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata-driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+* [Apache Atlas](https://github.com/apache/atlas) ![](https://img.shields.io/github/stars/apache/atlas.svg?style=social) - Apache Atlas framework is an extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
+* [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores that allows you to transform your raw data into beautiful features.
+* [Catalyst](https://github.com/catalyst-team/catalyst) ![](https://img.shields.io/github/stars/catalyst-team/catalyst.svg?style=social) - High-level utils for PyTorch DL & RL research. It was developed to focus on reproducibility, fast experimentation, and code/ideas reusing.
+* [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
+* [CodaLab](https://github.com/codalab/codalab-worksheets) ![](https://img.shields.io/github/stars/codalab/codalab-worksheets.svg?style=social) - CodaLab Worksheets is a collaborative platform for reproducible research that allows researchers to run, manage, and share their experiments in the cloud. It helps researchers ensure that their runs are reproducible and consistent.
+* [DataHub](https://github.com/datahub-project/datahub) ![](https://img.shields.io/github/stars/datahub-project/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
+* [Deepkit](https://github.com/deepkit/deepkit-ml) ![](https://img.shields.io/github/stars/deepkit/deepkit-ml.svg?style=social) - An open-source platform and cross-platform desktop application to execute, track, and debug modern machine learning experiments.
+* [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push, and pull just like a git repository.
+* [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - DVC (Data Version Control) is a git fork that allows for version management of models.
+* [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast is an open-source feature store for machine learning. Feast is the fastest way to manage existing infrastructure to produce analytic data for model training and online inference.
+* [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/feathr-ai/feathr.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
+* [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
+* [Flor](https://github.com/ucbrise/flor) ![](https://img.shields.io/github/stars/ucbrise/flor.svg?style=social) - Easy-to-use logger and automatic version controller for data scientists who write ML code.
+* [Guild AI](https://github.com/guildai/guildai) ![](https://img.shields.io/github/stars/guildai/guildai.svg?style=social) - Open source toolkit that automates and optimizes machine learning experiments.
+* [Hangar](https://github.com/tensorwerk/hangar-py) ![](https://img.shields.io/github/stars/tensorwerk/hangar-py.svg?style=social) - Version control for tensor data, git-like semantics on numerical data with high speed and efficiency.
+* [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
+* [Keepsake](https://github.com/replicate/keepsake) ![](https://img.shields.io/github/stars/replicate/keepsake.svg?style=social) - Version control for machine learning.
+* [lakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Repeatable, atomic, and versioned data lake on top of object storage.
+* [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open-source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
+* [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focuses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; and 3) metadata discovery.
+* [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment.
+* [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
+* [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - An open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
+* [ModelStore](https://github.com/operatorai/modelstore) ![](https://img.shields.io/github/stars/operatorai/modelstore.svg?style=social) - An open-source Python library that allows you to version, export, and save a machine learning model to your cloud storage provider.
+* [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - Model Card Toolkit is a toolkit that streamlines and automates the generation of model cards.
+* [Neptune](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a scalable experiment tracker for teams that train foundation models.
+* [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - A platform for reproducible and scalable machine learning and deep learning on Kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys).
+* [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - Versioning, reproducibility, and deployment of data and models.
+* [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Tool to help you configure, organize, log and reproduce machine learning experiments.
+* [Studio](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework that minimizes the overhead involved with scheduling, running, monitoring, and managing artifacts of your machine learning experiments.
+* [TensorFlow Metadata](https://github.com/tensorflow/metadata) ![](https://img.shields.io/github/stars/tensorflow/metadata.svg?style=social) - TensorFlow Metadata provides standard representations for metadata that are useful when training machine learning models with TensorFlow.
+* [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
+* [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Weights & Biase is a machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 
 
 ## AutoML
@@ -400,14 +439,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [woe](https://github.com/boredbird/woe) ![](https://img.shields.io/github/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
 
 
-## Feature Store
-* [Butterfree](https://github.com/quintoandar/butterfree) ![](https://img.shields.io/github/stars/quintoandar/butterfree.svg?style=social) - A tool for building feature stores which allows you to transform your raw data into beautiful features.
-* [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
-* [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/feathr-ai/feathr.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
-* [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
-* [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
-
-
 ## Industry-strength AD
 * [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
@@ -557,44 +588,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Transformer Explainer](https://github.com/poloclub/transformer-explainer) ![](https://img.shields.io/github/stars/poloclub/transformer-explainer.svg?style=social) - Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work.
 * [Vega-Altair](https://github.com/vega/altair) ![](https://img.shields.io/github/stars/vega/altair.svg?style=social) - Vega-Altair is a declarative statistical visualization library for Python.
 * [ydata-profiling](https://github.com/ydataai/ydata-profiling) ![](https://img.shields.io/github/stars/ydataai/ydata-profiling.svg?style=social) - ydata-profiling provides a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution.
-
-
-## Metadata Management
-* [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-* [Apache Atlas](https://github.com/apache/atlas) ![](https://img.shields.io/github/stars/apache/atlas.svg?style=social) - Apache Atlas framework is an extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
-* [DataHub](https://github.com/datahub-project/datahub) ![](https://img.shields.io/github/stars/datahub-project/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
-* [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
-* [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
-* [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
-* [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ![](https://img.shields.io/github/stars/tensorflow/model-card-toolkit.svg?style=social) - Model Card Toolkit is a toolkit that streamlines and automates the generation of model cards.
-* [TensorFlow Metadata](https://github.com/tensorflow/metadata) ![](https://img.shields.io/github/stars/tensorflow/metadata.svg?style=social) - TensorFlow Metadata provides standard representations for metadata that are useful when training machine learning models with TensorFlow.
-
-
-## Model, Data and Experiment Tracking
-* [AI2 Tango](https://github.com/allenai/tango) ![](https://img.shields.io/github/stars/allenai/tango.svg??style=social) - AI2 Tango replaces messy directories and spreadsheets full of file versions by organizing experiments into discrete steps that can be cached and reused throughout the lifetime of a research project.
-* [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?style=social) - A super-easy way to record, search and compare AI experiments.
-* [Catalyst](https://github.com/catalyst-team/catalyst) ![](https://img.shields.io/github/stars/catalyst-team/catalyst.svg?style=social) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing.
-* [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
-* [CodaLab](https://github.com/codalab/codalab-worksheets) ![](https://img.shields.io/github/stars/codalab/codalab-worksheets.svg?style=social) - CodaLab Worksheets is a collaborative platform for reproducible research that allows researchers to run, manage, and share their experiments in the cloud. It helps researchers ensure that their runs are reproducible and consistent.
-* [Deepkit](https://github.com/deepkit/deepkit-ml) ![](https://img.shields.io/github/stars/deepkit/deepkit-ml.svg?style=social) - An open-source platform and cross-platform desktop application to execute, track, and debug modern machine learning experiments.
-* [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
-* [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - DVC (Data Version Control) is a git fork that allows for version management of models.
-* [Flor](https://github.com/ucbrise/flor) ![](https://img.shields.io/github/stars/ucbrise/flor.svg?style=social) - Easy to use logger and automatic version controller made for data scientists who write ML code.
-* [Guild AI](https://github.com/guildai/guildai) ![](https://img.shields.io/github/stars/guildai/guildai.svg?style=social) - Open source toolkit that automates and optimizes machine learning experiments.
-* [Hangar](https://github.com/tensorwerk/hangar-py) ![](https://img.shields.io/github/stars/tensorwerk/hangar-py.svg?style=social) - Version control for tensor data, git-like semantics on numerical data with high speed and efficiency.
-* [Keepsake](https://github.com/replicate/keepsake) ![](https://img.shields.io/github/stars/replicate/keepsake.svg?style=social) - Version control for machine learning.
-* [lakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Repeatable, atomic and versioned data lake on top of object storage.
-* [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment.
-* [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - An open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
-* [ModelStore](https://github.com/operatorai/modelstore) ![](https://img.shields.io/github/stars/operatorai/modelstore.svg?style=social) - An open-source Python library that allows you to version, export, and save a machine learning model to your cloud storage provider.
-* [Neptune](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a scalable experiment tracker for teams that train foundation models.
-* [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys).
-* [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - Versioning, reproducibility and deployment of data and models.
-* [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Tool to help you configure, organize, log and reproduce machine learning experiments.
-* [Studio](https://github.com/studioml/studio) ![](https://img.shields.io/github/stars/studioml/studio.svg?style=social) - Model management framework which minimizes the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.
-* [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social) - A graph database management system that stores data like git.
-* [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - Weights & Biase is a machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 
 
 ## Model Storage Optimisation
