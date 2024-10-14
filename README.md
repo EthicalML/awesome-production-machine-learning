@@ -19,7 +19,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Observability](#evaluation-and-observability) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
 | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) |
+| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🧮 Optimized Computation](#optimized-computation) |
 | [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
