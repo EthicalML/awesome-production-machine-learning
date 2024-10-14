@@ -20,7 +20,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
 | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
 | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search](#neural-search) | [🧮 Optimized Computation](#optimized-computation) |
-| [🔏 Privacy & Security](#privacy-security) | [🏁 Training Orchestration](#training-orchestration) |
+| [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -459,6 +459,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [JDiffusion](https://github.com/JittorRepos/JDiffusion) ![](https://img.shields.io/github/stars/JittorRepos/JDiffusion.svg?style=social) - JDiffusion is a diffusion model library for generating images or videos based on Diffusers and Jittor.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
 * [LAVIS](https://github.com/salesforce/LAVIS) ![](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social) - LAVIS is a deep learning library for LAnguage-and-VISion intelligence research and applications.
+* [libcom](https://github.com/bcmi/libcom) ![](https://img.shields.io/github/stars/bcmi/libcom.svg?style=social) - libcom is an image composition toolbox.
 * [MMDetection](https://github.com/open-mmlab/mmdetection) ![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg?style=social) - MMDetection is an open source object detection toolbox based on PyTorch.
 * [SCEPTER](https://github.com/modelscope/scepter) ![](https://img.shields.io/github/stars/modelscope/scepter.svg?style=social) - SCEPTER is an open-source code repository dedicated to generative training, fine-tuning, and inference, encompassing a suite of downstream tasks such as image generation, transfer, editing.
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?style=social) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
@@ -605,7 +606,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
 
 
-## Neural Search
+## Neural Search and Retrieval
 * [Annoy](https://github.com/spotify/annoy) ![](https://img.shields.io/github/stars/spotify/annoy.svg?style=social) - Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point.
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
 * [BeyondLLM](https://github.com/aiplanethub/beyondllm) ![](https://img.shields.io/github/stars/aiplanethub/beyondllm.svg?style=social) - Beyond LLM offers an all-in-one toolkit for experimentation, evaluation, and deployment of RAG systems, simplifying the process with automated integration, customizable evaluation metrics, and support for various LLMs tailored to specific needs, ultimately aiming to reduce LLM hallucination risks and enhance reliability.
@@ -617,6 +618,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Finetuner](https://github.com/jina-ai/finetuner) ![](https://img.shields.io/github/stars/jina-ai/finetuner.svg?style=social) - Finetuner provides an effective way to improve performance on neural search tasks.
 * [GraphRAG](https://github.com/microsoft/graphrag) ![](https://img.shields.io/github/stars/microsoft/graphrag.svg?style=social) - GraphRAG is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.
 * [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) ![](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG.svg?style=social) - HippoRAG is a novel retrieval augmented generation (RAG) framework inspired by the neurobiology of human long-term memory that enables LLMs to continuously integrate knowledge across external documents. 
+* [LightRAG](https://github.com/HKUDS/LightRAG) ![](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social) - A simple and fast retrieval-augmented generation framework.
 * [llmware](https://github.com/llmware-ai/llmware) ![](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social) - llmware provides a unified framework for building LLM-based applications (e.g, RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
 * [Mem0](https://github.com/mem0ai/mem0) ![](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social) - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 * [MindSQL](https://github.com/Mindinventory/MindSQL) ![](https://img.shields.io/github/stars/Mindinventory/MindSQL.svg?style=social) - MindSQL is a Python RAG library to streamline the interaction between users and their databases using just a few lines of code.
