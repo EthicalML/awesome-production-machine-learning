@@ -97,10 +97,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## Agentic Workflow
+* [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
 * [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
 * [Modelscope-Agent](https://github.com/modelscope/modelscope-agent) ![](https://img.shields.io/github/stars/modelscope/modelscope-agent.svg?style=social) - Modelscope-Agent is a customizable and scalable agent framework.
 * [OpenAGI](https://github.com/agiresearch/OpenAGI) ![](https://img.shields.io/github/stars/agiresearch/OpenAGI.svg?style=social) - OpenAGI is used as the agent creation package to build agents for AIOS.
-* [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
 * [Swarm](https://github.com/openai/swarm) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) - Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration.
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
 
