@@ -11,15 +11,15 @@ This repository contains a curated list of awesome open source libraries that wi
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) |
-| [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#ds-notebook) |
-| [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) |
-| [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) |
-| [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Storage Optimisation](#model-storage-optimisation) |
-| [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-and-security) |
-| [🏁 Training Orchestration](#training-orchestration) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 Agentic Workflow](#agentic-workflow) |🔧 [ AutoML](#automl) |
+| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
+| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
+| [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
+| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
+| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) |
+| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🧮 Optimized Computation](#optimized-computation) |
+| [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -94,6 +94,15 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MIA](https://github.com/spring-epfl/mia) ![](https://img.shields.io/github/stars/spring-epfl/mia.svg?style=social) - A library for running membership inference attacks (MIA) against machine learning models.
 * [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 * [OpenAttack](https://github.com/thunlp/OpenAttack) ![](https://img.shields.io/github/stars/thunlp/OpenAttack.svg?style=social) - OpenAttack is a Python-based textual adversarial attack toolkit, which handles the whole process of textual adversarial attacking, including preprocessing text, accessing the victim model, generating adversarial examples and evaluation.
+
+
+## Agentic Workflow
+* [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
+* [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
+* [Modelscope-Agent](https://github.com/modelscope/modelscope-agent) ![](https://img.shields.io/github/stars/modelscope/modelscope-agent.svg?style=social) - Modelscope-Agent is a customizable and scalable agent framework.
+* [OpenAGI](https://github.com/agiresearch/OpenAGI) ![](https://img.shields.io/github/stars/agiresearch/OpenAGI.svg?style=social) - OpenAGI is used as the agent creation package to build agents for AIOS.
+* [Swarm](https://github.com/openai/swarm) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) - Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration.
+* [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
 
 
 ## AutoML
@@ -206,7 +215,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## DS Notebook
 * [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?style=social) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-* [H2O Flow](https://github.com/h2oai/h2o-flow) ![](ttps://img.shields.io/github/stars/h2oai/h2o-flow.svg?style=social) - Jupyter notebook-like interface for H2O to create, save and re-use "flows".
+* [H2O Flow](https://github.com/h2oai/h2o-flow) ![](https://img.shields.io/github/stars/h2oai/h2o-flow.svg?style=social) - Jupyter notebook-like interface for H2O to create, save and re-use "flows".
 * [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - Web interface python sandbox environments for reproducible development
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) ![](https://img.shields.io/github/stars/ml-tooling/ml-workspace.svg?style=social) - All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
 * [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?style=social) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
@@ -341,13 +350,13 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MLPerf Inference](https://github.com/mlcommons/inference) ![](https://img.shields.io/github/stars/mlcommons/inference.svg?style=social) - MLPerf Inference is a benchmark suite for measuring how fast systems can run models in a variety of deployment scenarios.
 * [mltrace](https://github.com/loglabs/mltrace) ![](https://img.shields.io/github/stars/loglabs/mltrace.svg?style=social) - mltrace is a lightweight, open-source Python tool to get "bolt-on" observability in ML pipelines.
 * [MTEB](https://github.com/embeddings-benchmark/mteb) ![](https://img.shields.io/github/stars/embeddings-benchmark/mteb.svg?style=social) - Massive Text Embedding Benchmark (MTEB) is a comprehensive benchmark of text embeddings.
-* [NannyML](https://github.com/NannyML/nannyml) ![](https://img.shields.io/github/stars/nannyml/nannyml.svg?style=social) - NannyML is a library that allows you to estimate post-deployment model performance (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance.
+* [NannyML](https://github.com/NannyML/nannyml) ![](https://img.shields.io/github/stars/NannyML/nannyml.svg?style=social) - NannyML is a library that allows you to estimate post-deployment model performance (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance.
 * [OLMo-Eval](https://github.com/allenai/OLMo-Eval) ![](https://img.shields.io/github/stars/allenai/OLMo-Eval.svg?style=social) - OLMo-Eval is an evaluation suite for evaluating open language models.
 * [OpenCompass](https://github.com/open-compass/OpenCompass) ![](https://img.shields.io/github/stars/open-compass/OpenCompass.svg?style=social) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
 * [Opik](https://github.com/comet-ml/opik) ![](https://img.shields.io/github/stars/comet-ml/opik.svg?style=social) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
 * [Optimum-Benchmark](https://github.com/huggingface/optimum-benchmark) ![](https://img.shields.io/github/stars/huggingface/optimum-benchmark.svg?style=social) - A unified multi-backend utility for benchmarking Transformers and Diffusers with support for Optimum's arsenal of hardware optimizations/quantization schemes.
 * [PhaseLLM](https://github.com/wgryc/phasellm) ![](https://img.shields.io/github/stars/wgryc/phasellm.svg?style=social) - PhaseLLM is a large language model evaluation and workflow framework.
-* [Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/arize-ai/phoenix.svg?style=social) - Phoenix is an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting.
+* [Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/Arize-ai/phoenix.svg?style=social) - Phoenix is an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting.
 * [PromptBench](https://github.com/microsoft/promptbench) ![](https://img.shields.io/github/stars/microsoft/promptbench.svg?style=social) - PromptBench is a unified evaluation framework for large language models
 * [Prometheus-Eval](https://github.com/prometheus-eval/prometheus-eval) ![](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval.svg?style=social) - Prometheus-Eval is a collection of tools for training, evaluating, and using language models specialized in evaluating other language models.
 * [Ragas](https://github.com/explodinggradients/ragas) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) - Ragas is a framework to evaluate RAG pipelines.
