@@ -539,6 +539,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SuperSuit](https://github.com/Farama-Foundation/SuperSuit) ![](https://img.shields.io/github/stars/Farama-Foundation/SuperSuit.svg?style=social) - SuperSuit introduces a collection of small functions which can wrap reinforcement learning environments to do preprocessing ('microwrappers').
 * [TF-Agents](https://github.com/tensorflow/agents) ![](https://img.shields.io/github/stars/tensorflow/agents.svg?style=social) - A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
 * [TRL](https://github.com/huggingface/trl) ![](https://img.shields.io/github/stars/huggingface/trl.svg?style=social) - Train transformer language models with reinforcement learning. 
+* [veRL](https://github.com/volcengine/veRL) ![](https://img.shields.io/github/stars/volcengine/veRL.svg?style=social) - veRL (HybridFlow) is a flexible, efficient and industrial-level RL(HF) training framework designed for LLMs. 
 
 
 ## Industry Strength Visualisation
