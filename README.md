@@ -7,6 +7,8 @@
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning 🚀
 
+You can keep up to date by watching this github repo to get a summary of the new production ML libraries added every month [via releases](https://github.com/EthicalML/awesome-production-machine-learning/releases) 🤩
+
 ## Quick links to sections on this page
 
 | | | |
@@ -49,7 +51,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 <table>
   <tr>
     <td width="30%">
-        This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo. This <a href="https://www.youtube.com/watch?v=xymbp8RWaCQ&t=1s">newer video</a> covers the an updated 2022 version of the state of MLOps 
+        This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo. This <a href="https://www.youtube.com/watch?v=NycftytgPnk">newer video</a> covers the an updated 2024 version of the state of MLOps.
     </td>
     <td width="70%">
         <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY"><img src="images/video.png"></a>
@@ -70,7 +72,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
   </tr>
   <tr>
     <td width="30%">
-         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/">Awesome Artificial Intelligence Guidelines</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence.
+         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-regulation/">Awesome Artificial Intelligence Regulation</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence.
     </td>
     <td width="70%">
         <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/"><img src="images/guidelines.jpg"></a>
