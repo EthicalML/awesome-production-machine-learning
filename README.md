@@ -454,6 +454,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## Industry Strength NLP
+* [aisuite](https://github.com/andrewyng/aisuite) ![](https://img.shields.io/github/stars/andrewyng/aisuite.svg?style=social) - aisuite is a simple, unified interface to multiple generative AI providers.
 * [Align-Anything](https://github.com/PKU-Alignment/align-anything) ![](https://img.shields.io/github/stars/PKU-Alignment/align-anything.svg?style=social) - Align-Anything aims to align any modality large models (any-to-any models), including LLMs, VLMs, and others, with human intentions and values
 * [Blackstone](https://github.com/ICLRandD/Blackstone) ![](https://img.shields.io/github/stars/ICLRandD/Blackstone.svg?style=social) - Blackstone is a spaCy model and library for processing long-form, unstructured legal text. Blackstone is an experimental research project from the Incorporated Council of Law Reporting for England and Wales' research lab, ICLR&D.
 * [BERTopic](https://github.com/MaartenGr/BERTopic) ![](https://img.shields.io/github/stars/MaartenGr/BERTopic.svg?style=social) - BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
