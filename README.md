@@ -182,6 +182,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
 * [Snorkel](https://github.com/snorkel-team/snorkel) ![](https://img.shields.io/github/stars/snorkel-team/snorkel.svg?style=social) - Snorkel is a system for quickly generating training data with weak supervision.
 * [Superintendent](https://github.com/janfreyberg/superintendent) ![](https://img.shields.io/github/stars/janfreyberg/superintendent.svg?style=social) - superintendent provides an ipywidget-based interactive labelling tool for your data.
+* [Synthetic Data SDK](https://github.com/mostly-ai/mostlyai) ![](https://img.shields.io/github/stars/mostly-ai/mostlyai.svg?style=social) - Synthetic Data SDK is a Python toolkit for high-fidelity, privacy-safe synthetic data.
 * [YData Synthetic](https://github.com/ydataai/ydata-synthetic) ![](https://img.shields.io/github/stars/ydataai/ydata-synthetic.svg?style=social) - YData Synthetic is a package to generate synthetic tabular and time-series data leveraging the state of the art generative models.
 
 
