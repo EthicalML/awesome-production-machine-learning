@@ -15,7 +15,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 Agentic Workflow](#agentic-workflow) |🔧 [ AutoML](#automl) |
+| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 Agentic Framework](#agentic-framwork) | [🔧 AutoML](#automl) |
 | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
@@ -100,11 +100,12 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [OpenAttack](https://github.com/thunlp/OpenAttack) ![](https://img.shields.io/github/stars/thunlp/OpenAttack.svg?style=social) - OpenAttack is a Python-based textual adversarial attack toolkit, which handles the whole process of textual adversarial attacking, including preprocessing text, accessing the victim model, generating adversarial examples and evaluation.
 
 
-## Agentic Workflow
+## Agentic Framework
 * [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
 * [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
 * [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) - AutoGen is an open-source framework for building AI agent systems.
 * [Chidori](https://github.com/ThousandBirdsInc/chidori) ![](https://img.shields.io/github/stars/ThousandBirdsInc/chidori.svg?style=social) - Chidori is a reactive runtime that supports building robust AI agents using languages like Node.js, Python, and Rust, with a focus on reactivity and observability in agent workflows.
+* [Composio](https://github.com/ComposioHQ/composio) ![](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling.
 * [CrewAI](https://github.com/crewAIInc/crewAI) ![](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social) - CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 * [Eko](https://github.com/FellouAI/eko) ![](https://img.shields.io/github/stars/FellouAI/eko.svg?style=social) - Eko is a production-ready JavaScript framework that enables developers to create reliable agents, from simple commands to complex workflows.
 * [LangGraph](https://github.com/langchain-ai/langgraph) ![](https://img.shields.io/github/stars/langchain-ai/langgraph.svg?style=social) - LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.
