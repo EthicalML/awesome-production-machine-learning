@@ -5,11 +5,11 @@ Thank you for your interest in contributing to the awesome production machine le
 When proposing a new tool or section, please keep the following in mind:
 
 * This list is meant to highlight notable tools, not to be an exhaustive directory.
-* Tools should have a minimum of 100 stars on GitHub.
+* Tools should have a minimum of 300 stars on GitHub.
 * Tools should not be listed in more than one section.
 * Tools should not be archived and must have been actively maintained within the last 6 months.
 * Ensure that all contributions are listed in alphabetical order within their respective sections.
-* Before adding a new section, please open an issue for discussion. A new section will only be considered if at least 10 new tools can be identified, demonstrating a clear need for the sub-area.
+* Before adding a new section, please open an issue for discussion. A new section will only be considered if at least 5 new tools can be identified, demonstrating a clear need for the sub-area.
 
 # Review Process
 
