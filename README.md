@@ -19,10 +19,11 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
-| [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) |
-| [🧮 Optimized Computation](#optimized-computation) | [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
+| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
+| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) |
+| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🧮 Optimized Computation](#optimized-computation) |
+| [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -361,6 +362,12 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter) ![](https://img.shields.io/github/stars/andosa/treeinterpreter.svg?style=social) - Package for interpreting scikit-learn's decision tree and random forest predictions. Allows decomposing each prediction into bias and feature contribution components as described [here](http://blog.datadive.net/interpreting-random-forests).
 * [WhatIf](https://github.com/pair-code/what-if-tool) ![](https://img.shields.io/github/stars/pair-code/what-if-tool.svg?style=social) - An easy-to-use interface for expanding understanding of a black-box classification or regression ML model.
 
+## Feature Store
+* [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
+* [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/feathr-ai/feathr.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise 
+* [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
+* [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
+
 ## Industry-strength AD
 * [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
@@ -495,28 +502,26 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vega-Altair](https://github.com/vega/altair) ![](https://img.shields.io/github/stars/vega/altair.svg?style=social) - Vega-Altair is a declarative statistical visualization library for Python.
 * [ydata-profiling](https://github.com/ydataai/ydata-profiling) ![](https://img.shields.io/github/stars/ydataai/ydata-profiling.svg?style=social) - ydata-profiling provides a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution.
 
-## Model, Data and Experiment Management
+## Metadata Management
+* [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 * [Apache Atlas](https://github.com/apache/atlas) ![](https://img.shields.io/github/stars/apache/atlas.svg?style=social) - Apache Atlas framework is an extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
+* [DataHub](https://github.com/datahub-project/datahub) ![](https://img.shields.io/github/stars/datahub-project/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
+* [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
+* [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
+* [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
+
+## Model, Data and Experiment Tracking
 * [AI2 Tango](https://github.com/allenai/tango) ![](https://img.shields.io/github/stars/allenai/tango.svg??style=social) - AI2 Tango replaces messy directories and spreadsheets full of file versions by organizing experiments into discrete steps that can be cached and reused throughout the lifetime of a research project.
 * [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?style=social) - A super-easy way to record, search and compare AI experiments.
-* [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 * [Catalyst](https://github.com/catalyst-team/catalyst) ![](https://img.shields.io/github/stars/catalyst-team/catalyst.svg?style=social) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing.
 * [ClearML](https://github.com/clearml/clearml) ![](https://img.shields.io/github/stars/clearml/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
-* [DataHub](https://github.com/datahub-project/datahub) ![](https://img.shields.io/github/stars/datahub-project/datahub.svg?style=social) - DataHub is LinkedIn's generalized metadata search & discovery tool.
 * [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - DVC (Data Version Control) is a git fork that allows for version management of models.
-* [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
-* [Feathr](https://github.com/feathr-ai/feathr) ![](https://img.shields.io/github/stars/feathr-ai/feathr.svg?style=social) - A scalable, unified data and AI engineering platform for enterprise.
-* [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Guild AI](https://github.com/guildai/guildai) ![](https://img.shields.io/github/stars/guildai/guildai.svg?style=social) - Open source toolkit that automates and optimizes machine learning experiments.
-* [Hopsworks](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Hopsworks is a Real-Time AI Lakehouse for ML with a Python-centric Feature Store and MLOps capabilities.
 * [Keepsake](https://github.com/replicate/keepsake) ![](https://img.shields.io/github/stars/replicate/keepsake.svg?style=social) - Version control for machine learning.
 * [KitOps](https://github.com/jozu-ai/kitops) ![](https://img.shields.io/github/stars/jozu-ai/kitops.svg?style=social) - KitOps is an open and standards-based packaging and versioning system for AI/ML projects that works with all the AI/ML, development, and DevOps tools you are already using.
 * [lakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Repeatable, atomic and versioned data lake on top of object storage.
-* [Marquez](https://github.com/MarquezProject/marquez) ![](https://img.shields.io/github/stars/MarquezProject/marquez.svg?style=social) - Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
-* [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
 * [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment.
-* [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
 * [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - An open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
 * [Neptune](https://github.com/neptune-ai/neptune-client) ![](https://img.shields.io/github/stars/neptune-ai/neptune-client.svg?style=social) - Neptune is a scalable experiment tracker for teams that train foundation models.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys).
