@@ -22,8 +22,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔥 Industry-strength Information Retrieval](#industry-strength-ir) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Security](#privacy-and-security) |
-| [⚔ Robustness & Safety](#robustness-and-safety) | [🏁 Training Orchestration](#training-orchestration) |
+| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Robustness](#privacy-and-robustness) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -253,6 +252,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Apache Spark](https://github.com/apache/spark) ![](https://img.shields.io/github/stars/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 * [Bytewax](https://github.com/bytewax/bytewax) ![](https://img.shields.io/github/stars/bytewax/bytewax.svg?style=social) - Flexible Python-centric stateful stream processing framework built on top of Rust engine.
 * [FastStream](https://github.com/airtai/faststream) ![](https://img.shields.io/github/stars/airtai/faststream.svg?style=social) - A modern broker-agnostic streaming Python framework supporting Apache Kafka, RabbitMQ and NATS protocols, inspired by FastAPI and easily integratable with other web frameworks.
+* [MOA](https://github.com/Waikato/moa) ![](https://img.shields.io/github/stars/Waikato/moa.svg?style=social) - MOA (Massive Online Analysis) is an open source framework for Big Data stream mining.
 * [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - Library for reading and writing large multi-dimensional arrays.
 
 ## Deployment and Serving
@@ -535,21 +535,19 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
 * [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
 
-## Privacy and Security
+## Privacy & Robustness
+* [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox.svg?style=social) - ART (Adversarial Robustness Toolbox) provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference.
+* [CipherChat](https://github.com/RobustNLP/CipherChat) ![](https://img.shields.io/github/stars/RobustNLP/CipherChat.svg?style=social) - CipherChat is a framework to evaluate the generalization capability of safety alignment for LLMs
 * [FATE](https://github.com/FederatedAI/FATE) ![](https://img.shields.io/github/stars/FederatedAI/FATE.svg?style=social) - FATE (Federated AI Technology Enabler) is the world's first industrial grade federated learning open source framework to enable enterprises and institutions to collaborate on data while protecting data security and privacy.
 * [FedML](https://github.com/FedML-AI/FedML) ![](https://img.shields.io/github/stars/FedML-AI/FedML.svg?style=social) - FedML provides a research and production integrated edge-cloud platform for Federated/Distributed Machine Learning at anywhere at any scale.
 * [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - Flower is a Federated Learning Framework with a unified approach. It enables the federation of any ML workload, with any ML framework, and any programming language.
 * [Google's Differential Privacy](https://github.com/google/differential-privacy) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social) - This is a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 * [Guardrails](https://github.com/guardrails-ai/guardrails) ![](https://img.shields.io/github/stars/guardrails-ai/guardrails.svg?style=social) - Guardrails is a package that lets a user add structure, type and quality guarantees to the outputs of large language models.
+* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 * [OpenFL](https://github.com/securefederatedai/openfl)  ![](https://img.shields.io/github/stars/securefederatedai/openfl.svg?style=social) - OpenFL is a Python framework for Federated Learning. OpenFL is designed to be a _flexible_, _extensible_ and _easily learnable_ tool for data scientists. OpenFL is developed by Intel Internet of Things Group (IOTG) and Intel Labs.
 * [PySyft](https://github.com/OpenMined/PySyft) ![](https://img.shields.io/github/stars/OpenMined/PySyft.svg?style=social) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party Computation (MPC) within PyTorch.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
-
-## Robustness and Safety
-* [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox.svg?style=social) - ART (Adversarial Robustness Toolbox) provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference.
-* [CipherChat](https://github.com/RobustNLP/CipherChat) ![](https://img.shields.io/github/stars/RobustNLP/CipherChat.svg?style=social) - CipherChat is a framework to evaluate the generalization capability of safety alignment for LLMs
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 
 ## Training Orchestration
 * [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - Accelerate abstracts exactly and only the boilerplate code related to multi-GPU/TPU/mixed-precision and leaves the rest of your code unchanged.
