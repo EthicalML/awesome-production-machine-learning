@@ -15,7 +15,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 Agentic Framework](#agentic-framwork) | [🔧 AutoML](#automl) |
+| [⚔ Robustness & Safety](#adversarial-and-safety) | [🤖 Agentic Framework](#agentic-framwork) | [🔧 AutoML](#automl) |
 | [🗺️ Computation Load Distribution](#computation-load-distribution) |  [🧮 Computation Optimisation](#computation-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) |
 | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) |
 | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) |
@@ -85,8 +85,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 # Main Content
 
-## Adversarial Robustness
+## Adversarial and Safety
 * [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox.svg?style=social) - ART (Adversarial Robustness Toolbox) provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference.
+* [CipherChat](https://github.com/RobustNLP/CipherChat) ![](https://img.shields.io/github/stars/RobustNLP/CipherChat.svg?style=social) - CipherChat is a framework to evaluate the generalization capability of safety alignment for LLMs
 * [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 
 ## Agentic Framework
