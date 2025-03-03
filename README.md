@@ -259,6 +259,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - Library for reading and writing large multi-dimensional arrays.
 
 ## Deployment and Serving
+* [Agenta](https://github.com/Agenta-AI/agenta) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?style=social) - Agenta provides end-to-end tools for the entire LLMOps workflow: building (LLM playground, evaluation), deploying (prompt and configuration management), and monitoring (LLM observability and tracing).
 * [AirLLM](https://github.com/lyogavin/airllm) ![](https://img.shields.io/github/stars/lyogavin/airllm.svg?style=social) - AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning.
 * [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/BentoML.svg?style=social) - BentoML is an open source framework for high performance ML model serving.
 * [BISHENG](https://github.com/dataelement/bisheng) ![](https://img.shields.io/github/stars/dataelement/bisheng.svg?style=social) - BISHENG is an open LLM application devops platform, focusing on enterprise scenarios.
