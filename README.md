@@ -91,6 +91,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Agentic Framework
 * [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
+* [AIOpsLab](https://github.com/microsoft/AIOpsLab) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) - AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents..
 * [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
 * [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
 * [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) - AutoGen is an open-source framework for building AI agent systems.
