@@ -22,7 +22,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔥 Industry-strength Information Retrieval](#industry-strength-ir) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🧮 Optimized Computation](#optimized-computation) |
+| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🧮 Computation Optimisation](#computation-optimisation) |
 | [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
@@ -488,7 +488,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
 * [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
 
-## Optimized Computation
+## Computation Optimisation
 * [Adapters](https://github.com/adapter-hub/adapters) ![](https://img.shields.io/github/stars/adapter-hub/adapters.svg?style=social) - Adapters is a unified library for parameter-efficient and modular transfer learning.
 * [AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced) ![](https://img.shields.io/github/stars/huggingface/autotrain-advanced.svg?style=social) - AutoTrain Advanced is a no-code solution that allows you to train machine learning models in just a few clicks.
 * [BindsNET](https://github.com/BindsNET/bindsnet) ![](https://img.shields.io/github/stars/BindsNET/bindsnet.svg?style=social) - BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
