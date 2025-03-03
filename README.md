@@ -16,7 +16,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | | | |
 |-|-|-|
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 Agentic Framework](#agentic-framwork) | [🔧 AutoML](#automl) |
-| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
+| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
 | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
@@ -148,7 +148,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ![](https://img.shields.io/github/stars/yahoo/TensorFlowOnSpark.svg?style=social) - TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?style=social) Vespa is an engine for low-latency computation over large data sets.
 
-## Data Labelling and Synthesis
+## Data Annotation and Synthesis
 * [Argilla](https://github.com/argilla-io/argilla) ![](https://img.shields.io/github/stars/argilla-io/argilla.svg?style=social) - Argilla helps domain experts and data teams to build better NLP datasets in less time.
 * [Baal](https://github.com/baal-org/baal) ![](https://img.shields.io/github/stars/baal-org/baal.svg?style=social) - Baal is an active learning library that supports both industrial applications and research usecases.
 * [brat rapid annotation tool](https://github.com/nlplab/brat) ![](https://img.shields.io/github/stars/nlplab/brat.svg?style=social) - Web-based text annotation tool for Named-Entity-Recogntion task.
@@ -165,10 +165,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ![](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social) - Open source tool for labelling images with support for labels, edges, as well as image resizing and zooming in.
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ![](https://img.shields.io/github/stars/abreheret/PixelAnnotationTool.svg?style=social) - Image annotation tool with ability to "colour" on the images to select labels for segmentation. Process is semi-automated with the [watershed marked algorithm of OpenCV](docs.opencv.org/3.1.0/d7/d1b/group__imgproc__misc.html#ga3267243e4d3f95165d55a618c65ac6e1)
 * [refinery](https://github.com/code-kern-ai/refinery) ![](https://img.shields.io/github/stars/code-kern-ai/refinery.svg?style=social) - The data scientist's open-source choice to scale, assess and maintain natural language data.
-* [Rubrix](https://github.com/argilla-io/argilla) ![](https://img.shields.io/github/stars/argilla-io/argilla.svg?style=social) - Open-source tool for tracking, exploring, and labeling data for AI projects.
 * [SDV](https://github.com/sdv-dev/SDV) ![](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social) - Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table and timeseries datasets to later on generate new Synthetic Data that has the same format and statistical properties as the original dataset.
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
 * [Snorkel](https://github.com/snorkel-team/snorkel) ![](https://img.shields.io/github/stars/snorkel-team/snorkel.svg?style=social) - Snorkel is a system for quickly generating training data with weak supervision.
+* [synthcity](https://github.com/vanderschaarlab/synthcity) ![](https://img.shields.io/github/stars/vanderschaarlab/synthcity.svg?style=social) - synthcity is a library for generating and evaluating synthetic tabular data.
 * [YData Synthetic](https://github.com/ydataai/ydata-synthetic) ![](https://img.shields.io/github/stars/ydataai/ydata-synthetic.svg?style=social) - YData Synthetic is a package to generate synthetic tabular and time-series data leveraging the state of the art generative models.
 
 ## Data Pipeline
@@ -620,6 +620,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Training Orchestration
 * [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - Accelerate abstracts exactly and only the boilerplate code related to multi-GPU/TPU/mixed-precision and leaves the rest of your code unchanged.
+* [Avalanche](https://github.com/ContinualAI/avalanche) ![](https://img.shields.io/github/stars/ContinualAI/avalanche.svg?style=social) - Avalanche is an end-to-end Continual Learning library to provide a shared and collaborative open-source (MIT licensed) codebase for fast prototyping, training and reproducible evaluation of continual learning algorithms.
 * [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) ![](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl.svg?style=social) - Axolotl is a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.
 * [CML](https://github.com/iterative/cml) ![](https://img.shields.io/github/stars/iterative/cml.svg?style=social) - Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects.
 * [CoreNet](https://github.com/apple/corenet) ![](https://img.shields.io/github/stars/apple/corenet.svg?style=social) - CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.
