@@ -295,6 +295,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Evaluation and Monitoring
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?style=social) - AlpacaEval is an automatic evaluator for instruction-following language models.
+* [ANN-Benchmarks](https://github.com/erikbern/ann-benchmarks) ![](https://img.shields.io/github/stars/erikbern/ann-benchmarks.svg?style=social) - ANN-Benchmarks is a benchmarking environment for approximate nearest neighbor algorithms search.
 * [ARES](https://github.com/stanford-futuredata/ARES) ![](https://img.shields.io/github/stars/stanford-futuredata/ARES.svg?style=social) - ARES is a framework for automatically evaluating Retrieval-Augmented Generation (RAG) models.
 * [Code Generation LM Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness) ![](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness.svg?style=social) - Code Generation LM Evaluation Harness is a framework for the evaluation of code generation models.
 * [Deepchecks](https://github.com/deepchecks/deepchecks) ![](https://img.shields.io/github/stars/deepchecks/deepchecks.svg?style=social) - Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
