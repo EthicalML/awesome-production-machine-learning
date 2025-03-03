@@ -91,9 +91,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Agentic Framework
 * [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
-* [AIOpsLab](https://github.com/microsoft/AIOpsLab) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) - AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents..
 * [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
 * [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
+* [AIOpsLab](https://github.com/microsoft/AIOpsLab) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) - AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents..
 * [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) - AutoGen is an open-source framework for building AI agent systems.
 * [Chidori](https://github.com/ThousandBirdsInc/chidori) ![](https://img.shields.io/github/stars/ThousandBirdsInc/chidori.svg?style=social) - Chidori is a reactive runtime that supports building robust AI agents using languages like Node.js, Python, and Rust, with a focus on reactivity and observability in agent workflows.
 * [Composio](https://github.com/ComposioHQ/composio) ![](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling.
@@ -402,6 +402,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [R2R](https://github.com/SciPhi-AI/R2R) ![](https://img.shields.io/github/stars/SciPhi-AI/R2R.svg?style=social) - R2R (RAG to Riches) is a comprehensive platform for building, deploying, and scaling RAG applications with hybrid search, multimodal support, and advanced observability.
 * [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) - RAGFlow is a RAG engine based on deep document understanding.
 * [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) ![](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?style=social) - RAGxplorer is a tool to build RAG visualisations.
+* [RAG-FiT](https://github.com/IntelLabs/RAG-FiT) ![](https://img.shields.io/github/stars/IntelLabs/RAG-FiT.svg?style=social) - RAG-FiT is a library designed to improve LLMs ability to use external information by fine-tuning models on specially created RAG-augmented datasets.
 * [Vanna](https://github.com/vanna-ai/vanna) ![](https://img.shields.io/github/stars/vanna-ai/vanna.svg?style=social) - Vanna is a RAG framework for SQL generation and related functionality.
 
 ## Industry Strength NLP
