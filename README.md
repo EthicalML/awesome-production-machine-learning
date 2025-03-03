@@ -19,9 +19,9 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Labelling & Synthesis](#data-labelling-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
-| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-ad) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
+| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
 | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
-| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Tracking](#model-data-and-experiment-tracking) |
+| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) |
 | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🧮 Optimized Computation](#optimized-computation) |
 | [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
 
@@ -368,7 +368,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 
-## Industry-strength AD
+## Industry-strength AnoDet
 * [adtk](https://github.com/arundo/adtk) ![](https://img.shields.io/github/stars/arundo/adtk.svg?style=social)  - A Python toolkit for rule-based/unsupervised anomaly detection in time series.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
 * [Darts](https://github.com/unit8co/darts) ![](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - Darts is a library for user-friendly forecasting and anomaly detection on time series.
@@ -510,7 +510,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Metacat](https://github.com/Netflix/metacat) ![](https://img.shields.io/github/stars/Netflix/metacat.svg?style=social) - Metacat is a unified metadata exploration API service. Metacat focusses on solving these problems: 1) federated views of metadata systems; 2) arbitrary metadata storage about data sets; 3) metadata discovery.
 * [ML Metadata](https://github.com/google/ml-metadata) ![](https://img.shields.io/github/stars/google/ml-metadata.svg?style=social) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows.
 
-## Model, Data and Experiment Tracking
+## Model, Data and Experiment Management
 * [AI2 Tango](https://github.com/allenai/tango) ![](https://img.shields.io/github/stars/allenai/tango.svg??style=social) - AI2 Tango replaces messy directories and spreadsheets full of file versions by organizing experiments into discrete steps that can be cached and reused throughout the lifetime of a research project.
 * [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?style=social) - A super-easy way to record, search and compare AI experiments.
 * [Catalyst](https://github.com/catalyst-team/catalyst) ![](https://img.shields.io/github/stars/catalyst-team/catalyst.svg?style=social) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing.
@@ -626,6 +626,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - Machine learning development environment for data science and AI/ML engineering teams.
 * [Fabrik](https://github.com/Cloud-CV/Fabrik) ![](https://img.shields.io/github/stars/Cloud-CV/Fabrik.svg?style=social) - Fabrik is an online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface.
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Hopsworks is a data-intensive platform for the design and operation of machine learning pipelines that includes a Feature Store - [(Video)](https://www.youtube.com/watch?v=v1DrnY8caVU).
+* [Ignite](https://github.com/pytorch/ignite) ![](https://img.shields.io/github/stars/pytorch/ignite.svg?style=social) - Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 * [Ludwig](https://github.com/ludwig-ai/ludwig) ![](https://img.shields.io/github/stars/ludwig-ai/ludwig.svg?style=social) - Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
 * [Kubeflow](https://github.com/kubeflow/kubeflow) ![](https://img.shields.io/github/stars/kubeflow/kubeflow.svg?style=social) - A cloud-native platform for machine learning based on Google’s internal machine learning pipelines.
 * [MFTCoder](https://github.com/codefuse-ai/MFTCoder) ![](https://img.shields.io/github/stars/codefuse-ai/MFTCoder.svg?style=social) - MFTCoder is an open-source project of CodeFuse for accurate and efficient Multi-task Fine-tuning(MFT) on Large Language Models(LLMs), especially on Code-LLMs(large language model for code tasks).
@@ -639,6 +640,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Sematic](https://github.com/sematic-ai/sematic) ![](https://img.shields.io/github/stars/sematic-ai/sematic.svg?style=social) - Platform to build resource-intensive pipelines with simple Python.
 * [Skaffold](https://github.com/GoogleContainerTools/skaffold) ![](https://img.shields.io/github/stars/GoogleContainerTools/skaffold.svg?style=social) - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters.
 * [Streaming](https://github.com/mosaicml/streaming) ![](https://img.shields.io/github/stars/mosaicml/streaming.svg?style=social) - A Data Streaming Library for Efficient Neural Network Training.
+* [YDF](https://github.com/google/yggdrasil-decision-forests) ![](https://img.shields.io/github/stars/google/yggdrasil-decision-forests.svg?style=social) - YDF (Yggdrasil Decision Forests) is a library to train, evaluate, interpret, and serve Random Forest, Gradient Boosted Decision Trees, CART and Isolation forest models.
 * [TFX](https://github.com/tensorflow/tfx) ![](https://img.shields.io/github/stars/tensorflow/tfx.svg?style=social) - Tensorflow Extended (TFX) is a production oriented configuration framework for ML based on TensorFlow, incl. monitoring and model version management.
 * [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) ![](https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill.svg?style=social) - torchdistill offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config file instead of Python code.
 * [veScale](https://github.com/volcengine/veScale) ![](https://img.shields.io/github/stars/volcengine/veScale.svg?style=social) - veScale is a PyTorch native LLM training framework.
