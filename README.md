@@ -20,7 +20,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
 | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [🔥 Industry-strength Information Retrieval](#industry-strength-ir) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
+| [🔥 Industry-strength Information Retrieval](#industry-strength-infret) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
 | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Robustness](#privacy-and-robustness) | [🏁 Training Orchestration](#training-orchestration) |
 
@@ -386,7 +386,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - Supervision is a Python library designed for efficient computer vision pipeline management, providing tools for annotation, visualization, and monitoring of models.
 * [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) ![](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/VideoSys.svg?style=social) - VideoSys supports many diffusion models with our various acceleration techniques, enabling these models to run faster and consume less memory.
 
-## Industry Strength IR
+## Industry Strength InfRet
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
 * [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?style=social) - Cognita is a RAG framework for building modular and production-ready applications.
 * [DocArray](https://github.com/docarray/docarray) ![](https://img.shields.io/github/stars/docarray/docarray.svg?style=social) - DocArray is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.
