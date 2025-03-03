@@ -16,14 +16,13 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | | | |
 |-|-|-|
 | [⚔ Adversarial Robustness](#adversarial-robustness) | [🤖 Agentic Framework](#agentic-framwork) | [🔧 AutoML](#automl) |
-| [🗺️ Computation Load Distribution](#computation-load-distribution) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
-| [📓 Data Science Notebook](#ds-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
-| [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
-| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) |
-| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) |
-| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🧮 Optimized Computation](#optimized-computation) |
-| [🔏 Privacy & Security](#privacy-and-security) | [🏁 Training Orchestration](#training-orchestration) |
+| [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#ds-notebook) |
+| [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Processing](#data-processing) | [💪 Deployment & Serving](#deployment-and-serving) |
+| [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) |
+| [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
+| [🙌 Industry-strength Recommender System](#industry-strength-recsys) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
+| [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) |
+| [🏁 Model Training](#model-training) | [🔥 Neural Search & Retrieval](#neural-search-and-retrieval) | [🔏 Privacy & Security](#privacy-and-security) |
 
 ## Contributing to the list
 
@@ -127,27 +126,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TPOT](https://github.com/epistasislab/tpot) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?style=social) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc.).
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series.
 
-## Computation Load Distribution
-* [Apache Beam](https://github.com/apache/beam) ![](https://img.shields.io/github/stars/apache/beam.svg?style=social) Apache Beam is a unified programming model for Batch and Streaming.
-* [Bagua](https://github.com/BaguaSys/bagua) ![](https://img.shields.io/github/stars/BaguaSys/bagua.svg?style=social) - Bagua is a performant and flexible distributed training framework for PyTorch, providing a faster alternative to PyTorch DDP and Horovod. It supports advanced distributed training algorithms such as quantization and decentralization.
-* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ![](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg?style=social) - A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
-* [Dask](https://github.com/dask/dask) ![](https://img.shields.io/github/stars/dask/dask.svg?style=social) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng).
-* [DEAP](https://github.com/DEAP/deap) ![](https://img.shields.io/github/stars/DEAP/deap.svg?style=social) - A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms such as multiprocessing and SCOOP.
-* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) ![](https://img.shields.io/github/stars/deepspeedai/DeepSpeed.svg?style=social) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-* [DLRover](https://github.com/intelligent-machine-learning/dlrover) ![](https://img.shields.io/github/stars/intelligent-machine-learning/dlrover.svg?style=social) - DLRover makes the distributed training of large AI models easy, stable, fast and green.
-* [einops](https://github.com/arogozhnikov/einops) ![](https://img.shields.io/github/stars/arogozhnikov/einops.svg?style=social) - Flexible and powerful tensor operations for readable and reliable code.
-* [Flashlight](https://github.com/flashlight/flashlight) ![](https://img.shields.io/github/stars/flashlight/flashlight.svg?style=social) - A fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech.
-* [Hivemind](https://github.com/learning-at-home/hivemind) ![](https://img.shields.io/github/stars/learning-at-home/hivemind.svg?style=social) - Decentralized deep learning in PyTorch.
-* [Horovod](https://github.com/horovod/horovod) ![](https://img.shields.io/github/stars/horovod/horovod.svg?style=social) - Uber's distributed training framework for TensorFlow, Keras, and PyTorch.
-* [Liger Kernel](https://github.com/linkedin/Liger-Kernel) ![](https://img.shields.io/github/stars/linkedin/Liger-Kernel.svg?style=social) - Liger Kernel is a collection of Triton kernels designed specifically for LLM training.
-* [LightGBM](https://github.com/microsoft/LightGBM) ![](https://img.shields.io/github/stars/microsoft/LightGBM.svg?style=social) - LightGBM is a gradient boosting framework that uses tree based learning algorithms.
-* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ![](https://img.shields.io/github/stars/PaddlePaddle/Paddle.svg?style=social) - PaddlePaddle is a framework to perform large-scale deep network training, using data sources distributed across hundreds of nodes. 
-* [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) ![](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning.svg?style=social) - PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.
-* [PyWren](https://github.com/pywren/pywren) ![](https://img.shields.io/github/stars/pywren/pywren.svg?style=social) - Answer the question of the "cloud button" for python function execution. It's a framework that abstracts AWS Lambda to enable data scientists to execute any Python function - [(Video)](https://www.youtube.com/watch?v=OskQytBBdJU).
-* [Ray](https://github.com/ray-project/ray) ![](https://img.shields.io/github/stars/ray-project/ray.svg?style=social) - Ray is a flexible, high-performance distributed execution framework for machine learning ([VIDEO](https://www.youtube.com/watch?v=D_oz7E4v-U0)).
-* [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ![](https://img.shields.io/github/stars/yahoo/TensorFlowOnSpark.svg?style=social) - TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
-* [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?style=social) Vespa is an engine for low-latency computation over large data sets.
-
 ## Data Annotation and Synthesis
 * [Argilla](https://github.com/argilla-io/argilla) ![](https://img.shields.io/github/stars/argilla-io/argilla.svg?style=social) - Argilla helps domain experts and data teams to build better NLP datasets in less time.
 * [Baal](https://github.com/baal-org/baal) ![](https://img.shields.io/github/stars/baal-org/baal.svg?style=social) - Baal is an active learning library that supports both industrial applications and research usecases.
@@ -241,17 +219,21 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Weaviate](https://github.com/weaviate/weaviate) ![](https://img.shields.io/github/stars/weaviate/weaviate.svg?style=social) - A low-latency vector search engine (GraphQL, RESTful) with out-of-the-box support for different media types. Modules include Semantic Search, Q&A, Classification, Customizable Models (PyTorch/TensorFlow/Keras), and more.
 * [Zarr](https://github.com/zarr-developers/zarr-python) ![](https://img.shields.io/github/stars/zarr-developers/zarr-python.svg?style=social) - Python implementation of chunked, compressed, N-dimensional arrays designed for use in parallel computing.
 
-## Data Stream Processing
+## Data Processing
+* [Apache Beam](https://github.com/apache/beam) ![](https://img.shields.io/github/stars/apache/beam.svg?style=social) Apache Beam is a unified programming model for Batch and Streaming.
 * [Apache Flink](https://github.com/apache/flink) ![](https://img.shields.io/github/stars/apache/flink.svg?style=social) - Open source stream processing framework with powerful stream and batch processing capabilities.
 * [Apache Kafka](https://github.com/apache/kafka) ![](https://img.shields.io/github/stars/apache/kafka.svg?style=social) - Kafka client library for buliding applications and microservices where the input and output are stored in kafka clusters.
 * [Apache Samza](https://github.com/apache/samza) ![](https://img.shields.io/github/stars/apache/samza.svg?style=social) - Distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.
 * [Apache Spark](https://github.com/apache/spark) ![](https://img.shields.io/github/stars/apache/spark.svg?style=social) - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 * [Brooklin](https://github.com/linkedin/Brooklin) ![](https://img.shields.io/github/stars/linkedin/Brooklin.svg?style=social) - Distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.
 * [Bytewax](https://github.com/bytewax/bytewax) ![](https://img.shields.io/github/stars/bytewax/bytewax.svg?style=social) - Flexible Python-centric stateful stream processing framework built on top of Rust engine.
+* [Dask](https://github.com/dask/dask) ![](https://img.shields.io/github/stars/dask/dask.svg?style=social) - Distributed parallel processing framework for Pandas and NumPy computations - [(Video)](https://www.youtube.com/watch?v=RA_2qdipVng).
+* [einops](https://github.com/arogozhnikov/einops) ![](https://img.shields.io/github/stars/arogozhnikov/einops.svg?style=social) - Flexible and powerful tensor operations for readable and reliable code.
 * [FastStream](https://github.com/airtai/faststream) ![](https://img.shields.io/github/stars/airtai/faststream.svg?style=social) - A modern broker-agnostic streaming Python framework supporting Apache Kafka, RabbitMQ and NATS protocols, inspired by FastAPI and easily integratable with other web frameworks.
 * [Faust](https://github.com/robinhood/faust) ![](https://img.shields.io/github/stars/robinhood/faust.svg?style=social) - Streaming library built on top of Python's Asyncio library using the async kafka client inspired by the kafka streaming library.
+* [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ![](https://img.shields.io/github/stars/yahoo/TensorFlowOnSpark.svg?style=social) - TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
 * [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - Library for reading and writing large multi-dimensional arrays.
-* [RobustBench](https://github.com/RobustBench/robustbench) ![](https://img.shields.io/github/stars/RobustBench/robustbench.svg?style=social) - another robustness resource maintained by some of the leading names in adversarial ML. They specifically focus on defenses, and onesa standardized adversarial robustness benchmark.
+* [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?style=social) Vespa is an engine for low-latency computation over large data sets.
 
 ## Deployment and Serving
 * [AirLLM](https://github.com/lyogavin/airllm) ![](https://img.shields.io/github/stars/lyogavin/airllm.svg?style=social) - AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning.
@@ -621,7 +603,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?style=social) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?style=social) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
 
-## Training Orchestration
+## Model Training
 * [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - Accelerate abstracts exactly and only the boilerplate code related to multi-GPU/TPU/mixed-precision and leaves the rest of your code unchanged.
 * [Avalanche](https://github.com/ContinualAI/avalanche) ![](https://img.shields.io/github/stars/ContinualAI/avalanche.svg?style=social) - Avalanche is an end-to-end Continual Learning library to provide a shared and collaborative open-source (MIT licensed) codebase for fast prototyping, training and reproducible evaluation of continual learning algorithms.
 * [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) ![](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl.svg?style=social) - Axolotl is a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.
@@ -649,3 +631,19 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) ![](https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill.svg?style=social) - torchdistill offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config file instead of Python code.
 * [veScale](https://github.com/volcengine/veScale) ![](https://img.shields.io/github/stars/volcengine/veScale.svg?style=social) - veScale is a PyTorch native LLM training framework.
 * [YDF](https://github.com/google/yggdrasil-decision-forests) ![](https://img.shields.io/github/stars/google/yggdrasil-decision-forests.svg?style=social) - YDF (Yggdrasil Decision Forests) is a library to train, evaluate, interpret, and serve Random Forest, Gradient Boosted Decision Trees, CART and Isolation forest models.
+
+
+* [Bagua](https://github.com/BaguaSys/bagua) ![](https://img.shields.io/github/stars/BaguaSys/bagua.svg?style=social) - Bagua is a performant and flexible distributed training framework for PyTorch, providing a faster alternative to PyTorch DDP and Horovod. It supports advanced distributed training algorithms such as quantization and decentralization.
+* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ![](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg?style=social) - A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
+* [DEAP](https://github.com/DEAP/deap) ![](https://img.shields.io/github/stars/DEAP/deap.svg?style=social) - A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms such as multiprocessing and SCOOP.
+* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) ![](https://img.shields.io/github/stars/deepspeedai/DeepSpeed.svg?style=social) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+* [DLRover](https://github.com/intelligent-machine-learning/dlrover) ![](https://img.shields.io/github/stars/intelligent-machine-learning/dlrover.svg?style=social) - DLRover makes the distributed training of large AI models easy, stable, fast and green.
+* [Flashlight](https://github.com/flashlight/flashlight) ![](https://img.shields.io/github/stars/flashlight/flashlight.svg?style=social) - A fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech.
+* [Hivemind](https://github.com/learning-at-home/hivemind) ![](https://img.shields.io/github/stars/learning-at-home/hivemind.svg?style=social) - Decentralized deep learning in PyTorch.
+ 
+* [Horovod](https://github.com/horovod/horovod) ![](https://img.shields.io/github/stars/horovod/horovod.svg?style=social) - Uber's distributed training framework for TensorFlow, Keras, and PyTorch.
+* [Liger Kernel](https://github.com/linkedin/Liger-Kernel) ![](https://img.shields.io/github/stars/linkedin/Liger-Kernel.svg?style=social) - Liger Kernel is a collection of Triton kernels designed specifically for LLM training.
+* [LightGBM](https://github.com/microsoft/LightGBM) ![](https://img.shields.io/github/stars/microsoft/LightGBM.svg?style=social) - LightGBM is a gradient boosting framework that uses tree based learning algorithms.
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ![](https://img.shields.io/github/stars/PaddlePaddle/Paddle.svg?style=social) - PaddlePaddle is a framework to perform large-scale deep network training, using data sources distributed across hundreds of nodes. 
+* [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) ![](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning.svg?style=social) - PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.
+* [Ray](https://github.com/ray-project/ray) ![](https://img.shields.io/github/stars/ray-project/ray.svg?style=social) - Ray is a flexible, high-performance distributed execution framework for machine learning ([VIDEO](https://www.youtube.com/watch?v=D_oz7E4v-U0)).
