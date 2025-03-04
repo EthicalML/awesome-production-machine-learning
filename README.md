@@ -1,5 +1,4 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![X](https://img.shields.io/badge/X-%23000000?logo=X&logoColor=white)](https://twitter.com/EthicalML)
 
 
@@ -316,6 +315,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [HELM](https://github.com/stanford-crfm/helm) ![](https://img.shields.io/github/stars/stanford-crfm/helm.svg?style=social) - HELM (Holistic Evaluation of Language Models) provides tools for the holistic evaluation of language models, including standardized datasets, a unified API for various models, diverse metrics, robustness, and fairness perturbations, a prompt construction framework, and a proxy server for unified model access.
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) ![](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai.svg?style=social) - Inspect is a framework for large language model evaluations.
 * [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg?style=social) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
+* [JiWER](https://github.com/jitsi/jiwer) ![](https://img.shields.io/github/stars/jitsi/jiwer.svg?style=social) - JiWER is a simple and fast python package to evaluate an automatic speech recognition system. 
 * [Laminar](https://github.com/lmnr-ai/lmnr) ![](https://img.shields.io/github/stars/lmnr-ai/lmnr.svg?style=social) - Laminar is an open-source platform to trace, evaluate, label, and analyze LLM data for AI products.
 * [Langfuse](https://github.com/langfuse/langfuse) ![](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=social) - Langfuse is an observability & analytics solution for LLM-based applications.
 * [LangTest](https://github.com/JohnSnowLabs/langtest) ![](https://img.shields.io/github/stars/JohnSnowLabs/langtest.svg?style=social) - LangTest is a comprehensive evaluation toolkit for NLP models.
