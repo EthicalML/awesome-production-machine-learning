@@ -409,6 +409,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) - RAGFlow is a RAG engine based on deep document understanding.
 * [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) ![](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?style=social) - RAGxplorer is a tool to build RAG visualisations.
 * [RAG-FiT](https://github.com/IntelLabs/RAG-FiT) ![](https://img.shields.io/github/stars/IntelLabs/RAG-FiT.svg?style=social) - RAG-FiT is a library designed to improve LLMs ability to use external information by fine-tuning models on specially created RAG-augmented datasets.
+* [TextWorld](https://github.com/microsoft/TextWorld) ![](https://img.shields.io/github/stars/microsoft/TextWorld.svg?style=social) - TextWorld is a text-based game generator and extensible sandbox learning environment for training and testing reinforcement learning (RL) agents.
 * [Vanna](https://github.com/vanna-ai/vanna) ![](https://img.shields.io/github/stars/vanna-ai/vanna.svg?style=social) - Vanna is a RAG framework for SQL generation and related functionality.
 
 ## Industry Strength NLP
