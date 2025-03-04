@@ -18,10 +18,11 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [🧮 Computation Optimisation](#computation-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
 | [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
 | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
-| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anodet) | [👁️ Industry-strength Computer Vision](#industry-strength-cv) |
-| [🔥 Industry-strength Information Retrieval](#industry-strength-infret) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recsys) |
-| [🍕 Industry-strength Reinforcement Learning](#industry-strength-rl) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Robustness](#privacy-and-robustness) | [🏁 Training Orchestration](#training-orchestration) |
+| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) | [👁️ Industry-strength Computer Vision](#industry-strength-computer-vision) |
+| [🔥 Industry-strength Information Retrieval](#industry-strength-information-retrieval) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recommender-system) |
+| [🍕 Industry-strength Reinforcement Learning](#industry-strength-reinforcement-learning) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
+| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Robustness](#privacy-and-robustness) |
+| [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -376,14 +377,14 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - A virtual featurestore. Plug-&-play with your existing infra. Data Scientist approved. Discovery, Governance, Lineage, & Collaboration just a pip install away. Supports pandas, Python, spark, SQL + integrations with major cloud vendors. 
 * [Hopsworks Feature Store](https://github.com/logicalclocks/hopsworks) ![](https://img.shields.io/github/stars/logicalclocks/hopsworks.svg?style=social) - Offline/Online Feature Store for ML [(Video)](https://www.youtube.com/watch?v=N1BjPk1smdg).
 
-## Industry-strength AnoDet
+## Industry-strength Anomaly Detection
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect.svg?style=social) - alibi-detect is a Python package focused on outlier, adversarial and concept drift detection.
 * [Darts](https://github.com/unit8co/darts) ![](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - Darts is a library for user-friendly forecasting and anomaly detection on time series.
 * [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?style=social) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 * [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?style=social) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [TFDV](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?style=social) - TFDV (Tensorflow Data Validation) is a library for exploring and validating machine learning data.
 
-## Industry Strength CV
+## Industry Strength Computer Vision
 * [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/deeplake.svg?style=social) - Deep Lake is a data infrastructure optimized for computer vision.
 * [Detectron2](https://github.com/facebookresearch/detectron2) ![](https://img.shields.io/github/stars/facebookresearch/detectron2.svg?style=social) - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
 * [KerasCV](https://github.com/keras-team/keras-cv) ![](https://img.shields.io/github/stars/keras-team/keras-cv.svg?style=social) - KerasCV is a library of modular computer vision oriented Keras components.
@@ -393,7 +394,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?style=social) - Supervision is a Python library designed for efficient computer vision pipeline management, providing tools for annotation, visualization, and monitoring of models.
 * [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) ![](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/VideoSys.svg?style=social) - VideoSys supports many diffusion models with our various acceleration techniques, enabling these models to run faster and consume less memory.
 
-## Industry Strength InfRet
+## Industry Strength Information Retrieval
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
 * [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?style=social) - Cognita is a RAG framework for building modular and production-ready applications.
 * [DocArray](https://github.com/docarray/docarray) ![](https://img.shields.io/github/stars/docarray/docarray.svg?style=social) - DocArray is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.
@@ -415,7 +416,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TextWorld](https://github.com/microsoft/TextWorld) ![](https://img.shields.io/github/stars/microsoft/TextWorld.svg?style=social) - TextWorld is a text-based game generator and extensible sandbox learning environment for training and testing reinforcement learning (RL) agents.
 * [Vanna](https://github.com/vanna-ai/vanna) ![](https://img.shields.io/github/stars/vanna-ai/vanna.svg?style=social) - Vanna is a RAG framework for SQL generation and related functionality.
 
-## Industry Strength NLP
+## Industry Strength Natural Language Processing
 * [aisuite](https://github.com/andrewyng/aisuite) ![](https://img.shields.io/github/stars/andrewyng/aisuite.svg?style=social) - aisuite is a simple, unified interface to multiple generative AI providers.
 * [Align-Anything](https://github.com/PKU-Alignment/align-anything) ![](https://img.shields.io/github/stars/PKU-Alignment/align-anything.svg?style=social) - Align-Anything aims to align any modality large models (any-to-any models), including LLMs, VLMs, and others, with human intentions and values
 * [BERTopic](https://github.com/MaartenGr/BERTopic) ![](https://img.shields.io/github/stars/MaartenGr/BERTopic.svg?style=social) - BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
@@ -451,13 +452,13 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ToolBench](https://github.com/OpenBMB/ToolBench) ![](https://img.shields.io/github/stars/OpenBMB/ToolBench.svg?style=social) - ToolBench is an open platform for training, serving, and evaluating large language model for tool learning.
 * [Transformers](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
-## Industry Strength RecSys
+## Industry Strength Recommender System
 * [EasyRec](https://github.com/alibaba/EasyRec) ![](https://img.shields.io/github/stars/alibaba/EasyRec.svg?style=social) - EasyRec is a framework for large scale recommendation algorithms.
 * [Gorse](https://github.com/gorse-io/gorse) ![](https://img.shields.io/github/stars/gorse-io/gorse.svg?style=social) - Gorse aims to be a universal open-source recommender system that can be quickly introduced into a wide variety of online services.
 * [Merlin](https://github.com/NVIDIA-Merlin/Merlin) ![](https://img.shields.io/github/stars/NVIDIA-Merlin/Merlin.svg?style=social) - NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
 * [Recommenders](https://github.com/recommenders-team/recommenders) ![](https://img.shields.io/github/stars/recommenders-team/recommenders.svg?style=social) - Recommenders contains benchmark and best practices for building recommendation systems, provided as Jupyter notebooks.
 
-## Industry Strength RL
+## Industry Strength Reinforcement Learning
 * [Acme](https://github.com/google-deepmind/acme) ![](https://img.shields.io/github/stars/google-deepmind/acme.svg?style=social) - Acme is a library of reinforcement learning (RL) building blocks that strives to expose simple, efficient, and readable agents.
 * [CleanRL](https://github.com/vwxyzjn/cleanrl) ![](https://img.shields.io/github/stars/vwxyzjn/cleanrl.svg?style=social) - CleanRL is a Deep Reinforcement Learning library that provides high-quality single-file implementation with research-friendly features. The implementation is clean and simple, yet we can scale it to run thousands of experiments using AWS Batch.
 * [CompilerGym](https://github.com/facebookresearch/CompilerGym) ![](https://img.shields.io/github/stars/facebookresearch/CompilerGym.svg?style=social) - CompilerGym is a library of easy to use and performant reinforcement learning environments for compiler tasks.
@@ -523,6 +524,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ClearML](https://github.com/clearml/clearml) ![](https://img.shields.io/github/stars/clearml/clearml.svg?style=social) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
 * [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - DVC (Data Version Control) is a git fork that allows for version management of models.
+* [HuggingFace Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader) ![](https://img.shields.io/github/stars/bodaay/HuggingFaceModelDownloader.svg?style=social) - HuggingFace Model Downloader is a utility tool for downloading models and datasets from the HuggingFace website. It offers multithreaded downloading for LFS files and ensures the integrity of downloaded models with SHA256 checksum verification.
 * [Keepsake](https://github.com/replicate/keepsake) ![](https://img.shields.io/github/stars/replicate/keepsake.svg?style=social) - Version control for machine learning.
 * [KitOps](https://github.com/jozu-ai/kitops) ![](https://img.shields.io/github/stars/jozu-ai/kitops.svg?style=social) - KitOps is an open and standards-based packaging and versioning system for AI/ML projects that works with all the AI/ML, development, and DevOps tools you are already using.
 * [lakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Repeatable, atomic and versioned data lake on top of object storage.
