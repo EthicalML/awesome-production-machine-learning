@@ -20,7 +20,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) | [👁️ Industry-strength Computer Vision](#industry-strength-computer-vision) |
 | [🔥 Industry-strength Information Retrieval](#industry-strength-information-retrieval) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recommender-system) |
 | [🍕 Industry-strength Reinforcement Learning](#industry-strength-reinforcement-learning) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Robustness](#privacy-and-robustness) |
+| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Safety](#privacy-and-safety) |
 | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
@@ -554,7 +554,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PMML](https://dmg.org/pmml) - PMML (Predictive Model Markup Language) is an XML-based standard for representing and sharing predictive models between different applications.
 * [Quanto](https://github.com/huggingface/optimum-quanto) ![](https://img.shields.io/github/stars/huggingface/optimum-quanto.svg?style=social) - Quanto aims to simplify quantizing deep learning models.
 
-## Privacy and Robustness
+## Privacy and Safety
 * [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox.svg?style=social) - ART (Adversarial Robustness Toolbox) provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference.
 * [CipherChat](https://github.com/RobustNLP/CipherChat) ![](https://img.shields.io/github/stars/RobustNLP/CipherChat.svg?style=social) - CipherChat is a framework to evaluate the generalization capability of safety alignment for LLMs
 * [FATE](https://github.com/FederatedAI/FATE) ![](https://img.shields.io/github/stars/FederatedAI/FATE.svg?style=social) - FATE (Federated AI Technology Enabler) is the world's first industrial grade federated learning open source framework to enable enterprises and institutions to collaborate on data while protecting data security and privacy.
