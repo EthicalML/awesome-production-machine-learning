@@ -100,6 +100,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PydanticAI](https://github.com/pydantic/pydantic-ai) ![](https://img.shields.io/github/stars/pydantic/pydantic-ai.svg?style=social) - PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 * [Swarm](https://github.com/openai/swarm) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) - Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration.
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
+* [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
 ## AutoML
 * [AutoGluon](https://github.com/autogluon/autogluon) ![](https://img.shields.io/github/stars/autogluon/autogluon.svg?style=social) - Automated feature, model, and hyperparameter selection for tabular, image, and text data on top of popular machine learning libraries (Scikit-Learn, LightGBM, CatBoost, PyTorch, MXNet).
