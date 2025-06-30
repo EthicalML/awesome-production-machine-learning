@@ -13,15 +13,14 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [🤖 Agentic Framework](#agentic-framework) | [🔧 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) |
-| [🧮 Computation Optimisation](#computation-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) |
-| [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) |
-| [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) |
-| [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) | [👁️ Industry-strength Computer Vision](#industry-strength-computer-vision) |
-| [🔥 Industry-strength Information Retrieval](#industry-strength-information-retrieval) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recommender-system) |
-| [🍕 Industry-strength Reinforcement Learning](#industry-strength-reinforcement-learning) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) |
-| [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Safety](#privacy-and-safety) |
-| [🏁 Training Orchestration](#training-orchestration) |
+| [🔧 AutoML](#automl) | [🗺️ Computation Load Distribution](#computation-load-distribution) | [🧮 Computation Optimisation](#computation-optimisation) |
+| [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#data-science-notebook) |
+| [💾 Data Storage Optimisation](#data-storage-optimisation) | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) |
+| [📈 Evaluation & Monitoring](#evaluation-and-monitoring) | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) |
+| [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) | [👁️ Industry-strength Computer Vision](#industry-strength-computer-vision) | [🔥 Industry-strength Information Retrieval](#industry-strength-information-retrieval) |
+| [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) | [🙌 Industry-strength Recommender System](#industry-strength-recommender-system) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-reinforcement-learning) |
+| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) |
+| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🔏 Privacy & Safety](#privacy-and-safety) | [🏁 Training Orchestration](#training-orchestration) |
 
 ## Contributing to the list
 
@@ -81,26 +80,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 </table>
 
 # Main Content
-
-## Agentic Framework
-* [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
-* [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
-* [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
-* [AgentStack](https://github.com/AgentOps-AI/AgentStack) ![](https://img.shields.io/github/stars/AgentOps-AI/AgentStack.svg?style=social) - AgentStack scaffolds your agent stack.
-* [AIOpsLab](https://github.com/microsoft/AIOpsLab) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) - AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents..
-* [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) - AutoGen is an open-source framework for building AI agent systems.
-* [Chidori](https://github.com/ThousandBirdsInc/chidori) ![](https://img.shields.io/github/stars/ThousandBirdsInc/chidori.svg?style=social) - Chidori is a reactive runtime that supports building robust AI agents using languages like Node.js, Python, and Rust, with a focus on reactivity and observability in agent workflows.
-* [Composio](https://github.com/ComposioHQ/composio) ![](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling.
-* [CrewAI](https://github.com/crewAIInc/crewAI) ![](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social) - CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents.
-* [Eko](https://github.com/FellouAI/eko) ![](https://img.shields.io/github/stars/FellouAI/eko.svg?style=social) - Eko is a production-ready JavaScript framework that enables developers to create reliable agents, from simple commands to complex workflows.
-* [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg?style=social) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
-* [LangGraph](https://github.com/langchain-ai/langgraph) ![](https://img.shields.io/github/stars/langchain-ai/langgraph.svg?style=social) - LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.
-* [Modelscope-Agent](https://github.com/modelscope/modelscope-agent) ![](https://img.shields.io/github/stars/modelscope/modelscope-agent.svg?style=social) - Modelscope-Agent is a customizable and scalable agent framework.
-* [OpenAGI](https://github.com/agiresearch/OpenAGI) ![](https://img.shields.io/github/stars/agiresearch/OpenAGI.svg?style=social) - OpenAGI is used as the agent creation package to build agents for AIOS.
-* [PydanticAI](https://github.com/pydantic/pydantic-ai) ![](https://img.shields.io/github/stars/pydantic/pydantic-ai.svg?style=social) - PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
-* [Swarm](https://github.com/openai/swarm) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) - Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration.
-* [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
-* [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
 ## AutoML
 * [AutoGluon](https://github.com/autogluon/autogluon) ![](https://img.shields.io/github/stars/autogluon/autogluon.svg?style=social) - Automated feature, model, and hyperparameter selection for tabular, image, and text data on top of popular machine learning libraries (Scikit-Learn, LightGBM, CatBoost, PyTorch, MXNet).
