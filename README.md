@@ -13,7 +13,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [🔧 AutoML](#automl) | [🧮 Communication & Optimisation](#communication-and-computation-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) |
+| [🔧 AutoML](#automl) | [🧮 Computation & Communication Optimisation](#computation-and-communication-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) |
 | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) |
 | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) |
 | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) |
@@ -97,7 +97,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TPOT](https://github.com/epistasislab/tpot) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?style=social) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc.).
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic extraction of relevant features from time series.
 
-## Communication and Computation Optimisation
+## Computation and Communication Optimisation
 
 * [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - Accelerate abstracts exactly and only the boilerplate code related to multi-GPU/TPU/mixed-precision and leaves the rest of your code unchanged.
 * [Adapters](https://github.com/adapter-hub/adapters) ![](https://img.shields.io/github/stars/adapter-hub/adapters.svg?style=social) - Adapters is a unified library for parameter-efficient and modular transfer learning.
