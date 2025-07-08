@@ -71,10 +71,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
   </tr>
   <tr>
     <td width="30%">
-         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-regulation/">Awesome Artificial Intelligence Regulation</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence.
+         Also check out the <a href="https://github.com/EthicalML/awesome-production-genai/">Awesome Production GenAI</a> List, where we aim to map a curated list of awesome open source libraries to deploy, monitor, version and scale your generative artificial intelligence applications and systems.
     </td>
     <td width="70%">
-        <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/"><img src="images/guidelines.jpg"></a>
+        <a href="https://github.com/EthicalML/awesome-production-genai/"><img src="images/list.jpg"></a>
     </td>
   </tr>
 </table>
