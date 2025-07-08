@@ -63,7 +63,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 <table>
   <tr>
     <td width="30%">
-         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 10,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning.
+         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 70,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning.
     </td>
     <td width="70%">
         <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a>
