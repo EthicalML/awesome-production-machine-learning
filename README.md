@@ -155,6 +155,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [torchkeras](https://github.com/lyhue1991/torchkeras?tab=readme-ov-file) ![](https://img.shields.io/github/stars/lyhue1991/torchkeras?tab=readme-ov-file.svg?style=social) The torchkeras library is a simple tool for training neural network in pytorch jusk in a keras style.
 * [veScale](https://github.com/volcengine/veScale) ![](https://img.shields.io/github/stars/volcengine/veScale.svg?style=social) - veScale is a PyTorch native LLM training framework.
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
+* [CodeFlash.AI](https://github.com/codeflash-ai/codeflash) ![](https://img.shields.io/github/stars/codeflash-ai/codeflash.svg?style=social) - AI-powered Python code optimizer that rewrites code for maximum performance with verified correctness, integrating seamlessly into GitHub workflows.
 
 ## Data Annotation and Synthesis
 * [Argilla](https://github.com/argilla-io/argilla) ![](https://img.shields.io/github/stars/argilla-io/argilla.svg?style=social) - Argilla helps domain experts and data teams to build better NLP datasets in less time.
