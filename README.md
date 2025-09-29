@@ -170,6 +170,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SDV](https://github.com/sdv-dev/SDV) ![](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social) - Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table and timeseries datasets to later on generate new Synthetic Data that has the same format and statistical properties as the original dataset.
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?style=social) - Hitachi's Open source tool for labelling camera and LIDAR data.
 * [synthcity](https://github.com/vanderschaarlab/synthcity) ![](https://img.shields.io/github/stars/vanderschaarlab/synthcity.svg?style=social) - synthcity is a library for generating and evaluating synthetic tabular data.
+* [ViPE](https://github.com/nv-tlabs/vipe) ![](https://img.shields.io/github/stars/nv-tlabs/vipe.svg?style=social) - ViPE is a spatial AI tool for annotating camera poses and dense depth maps from raw videos.
 * [YData Synthetic](https://github.com/ydataai/ydata-synthetic) ![](https://img.shields.io/github/stars/ydataai/ydata-synthetic.svg?style=social) - YData Synthetic is a package to generate synthetic tabular and time-series data leveraging the state of the art generative models.
 
 ## Data Pipeline
