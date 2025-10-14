@@ -245,8 +245,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Bytewax](https://github.com/bytewax/bytewax) ![](https://img.shields.io/github/stars/bytewax/bytewax.svg?style=social) - Flexible Python-centric stateful stream processing framework built on top of Rust engine.
 * [FastStream](https://github.com/airtai/faststream) ![](https://img.shields.io/github/stars/airtai/faststream.svg?style=social) - A modern broker-agnostic streaming Python framework supporting Apache Kafka, RabbitMQ and NATS protocols, inspired by FastAPI and easily integratable with other web frameworks.
 * [MOA](https://github.com/Waikato/moa) ![](https://img.shields.io/github/stars/Waikato/moa.svg?style=social) - MOA (Massive Online Analysis) is an open source framework for Big Data stream mining.
-* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - Library for reading and writing large multi-dimensional arrays.
 * [MosaicML Streaming](https://github.com/mosaicml/streaming) ![](https://img.shields.io/github/stars/mosaicml/streaming.svg?style=social) - Fast, deterministic streaming of large datasets from cloud storage for distributed model training.
+* [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?style=social) - Library for reading and writing large multi-dimensional arrays.
 
 
 ## Deployment and Serving
