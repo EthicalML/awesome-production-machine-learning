@@ -278,6 +278,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MLRun](https://github.com/mlrun/mlrun)![](https://img.shields.io/github/stars/mlrun/mlrun.svg)- MLRun is an open MLOps framework for quickly building and managing continuous ML and generative AI applications across their lifecycle.
 * [MLServer](https://github.com/SeldonIO/mlserver) ![](https://img.shields.io/github/stars/SeldonIO/mlserver.svg) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more.
 * [Mosec](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec.svg) - A rust-powered and multi-stage pipelined model server which offers dynamic batching and more. Super easy to implement and deploy as micro-services.
+* [nndeploy](https://github.com/nndeploy/nndeploy) ![](https://img.shields.io/github/stars/nndeploy/nndeploy.svg) - An Easy-to-Use and High-Performance AI deployment framework.
 * [Nuclio](https://github.com/nuclio/nuclio) ![](https://img.shields.io/github/stars/nuclio/nuclio.svg) - A high-performance "serverless" framework focused on data, I/O, and compute-intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
 * [OpenLLM](https://github.com/bentoml/OpenLLM) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg) - OpenLLM allows developers to run any open-source LLMs (Llama 3.1, Qwen2, Phi3 and more) or custom models as OpenAI-compatible APIs with a single command.
 * [OpenVINO](https://github.com/openvinotoolkit/openvino) ![](https://img.shields.io/github/stars/openvinotoolkit/openvino.svg) - OpenVINO is an open-source toolkit for optimizing and deploying AI inference.
@@ -295,6 +296,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg) - Search, make inferences in and organize vectors, tensors, text and structured data, at serving time and any scale.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
+
 
 ## Evaluation and Monitoring
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg) - AlpacaEval is an automatic evaluator for instruction-following language models.
