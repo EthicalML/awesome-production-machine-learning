@@ -249,6 +249,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [FastStream](https://github.com/airtai/faststream) ![](https://img.shields.io/github/stars/airtai/faststream.svg?cacheSeconds=86400) - A modern broker-agnostic streaming Python framework supporting Apache Kafka, RabbitMQ and NATS protocols, inspired by FastAPI and easily integratable with other web frameworks.
 * [MOA](https://github.com/Waikato/moa) ![](https://img.shields.io/github/stars/Waikato/moa.svg?cacheSeconds=86400) - MOA (Massive Online Analysis) is an open source framework for Big Data stream mining.
 * [MosaicML Streaming](https://github.com/mosaicml/streaming) ![](https://img.shields.io/github/stars/mosaicml/streaming.svg?cacheSeconds=86400) - Fast, deterministic streaming of large datasets from cloud storage for distributed model training.
+* [RisingWave](https://github.com/risingwavelabs/risingwave) ![](https://img.shields.io/github/stars/risingwavelabs/risingwave.svg?cacheSeconds=86400) - A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
 * [TensorStore](https://github.com/google/tensorstore) ![](https://img.shields.io/github/stars/google/tensorstore.svg?cacheSeconds=86400) - Library for reading and writing large multi-dimensional arrays.
 
 
