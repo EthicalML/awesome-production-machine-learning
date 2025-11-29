@@ -621,6 +621,12 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?cacheSeconds=86400) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?cacheSeconds=86400) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
 
+## Learning & Educational Resources
+
+Platforms and courses for learning production ML systems, MLOps, and deployment best practices.
+
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems) - Interactive learning platform for production ML systems with 28 lessons covering deployment, serving, monitoring, feature stores, and MLOps. Features AI tutor, collaborative whiteboards, quizzes, and hands-on projects. Free and open access.
+
 # Other Awesome Lists
 
 **[Awesome Production GenAI](https://github.com/EthicalML/awesome-production-genai)** - Focuses specifically on generative AI deployment, including LLM operations, prompt engineering, and GenAI-specific monitoring and safety tools.
