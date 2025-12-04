@@ -204,14 +204,15 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Data Science Notebook
 * [Apache Zeppelin](https://github.com/apache/zeppelin) ![](https://img.shields.io/github/stars/apache/zeppelin.svg?cacheSeconds=86400) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+* [Deepnote](https://github.com/deepnote/deepnote) ![](https://img.shields.io/github/stars/deepnote/deepnote.svg?cacheSeconds=86400) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
 * [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?cacheSeconds=86400) - Web interface python sandbox environments for reproducible development
 * [Marimo](https://github.com/marimo-team/marimo) ![](https://img.shields.io/github/stars/marimo-team/marimo.svg?cacheSeconds=86400) - Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
-* [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?cacheSeconds=86400) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 * [Papermill](https://github.com/nteract/papermill) ![](https://img.shields.io/github/stars/nteract/papermill.svg?cacheSeconds=86400) - Papermill is a library for parameterizing notebooks and executing them like Python scripts.
 * [Polynote](https://github.com/polynote/polynote) ![](https://img.shields.io/github/stars/polynote/polynote.svg?cacheSeconds=86400) - Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega.
 * [RMarkdown](https://github.com/rstudio/rmarkdown) ![](https://img.shields.io/github/stars/rstudio/rmarkdown.svg?cacheSeconds=86400) - The rmarkdown package is a next generation implementation of R Markdown based on Pandoc.
 * [Stencila](https://github.com/stencila/stencila) ![](https://img.shields.io/github/stars/stencila/stencila.svg?cacheSeconds=86400) - Stencila is a platform for creating, collaborating on, and sharing data driven content. Content that is transparent and reproducible.
 * [Voilà](https://github.com/voila-dashboards/voila) ![](https://img.shields.io/github/stars/voila-dashboards/voila.svg?cacheSeconds=86400) - Voilà turns Jupyter notebooks into standalone web applications that can e.g. be used as dashboards.
+* [.NET Interactive](https://github.com/dotnet/interactive) ![](https://img.shields.io/github/stars/dotnet/interactive.svg?cacheSeconds=86400) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 
 ## Data Storage Optimisation
 * [AIStore](https://github.com/NVIDIA/aistore) ![](https://img.shields.io/github/stars/NVIDIA/aistore.svg?cacheSeconds=86400) - AIStore is a lightweight object storage system with the capability to linearly scale out with each added storage node and a special focus on petascale deep learning.
