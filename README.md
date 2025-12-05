@@ -513,6 +513,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [slime](https://github.com/THUDM/slime) ![](https://img.shields.io/github/stars/THUDM/slime.svg?cacheSeconds=86400) - slime is an LLM post-training framework for RL Scaling.
 * [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) ![](https://img.shields.io/github/stars/DLR-RM/stable-baselines3.svg?cacheSeconds=86400) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 * [TF-Agents](https://github.com/tensorflow/agents) ![](https://img.shields.io/github/stars/tensorflow/agents.svg?cacheSeconds=86400) - A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
+* [TorchRL](https://github.com/pytorch/rl) ![](https://img.shields.io/github/stars/pytorch/rl.svg?cacheSeconds=86400) - TorchRL is an open-source Reinforcement Learning (RL) library for PyTorch.
 * [TRL](https://github.com/huggingface/trl) ![](https://img.shields.io/github/stars/huggingface/trl.svg?cacheSeconds=86400) - Train transformer language models with reinforcement learning. 
 * [veRL](https://github.com/volcengine/veRL) ![](https://img.shields.io/github/stars/volcengine/veRL.svg?cacheSeconds=86400) - veRL (HybridFlow) is a flexible, efficient and industrial-level RL(HF) training framework designed for LLMs. 
 
