@@ -18,9 +18,9 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) |
 | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) |
 | [👁️ Industry-strength Computer Vision](#industry-strength-computer-vision) | [🔥 Industry-strength Information Retrieval](#industry-strength-information-retrieval) | [🔠 Industry-strength Natural Language Processing](#industry-strength-nlp) |
-| [🙌 Industry-strength Recommender System](#industry-strength-recommender-system) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-reinforcement-learning) | [📊 Industry-strength Visualisation](#industry-strength-visualisation) |
-| [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) | [🔩 Model Storage Optimisation](#model-storage-optimisation) |
-| [🏁 Model Training & Orchestration](#model-training-and-orchestration) | [🔏 Privacy & Safety](#privacy-and-safety) |
+| [🙌 Industry-strength Recommender System](#industry-strength-recommender-system) | [🍕 Industry-strength Reinforcement Learning](#industry-strength-reinforcement-learning) | [🤖 Industry-strength Robotics](#industry-strength-robotics) |
+| [📊 Industry-strength Visualisation](#industry-strength-visualisation) | [📅 Metadata Management](#metadata-management) | [📜 Model, Data & Experiment Management](#model-data-and-experiment-management) |
+| [🔩 Model Storage Optimisation](#model-storage-optimisation) | [🏁 Model Training & Orchestration](#model-training-and-orchestration) | [🔏 Privacy & Safety](#privacy-and-safety) |
 
 ## Contributing to the list
 
@@ -518,6 +518,13 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TorchRL](https://github.com/pytorch/rl) ![](https://img.shields.io/github/stars/pytorch/rl.svg?cacheSeconds=86400) - TorchRL is an open-source Reinforcement Learning (RL) library for PyTorch.
 * [TRL](https://github.com/huggingface/trl) ![](https://img.shields.io/github/stars/huggingface/trl.svg?cacheSeconds=86400) - Train transformer language models with reinforcement learning. 
 * [veRL](https://github.com/volcengine/veRL) ![](https://img.shields.io/github/stars/volcengine/veRL.svg?cacheSeconds=86400) - veRL (HybridFlow) is a flexible, efficient and industrial-level RL(HF) training framework designed for LLMs. 
+
+## Industry Strength Robotics
+* [AI2-THOR](https://github.com/allenai/ai2thor) ![](https://img.shields.io/github/stars/allenai/ai2thor.svg?cacheSeconds=86400) - AI2-THOR is a near photo-realistic interactable framework for AI agents.
+* [Habitat-Sim](https://github.com/facebookresearch/habitat-sim) ![](https://img.shields.io/github/stars/facebookresearch/habitat-sim.svg?cacheSeconds=86400) - Habitat-Sim is a flexible, high-performance 3D simulator for Embodied AI research.
+* [IsaacLab](https://github.com/isaac-sim/IsaacLab) ![](https://img.shields.io/github/stars/isaac-sim/IsaacLab.svg?cacheSeconds=86400) - IsaacLab is a unified and modular framework for robot learning that leverages NVIDIA Isaac Sim.
+* [robosuite](https://github.com/ARISE-Initiative/robosuite) ![](https://img.shields.io/github/stars/ARISE-Initiative/robosuite.svg?cacheSeconds=86400) - robosuite is a simulation framework powered by the MuJoCo physics engine for robot learning.
+* [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) ![](https://img.shields.io/github/stars/RoboVerseOrg/RoboVerse.svg?cacheSeconds=86400) - RoboVerse is a comprehensive robotics simulation platform with diverse environments.
 
 ## Industry Strength Visualisation
 * [Apache ECharts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts.svg?cacheSeconds=86400) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
