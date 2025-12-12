@@ -28,7 +28,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: grey)"
     srcset="
       https://api.star-history.com/svg?repos=EthicalML/awesome-production-machine-learning&type=Date&theme=dark
     "
