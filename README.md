@@ -414,7 +414,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) ![](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/VideoSys.svg?cacheSeconds=86400) - VideoSys supports many diffusion models with our various acceleration techniques, enabling these models to run faster and consume less memory.
 
 ## Industry Strength Information Retrieval
-* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ![](https://img.shields.io/github/stars/Yigtwxx/Awesome-RAG-Production.svg?cacheSeconds=86400) - Curated list of production-grade tools and best practices for building scalable RAG systems.
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?cacheSeconds=86400) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
 * [BGE](https://github.com/FlagOpen/FlagEmbedding) ![](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?cacheSeconds=86400) - BGE builds one-stop retrieval toolkit for search and RAG.
 * [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?cacheSeconds=86400) - Cognita is a RAG framework for building modular and production-ready applications.
@@ -641,6 +640,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 # Other Awesome Lists
 
+**[Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation)** - Covers governance, compliance, and regulatory frameworks essential for responsible ML system deployment across different jurisdictions.
+
 **[Awesome Production GenAI](https://github.com/EthicalML/awesome-production-genai)** - Focuses specifically on generative AI deployment, including LLM operations, prompt engineering, and GenAI-specific monitoring and safety tools.
 
-**[Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation)** - Covers governance, compliance, and regulatory frameworks essential for responsible ML system deployment across different jurisdictions.
+**[Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production)** - Curated list of production-grade tools and best practices for building scalable RAG systems.
+
