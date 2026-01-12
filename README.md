@@ -578,6 +578,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?cacheSeconds=86400) - Versioning, reproducibility and deployment of data and models.
 * [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?cacheSeconds=86400) - Tool to help you configure, organize, log and reproduce machine learning experiments.
 * [TerminusDB](https://github.com/terminusdb/terminusdb) ![](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?cacheSeconds=86400) - A graph database management system that stores data like git.
+* [Valohai CLI](https://github.com/valohai/valohai-cli)) ![](https://img.shields.io/github/stars/valohai-cli/valohai-cli.svg?cacheSeconds=86400) - Open source command-line tool for running and reproducing machine learning workflows locally and on remote compute, with versioned execution metadata and reproducible execution.
 * [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?cacheSeconds=86400) - Weights & Biase is a machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration.
 
 ## Model Training and Orchestration
