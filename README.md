@@ -537,6 +537,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Apache Superset](https://github.com/apache/superset) ![](https://img.shields.io/github/stars/apache/superset.svg?cacheSeconds=86400) - A modern, enterprise-ready business intelligence web application.
 * [Bokeh](https://github.com/bokeh/bokeh) ![](https://img.shields.io/github/stars/bokeh/bokeh.svg?cacheSeconds=86400) - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 * [Bread Dataset Viewer](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without the IDE crashing.
+* [Bread WandB Viewer](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI & preserving data privacy by being 100% offline.
 * [Data Formulator](https://github.com/microsoft/data-formulator) ![](https://img.shields.io/github/stars/microsoft/data-formulator.svg?cacheSeconds=86400) - Transform data and create rich visualizations iteratively with AI.
 * [ggplot2](https://github.com/tidyverse/ggplot2) ![](https://img.shields.io/github/stars/tidyverse/ggplot2.svg?cacheSeconds=86400) - An implementation of the grammar of graphics for R.
 * [gradio](https://github.com/gradio-app/gradio) ![](https://img.shields.io/github/stars/gradio-app/gradio.svg?cacheSeconds=86400) - Quickly create and share demos of models - by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
@@ -566,7 +567,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Model, Data and Experiment Management
 * [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?cacheSeconds=86400) - A super-easy way to record, search and compare AI experiments.
-* [Bread WandB Viewer](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI & preserving data privacy by being 100% offline.
 * [ClearML](https://github.com/clearml/clearml) ![](https://img.shields.io/github/stars/clearml/clearml.svg?cacheSeconds=86400) - Auto-Magical Experiment Manager & Version Control for AI (previously Trains).
 * [DataHub](https://github.com/datahub-project/datahub) ![](https://img.shields.io/github/stars/datahub-project/datahub.svg?cacheSeconds=86400) - DataHub is an open-source data catalog for the modern data stack.
 * [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?cacheSeconds=86400) - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
