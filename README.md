@@ -311,6 +311,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## Evaluation and Monitoring
+
+- [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring for 120+ developer APIs including AWS, Stripe, GitHub, OpenAI, and more
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?cacheSeconds=86400) - AlpacaEval is an automatic evaluator for instruction-following language models.
 * [ANN-Benchmarks](https://github.com/erikbern/ann-benchmarks) ![](https://img.shields.io/github/stars/erikbern/ann-benchmarks.svg?cacheSeconds=86400) - ANN-Benchmarks is a benchmarking environment for approximate nearest neighbor algorithms search.
 * [ARES](https://github.com/stanford-futuredata/ARES) ![](https://img.shields.io/github/stars/stanford-futuredata/ARES.svg?cacheSeconds=86400) - ARES is a framework for automatically evaluating Retrieval-Augmented Generation (RAG) models.
