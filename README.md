@@ -1,5 +1,3 @@
-Content type text/plain; charset=utf-8 cannot be simplified to markdown, but here is the raw content:
-Contents of https://raw.githubusercontent.com/noahaust2/awesome-production-machine-learning/add-ai-displacement-tracker/README.md:
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![X](https://img.shields.io/badge/X-%23000000?logo=X&logoColor=white)](https://twitter.com/EthicalML)
 
