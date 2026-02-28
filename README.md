@@ -1,3 +1,5 @@
+Content type text/plain; charset=utf-8 cannot be simplified to markdown, but here is the raw content:
+Contents of https://raw.githubusercontent.com/noahaust2/awesome-production-machine-learning/add-ai-displacement-tracker/README.md:
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![X](https://img.shields.io/badge/X-%23000000?logo=X&logoColor=white)](https://twitter.com/EthicalML)
 
@@ -631,6 +633,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Privacy and Safety
 * [AI Gateway](https://github.com/portkey-ai/gateway) ![](https://img.shields.io/github/stars/portkey-ai/gateway.svg?cacheSeconds=86400) - The AI Gateway is a blazing fast AI Gateway with integrated guardrails.
+* [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) ![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker.svg?cacheSeconds=86400) - Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
 * [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ![](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox.svg?cacheSeconds=86400) - ART (Adversarial Robustness Toolbox) provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference.
 * [CipherChat](https://github.com/RobustNLP/CipherChat) ![](https://img.shields.io/github/stars/RobustNLP/CipherChat.svg?cacheSeconds=86400) - CipherChat is a framework to evaluate the generalization capability of safety alignment for LLMs
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?cacheSeconds=86400) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
