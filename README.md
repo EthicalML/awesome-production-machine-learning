@@ -82,6 +82,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 # Main Content
 
 ## AutoML
+* [AIDE](https://github.com/WecoAI/aideml) ![](https://img.shields.io/github/stars/WecoAI/aideml.svg?cacheSeconds=86400) - AIDE is an open-source ML engineering agent that uses a tree search algorithm to autonomously explore, implement, and evaluate solution strategies for machine learning tasks.
 * [AutoGluon](https://github.com/autogluon/autogluon) ![](https://img.shields.io/github/stars/autogluon/autogluon.svg?cacheSeconds=86400) - Automated feature, model, and hyperparameter selection for tabular, image, and text data on top of popular machine learning libraries (Scikit-Learn, LightGBM, CatBoost, PyTorch, MXNet).
 * [Autokeras](https://github.com/keras-team/autokeras) ![](https://img.shields.io/github/stars/keras-team/autokeras.svg?cacheSeconds=86400) - AutoML library for Keras based on ["Auto-Keras: Efficient Neural Architecture Search with Network Morphism"](https://arxiv.org/abs/1806.10282).
 * [auto-sklearn](https://github.com/automl/auto-sklearn) ![](https://img.shields.io/github/stars/automl/auto-sklearn.svg?cacheSeconds=86400) - Framework to automate algorithm and hyperparameter tuning for sklearn.
