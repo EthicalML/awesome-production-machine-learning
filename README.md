@@ -14,6 +14,8 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | | | |
 |-|-|-|
 | [🔧 AutoML](#automl) | [🧮 Computation & Communication Optimisation](#computation-and-communication-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) |
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) |
 | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) |
 | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) |
