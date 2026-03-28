@@ -14,8 +14,6 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | | | |
 |-|-|-|
 | [🔧 AutoML](#automl) | [🧮 Computation & Communication Optimisation](#computation-and-communication-optimisation) | [🏷️ Data Annotation & Synthesis](#data-annotation-and-synthesis) |
-
-- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 | [🧵 Data Pipeline](#data-pipeline) | [📓 Data Science Notebook](#data-science-notebook) | [💾 Data Storage Optimisation](#data-storage-optimisation) |
 | [💸 Data Stream Processing](#data-stream-processing) | [💪 Deployment & Serving](#deployment-and-serving) | [📈 Evaluation & Monitoring](#evaluation-and-monitoring) |
 | [🔍 Explainability & Fairness](#explainability-and-fairness) | [🎁 Feature Store](#feature-store) | [🔴 Industry-strength Anomaly Detection](#industry-strength-anomaly-detection) |
@@ -176,6 +174,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SDV](https://github.com/sdv-dev/SDV) ![](https://img.shields.io/github/stars/sdv-dev/SDV.svg?cacheSeconds=86400) - Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table and timeseries datasets to later on generate new Synthetic Data that has the same format and statistical properties as the original dataset.
 * [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor.svg?cacheSeconds=86400) - Hitachi's Open source tool for labelling camera and LIDAR data.
 * [synthcity](https://github.com/vanderschaarlab/synthcity) ![](https://img.shields.io/github/stars/vanderschaarlab/synthcity.svg?cacheSeconds=86400) - synthcity is a library for generating and evaluating synthetic tabular data.
+* [TabGAN](https://github.com/Diyago/Tabular-data-generation) ![](https://img.shields.io/github/stars/Diyago/Tabular-data-generation.svg?cacheSeconds=86400) - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 * [ViPE](https://github.com/nv-tlabs/vipe) ![](https://img.shields.io/github/stars/nv-tlabs/vipe.svg?cacheSeconds=86400) - ViPE is a spatial AI tool for annotating camera poses and dense depth maps from raw videos.
 * [YData Synthetic](https://github.com/ydataai/ydata-synthetic) ![](https://img.shields.io/github/stars/ydataai/ydata-synthetic.svg?cacheSeconds=86400) - YData Synthetic is a package to generate synthetic tabular and time-series data leveraging the state of the art generative models.
 
