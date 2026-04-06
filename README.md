@@ -9,6 +9,7 @@ You can keep up to date by watching this github repo to get a summary of the new
 
 Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/Awesome-Production-Machine-Learning-Search) that helps you quickly navigate through the toolchain.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with task registry, quality gates, and heartbeat monitoring. MIT licensed.
 ## Quick links to sections on this page
 
 | | | |
