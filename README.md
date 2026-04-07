@@ -259,6 +259,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 
 ## Deployment and Serving
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 * [Agenta](https://github.com/Agenta-AI/agenta) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?cacheSeconds=86400) - Agenta provides end-to-end tools for the entire LLMOps workflow: building (LLM playground, evaluation), deploying (prompt and configuration management), and  (LLM observability and tracing).
 * [AirLLM](https://github.com/lyogavin/airllm) ![](https://img.shields.io/github/stars/lyogavin/airllm.svg?cacheSeconds=86400) - AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning.
 * [AITemplate](https://github.com/facebookincubator/AITemplate) ![](https://img.shields.io/github/stars/facebookincubator/AITemplate.svg?cacheSeconds=86400) - AITemplate (AIT) is a Python framework that transforms deep neural networks into CUDA (NVIDIA GPU) / HIP (AMD GPU) C++ code for lightning-fast inference serving.
