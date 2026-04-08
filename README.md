@@ -383,6 +383,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [VBench](https://github.com/Vchitect/VBench) ![](https://img.shields.io/github/stars/Vchitect/VBench.svg?cacheSeconds=86400) - VBench is a comprehensive benchmark suite for video generative models.
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?cacheSeconds=86400) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=EthicalML_awesome-production-machine-learning) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## Explainability and Fairness
 * [Aequitas](https://github.com/dssg/aequitas) ![](https://img.shields.io/github/stars/dssg/aequitas.svg?cacheSeconds=86400) - An open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
 * [AI Explainability 360](https://github.com/Trusted-AI/AIX360) ![](https://img.shields.io/github/stars/Trusted-AI/AIX360.svg?cacheSeconds=86400) - Interpretability and explainability of data and machine learning models including a comprehensive set of algorithms that cover different dimensions of explanations along with proxy explainability metrics.
