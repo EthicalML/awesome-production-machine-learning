@@ -431,6 +431,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) ![](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/VideoSys.svg?cacheSeconds=86400) - VideoSys supports many diffusion models with our various acceleration techniques, enabling these models to run faster and consume less memory.
 
 ## Industry Strength Information Retrieval
+* [AI Dev Jobs](https://aidevboard.com) - Specialized job board for AI/ML engineers with 5,000+ curated roles, salary data, and a REST API + MCP server for programmatic job search.
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?cacheSeconds=86400) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
 * [BGE](https://github.com/FlagOpen/FlagEmbedding) ![](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding.svg?cacheSeconds=86400) - BGE builds one-stop retrieval toolkit for search and RAG.
 * [Cognita](https://github.com/truefoundry/cognita) ![](https://img.shields.io/github/stars/truefoundry/cognita.svg?cacheSeconds=86400) - Cognita is a RAG framework for building modular and production-ready applications.
