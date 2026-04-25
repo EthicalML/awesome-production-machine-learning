@@ -403,6 +403,8 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SHAP](https://github.com/shap/shap) ![](https://img.shields.io/github/stars/shap/shap.svg?cacheSeconds=86400) - SHapley Additive exPlanations is a unified approach to explain the output of any machine learning model.
 * [SHAPash](https://github.com/MAIF/shapash) ![](https://img.shields.io/github/stars/MAIF/shapash.svg?cacheSeconds=86400) - Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
 * [WhatIf](https://github.com/pair-code/what-if-tool) ![](https://img.shields.io/github/stars/pair-code/what-if-tool.svg?cacheSeconds=86400) - An easy-to-use interface for expanding understanding of a black-box classification or regression ML model.
+* [GapSight](https://github.com/mmilovanovic87/gapsight)** - Free open-source EU AI Act compliance tool for ML teams. Maps evaluation metrics to EU AI Act, NIST AI RMF, and ISO 42001 gaps. Includes GitHub Action that generates structured compliance artifacts in CI/CD pipelines.
+
 
 ## Feature Store
 * [FEAST](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?cacheSeconds=86400) - Feast (Feature Store) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
