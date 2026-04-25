@@ -385,6 +385,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [TorchBench](https://github.com/pytorch/benchmark) ![](https://img.shields.io/github/stars/pytorch/benchmark.svg?cacheSeconds=86400) - TorchBench is a collection of open source benchmarks used to evaluate PyTorch performance.
 * [TruLens](https://github.com/truera/trulens) ![](https://img.shields.io/github/stars/truera/trulens.svg?cacheSeconds=86400) - TruLens provides a set of tools for evaluating and tracking LLM experiments.
 * [TrustLLM](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM.svg?cacheSeconds=86400) - TrustLLM is a comprehensive framework to evaluate the trustworthiness of large language models, which includes principles, surveys, and benchmarks.
+* [VeroQ](https://github.com/veroq-ai/shield) ![](https://img.shields.io/github/stars/veroq-ai/shield.svg?cacheSeconds=86400) - VeroQ verifies any LLM output in one function call, extracting claims, fact-checking against live evidence, and returning trust scores with corrections and permanent verification receipts.
 * [VBench](https://github.com/Vchitect/VBench) ![](https://img.shields.io/github/stars/Vchitect/VBench.svg?cacheSeconds=86400) - VBench is a comprehensive benchmark suite for video generative models.
 * [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit.svg?cacheSeconds=86400) - VLMEvalKit is an open-source evaluation toolkit of large vision-language models (LVLMs).
 
