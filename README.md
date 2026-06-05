@@ -418,6 +418,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Deequ](https://github.com/awslabs/deequ) ![](https://img.shields.io/github/stars/awslabs/deequ.svg?cacheSeconds=86400) - A library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 * [PyOD](https://github.com/yzhao062/pyod) ![](https://img.shields.io/github/stars/yzhao062/pyod.svg?cacheSeconds=86400) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [TFDV](https://github.com/tensorflow/data-validation) ![](https://img.shields.io/github/stars/tensorflow/data-validation.svg?cacheSeconds=86400) - TFDV (Tensorflow Data Validation) is a library for exploring and validating machine learning data.
+* [EV-QA-Framework](https://github.com/remontsuri/EV-QA-Framework) - ML-powered QA framework for EV battery systems. Combines Isolation Forest anomaly detection with LSTM-based State of Health prediction, CAN bus emulation, and a real-time dashboard.
 
 ## Industry Strength Computer Vision
 * [CameraTraps](https://github.com/microsoft/CameraTraps) ![](https://img.shields.io/github/stars/microsoft/CameraTraps.svg?cacheSeconds=86400) - CameraTraps (PyTorch Wildlife) is a collaborative deep learning framework for wildlife image analysis, providing detection and classification models trained on large-scale camera trap datasets.
