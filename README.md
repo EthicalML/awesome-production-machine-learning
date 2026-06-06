@@ -672,6 +672,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PySyft](https://github.com/OpenMined/PySyft) ![](https://img.shields.io/github/stars/OpenMined/PySyft.svg?cacheSeconds=86400) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ![](https://img.shields.io/github/stars/tensorflow/privacy.svg?cacheSeconds=86400) - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 * [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) ![](https://img.shields.io/github/stars/tf-encrypted/tf-encrypted.svg?cacheSeconds=86400) - A Framework for Confidential Machine Learning on Encrypted Data in TensorFlow.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. Enables autonomous agents to verify counterparty trustworthiness before transactions via MCP. ([PyPI](https://pypi.org/project/twzrd-agent-intel/) | [MCP](https://intel.twzrd.xyz/mcp))
 
 # Other Awesome Lists
 
