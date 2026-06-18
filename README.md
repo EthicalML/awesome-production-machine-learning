@@ -320,7 +320,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg?cacheSeconds=86400) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?cacheSeconds=86400) - Search, make inferences in and organize vectors, tensors, text and structured data, at serving time and any scale.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?cacheSeconds=86400) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
-
+* [null-drift](https://github.com/CodNoob100/null-drift) ![](https://img.shields.io/github/stars/CodNoob100/null-drift.svg?cacheSeconds=86400) - Bare-metal O(1) continuous state memory daemon designed as a lock-free VectorDB replacement.
 
 ## Evaluation and Monitoring
 * [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg?cacheSeconds=86400) - AlpacaEval is an automatic evaluator for instruction-following language models.
