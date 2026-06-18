@@ -100,6 +100,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Perpetual](https://github.com/perpetual-ml/perpetual) ![](https://img.shields.io/github/stars/perpetual-ml/perpetual.svg?cacheSeconds=86400) - A gradient boosting machine that doesn't need hyperparameter optimization, with a simple budget parameter to control model complexity.
 * [TPOT](https://github.com/epistasislab/tpot) ![](https://img.shields.io/github/stars/epistasislab/tpot.svg?cacheSeconds=86400) - Automation of sklearn pipeline creation (including feature selection, pre-processor, etc.).
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?cacheSeconds=86400) - Automatic extraction of relevant features from time series.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Computation and Communication Optimisation
 
