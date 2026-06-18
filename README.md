@@ -556,8 +556,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Industry Strength Robotics
 * [AI2-THOR](https://github.com/allenai/ai2thor) ![](https://img.shields.io/github/stars/allenai/ai2thor.svg?cacheSeconds=86400) - AI2-THOR is a near photo-realistic interactable framework for AI agents.
+* [Genesis](https://github.com/Genesis-Embodied-AI/genesis-world) ![](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world.svg?cacheSeconds=86400) - Genesis is a physics platform for Embodied AI and robot simulation.
 * [Habitat-Sim](https://github.com/facebookresearch/habitat-sim) ![](https://img.shields.io/github/stars/facebookresearch/habitat-sim.svg?cacheSeconds=86400) - Habitat-Sim is a flexible, high-performance 3D simulator for Embodied AI research.
 * [IsaacLab](https://github.com/isaac-sim/IsaacLab) ![](https://img.shields.io/github/stars/isaac-sim/IsaacLab.svg?cacheSeconds=86400) - IsaacLab is a unified and modular framework for robot learning that leverages NVIDIA Isaac Sim.
+* [LeRobot](https://github.com/huggingface/lerobot) ![](https://img.shields.io/github/stars/huggingface/lerobot.svg?cacheSeconds=86400) - LeRobot provides models, datasets, and tools for real-world robotics and imitation learning.
 * [robosuite](https://github.com/ARISE-Initiative/robosuite) ![](https://img.shields.io/github/stars/ARISE-Initiative/robosuite.svg?cacheSeconds=86400) - robosuite is a simulation framework powered by the MuJoCo physics engine for robot learning.
 * [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) ![](https://img.shields.io/github/stars/RoboVerseOrg/RoboVerse.svg?cacheSeconds=86400) - RoboVerse is a comprehensive robotics simulation platform with diverse environments.
 
