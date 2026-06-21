@@ -458,6 +458,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [RAG-FiT](https://github.com/IntelLabs/RAG-FiT) ![](https://img.shields.io/github/stars/IntelLabs/RAG-FiT.svg?cacheSeconds=172800) - RAG-FiT is a library designed to improve LLMs ability to use external information by fine-tuning models on specially created RAG-augmented datasets.
 * [TextWorld](https://github.com/microsoft/TextWorld) ![](https://img.shields.io/github/stars/microsoft/TextWorld.svg?cacheSeconds=172800) - TextWorld is a text-based game generator and extensible sandbox learning environment for training and testing reinforcement learning (RL) agents.
 * [Vanna](https://github.com/vanna-ai/vanna) ![](https://img.shields.io/github/stars/vanna-ai/vanna.svg?cacheSeconds=172800) - Vanna is a RAG framework for SQL generation and related functionality.
+* [Zvec](https://github.com/alibaba/zvec) ![](https://img.shields.io/github/stars/alibaba/zvec.svg?cacheSeconds=172800) - Zvec is an open-source, in-process vector database for low-latency similarity search.
 
 ## Industry Strength Natural Language Processing
 * [aisuite](https://github.com/andrewyng/aisuite) ![](https://img.shields.io/github/stars/andrewyng/aisuite.svg?cacheSeconds=172800) - aisuite is a simple, unified interface to multiple generative AI providers.
