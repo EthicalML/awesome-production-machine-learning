@@ -322,6 +322,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Triton Inference Server](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?cacheSeconds=172800) - Triton is a high performance open source serving software to deploy AI models from any framework on GPU & CPU while maximizing utilization.
 * [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg?cacheSeconds=172800) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?cacheSeconds=172800) - Search, make inferences in and organize vectors, tensors, text and structured data, at serving time and any scale.
+* [KV Cache Store](https://kvcachestore.com/) ![](https://img.shields.io/badge/Website-kvcachestore.com-blue) - Hosted KV-cache artifact registry plus open-source Rust CLI. Precompute, verify, quantize, and share attention-state artifacts across self-hosted LLM/RAG serving to cut prefill cost and latency. ([CLI source](https://github.com/kvcachestore/kvcdn))
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?cacheSeconds=172800) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
 
 
