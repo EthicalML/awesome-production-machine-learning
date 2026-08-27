@@ -437,6 +437,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SuperGradients](https://github.com/Deci-AI/super-gradients) ![](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg?cacheSeconds=172800) - SuperGradients is an open-source library for training PyTorch-based computer vision models.
 * [supervision](https://github.com/roboflow/supervision) ![](https://img.shields.io/github/stars/roboflow/supervision.svg?cacheSeconds=172800) - Supervision is a Python library designed for efficient computer vision pipeline management, providing tools for annotation, visualization, and monitoring of models.
 * [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) ![](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/VideoSys.svg?cacheSeconds=172800) - VideoSys supports many diffusion models with our various acceleration techniques, enabling these models to run faster and consume less memory.
+* [MiniMax H3 1K prompt dataset](https://neta.art/use-cases/en/h3-1000-prompt-list) - Curated 1K text-to-video prompts: 3-field structure anatomy, 10 reusable prompts, H3 vs. peer comparison.
 
 ## Industry Strength Information Retrieval
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?cacheSeconds=172800) - AutoRAG is a RAG AutoML tool for automatically finds an optimal RAG pipeline for your data.
