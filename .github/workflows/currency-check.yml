@@ -1,0 +1,45 @@
+name: List Currency Check
+
+# Runs monthly, just after the release PDF build on the 1st, and reports any
+# listed project that no longer meets the CONTRIBUTING.md criteria. Opens an
+# issue with the findings rather than failing a build — a listed project being
+# archived upstream is news to act on, not a broken repository.
+on:
+  workflow_dispatch: {}
+  schedule:
+    # the day after the monthly release
+    - cron: "0 0 2 * *"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    name: check-list-currency
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every GitHub entry
+        id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          findings=$(python3 .github/scripts/check_currency.py \
+            --readme README.md --out currency-report.md)
+          echo "findings=$findings" >> "$GITHUB_OUTPUT"
+
+      - name: Open an issue if anything needs attention
+        if: steps.check.outputs.findings != '0'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "List currency check: ${{ steps.check.outputs.findings }} entries need attention ($(date +'%Y-%m'))" \
+            --body-file currency-report.md
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: currency-report
+          path: currency-report.md
