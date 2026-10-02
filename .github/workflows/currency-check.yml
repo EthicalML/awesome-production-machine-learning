@@ -21,14 +21,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Offline, no token, under a second. The classification it guards cannot
+      # be reproduced on demand against the live API.
+      - name: Self-test the checker
+        run: python3 .github/scripts/test_check_currency.py
+
+      # The script writes `findings` and `unchecked` to $GITHUB_OUTPUT itself.
       - name: Check every GitHub entry
         id: check
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          findings=$(python3 .github/scripts/check_currency.py \
-            --readme README.md --out currency-report.md)
-          echo "findings=$findings" >> "$GITHUB_OUTPUT"
+          python3 .github/scripts/check_currency.py \
+            --readme README.md --out currency-report.md
 
       - name: Open an issue if anything needs attention
         if: steps.check.outputs.findings != '0'
@@ -39,7 +44,23 @@ jobs:
             --title "List currency check: ${{ steps.check.outputs.findings }} entries need attention ($(date +'%Y-%m'))" \
             --body-file currency-report.md
 
+      # A run where the API went quiet must not read as a clean run, even when
+      # it found nothing, so the counts always reach the job summary.
+      - name: Summarise the run
+        if: always()
+        run: |
+          {
+            echo "### List currency check"
+            echo ""
+            echo "- findings: ${{ steps.check.outputs.findings }}"
+            echo "- could not be checked: ${{ steps.check.outputs.unchecked }}"
+          } >> "$GITHUB_STEP_SUMMARY"
+          if [ "${{ steps.check.outputs.unchecked }}" != "0" ]; then
+            echo "::warning::${{ steps.check.outputs.unchecked }} repositories could not be checked; see the report artifact"
+          fi
+
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: currency-report
           path: currency-report.md
