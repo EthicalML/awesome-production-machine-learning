@@ -317,6 +317,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg?cacheSeconds=172800) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?cacheSeconds=172800) - Search, make inferences in and organize vectors, tensors, text and structured data, at serving time and any scale.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?cacheSeconds=172800) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
+* [OpenAmer](https://github.com/openamer/openamer) ![](https://img.shields.io/github/stars/openamer/openamer.svg?cacheSeconds=172800) - OpenAmer is a Windows-native autonomous agent that operates the real desktop (filesystem, terminal, GUI, browser over the Chrome DevTools Protocol) entirely locally, with in-process cognition tools, a single 10-subsystem heartbeat, and peer-to-peer A2A work routing between instances.
 
 
 ## Evaluation and Monitoring
