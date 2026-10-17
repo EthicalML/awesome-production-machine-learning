@@ -317,6 +317,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vercel AI](https://github.com/vercel/ai) ![](https://img.shields.io/github/stars/vercel/ai.svg?cacheSeconds=172800) - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?cacheSeconds=172800) - Search, make inferences in and organize vectors, tensors, text and structured data, at serving time and any scale.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?cacheSeconds=172800) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
+* [Weave Router](https://github.com/weave-os/router) ![](https://img.shields.io/github/stars/weave-os/router.svg?cacheSeconds=172800) - Weave Router is a self-hostable, BYOK drop-in proxy for the Anthropic Messages, OpenAI Chat Completions and Gemini APIs that picks a model for each request with an on-box embedder and exports OTLP traces.
 
 
 ## Evaluation and Monitoring
