@@ -318,6 +318,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Vespa](https://github.com/vespa-engine/vespa) ![](https://img.shields.io/github/stars/vespa-engine/vespa.svg?cacheSeconds=172800) - Search, make inferences in and organize vectors, tensors, text and structured data, at serving time and any scale.
 * [vLLM](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?cacheSeconds=172800) - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
 * [Weave Router](https://github.com/weave-os/router) ![](https://img.shields.io/github/stars/weave-os/router.svg?cacheSeconds=172800) - Weave Router is a self-hostable, BYOK drop-in proxy for the Anthropic Messages, OpenAI Chat Completions and Gemini APIs that picks a model for each request with an on-box embedder and exports OTLP traces.
+* [pyreth](https://github.com/abdullahselek/pyreth) - High throughput, low latency AI inference engine built in C++20 and Python with zero copy tensors, lock free work stealing, and dynamic batching across CPU, CoreML, CUDA, TensorRT, DirectML, and ROCm.
 
 
 ## Evaluation and Monitoring
