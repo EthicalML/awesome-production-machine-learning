@@ -49,10 +49,39 @@ class FakeResponse:
         return False
 
 
+REST = re.compile(r"/repos/([^/]+/[^/]+)$")
+
+# GraphQL error type for each non-"ok" verdict. Anything else is transient.
+ERROR_TYPES = {"not_found": "NOT_FOUND", "forbidden": "FORBIDDEN"}
+
+
+def rest_answer(request, verdict):
+    """Answer a REST GET /repos/{owner}/{name} the way `verdict` says.
+
+    "forbidden" models an organisation that refuses the Actions token over
+    GraphQL but serves its public repository to anyone: REST answers, and the
+    repository turns out to be archived.
+    """
+    repo = REST.search(request.full_url).group(1)
+    answer = verdict(repo)
+    if answer in ("ok", "forbidden"):
+        return FakeResponse(
+            {
+                "full_name": repo,
+                "archived": answer == "forbidden",
+                "pushed_at": "2026-09-01T00:00:00Z",
+            }
+        )
+    code = 404 if answer == "not_found" else 503
+    raise check_currency.urllib.error.HTTPError(request.full_url, code, answer, {}, None)
+
+
 def fake_api(verdict):
     """Build a urlopen stub answering each alias according to `verdict(repo)`."""
 
     def urlopen(request, timeout=None):
+        if request.data is None:
+            return rest_answer(request, verdict)
         query = json.loads(request.data.decode())["query"]
         data, errors = {}, []
         for alias, owner, name in ALIAS.findall(query):
@@ -68,7 +97,7 @@ def fake_api(verdict):
             data[alias] = None
             errors.append(
                 {
-                    "type": "NOT_FOUND" if answer == "not_found" else "SERVICE_UNAVAILABLE",
+                    "type": ERROR_TYPES.get(answer, "SERVICE_UNAVAILABLE"),
                     "path": [alias],
                     "message": answer,
                 }
@@ -131,6 +160,24 @@ class CurrencyCheckTest(unittest.TestCase):
         self.assertIn("octo/flaky", section(report, "Could not be checked"))
         self.assertEqual(findings, 1, "only the confirmed-missing repository is a finding")
 
+    def test_a_repository_graphql_always_refuses_is_still_classified(self):
+        """The bug this guards: mosaicml/composer was archived, but GraphQL
+        refused it on every attempt, so two monthly runs listed it as
+        "could not be checked" and the archive went unreported."""
+        findings, report = run(lambda repo: "forbidden" if repo == "octo/flaky" else "ok")
+        self.assertIn("octo/flaky", section(report, "Archived upstream"))
+        self.assertNotIn("Could not be checked", report)
+        self.assertEqual(findings, 1)
+
+    def test_an_unchecked_repository_shows_why(self):
+        """A report that only says "could not be checked" cannot be acted on."""
+        _findings, report = run(lambda repo: "transient" if repo == "octo/flaky" else "ok")
+        line = next(
+            l for l in section(report, "Could not be checked").splitlines() if "octo/flaky" in l
+        )
+        self.assertIn("SERVICE_UNAVAILABLE: transient", line)
+        self.assertIn("REST lookup answered HTTP 503", line)
+
     def test_repository_github_says_is_gone_is_reported(self):
         _findings, report = run(
             lambda repo: {"octo/flaky": "transient", "octo/deleted": "not_found"}.get(repo, "ok")
@@ -169,6 +216,8 @@ class CurrencyCheckTest(unittest.TestCase):
         """An error with no path applies to every alias, so nothing is known."""
 
         def urlopen(request, timeout=None):
+            if request.data is None:
+                return rest_answer(request, lambda _repo: "transient")
             query = json.loads(request.data.decode())["query"]
             data = {alias: None for alias, _owner, _name in ALIAS.findall(query)}
             return FakeResponse({"data": data, "errors": [{"message": "server error"}]})

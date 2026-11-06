@@ -12,6 +12,12 @@ is retried, and if it still has not answered it is listed as "could not be
 checked" rather than counted as a finding. A question the API declined to
 answer is not evidence that a project is gone.
 
+Some organisations refuse GraphQL queries made with the Actions token even for
+their public repositories, so retrying never helps for them. Anything still
+unanswered after the retries is looked up once more through the public REST
+endpoint without a token. Whatever stays unanswered is listed together with
+the error GitHub gave, so the report says why it could not be checked.
+
 Writes a markdown report to the path given by --out (default: currency-report.md)
 and prints the number of findings to stdout. When GITHUB_OUTPUT is set, the
 findings and could-not-check counts are also written there as step outputs.
@@ -30,6 +36,8 @@ import urllib.error
 import urllib.request
 
 GRAPHQL = "https://api.github.com/graphql"
+REST_REPO = "https://api.github.com/repos/"
+USER_AGENT = "awesome-production-machine-learning-currency-check"
 BATCH = 50
 RETRY_BATCH = 10
 ATTEMPTS = 3
@@ -49,8 +57,18 @@ def warn(message):
         print(f"warning: {message}", file=sys.stderr)
 
 
+def describe(error):
+    """One line for the report: the error type and GitHub's message."""
+    kind = error.get("type") or "ERROR"
+    message = " ".join(str(error.get("message") or "").split())
+    return f"{kind}: {message}" if message else kind
+
+
 def post(token, repos):
-    """Send one batched query. Returns (data, errors_by_alias)."""
+    """Send one batched query. Returns (data, errors_by_alias).
+
+    Each error is a dict with the GraphQL error `type` and a one-line `reason`.
+    """
     parts = []
     for i, repo in enumerate(repos):
         owner, name = repo.split("/", 1)
@@ -62,7 +80,7 @@ def post(token, repos):
         headers={
             "Authorization": f"bearer {token}",
             "Content-Type": "application/json",
-            "User-Agent": "awesome-production-machine-learning-currency-check",
+            "User-Agent": USER_AGENT,
         },
     )
     with urllib.request.urlopen(req, timeout=60) as resp:
@@ -70,19 +88,49 @@ def post(token, repos):
 
     errors_by_alias = {}
     for error in payload.get("errors") or []:
+        entry = {"type": error.get("type") or "ERROR", "reason": describe(error)}
         path = error.get("path") or []
         if path:
-            errors_by_alias[path[0]] = error.get("type") or "ERROR"
+            errors_by_alias[path[0]] = entry
         else:
             # An error with no path applies to the whole query, so no alias in
             # this batch can be trusted.
             for i in range(len(repos)):
-                errors_by_alias.setdefault(f"r{i}", error.get("type") or "ERROR")
+                errors_by_alias.setdefault(f"r{i}", entry)
     return payload.get("data") or {}, errors_by_alias
 
 
-def sweep(token, repos, resolved, not_found, size):
-    """Query `repos`, filling `resolved` and `not_found`. Returns the unanswered."""
+def rest_lookup(repo, reasons):
+    """Look one repository up through the public REST API, without a token.
+
+    Returns the same fields the GraphQL query asks for, or None if GitHub did
+    not answer, in which case the reason is recorded in `reasons`.
+    """
+    req = urllib.request.Request(
+        REST_REPO + repo,
+        headers={"Accept": "application/vnd.github+json", "User-Agent": USER_AGENT},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            meta = json.load(resp)
+    except urllib.error.HTTPError as exc:
+        reasons[repo] = f"{reasons.get(repo, 'no answer')}; REST lookup answered HTTP {exc.code}"
+        return None
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+        reasons[repo] = f"{reasons.get(repo, 'no answer')}; REST lookup failed: {exc}"
+        return None
+    return {
+        "nameWithOwner": meta["full_name"],
+        "isArchived": meta["archived"],
+        "pushedAt": meta["pushed_at"],
+    }
+
+
+def sweep(token, repos, resolved, not_found, size, reasons):
+    """Query `repos`, filling `resolved` and `not_found`. Returns the unanswered.
+
+    The latest error for each unanswered repository is kept in `reasons`.
+    """
     unanswered = []
     for start in range(0, len(repos), size):
         batch = repos[start : start + size]
@@ -91,17 +139,21 @@ def sweep(token, repos, resolved, not_found, size):
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
             warn(f"GitHub API request failed for {len(batch)} repositories: {exc}")
             unanswered.extend(batch)
+            for repo in batch:
+                reasons[repo] = f"request failed: {exc}"
             continue
 
         for i, repo in enumerate(batch):
             alias = f"r{i}"
             meta = data.get(alias)
+            error = errors.get(alias) or {"type": None, "reason": "no data and no error returned"}
             if meta:
                 resolved[repo] = meta
-            elif errors.get(alias) == "NOT_FOUND":
+            elif error["type"] == "NOT_FOUND":
                 not_found.append(repo)
             else:
                 unanswered.append(repo)
+                reasons[repo] = error["reason"]
     return unanswered
 
 
@@ -120,7 +172,8 @@ def main():
 
     resolved = {}
     candidates = []
-    pending = sweep(token, repos, resolved, candidates, BATCH)
+    reasons = {}
+    pending = sweep(token, repos, resolved, candidates, BATCH, reasons)
 
     # Retry whatever did not answer. Smaller batches, so one bad repository in a
     # batch of fifty cannot keep taking the other forty-nine down with it.
@@ -129,13 +182,22 @@ def main():
             break
         time.sleep(BACKOFF_SECONDS * attempt)
         warn(f"retrying {len(pending)} repositories that did not answer (attempt {attempt + 1})")
-        pending = sweep(token, sorted(pending), resolved, candidates, RETRY_BATCH)
+        pending = sweep(token, sorted(pending), resolved, candidates, RETRY_BATCH, reasons)
+
+    # Ask the public REST endpoint about whatever GraphQL would not answer.
+    unchecked = []
+    for repo in sorted(pending):
+        meta = rest_lookup(repo, reasons)
+        if meta:
+            resolved[repo] = meta
+        else:
+            unchecked.append(repo)
 
     # Confirm every NOT_FOUND on its own before calling a project gone.
-    missing, unchecked = [], sorted(pending)
+    missing = []
     for repo in sorted(candidates):
         confirm_resolved, confirm_missing = {}, []
-        still_pending = sweep(token, [repo], confirm_resolved, confirm_missing, 1)
+        still_pending = sweep(token, [repo], confirm_resolved, confirm_missing, 1, reasons)
         if confirm_resolved:
             resolved.update(confirm_resolved)
         elif confirm_missing:
@@ -202,11 +264,11 @@ def main():
         section(
             "Could not be checked",
             unchecked,
-            lambda r: f"- `{r}`",
+            lambda r: f"- `{r}` — {reasons.get(r, 'no answer')}",
         )
         lines.append(
             "These are not findings. The API did not answer for them after "
-            f"{ATTEMPTS} attempts, so nothing is known about them either way — "
+            f"{ATTEMPTS} attempts and a REST lookup, so nothing is known about them either way — "
             "they are listed so a failed run cannot look like a clean one."
         )
         lines.append("")
