@@ -461,6 +461,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) ![](https://img.shields.io/github/stars/gabrielchua/RAGxplorer.svg?cacheSeconds=172800) - RAGxplorer is a tool to build RAG visualisations.
 * [TextWorld](https://github.com/microsoft/TextWorld) ![](https://img.shields.io/github/stars/microsoft/TextWorld.svg?cacheSeconds=172800) - TextWorld is a text-based game generator and extensible sandbox learning environment for training and testing reinforcement learning (RL) agents.
 * [Zvec](https://github.com/alibaba/zvec) ![](https://img.shields.io/github/stars/alibaba/zvec.svg?cacheSeconds=172800) - Zvec is an open-source, in-process vector database for low-latency similarity search.
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted MCP server and structured directory of 25,000+ live music venues for agentic retrieval and tour routing.
 
 ## Industry Strength Natural Language Processing
 * [aisuite](https://github.com/andrewyng/aisuite) ![](https://img.shields.io/github/stars/andrewyng/aisuite.svg?cacheSeconds=172800) - aisuite is a simple, unified interface to multiple generative AI providers.
